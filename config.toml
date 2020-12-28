@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "Pienso, luego he sobrevivido"
-languageCode = "es-es"
+languageCode = "es"
+DefaultContentLanguage = "es"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -12,13 +13,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  description = "Primum, superviventia" # Description of your site
+  description = "Pienso, luego he sobrevivido" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
   authorbox = false
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  dateformat = "2006-1-2"
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Lora:400,400i,700" # Load Google Fonts
 
 [Params.logo]
   subtitle = "Solo la superviencia es necesaria; todo lo demás es contingente." # Logo subtitle
@@ -33,3 +36,6 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.style.vars]
+  fontFamilyPrimary = "Lora"
