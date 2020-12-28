@@ -24,7 +24,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   googleFontsLink = "https://fonts.googleapis.com/css?family=Lora:400,400i,700" # Load Google Fonts
 
 [Params.logo]
-  subtitle = "Solo la superviencia es necesaria; todo lo demás es contingente." # Logo subtitle
+  subtitle = "Solo la supervivencia es necesaria; todo lo demás es contingente." # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
