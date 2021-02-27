@@ -2,14 +2,14 @@ baseurl = "/"
 title = "Pienso, luego he sobrevivido"
 languageCode = "es"
 DefaultContentLanguage = "es"
-paginate = "10" # Number of posts per page
+paginate = "13" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
-  name = "asfasdf"
-  bio = "Asdfadf's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "bgjc"
+  bio = ""
   avatar = "img/avatar.png"
 
 [Params]
