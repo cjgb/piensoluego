@@ -21,7 +21,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   dateformat = "2006-1-2"
-  googleFontsLink = "https://fonts.googleapis.com/css?family=Lora:400,400i,700" # Load Google Fonts
+  #googleFontsLink = "https://fonts.googleapis.com/css?family=Lora:400,400i,700" # Load Google Fonts
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Alegreya:400,400i,700" # Load Google Fonts
 
 [Params.logo]
   subtitle = "Solo la supervivencia es necesaria; todo lo demás es contingente." # Logo subtitle
@@ -38,4 +39,5 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
 [Params.style.vars]
-  fontFamilyPrimary = "Lora"
+  #fontFamilyPrimary = "Lora"
+  fontFamilyPrimary = "Alegreya"
