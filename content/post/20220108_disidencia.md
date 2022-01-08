@@ -19,7 +19,7 @@ Sabemos, y ya nos lo dijo Aristóteles, que somos _animales políticos_ (o _soci
 
 Obviamente, no somos una especie ovejil.
 
-Pero, ¿es esto _bug o _feature_?
+Pero, ¿es esto _bug_ o _feature_?
 
 Para muchos, lo primero. No se explican cómo puede haber gente que no solo adopte posiciones contrarias al _consenso_ ---siempre tan _justificadísimo_ por los argumentos en boga en el momento histórico concreto---. Algunas de las páginas más oscuras de la historia de la humanidad describen precisamente los intentos por corregir ese _bug_  _manu militari_.
 
