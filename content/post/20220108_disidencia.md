@@ -11,7 +11,7 @@ tags:
   - "supervivencia"
 ---
 
-Esta entrada es producto de unas reflexiones que me vinieron a la cabeza el otro día mientras un par de _antivacunas_ se explicaban larga y rendundantemente.
+Esta entrada es producto de unas reflexiones que me vinieron a la cabeza el otro día mientras un par de _antivacunas_ se explicaban larga y redundantemente.
 
 No era gente estúpida ---ambos eran físicos, uno de ellos doctor--- pero como los argumentos ---ya sabemos que el _logos_ no es la mula sino el carro, ¿no?--- me aburrían, me entretuve ponderando la siguiente hipótesis, que convengo, es altamente hipotética.
 
@@ -23,7 +23,7 @@ Pero, ¿es esto _bug_ o _feature_?
 
 Para muchos, lo primero. No se explican cómo puede haber gente que no solo adopte posiciones contrarias al _consenso_ ---siempre tan _justificadísimo_ por los argumentos en boga en el momento histórico concreto---. Algunas de las páginas más oscuras de la historia de la humanidad describen precisamente los intentos por corregir ese _bug_  _manu militari_.
 
-Pero, ¿y si fuese _feature_? ¿Y si estuviésemos _evolutivamente programados_ a lanzar un dado interno de 10 caras y, si sale 1, negar que el agua moje? ¿No podría ser un mecanismo ---todo lo ineficiente que se quiera--- para evitar que la especie quede atrapada en un _pozo evolutivo_, incapaz de saltar a un estadio superior porque dizque la barrera que los separa es _infraqueable_?
+Pero, ¿y si fuese _feature_? ¿Y si estuviésemos _evolutivamente programados_ a lanzar un dado interno de 10 caras y, si sale 1, negar que el agua moje? ¿No podría ser un mecanismo ---todo lo ineficiente que se quiera--- para evitar que la especie quede atrapada en un _pozo evolutivo_, incapaz de saltar a un estadio superior porque dizque la barrera que los separa es _infranqueable_?
 
 Estos escépticos (de la variante lunática) podrían ser los tontos útiles de nuestra especie ---o de nuestros _genes_, si se quiere explotar la metafísica materialista de Dawkings--- que tienen como misión explorar alternativas a la realidad _oficial_.
 
