@@ -1,7 +1,7 @@
 ---
 title: La disidencia, ¿"bug" o "feature"?
-description: "Las vacunas: ¿es legítimo imponer riesgos sobre los demás?"
-date: 2021-12-12
+description: "Sobre los escépticos de la vacuna, desde una perspectiva evolucionista"
+date: 2021-01-08
 url: /2022/01/08/disidencia-bug-feature/
 categories:
   - "supervivencia"
