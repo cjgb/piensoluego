@@ -13,7 +13,7 @@ tags:
 
 Cuenta Émile-Auguste Chartier en su obra _Propos d’un Normand 1906-1914_ de 1908 cómo construían los polinesios sus canoas:
 
-> Tout bateau est copié sur un autre batea… Raisonnons là-dessus à la manière de Darwin. Il est clair qu’un bateau très mal fait s’en ira par le fond après une ou deux campagnes, et ainsi ne sera jamais copié… On peut donc dire, en toute rigueur, que c’est la mer elle-même qui façonne les bateaux, choisit ceux qui conviennent et détruit les autres.
+> Tout bateau est copié sur un autre bateau... Raisonnons là-dessus à la manière de Darwin. Il est clair qu’un bateau très mal fait s’en ira par le fond après une ou deux campagnes, et ainsi ne sera jamais copié… On peut donc dire, en toute rigueur, que c’est la mer elle-même qui façonne les bateaux, choisit ceux qui conviennent et détruit les autres.
 
 Que puede traducirse como
 
@@ -27,7 +27,7 @@ Y sigue poco después:
 
 > However, King Gustav Adolf had demanded a ship that was 30 percent longer than previous ships with an extra deck carrying much heavier artillery than usual. With such radical demands, no longer would a small mistake in design lead to a small error in performance. A ship of this size is a complicated structure and its dynamics, especially regarding its stability, are inherently nonlinear. A small error in design could, and did, result in macroscopic errors in performance, resulting in catastrophic consequences. Unfortunately, the shipwrights did not have the scientific knowledge to know how to correctly scale up a ship by such a large amount. In fact, they didn’t have the scientific knowledge to know how to correctly scale up a ship by a small amount either, but this hardly mattered. Consequently, the ship ended up being too narrow and too top-heavy so that even a light breeze was sufficient to capsize her—and it did, even before she left the harbor in Stockholm on her maiden voyage, resulting in the loss of many lives.
 
-Como estos podrían extraerse muchas más textos que nos ayudasen a responder a la pregunta: ¿quién construye los barcos?
+Como estos podrían extraerse muchos más textos que nos ayudasen a responder a la pregunta: ¿quién construye los barcos?
 
 Los barcos no los diseñan los ingenieros, como parecería, sino el mar. Es el mar el que informa a los ingenieros acerca de cómo construir sus barcos y el que en última instancia evalúa sus diseños. Estos se limitan a copiar lo que funciona, a copiar lo que regresa del mar.
 
