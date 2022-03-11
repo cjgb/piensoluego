@@ -23,6 +23,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   dateformat = "2006-1-2"
   #googleFontsLink = "https://fonts.googleapis.com/css?family=Lora:400,400i,700" # Load Google Fonts
   googleFontsLink = "https://fonts.googleapis.com/css?family=Alegreya:400,400i,700" # Load Google Fonts
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.logo]
   subtitle = "Solo la supervivencia es necesaria; todo lo demás es contingente." # Logo subtitle
