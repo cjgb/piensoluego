@@ -10,7 +10,7 @@ tags:
   - supervivencia
 ---
 
-A Holden Karnofsky le aterra pensar qué dirán de él en el futuro. Nos lo cuenta en [_Future-proof ethics](https://www.cold-takes.com/future-proof-ethics/)
+A Holden Karnofsky le aterra pensar qué dirán de él en el futuro. Nos lo cuenta en [_Future-proof ethics_](https://www.cold-takes.com/future-proof-ethics/)
 donde viene a decir que la ética _del sentido común_ imperante en un momento histórico concreto no _ha funcionado_ correctamente y se plantea la conveniencia o necesidad de adecuar su comportamiento al nivel de exigencia ética _del futuro_. Supongo que para que no le pasen a sus estatuas lo que a las de Colón, supongo.
 
 El argumento que sigue viene a ser, en líneas generales, este: existe un comportamiento ético correcto pero desconocido y existe también un _progreso moral_ que va revelando y adoptando verdades morales del mismo modo que la física va revelando los misterios de la realidad física, permitiendo así el desarrollo tecnológico. Karnofsky planta el adelantarse al estado actual de la _ciencia moral_ y adoptar hoy las tecnologías morales del futuro para no ser visto en doscientos años como un cavernícola ético.
