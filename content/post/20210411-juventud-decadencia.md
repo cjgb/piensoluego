@@ -2,6 +2,7 @@
 title: "O tempora, o mores"
 description: "Sobre la educación de la juventud"
 date: 2021-04-11
+url: /2021/04/11/juventud-decadencia-costumbres/
 categories:
   - "educación"
 tags:
