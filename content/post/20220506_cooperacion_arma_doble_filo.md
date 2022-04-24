@@ -1,25 +1,29 @@
 ---
-title: 'La ley y sus condiciones iniciales'
-description: Demasiado frecuentemente, la ley es dependiente de las condiciones iniciales en las que se gestó. Esta entrada elabora una propuesta para romper dicha dependencia.
-date: 2022-04-29
-url: /2022/04/29/demora-publicacion-ley/
+title: 'La cooperación, un arma de doble filo'
+description: De la cooperación suele predicarse en positivo; aquí, un recordatorio de que esto no siempre tiene que ser así.
+date: 2022-05-06
+url: /2022/05/06/cooperacion-arma-doble-filo/
 categories:
-  - filosofía
+  - ética
 tags:
-  - filosofía
+  - economía
   - política
+  - ética
+  - moral
 ---
 
-Dos echan algo a suertes, a cara o cruz. Uno toma una moneda, la deposita sobre la palma de la mano, la empuja suavemente hacia arriba, la moneda asciende apenas dos centímetros y, sin llegar a rotar, cae otra vez sobre la palma en la misma posición de partida. Difícilmente podría aceptarse el resultado.
+De la cooperación (entre individuos) siempre suele predicarse en positivo. También de aquellas tecnologías que permiten resolver problemas de coordinación, aquellos que dificultan la cooperación entre los individuos. No está claro qué está ocurriendo cuando se procede de tal modo: ¿Se da por hecho que la cooperación es siempre positiva? ¿Se da implícitamente por conocido y sin necesidad de demostración que las oportunidades para una colaboración con un efecto positivo exceden las de una colaboración con un efecto negativo? ¿Otras?
 
-Uno querría ver la moneda trazar un arco _suficiente_ y constatar que rota cierto número de veces en el aire. En definitiva, uno querría asegurarse que se rompe la influencia de las condiciones iniciales en las que fue lanzada en la moneda sobre el resultado final.
+_[En esta entrada voy a tratar los términos positivo, negativo, bueno, malo, etc. desde un marco de valores más bien arbitrario e inespecífico aun siendo consciente que desde las coordenadas en que estos temas se han tratado en estas páginas, el uso anterior puede considerarse un abuso del lenguaje que evite una serie de digresiones tan necesarias como predecibles.]_
 
-La ley, incluso la ley que uno espera continuar ver en vigor en cincuenta o cien años, nace en contextos muy concretos. Quienes las redactan parecen a menudo tentados de configurarla de una manera u otra a la vista de sus efectos inmediatos: p.e., favorecerá a una persona concreta dentro de tres meses. La ley se asemeja así al lanzamiento trucho de moneda con que abría arriba.
+Por ejemplo, piénsese en el ahora clásico _The Internet Show_,
 
-¿Cómo romper la dependencia con respecto a esas condiciones iniciales en las que necesariamente la gestación de una ley? Un procedimiento ---del que, seguro, existen precedentes que desconozco y que no me he molestado en indagar--- sería el de posponer cierto número de años ---¿seis?--- su entrada en vigor desde el momento de su aprobación. Así, nunca se sabría de antemano en qué condiciones, en qué contextos, a qué sujetos concretos les sería aplicada y cómo.
+{{< youtube IzqMrhG50q0 >}}
 
-Las objeciones de la propuesta, las más obvias, no se me escapan. Pero dejo como ejercicio al lector que les encuentre remedios idóneos.
+de 1995. En él se nos habla del potencial de esa tecnología entonces emergente que era _internet_ y cómo argumenta constantemente acerca de la posibilidad de colaboración que brinda a sus usuarios. Y compárese con, por ejemplo,
+[_Why the past ten years of american life have been uniquely stupid_](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/),
+donde el autor, Haidt, encuentra en el germen de una serie de fenómenos sociales indeseables las posibilidades de cooperación que permite uno de los productos derivados de aquel internet incipiente, las redes sociales.
 
-**Coda:** Esta entrada estuvo originalmente motivada por aquella sobre [Rawls y Ortega](/2022/04/22/rawls-vs-ortega/) y, en el fondo, es una aplicación de la misma a un caso concreto. El retraso de la entrada en vigor haría las veces de un _velo de ignorancia_.
+Históricamente, los mecanismos de colaboración han sido escasos y poco eficaces. Se han invertido muchos esfuerzos en desarrollar nuevos mecanismos y tecnologías de coordinación y cooperación y depurar los existentes. Lo cual, hasta cierto punto, era un problema más bien científico-técnico.
 
-**Otra coda:** El autor tiene mejores metáforas en mente que la del lanzamiento de la moneda. Pero son muy técnicas y asociadas a ciencias muy particulares. Al final, confundirían más que esclarecerían el asunto.
+Pero da la impresión de que, a partir de hoy, habrá también que prestar atención a cómo restringir la cooperación en aquellos proyectos que se consideren ---uso la palabra con cierta repugnancia--- _malos_.
