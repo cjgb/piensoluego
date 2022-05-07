@@ -2,6 +2,7 @@
 title: Moral, moralización y amoralización
 description: Sobre los procesos de moralización y amoralización
 date: 2021-01-09
+url: /2021/01/09/moral-moralizacion-amoralizacion/
 categories:
   - "ética"
 tags:
