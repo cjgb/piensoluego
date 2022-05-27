@@ -27,4 +27,4 @@ para una discusión al respecto).
 
 Para que el argumento de Spiegelhalter cobrase la fuerza que se espera de él habría que especificar cuáles son los beneficios que aporta el consumo moderado de alcohol y ver si compensan o no los riesgos que suponen.
 
-Pero como este no es el sitio idóneo para dirimir la cuestión y con plantearla se da por satisfecho el autor, termina.
+Pero como este no es el sitio idóneo para dirimir la cuestión y con plantearla se da por satisfecho el autor, aquí la termina.

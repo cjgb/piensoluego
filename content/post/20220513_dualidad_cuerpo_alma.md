@@ -15,7 +15,7 @@ tags:
 
 Soy muy ignorante acerca del debate sobre la dualidad sexo-género y los argumentos e intenciones de tirios y troyanos en él. Pero anoche me entretuve en escuchar ---sin prestar mucha atención--- una conferencia sobre el asunto durante la cual y en una breve digresión, el ponente mencionó de pasada la antigua dualidad cuerpo-alma.
 
-Simplificando mucho, hubo una época en que cierta gente se entendió que existían dos mundos paralelos y prácticamenta (o problemáticamente) inconexos, el de las ideas y el de las cosas, que la conciencia habitaba en uno de ellos, el cuerpo en el otro, etc.
+Simplificando mucho, hubo una época en que cierta gente se entendió que existían dos mundos paralelos y prácticamente (o problemáticamente) inconexos, el de las ideas y el de las cosas, que la conciencia habitaba en uno de ellos, el cuerpo en el otro, etc.
 
 Lo que hemos aprendido desde entonces es que las relaciones entre cuerpo y conciencia son importantes y complejas. Fuera del mundo del pensamiento _puro_, esta interrelación se aprecia agudamente en el mundo de la robótica: allí toca _interconectar_ explícitamente _hardware_ y _software_ y uno de los problemas más complejos que se plantean es el de la delimitación de los propios límites físicos (p.e., para que el robot no choque con otros objetos). Se dice que el _software_, que en cierto modo es pensamiento puro, _no tiene alma_; sin embargo, el verdadero problema es que _no tiene cuerpo_.
 
