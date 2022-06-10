@@ -14,7 +14,7 @@ tags:
 
 Utilitarismo y _paretianismo_ (no volveré a marcarlo en lo sucesivo) son dos criterios de aceptabilidad de una determinada medida. Pero nada mejor para entenderlos y compararlos que la siguiente gráfica (extraída de un libro de Joseph Heath que no viene al caso):
 
-![Trolley problem](/2022/utilitarismo_paretianismo.png)
+![Trolley problem](/images/utilitarismo_paretianismo.png)
 
 Creo que lo dice todo. Pero para que no haya lugar a dudas, lo que sigue.
 

@@ -36,7 +36,7 @@ Ese es, desde muy arriba, el resumen de lo que uno espera encontrar en las pági
 
 El segundo es que existe mucha teoría sobre la medición del éxito que el libro pasa por alto. Véase, por ejemplo, [esto](https://marginalrevolution.com/marginalrevolution/2016/10/performance-pay-nobel.html) o [esto](https://www.datanalytics.com/2018/05/29/guasa-tiene-que-habiendo-tanto-economista-por-ahi-tenga-yo-que-escribir-esta-cosa-hoy/). Tenemos herramientas para saber dónde es más fácil medir el mérito y dónde cualquier charlatán puede pasar por sabio.
 
-![xkcd - impostor](/impostor.png)
+![xkcd - impostor](/images/impostor.png)
 
 De todos modos, el libro contiene un parrafito altamente rescatable. Sostiene en la sección en la que trata de la _misteriosa_ persistencia del mito del mérito y de la poca importancia que se le suele conceder a la suerte, que pueden subyacer motivos evolutivos entre los cuales está el siguiente a través de un ejemplo. Aunque los resultados de los estudiantes en unos exámenes oficiales dependen en gran medida de la suerte, tienden a prepararse más y mejor aquellos que creen ---falsamente, según el autor--- o están autoconvencidos ---¿autoengañados?--- de que solo cuenta el mérito. Así, descontar el factor suerte nos hace más concienzudos, nos motiva a trabajar más duro y, en última instancia, a obtener mejores resultados que aquellos que dando al factor aleatorio la importancia que _realmente_ tiene y obrando en coherente consecuencia, vaguean.
 

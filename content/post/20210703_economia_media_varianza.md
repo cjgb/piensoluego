@@ -12,7 +12,7 @@ tags:
 
 Esta es una ---conocidísima--- metáfora físico-mecánica (¿físico-hidráulica?) de la economía:
 
-![Trolley problem](/moniac.gif)
+![Trolley problem](/images/moniac.gif)
 
 [Para saber más acerca de ella, [esto](https://en.wikipedia.org/wiki/MONIAC).]
 

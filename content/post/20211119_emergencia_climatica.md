@@ -15,7 +15,7 @@ tags:
 
 Estas páginas no niegan el cambio climático. De hecho, [el clima no ha dejado de cambiar en los últimos 500 millones de años](https://www.climate.gov/news-features/climate-qa/whats-hottest-earths-ever-been).
 
-![Cambio climático en los últimos 500 millones de años](/climate_change_500_m_years.png)
+![Cambio climático en los últimos 500 millones de años](/images/climate_change_500_m_years.png)
 
 Tampoco niega que por efecto del hombre, ciertas cantidades de CO₂ que estuvieron en la atmósfera, que fueron capturados por distintos organismos y permanecieron enterradas durante millones de años hayan vuelto a su lugar original y que ello haya causado ciertas alteraciones climáticas. Eso sí, es mucho más escéptico acerca de dichos cambios vayan a ser _tremendamente_ nocivos para la humanidad. Aunque tampoco se quieren ignorar los potenciales efectos nocivos de dicho cambio en unas páginas que hacen de la idea de supervivencia su hilo conductor.
 
