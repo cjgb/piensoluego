@@ -2,7 +2,7 @@
 title: 'La ley y sus condiciones iniciales'
 description: Demasiado frecuentemente, la ley es dependiente de las condiciones iniciales en las que se gestó. Esta entrada elabora una propuesta para romper dicha dependencia.
 date: 2022-04-29
-url: /2022/04/29/demora-publicacion-ley/
+url: /2022/demora-publicacion-ley/
 categories:
   - filosofía
 tags:

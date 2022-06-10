@@ -2,7 +2,7 @@
 title: Sexo-género vs cuerpo-alma
 description: La dualidad sexo-género como reedición del viejo debate cuerpo-alma.
 date: 2022-05-13
-url: /2022/05/13/dualidad-cuerpo-alma/
+url: /2022/dualidad-cuerpo-alma/
 categories:
   - ética
 tags:

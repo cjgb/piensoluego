@@ -2,7 +2,7 @@
 title: 'Utilitarismo vs "paretianismo": una descripción gráfica'
 description: Una gráfica que describe las diferencias entre el utilitarismo y el paretianismo
 date: 2022-03-18
-url: /2022/03/18/utilitarismo-paretianismo/
+url: /2022/utilitarismo-paretianismo/
 categories:
   - filosofía
   - economía

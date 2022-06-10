@@ -2,7 +2,7 @@
 title: 'Un non sequitur aparente en "Los peligros de la moralidad"'
 description: Mis primeras impresiones del libro "Los peligros de la moralidad" de Pablo Malo
 date: 2022-04-08
-url: /2022/04/08/peligros-moralidad-non-sequitur/
+url: /2022/peligros-moralidad-non-sequitur/
 categories:
   - ética
 tags:

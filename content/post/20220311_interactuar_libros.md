@@ -2,7 +2,7 @@
 title: Leer libros vs interactuar con ellos
 description: ¿Merece la pena leer libros de tapa a tapa?
 date: 2022-03-11
-url: /2022/03/11/leer-libros-interactuar/
+url: /2022/leer-libros-interactuar/
 categories:
   - "epistemología"
 tags:

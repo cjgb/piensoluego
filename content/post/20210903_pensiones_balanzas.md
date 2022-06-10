@@ -2,6 +2,7 @@
 title: "Pensiones: la imagen de las 100 balanzas"
 description: Sobre la sostenibilidad del sistema de pensiones en España
 date: 2021-09-03
+url: /2021/pensiones-balanzas/
 categories:
   - "economía"
 tags:

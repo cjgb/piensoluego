@@ -2,7 +2,7 @@
 title: Lo justo y lo eficiente
 description: Una reflexión sobre la correlación entre lo que es justo y lo que es eficiente
 date: 2022-01-30
-url: /2022/01/30/lo-justo-lo-eficiente/
+url: /2022/lo-justo-lo-eficiente/
 categories:
   - "ética"
   - "justicia"

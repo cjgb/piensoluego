@@ -2,7 +2,7 @@
 title: 'Rawls vs Ortega'
 description: Ortega siempre le gana a Rawls por goleada.
 date: 2022-04-22
-url: /2022/04/22/rawls-vs-ortega/
+url: /2022/rawls-vs-ortega/
 categories:
   - filosofía
 tags:

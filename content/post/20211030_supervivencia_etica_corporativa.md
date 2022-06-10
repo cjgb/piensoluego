@@ -2,7 +2,7 @@
 title: Supervivencia y ética corporativa
 description: La supervivencia como sustrato material de la ética corporativa
 date: 2021-10-30
-url: /2021/10/30/supervivencia-etica-corporativa/
+url: /2021/supervivencia-etica-corporativa/
 categories:
   - "ética"
 tags:

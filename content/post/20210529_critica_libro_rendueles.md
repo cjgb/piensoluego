@@ -2,6 +2,7 @@
 title: Claves para leer "Contra la igualdad de oportunidades"
 description: Una crítica del libro "Contra la igualdad de oportunidades, un panfleto igualitarista" de César Rendueles
 date: 2021-05-29
+url: /2021/critica-libro-rendueles-igualdad-oportunidades/
 categories:
   - "política"
   - "economía"

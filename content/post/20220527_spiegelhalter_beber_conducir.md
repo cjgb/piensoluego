@@ -2,7 +2,7 @@
 title: "Spiegelhalter sobre beber vs conducir: una puntualización"
 description: Matizando una declaración de Spiegelhalter sobre la comparación de los riesgos de beber vs los de conducir
 date: 2022-05-27
-url: /2022/05/27/spiegelhalter-beber-conducir/
+url: /2022/spiegelhalter-beber-conducir/
 categories:
   - supervivencia
 tags:

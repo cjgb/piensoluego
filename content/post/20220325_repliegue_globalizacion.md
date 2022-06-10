@@ -2,7 +2,7 @@
 title: Indicios del repliegue de la globalización
 description: La globalización tocó techo y ahora está en repliegue
 date: 2022-03-25
-url: /2022/03/25/repliegue-globalizacion/
+url: /2022/repliegue-globalizacion/
 categories:
   - política
   - economía

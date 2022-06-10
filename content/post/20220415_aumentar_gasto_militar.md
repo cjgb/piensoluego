@@ -2,7 +2,7 @@
 title: 'Tras la invasión de Ucrania, ¿incrementar el gasto militar?'
 description: En pura lógica, a la vista de lo ocurrido tras la invasión de Ucrania, habría que reducir el gasto militar, no incrementarlo.
 date: 2022-04-15
-url: /2022/04/15/ucrania-incrementar-gasto-militar/
+url: /2022/ucrania-incrementar-gasto-militar/
 categories:
   - política
 tags:

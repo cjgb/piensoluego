@@ -2,6 +2,7 @@
 title: Apuntes para dos cuentos sin pretensiones
 description: Apuntes para dos cuentos sin pretensiones sobre la moralización de la sociedad
 date: 2021-06-05
+url: /2021/dos-cuentos-moral/
 categories:
   - "política"
   - "economía"

@@ -2,7 +2,7 @@
 title: En pro de la cantonalización de los partidos políticos
 description: Reflexiones sobre la necesidad de escindir cantonalmente los partidos políticos
 date: 2022-03-04
-url: /2022/03/04/cantonalizacion-partidos-politicos/
+url: /2022/cantonalizacion-partidos-politicos/
 categories:
   - "política"
   - "derecho"

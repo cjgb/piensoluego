@@ -2,6 +2,7 @@
 title: Sobre "Éxito y suerte. El mito de la meritocracia."
 description: Crítica del libro "Éxito y suerte, el mito de la meritocracia" de Robert Frank
 date: 2021-06-12
+url: /2021/exito-suerte/
 categories:
   - "azar"
   - "economía"

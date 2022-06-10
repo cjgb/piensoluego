@@ -2,6 +2,7 @@
 title: Sobre el derecho como conocimiento común y punto focal
 description: Sobre el derecho como conocimiento común y punto focal
 date: 2021-06-27
+url: /2021/derecho-punto-focal/
 categories:
   - "derecho"
 tags:

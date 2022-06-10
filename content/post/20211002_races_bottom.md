@@ -2,7 +2,7 @@
 title: "Races to the bottom"
 description: Sobre el estado como guardián contra las "races to the bottom"
 date: 2021-10-01
-url: /2021/10/01/races-bottom/
+url: /2021/races-bottom/
 categories:
   - "economía"
 tags:

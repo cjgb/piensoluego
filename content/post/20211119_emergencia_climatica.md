@@ -2,7 +2,7 @@
 title: ¿Emergencia climática?
 description: No hay emergencia climática sino fiscal
 date: 2021-11-19
-url: /2021/11/19/emergencia-climática-fiscal/
+url: /2021/emergencia-climática-fiscal/
 categories:
   - "economía"
   - "cambio climático"

@@ -2,7 +2,7 @@
 title: Se ve que los nematodos maximizan la utilidad esperada
 description: Se ve que los nematodos maximizan la utilidad esperada
 date: 2022-02-04
-url: /2022/02/04/nematodos-utilidad-esperada/
+url: /2022/nematodos-utilidad-esperada/
 categories:
   - "economía"
 tags:

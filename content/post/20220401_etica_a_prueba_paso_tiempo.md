@@ -2,7 +2,7 @@
 title: "¿Una ética a prueba del paso del tiempo?"
 description: Sobre la imposibilidad de crear una ética a prueba del paso del tiempo
 date: 2022-04-01
-url: /2022/04/01/etica-prueba-paso-tiempo/
+url: /2022/etica-prueba-paso-tiempo/
 categories:
   - ética
 tags:

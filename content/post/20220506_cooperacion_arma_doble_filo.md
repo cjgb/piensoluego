@@ -2,7 +2,7 @@
 title: 'La cooperación, un arma de doble filo'
 description: De la cooperación suele predicarse en positivo; aquí, un recordatorio de que esto no siempre tiene que ser así.
 date: 2022-05-06
-url: /2022/05/06/cooperacion-arma-doble-filo/
+url: /2022/cooperacion-arma-doble-filo/
 categories:
   - ética
 tags:

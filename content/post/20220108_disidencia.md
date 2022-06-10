@@ -2,7 +2,7 @@
 title: La disidencia, ¿"bug" o "feature"?
 description: "Sobre los escépticos de la vacuna, desde una perspectiva evolucionista"
 date: 2022-01-08
-url: /2022/01/08/disidencia-bug-feature/
+url: /2022/disidencia-bug-feature/
 categories:
   - "supervivencia"
 tags:

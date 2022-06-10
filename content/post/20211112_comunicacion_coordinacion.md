@@ -2,7 +2,7 @@
 title: La comunicación como problema de coordinación
 description: Sobre la comunicación, puntos focales (o de Schelling), etc.
 date: 2021-11-12
-url: /2021/11/12/comunicacion-problema-coordinacion/
+url: /2021/comunicacion-problema-coordinacion/
 categories:
   - "comunicación"
   - "economía"

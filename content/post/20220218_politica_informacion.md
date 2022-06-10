@@ -2,7 +2,7 @@
 title: Orientación política vs flujos de información
 description: ¿Influyen las intuiciones sobre los flujos de información sobre las opciones políticas?
 date: 2022-02-18
-url: /2022/02/18/quien-construye-cosas/
+url: /2022/quien-construye-cosas/
 categories:
   - "política"
 tags:

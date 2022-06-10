@@ -2,6 +2,7 @@
 title: ¿"Resolverá" la inmigración el "problema" de las pensiones?
 description: Sobre la sostenibilidad del sistema de pensiones en España
 date: 2021-07-10
+url: /2021/pensiones-inmigracion/
 categories:
   - "economía"
 tags:

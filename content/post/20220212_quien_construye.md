@@ -2,7 +2,7 @@
 title: ¿Quién construye las cosas?
 description: Sobre el verdadero autor de las cosas
 date: 2022-02-12
-url: /2022/02/12/quien-construye-cosas/
+url: /2022/quien-construye-cosas/
 categories:
   - "supervivencia"
 tags:

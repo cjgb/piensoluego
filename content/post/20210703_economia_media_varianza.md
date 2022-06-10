@@ -2,6 +2,7 @@
 title: Dos metáforas físico-mecánicas de la economía
 description: Media y varianza en economía
 date: 2021-07-03
+url: /2021/economia-media-varianza/
 categories:
   - "economía"
 tags:

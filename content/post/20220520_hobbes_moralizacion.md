@@ -2,7 +2,7 @@
 title: Hobbes sobre la moralización y la resolución de disputas
 description: El llamado proceso de moralización implica la proliferación de disputas irresolubles; pero Hobbes ya nos advirtió sobre ellas siglos atrás
 date: 2022-05-20
-url: /2022/05/20/hobbes-moralizacion/
+url: /2022/hobbes-moralizacion/
 categories:
   - ética
 tags:

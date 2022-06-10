@@ -2,7 +2,7 @@
 title: Riesgos y vacunas
 description: "Las vacunas: ¿es legítimo imponer riesgos sobre los demás?"
 date: 2021-12-12
-url: /2021/12/12/riesgo-vacunas/
+url: /2021/riesgo-vacunas/
 categories:
   - "ética"
 tags:

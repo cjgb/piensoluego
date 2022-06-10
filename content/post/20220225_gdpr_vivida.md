@@ -2,7 +2,7 @@
 title: GDPR vivida
 description: Sobre los efectos de la GDPR
 date: 2022-02-25
-url: /2022/02/25/gdpr-vivida/
+url: /2022/gdpr-vivida/
 categories:
   - "política"
   - "derecho"

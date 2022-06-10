@@ -2,7 +2,7 @@
 title: 'Lo que la inteligencia artificial nos enseña sobre los "valores humanos"'
 description: 'Cosas que podemos aprender sobre los valores humanos a través del estudio de la inteligencia artificial'
 date: 2022-06-10
-url: /2022/06/10/ai-valores-humanos/
+url: /2022/ai-valores-humanos/
 categories:
   - ética
 tags:
