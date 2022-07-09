@@ -16,7 +16,7 @@ Retomo el debate sobre la meritocracia, que ya ha aparecido en estas páginas en
 
 Lo que quiero dejar descritas hoy son tres posturas que he identificado acerca de la meritocracia. No quiero, de todos modos, negarme a pensar que pueda haber otras o que un par de las que considero no puedan considerarse variantes o, al menos, mutuamente compatibles. Las quiero denominar postura metafísica, cuantitativa y pragmática.
 
-La metafísica tiene una clara adscripción cristiana: somos hermanos, hijos de un mismo _Padre_. Por eso somos _esencialmente_ iguales y cualquier diferencia que pueda encontrarse entre nosotros es producto del azar: por azar son unos altos y otros bajos, por azar tenemos o no inclinación para las matemáticas, por azar nacimos en una famliia _con posibles_, etc.
+La metafísica tiene una clara adscripción cristiana: somos hermanos, hijos de un mismo _Padre_. Por eso somos _esencialmente_ iguales y cualquier diferencia que pueda encontrarse entre nosotros es producto del azar: por azar son unos altos y otros bajos, por azar tenemos o no inclinación para las matemáticas, por azar nacimos en una familia _con posibles_, etc.
 
 Evidentemente, todos somos muy distintos. Pero en virtud de aquel triple salto mortal intelectual deducimos que todos habríamos de ser iguales. Y si bien cada uno persigue ---y en la medida de sus capacidades, alcanza--- los objetivos que se plantea (montar en bicicleta por el monte, tener muchas parejas sexuales, ganar mucho dinero, acrecentar la cultura propia, etc.), los principios morales y la acción política que habría de emanar de ellos tendría que conducirnos a remediar la disparidad de resultados.
 
