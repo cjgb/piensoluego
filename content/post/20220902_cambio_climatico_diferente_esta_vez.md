@@ -2,7 +2,7 @@
 title: 'Cambio climático: ¿por qué esta vez es diferente?'
 description: 'El cambio climático en comparación con la lluvia ácida o el agujero de la capa de ozono'
 date: 2222-09-02
-url: /2022/transicion-energetica-carrera/
+url: /2022/cambio-climatico-diferente-esta-vez/
 categories:
   - política
 tags:
@@ -18,7 +18,7 @@ Desde cierto punto de vista, se resolvieron mediante un impuesto: aceptamos prod
 
 Además, es relativamente fácil y barato comprobar y verificar que los fabricantes de frigoríficos o las centrales térmicas aplican efectivamente las medidas internacionalmente acordadas. Aunque también hay que admitir que es un poco más caro organizativamente complejo verificar que hasta la última _fragoneta_ que circula por nuestras calles tiene los catalizadores en orden.
 
-En resumen, ambos problemas se _solucionaron_ mediante la introducción de un pequeño impuesto destinado a sufragar el coste de la implantación de una tecnología existente. El consumo del bien de interés hubo necesariamente de reducirse ---como consecuencia de la implantación de cualquier tipo de impuesto--- pero en magnitudes pequeñas y, posiblemente, inapreciables. 
+En resumen, ambos problemas se _solucionaron_ mediante la introducción de un pequeño impuesto destinado a sufragar el coste de la implantación de una tecnología existente. El consumo del bien de interés hubo necesariamente de reducirse ---como consecuencia de la implantación de cualquier tipo de impuesto--- pero en magnitudes pequeñas y, posiblemente, inapreciables.
 
 El del cambio clirmático es un problema cualitativamente distinto en la medida en que está en gran medida provocado por la emisión de CO₂. Uno de los vectores de la lluvia ácida era la emisión de SO₂ al quemar carbón para producir electricidad. Pero el azufre no es estrictamente necesario: se trata de una impureza presente en el carbón y ee perfectamente posible seguir produciendo electricidad después de haberlo eliminado. Sin embargo, tenemos que seguir quemando carbono para producir energía eléctrica, no podemos _limpiar_ el carbón de carbono.
 
