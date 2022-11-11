@@ -13,7 +13,7 @@ tags:
 
 Se expande por ahí la particular especie de que _la ciencia_ ---¿con mayúscula tal vez?--- respalda el uso de la energía nuclear. Lo cual es solo parcial e interesadamente cierto.
 
-![Trolley problem](/images/neutron_dollar.png#center)
+![Trolley problem](/images/neutron_dollar.jpg#center)
 
 Las ciencias duras, por supuesto, no pueden dejar de indicar que la energía nuclear, tal cual se operacionaliza hoy, es segura, etc. (Aunque no se puede olvidar que el grado de seguridad bajo el que debiera operar una instalación nuclear no es una categoría que pertenezca y se pueda resolver en el seno de una ciencia dura: exige un análisis que la sobrepasa.)
 

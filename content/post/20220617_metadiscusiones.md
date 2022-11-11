@@ -13,7 +13,7 @@ tags:
 
 En términos muy gruesos, cierto tipo de discusiones pueden categorizarse en dos categorías: la _positiva_ y la _meta_. La siguiente imagen permite ilustrar la diferencia a la perfección:
 
-![Atajo](/images/shortcut.png)
+![Atajo](/images/shortcut.jpg)
 
 En una discusión _positiva_ se criticaría a quienes toman el atajo: existe una _norma_ casí explícita ---camínese por la senda provista a tal efecto---, pero unos cuantos _avispados_ reinterpretan o desnaturalizan _lo que debe hacerse_ y eso, necesariamente, es cuestionable. En una discusión _meta_, sin embargo, uno podría comenzar cuestionando desde el principio el trazado de la senda para acabar, probablemente, justificando el uso del atajo.
 

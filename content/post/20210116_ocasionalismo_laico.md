@@ -20,7 +20,7 @@ Todo lo que vemos, según los ocasionalistas, son es el resultado de una miríad
 
 En en siglo XXI se oyen cada vez más frecuentemente voces como estas:
 
-{{< figure src="/images/errejon_iphone_estado.png" link="https://twitter.com/ierrejon/status/1308464958607327232" >}}
+{{< figure src="/images/errejon_iphone_estado.jpg" link="https://twitter.com/ierrejon/status/1308464958607327232" >}}
 
 Lo que reivindican no es otra cosa que una renovación del ocasionalismo, un ocasionalismo laico, que niegue el _poder causal_ a todas las _criaturas_ otras que el estado.
 
