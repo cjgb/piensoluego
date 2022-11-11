@@ -2,7 +2,7 @@
 title: "¿Ha cambiado el humor?"
 description: "Reflexiones al hilo de un artículo de Esteban Hernández"
 date: "2021-02-27"
-url: /2021/reflexiones-articulo-esteba-hernandez/
+url: /2021/reflexiones-articulo-esteban-hernandez/
 categories:
   - "ética"
 tags:
