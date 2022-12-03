@@ -3,7 +3,7 @@ title: 'Un hilo (no mío) sobre los fundamentos sicológicos de la moral'
 date: 2022-12-02
 url: /2022/hilo-fundamnetos-moral/
 categories:
-  - moral
+  - ética
 tags:
   - ética
   - moral

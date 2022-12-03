@@ -9,6 +9,12 @@ tags:
   - epistemología
   - ideología
   - heurísticas
+  - racionalismo
+  - racionalidad acotada
+  - bondad
+  - supervivencia
+  - gigerenzer
+  - béisbol
 ---
 
 Esta breve entrada continua y remata

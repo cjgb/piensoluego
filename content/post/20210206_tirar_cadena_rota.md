@@ -4,7 +4,7 @@ description: Sobre una expresión que necesita urgentemente el idioma español
 date: 2021-02-06
 url: /2021/tirar-de-una-cadena-rota/
 categories:
-  - "causalidad"
+  - filosofía
 tags:
   - "causalidad"
   - "correlación"

@@ -4,12 +4,12 @@ description: Sobre la comunicación, puntos focales (o de Schelling), etc.
 date: 2021-11-12
 url: /2021/comunicacion-problema-coordinacion/
 categories:
-  - "comunicación"
-  - "economía"
+  - filosofía
+  - economía
 tags:
-  - "economía"
-  - "comunicación"
-  - "lenguaje"
+  - economía
+  - comunicación
+  - lenguaje
 ---
 
 El descriptivismo está de moda. El prescritivismo (o normativismo) se contempla con recelo.

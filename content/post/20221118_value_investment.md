@@ -9,6 +9,13 @@ tags:
   - economía
   - epistemología
   - finanzas
+  - inversión en valor
+  - etfs
+  - mercados
+  - complejidad
+  - heurísticas
+  - teoría de la decisión
+  - equilibrio
 ---
 
 Esta entrada tiene dos partes. Una, la primera, dedicada a la tensión entre las llamadas inversión en valor e indexada en finanzas. Se presenta como motivación a otra, posterior, que la utiliza como analogía para extenderla a otros ámbitos.

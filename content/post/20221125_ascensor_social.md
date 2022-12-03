@@ -7,6 +7,14 @@ categories:
 tags:
   - economía
   - justicia
+  - ruido
+  - justicia social
+  - meritocracia
+  - concentración
+  - trabajo
+  - trabajo profundo
+  - clases bajas
+  - libros
 ---
 
 Tengo piendiente leer el libro

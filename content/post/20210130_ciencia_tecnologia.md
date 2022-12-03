@@ -5,7 +5,6 @@ date: 2021-01-30
 url: /2021/ciencia-se-hace-tecnologia-aprende/
 categories:
   - "ciencia"
-  - "tecnología"
 tags:
   - "ciencia"
   - "tecnología"

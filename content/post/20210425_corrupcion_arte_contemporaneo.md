@@ -4,7 +4,7 @@ description: "Acerca de un vídeo de Paloma Pájaro sobre la corrupción del art
 date: 2021-04-24
 url: /2021/corrupcion-arte-contemporaneo/
 categories:
-  - "epistemología"
+  - "política"
 tags:
   - "arte"
   - "política"

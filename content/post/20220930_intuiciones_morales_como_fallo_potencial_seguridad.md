@@ -4,7 +4,7 @@ description: 'Una advertencia sobre las intuiciones morales basada en una metáf
 date: 2022-09-30
 url: /2022/intuiciones-morales-metafora-seguridad-informatica/
 categories:
-  - moral
+  - ética
 tags:
   - moral
   - ética

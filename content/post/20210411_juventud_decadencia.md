@@ -4,11 +4,12 @@ description: "Sobre la educación de la juventud"
 date: 2021-04-11
 url: /2021/juventud-decadencia-costumbres/
 categories:
-  - "educación"
+  - supervivencia
 tags:
-  - "juventud"
-  - "supervivencia"
-  - "historia"
+  - juventud
+  - supervivencia
+  - historia
+  - educación
 ---
 
 Es frecuente oír decir ---en toda la gama de grados, admite el autor--- que los malos hábitos y actitudes de la _juventud_ son indicio del ineludible colapso de nuestra civilización.

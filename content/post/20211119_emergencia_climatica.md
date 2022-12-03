@@ -5,7 +5,6 @@ date: 2021-11-19
 url: /2021/emergencia-climatica-fiscal/
 categories:
   - "economía"
-  - "cambio climático"
 tags:
   - "economía"
   - "ecología"

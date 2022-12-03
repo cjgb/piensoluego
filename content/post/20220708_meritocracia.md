@@ -5,7 +5,6 @@ date: 2022-07-08
 url: /2022/meritocracia-y-suerte/
 categories:
   - economía
-  - azar
 tags:
   - economía
   - ética

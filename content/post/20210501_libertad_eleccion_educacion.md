@@ -4,7 +4,6 @@ description: "Una visión subjetiva sobre sobre educación y políticas pública
 date: 2021-05-01
 url: /2021/reducir-segregacion-escolar-capacidad-eleccion/
 categories:
-  - "educación"
   - "economía"
   - "política"
 tags:

@@ -9,6 +9,12 @@ tags:
   - riesgos
   - finanzas
   - cambio climático
+  - altruismo efectivo
+  - quiebras
+  - ftx
+  - criptomonedas
+  - future fund
+  - noticias
 ---
 
 Un blog con el nombre e intención del presente, no podía dejar de hacer eco de una noticia ---me perdonarán por ello los lectores mejor informados--- bien conocida: la quiebra del fondo Future Fund (FF en lo que sigue).

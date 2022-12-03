@@ -4,9 +4,10 @@ description: ¿Merece la pena leer libros de tapa a tapa?
 date: 2022-03-11
 url: /2022/leer-libros-interactuar/
 categories:
-  - "epistemología"
+  - "supervivencia"
 tags:
   - libros
+  - epistemología
 ---
 
 Leer libros es, en muchas ocasiones, una pérdida de tiempo. Muchos contienen con suerte y a lo sumo tres o cuatro ideas interesantes que se estiran cansina y reiteradamente a lo largo de 200, 300 o hasta 500 páginas. No obstante, una vez comenzado un libro muchos desarrollamos cierto sentido de responsabilidad para con él: _tenemos_ que terminarlo por más que advirtamos que, en el fondo, estamos perdiendo el tiempo.

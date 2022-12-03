@@ -5,7 +5,7 @@ date: 2022-09-09
 url: /2022/salvando-homo-economicus/
 categories:
   - economía
-  - sicología
+  - ética
 tags:
   - economía
   - sicología

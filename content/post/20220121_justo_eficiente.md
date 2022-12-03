@@ -5,7 +5,6 @@ date: 2022-01-30
 url: /2022/lo-justo-lo-eficiente/
 categories:
   - "ética"
-  - "justicia"
 tags:
   - "evolución"
   - "justicia"

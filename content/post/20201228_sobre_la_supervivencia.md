@@ -6,7 +6,6 @@ url: /2021/sobre-la-supervivencia/
 categories:
   - "supervivencia"
 tags:
-  - "varios"
   - "supervivencia"
 menu: main
 ---
