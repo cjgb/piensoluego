@@ -8,6 +8,14 @@ tags:
   - ética
   - moral
   - sicología
+  - haidt
+  - altruismo
+  - evolución
+  - reciprocidad
+  - lealtad
+  - propiedad
+  - autoridad
+  - equidad
 ---
 
 Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido

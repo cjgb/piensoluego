@@ -1,6 +1,6 @@
 ---
 title: 'La supervivencia del Future Fund'
-date: 2022-12-09
+date: 2022-12-16
 url: /2022/supervivenia-future-fund/
 categories:
   - supervivencia
