@@ -1,0 +1,22 @@
+---
+title: 'Nudges vs dark patterns'
+date: 2022-12-30
+url: /2022/nudges-dark-patterns/
+categories:
+  - ética
+tags:
+  - ética
+  - dark patterns
+  - nudges
+  - economía conductual
+  - política
+  - sicología
+---
+
+_Nudges_: [ya hablé de ellos](/2022/nudges).
+
+_Dark patterns_, tal como los define la AI de [you.com](you.com):
+
+> Los dark patterns son una técnica de diseño de interfaz intencionalmente diseada [sic] para ser difícil de entender. Esta técnica se usa para manipular al usuario para que realice una acción que no tenía en mente, como comprar un producto, descargar un programa, registrarse en un servicio, completar un formulario, etc. Los dark patterns se basan en el engaño, la manipulación o la ocultación de información para llevar al usuario a realizar algo que no tenía en mente.
+
+Sigo pensando que _nudges_, _dark patterns_ y muchas de las técnicas pubicitarias _más viejas que el hilo negro_ vienen a ser la misma cosa. Cambia, tal vez, el beneficiario y, siendo generosos, muy generosos, la intención última. Pero no dejan de ser lo mismo. ¿O se le escapa algo al autor de estas páginas?
