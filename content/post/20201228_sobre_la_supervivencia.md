@@ -7,7 +7,9 @@ categories:
   - "supervivencia"
 tags:
   - "supervivencia"
-menu: main
+menu:
+    main:
+        weight: 40
 ---
 
 No sorprenderá a nadie que las primeras líneas que se escriben en este blog se refieran al apotegma cartesiano.
