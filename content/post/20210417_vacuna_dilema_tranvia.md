@@ -11,7 +11,7 @@ tags:
   - "ética"
 ---
 
-Me autocito (de [aquí](https://piensoluegohesobrevivido.es/post/20210104/)) a modo de introducción:
+Me autocito (de [aquí](/2021/etica-bioetica/)) a modo de introducción:
 
 > Es decir, todos tenemos intuiciones sobre qué comportamientos son correctos y la ética busca modelos que, aplicados mecánicamente a situaciones **X**, proporcionen respuestas morales **Y** compatibles con dichas intuiciones. Si uno de tales modelos es satisfactorio (p.e., el kantiano no hagas a los demás lo que no querrías que te hiciesen a ti) en un número suficiente de casos, puede proponerse como ley general con la pretensión de extenderla o extrapolarla a todos. El estudio de los _edge cases_, los contraejemplos, como el famoso [dilema del tranvía](https://es.wikipedia.org/wiki/Dilema_del_tranv%C3%ADa) operan como piedra de toque popperiana para validar la universalidad de los principios.
 
