@@ -10,6 +10,8 @@ tags:
   - economía
   - filosofía
   - utilitarismo
+  - paretiianismo
+  - joseph heath
 ---
 
 Utilitarismo y _paretianismo_ (no volveré a marcarlo en lo sucesivo) son dos criterios de aceptabilidad de una determinada medida. Pero nada mejor para entenderlos y compararlos que la siguiente gráfica (extraída de un libro de Joseph Heath que no viene al caso):
