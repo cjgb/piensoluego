@@ -1,6 +1,6 @@
 ---
 title: 'El estado es un instrumento al servicio de su propia supervivencia'
-date: 2023-02-17
+date: 2023-02-24
 url: /2023/supervivencia-estado/
 categories:
   - supervivencia
