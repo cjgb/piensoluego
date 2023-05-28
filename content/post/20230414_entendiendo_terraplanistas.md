@@ -1,7 +1,7 @@
 ---
-title: '¿Qué nos enseña la educación formal?'
-date: 2023-04-21
-url: /2024/entendiendo-terraplanistas/
+title: 'Un marco para entender caritativamente el terraplanismo y otras anomalías epistemológicas'
+date: 2023-04-14
+url: /2023/entendiendo-terraplanistas/
 categories:
   - epistemología
 tags:
