@@ -1,7 +1,7 @@
 ---
 title: 'Sobre los límites de la acción del estado'
 date: 2023-04-07
-url: /2024/limites-accion-estado/
+url: /2023/limites-accion-estado/
 categories:
   - economía
 tags:

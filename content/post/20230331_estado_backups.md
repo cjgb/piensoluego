@@ -1,7 +1,7 @@
 ---
 title: '¿Debería el estado incentivar y promover las copias de seguridad?'
 date: 2023-03-31
-url: /2024/estado-backups/
+url: /2023/estado-backups/
 categories:
   - economía
 tags:

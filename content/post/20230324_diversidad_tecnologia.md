@@ -1,7 +1,7 @@
 ---
 title: '"Diversidad" en la tecnología: un modelo hipotético'
 date: 2023-03-24
-url: /2024/diversidad-tecnologia-modelo-hipotetico/
+url: /2023/diversidad-tecnologia-modelo-hipotetico/
 categories:
   - tecnología
 tags:
