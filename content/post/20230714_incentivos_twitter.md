@@ -1,0 +1,25 @@
+---
+title: '¿Cambiarán los incentivos en Twitter?'
+date: 2023-07-14
+url: /2023/cambio-incentivos-twitter
+categories:
+  - economía
+tags:
+  - twitter
+  - incentivos
+  - elon musk
+---
+
+Dizque las redes sociales tienen éxito por su caracter adictivo: se ha escrito mucho al respecto y no merece la pena abundar en ello. Las redes sociales, además, son muy _democráticas_: un _click_, un voto; tanto da el de Agamenón como el de su porquero. El _click_ ---o la impresión, para el caso---, además, está sumamente devaluado por dos motivos: que hay muchos y que la tecnología no es capaz de discriminar satisfactoriamente; de hecho, la tecnología es prácticamente incapaz de separar humanos de _bots_.
+
+La combinación de esos ingredientes resulta en un sistema de incentivos de una de cuyas consecuencias indeseables se habló indirectamente el otro día [aquí](/2023/confia-en-mi-estoy-mintiendo).
+
+¿Qué ocurre si una red social encarece los _clicks_? Pueden darse dos escenarios:
+
+- Ser reemplazada por un competidor que ofrezca _clicks_ más baratos de manera que se mantenga el _status quo_ de los incentivos.
+- Que los incentivos se acomoden.
+
+Twitter ha alterado los términos de uso de su plataforma recientemente: por un lado, ha fomentado las cuentas de pago y, por el otro, ha restringido el número de tuits que se pueden consultar al día. Esa limitación ---sea por precio o por cuota--- ha hecho aumentar el valor de cada impresión/_click_ y es de esperar que los usuarios ---si no migran a otra plataforma--- se volverán más selectivos y se primará la calidad sobre la cantidad.
+
+Si sucede así, al final, ganaremos casi todos.
+
