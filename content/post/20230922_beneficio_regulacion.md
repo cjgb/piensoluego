@@ -1,6 +1,6 @@
 ---
 title: '¿Por qué la regulación favorece sistemáticamente al "incumbente"?'
-date: 2023-09-15
+date: 2023-09-22
 url: /2023/a-quien-favorece-la-regulacion
 categories:
   - política
