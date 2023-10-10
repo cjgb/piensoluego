@@ -1,6 +1,6 @@
 ---
-title: 'El tercer estado, hogaño'
-date: 2023-09-29
+title: 'Los tres estados hogaño'
+date: 2023-10-06
 url: /2023/tercer-estado
 categories:
   - política
