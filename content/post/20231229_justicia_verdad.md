@@ -1,6 +1,6 @@
 ---
 title: 'Verdad y justicia: el conflicto'
-date: 2023-12-27
+date: 2023-12-29
 url: /2023/justicia-vs-verdad
 categories:
   - filosofía
