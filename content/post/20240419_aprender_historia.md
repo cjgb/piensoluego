@@ -1,5 +1,5 @@
 ---
-title: 'Impuestos y emigración'
+title: 'Sobre la historia de las disciplinas (y su aprendizaje)'
 date: 2024-04-19
 url: /2024/aprender-historia
 categories:
