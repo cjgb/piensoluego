@@ -9,6 +9,7 @@ tags:
   - género
   - especie
   - bayesianismo
+  - modelos mentales
 ---
 
 ### I.
