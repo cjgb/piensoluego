@@ -8,6 +8,7 @@ tags:
   - economía
   - medios
   - epistemología
+  - mercados de apuestas
 ---
 
 Tiene Scott Alexander un [promptuario de sobre mercados de apuestas](https://www.astralcodexten.com/p/prediction-market-faq) en el que:
