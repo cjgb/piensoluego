@@ -1,7 +1,7 @@
 ---
 title: 'Conceptos importantes (pero no lo suficientemente conocidos) para entender lo que ocurre hoy: los anticomunes'
 date: 2024-10-25
-url: /2025/anticomunes
+url: /2024/anticomunes
 categories:
 - economía
 tags:
