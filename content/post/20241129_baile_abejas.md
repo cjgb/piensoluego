@@ -1,7 +1,7 @@
 ---
 title: 'La inane danza de las abejas'
 date: 2024-11-29
-url: /2024/mejores-prejuicios
+url: /2024/baile-abejas
 categories:
 - epistemología
 tags:
