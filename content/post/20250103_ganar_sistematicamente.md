@@ -6,7 +6,8 @@ categories:
 - filosofía
 tags:
 - racionalismo
--
+- heurísticas
+- teoría de la decision
 ---
 
 ### Antes de empezar, ¿qué es aquí "racionalismo"?
