@@ -14,7 +14,6 @@ La entrada de hoy versa sobre el siguiente vídeo:
 
 {{< youtube bpLWxTTSInY >}}
 
-</br>
 En él, la autora, Paloma Hernández sigue varias líneas argumentales más o menos entremezcladas, de entre las que rescato la siguiente:
 
 1. El _mundo_ del arte contemporáneo en España está dominado por ciertas ideologías. En particular, la autora da a entender que entre los artistas contemporáneos que exhiben sus obras en los circuitos habituales en España existe un consenso básico en cuestiones que en la población general son problemáticas: el aborto, los toros, el feminismo, la inmigración, el neoliberalismo, la derecha, la izquierda, etc. Por abreviar, la autora la identifica con posturas de _izquierda_.

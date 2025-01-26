@@ -20,5 +20,9 @@ Hay muchos comentarios que pueden hacerse. Como si es posible volver a meter la 
 
 ### Apéndice: resumen del artículo enlazado
 
-El texto critica la conducta constitucional del Gobierno español, señalando dos infracciones principales: el incumplimiento sistemático de presentar los presupuestos en el plazo establecido y el abuso en la emisión de decretos-ley. El autor argumenta que el Gobierno ha promulgado 138 decretos-ley en poco más de seis años, muchos de ellos innecesarios y sin cumplir los requisitos constitucionales de extraordinaria y urgente necesidad. Sugiere que la oposición debería impugnar estos decretos ante el Tribunal Constitucional, especialmente aquellos de contenido económico, para evitar que produzcan efectos legales.
+> El texto critica la conducta constitucional del Gobierno español, señalando dos infracciones principales:
+> - el incumplimiento sistemático de presentar los presupuestos en el plazo establecido y
+> - el abuso en la emisión de decretos-ley.
+>
+> El autor argumenta que el Gobierno ha promulgado 138 decretos-ley en poco más de seis años, muchos de ellos innecesarios y sin cumplir los requisitos constitucionales de extraordinaria y urgente necesidad. Sugiere que la oposición debería impugnar estos decretos ante el Tribunal Constitucional, especialmente aquellos de contenido económico, para evitar que produzcan efectos legales.
 
