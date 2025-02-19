@@ -1,5 +1,5 @@
 ---
-title: 'Principios vs intereses'
+title: 'Principios vs intereses en la Europa de 2025'
 date: 2025-02-12
 url: /2025/principios-intereses
 categories:
