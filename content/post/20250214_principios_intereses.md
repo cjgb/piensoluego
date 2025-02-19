@@ -1,6 +1,6 @@
 ---
 title: 'Principios vs intereses en la Europa de 2025'
-date: 2025-02-12
+date: 2025-02-14
 url: /2025/principios-intereses
 categories:
 - política
