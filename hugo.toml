@@ -2,13 +2,15 @@ baseurl = "https://piensoluegohesobrevivido.es/"
 title = "Pienso, luego he sobrevivido"
 languageCode = "es"
 DefaultContentLanguage = "es"
-paginate = "13" # Number of posts per page
 theme = "mainroad"
 
 [Author]
   name = "bgjc"
   bio = ""
   avatar = "img/avatar.png"
+
+[pagination]
+  pagerSize = "13"
 
 [Params]
   description = "Pienso, luego he sobrevivido" # Description of your site
