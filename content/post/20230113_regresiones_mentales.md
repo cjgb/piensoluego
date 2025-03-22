@@ -13,7 +13,7 @@ tags:
 
 Dice Tyler Cowen [aquí](https://marginalrevolution.com/marginalrevolution/2022/11/how-defective-a-thinker-are-you.html) (a cuenta de algo que no viene al caso):
 
-> It is better to simply file the data point away and add it to your mental regressions, but not right now to get too emotional or condemnatory about it.
+> Es mejor archivar el dato después de actualizar tus regresiones mentales y no volverse inmediatamente demasiado emocional o severo al respecto.
 
 Esa frase resume toda una teoría ---¡y una praxis!--- sobre el conocimiento:
 
