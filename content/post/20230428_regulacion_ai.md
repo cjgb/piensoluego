@@ -5,7 +5,7 @@ url: /2023/beneficiarios-regulacion-ia/
 categories:
   - política
 tags:
-  - ia
+  - inteligencia artificial
   - regulación
   - google
 ---

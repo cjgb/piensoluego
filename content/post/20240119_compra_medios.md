@@ -6,7 +6,7 @@ categories:
   - política
 tags:
   - política
-  - prensa
+  - periodismo
   - epistemología
 ---
 

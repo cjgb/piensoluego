@@ -13,17 +13,17 @@ theme = "mainroad"
   pagerSize = "13"
 
 [Params]
-  description = "Pienso, luego he sobrevivido" # Description of your site
+  description = "Pienso, luego he sobrevivido"
   opengraph = true
   twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
+  readmore = false
   authorbox = false
   pager = true
-  post_meta = ["date", "categories"] # Order of post meta information
+  post_meta = ["date", "categories"]
   dateformat = "2006-1-2"
   googleFontsLink = "https://fonts.googleapis.com/css?family=Alegreya:400,400i,700" # Load Google Fonts
   mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
 [Params.logo]

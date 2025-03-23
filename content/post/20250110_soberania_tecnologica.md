@@ -4,7 +4,7 @@ date: 2025-01-10
 url: /2025/soberania-tecnologica
 categories:
 - economía
-- poliítica
+- política
 tags:
 - soberanía
 - llms

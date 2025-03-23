@@ -7,7 +7,7 @@ categories:
 tags:
 - racionalismo
 - heurísticas
-- teoría de la decision
+- teoría de la decisión
 ---
 
 ### Antes de empezar, ¿qué es aquí "racionalismo"?
