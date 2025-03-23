@@ -1,15 +1,14 @@
 ---
-title: La ciencia se hace; la tecnología se aprende
-description: Una revisión del generalmente aceptado concepto opuesto
+title: La ciencia se construye; la tecnología se aprende
+description: Sobre la relación entre la ciencia y la tecnología.
 date: 2021-01-30
-url: /2021/ciencia-se-hace-tecnologia-aprende/
+url: /2021/ciencia-se-construye-tecnologia-aprende/
 categories:
   - "ciencia"
 tags:
   - "ciencia"
   - "tecnología"
   - "demarcación"
-#menu: main
 ---
 
 La visión generalmente aceptada es la contraria: que la ciencia es eminentemente conceptual y la tecnología, práctica. Pero esa concepción puede conducir a engaños. Por ejemplo, uno puede argumentar: si X es una ciencia y yo sé ---o estudio, o estoy aprendiendo, o uso--- X, entonces yo soy un científico. Pero no, puede que no seas más que un técnico (o un tecnólogo).
