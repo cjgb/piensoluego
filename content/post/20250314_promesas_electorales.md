@@ -1,5 +1,6 @@
 ---
 title: 'Campañas electorales e información'
+description: "Sobre la paradoja de cómo los políticos sorprenden al electorado una vez ganadas las elecciones."
 date: 2025-03-14
 url: /2025/campanas-electorales-informacion
 categories:

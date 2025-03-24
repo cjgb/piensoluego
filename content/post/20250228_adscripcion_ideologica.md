@@ -1,5 +1,6 @@
 ---
 title: 'El parco callejero de la adscripción ideológica'
+description: "Sobre los problemas que causa la falta de precisión en la caracterización de las posiciones políticas de la gente."
 date: 2025-02-28
 url: /2025/adscripcion-ideologica
 categories:
