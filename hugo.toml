@@ -13,9 +13,9 @@ theme = "mainroad"
   pagerSize = "13"
 
 [Params]
-  description = "Pienso, luego he sobrevivido"
+  description = "Un blog sobre política, economía, filosofía y ciencia en el que el criterio de verdad es la supervivencia del sujeto."
   opengraph = true
-  twitter_cards = false
+  twitter_cards = true
   readmore = false
   authorbox = false
   pager = true

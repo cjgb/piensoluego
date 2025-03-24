@@ -1,5 +1,6 @@
 ---
 title: 'LLMs e intelectualismo moral'
+description: 'Explorando cómo el post-entrenamiento con código deficiente genera desalineación moral en LLMs, y su paralelismo con el intelectualismo moral'
 date: 2025-03-07
 url: /2025/llms-intelectualismo-moral
 categories:
