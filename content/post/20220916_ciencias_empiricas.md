@@ -2,7 +2,7 @@
 title: 'Ciencias empíricas: una potencial deriva peligrosa'
 description: 'Ciencias empíricas: una potencial deriva peligrosa'
 date: 2022-09-16
-url: /2022/mitos-modelos/
+url: /2022/ciencias-empiricas/
 categories:
   - ciencia
 tags:
