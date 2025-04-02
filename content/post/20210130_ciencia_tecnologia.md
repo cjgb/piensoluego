@@ -1,7 +1,9 @@
 ---
 title: La ciencia se construye; la tecnología se aprende
-description: Sobre la relación entre la ciencia y la tecnología.
+description: "Explora la diferencia entre ciencia y tecnología, y cómo muchos profesionales
+  son técnicos, no científicos. Reflexión sobre el uso del término científico."
 date: 2021-01-30
+lastmod: '2025-04-03T00:43:28.528647'
 url: /2021/ciencia-se-construye-tecnologia-aprende/
 categories:
   - "ciencia"
