@@ -1,20 +1,24 @@
 ---
-title: 'Cambios tecnológicos antes, cambios tecnológicos ahora'
-date: 2022-12-09
-url: /2022/cambios-tecnologicos/
 categories:
-  - economía
+- economía
+date: 2022-12-09
+description: '"Análisis de los cambios tecnológicos pasados vs. actuales: adopción
+  voluntaria vs. transiciones forzadas por subvenciones e imposiciones estatales en
+  energías renovables y vehículos eléctricos."'
+lastmod: '2025-04-03T15:40:56.174011'
 tags:
-  - cambio climático
-  - economía
-  - tecnología
-  - cambio tecnológico
-  - coche eléctrico
-  - transición energética
-  - estado
-  - subvenciones
-  - españa
-  - energía solar
+- cambio climático
+- economía
+- tecnología
+- cambio tecnológico
+- coche eléctrico
+- transición energética
+- estado
+- subvenciones
+- españa
+- energía solar
+title: Cambios tecnológicos antes, cambios tecnológicos ahora
+url: /2022/cambios-tecnologicos/
 ---
 
 Hemos vivido muchos cambios tecnológicos: pasamos de no tener ordenadores, a que no faltasen en nuestros hogares; de no tener PCs, a pasar horas y horas diarias delante de uno; de no usar Word, a no escribir de otra manera; de no tener móviles a ¡qué puedo decir!; de no tener _smartphones_ a no poder vivir sin ellos; de no tener vídeos, a coleccionar videotecas enteras de VHS; de no conocer el concepto, a usar el microondas a diario; de conocer las redes de ordenadores por programas de divulgación a estar todo el día enganchados a una wifi; etc.
