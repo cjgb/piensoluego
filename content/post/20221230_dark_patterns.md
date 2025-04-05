@@ -1,16 +1,23 @@
 ---
-title: 'Nudges vs dark patterns'
-date: 2022-12-30
-url: /2022/nudges-dark-patterns/
 categories:
-  - ética
+- ética
+date: 2022-12-30
+lastmod: '2025-04-06T01:37:22.848438'
+related:
+- 20220603_nudges.md
+- 20240322_caricaturas_antropologicas.md
+- 20230630_trust_me_im_lying.md
+- 20241213_miente.md
+- 20250221_friccion.md
 tags:
-  - ética
-  - dark patterns
-  - nudges
-  - economía conductual
-  - política
-  - sicología
+- ética
+- dark patterns
+- nudges
+- economía conductual
+- política
+- sicología
+title: Nudges vs dark patterns
+url: /2022/nudges-dark-patterns/
 ---
 
 _Nudges_: [ya hablé de ellos](/2022/nudges).

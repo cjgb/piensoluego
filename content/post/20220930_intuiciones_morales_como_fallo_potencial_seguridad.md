@@ -1,14 +1,22 @@
 ---
-title: 'Intuiciones morales: una advertencia'
-description: 'Una advertencia sobre las intuiciones morales basada en una metáfora informática'
-date: 2022-09-30
-url: /2022/intuiciones-morales-metafora-seguridad-informatica/
 categories:
-  - ética
+- ética
+date: 2022-09-30
+description: Una advertencia sobre las intuiciones morales basada en una metáfora
+  informática
+lastmod: '2025-04-06T01:37:56.926096'
+related:
+- 20210104_bioetica.md
+- 20211210_principios_moral.md
+- 20220610_valores_humanos.md
+- 20210109_moralizacion_amoralizacion.md
+- 20220408_peligros_moralidad_non_sequitur.md
 tags:
-  - moral
-  - ética
-  - intuiciones
+- moral
+- ética
+- intuiciones
+title: 'Intuiciones morales: una advertencia'
+url: /2022/intuiciones-morales-metafora-seguridad-informatica/
 ---
 
 Hoy he tenido una discusión sobre las _intuiciones morales_ como fundamento de un comportamiento moral. El argumento ofrecido (por los otros) es simple: todos tenemos intuiciones sobre lo que es correcto y lo que no y nuestro comportamiento moral debería estar basado ya sea en ellas directamente o indirectamente a través de principios éticos construidos _por interpolación_.

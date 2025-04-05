@@ -1,16 +1,23 @@
 ---
-title: Sexo-género vs cuerpo-alma
-description: La dualidad sexo-género como reedición del viejo debate cuerpo-alma.
-date: 2022-05-13
-url: /2022/dualidad-cuerpo-alma/
 categories:
-  - ética
+- ética
+date: 2022-05-13
+description: La dualidad sexo-género como reedición del viejo debate cuerpo-alma.
+lastmod: '2025-04-06T01:38:54.429182'
+related:
+- 20220610_valores_humanos.md
+- 20240405_modelos_mentales.md
+- 20210123_sokal_latour.md
+- 20210104_bioetica.md
+- 20220930_intuiciones_morales_como_fallo_potencial_seguridad.md
 tags:
-  - política
-  - ética
-  - moral
-  - sexo
-  - género
+- política
+- ética
+- moral
+- sexo
+- género
+title: Sexo-género vs cuerpo-alma
+url: /2022/dualidad-cuerpo-alma/
 ---
 
 Soy muy ignorante acerca del debate sobre la dualidad sexo-género y los argumentos e intenciones de tirios y troyanos en él. Pero anoche me entretuve en escuchar ---sin prestar mucha atención--- una conferencia sobre el asunto durante la cual y en una breve digresión, el ponente mencionó de pasada la antigua dualidad cuerpo-alma.

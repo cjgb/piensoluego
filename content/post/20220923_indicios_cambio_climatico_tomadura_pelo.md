@@ -1,14 +1,21 @@
 ---
-title: 'Indicios de que "lo del cambio climático" es una tomadura de pelo'
-description: 'Indicios de que "lo del cambio climático" es una tomadura de pelo'
-date: 2022-09-23
-url: /2022/cambio-climatico-tomadura-pelo/
 categories:
-  - política
+- política
+date: 2022-09-23
+description: Indicios de que "lo del cambio climático" es una tomadura de pelo
+lastmod: '2025-04-06T01:37:44.396419'
+related:
+- 20220902_cambio_climatico_diferente_esta_vez.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20211119_emergencia_climatica.md
+- 20221209_cambios_tecnologicos.md
+- 20250226_cortos.md
 tags:
-  - cambio climático
-  - economía
-  - política
+- cambio climático
+- economía
+- política
+title: Indicios de que "lo del cambio climático" es una tomadura de pelo
+url: /2022/cambio-climatico-tomadura-pelo/
 ---
 
 Vaya por delante que el autor de estas páginas no es lo que ha venido a denominarse un _negacionista del cambio climático_ sino, más bien, un observador con cierto interés en lo que ocurre. Pero este observador tiene motivos para _descontar_ el potencial efecto de eso en lo que, efectivamente, _cree_ ---aunque con diferencias de grado con respecto a muchos ortodoxos---.

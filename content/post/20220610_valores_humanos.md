@@ -1,13 +1,21 @@
 ---
-title: 'Lo que la inteligencia artificial nos enseña sobre los "valores humanos"'
-description: 'Cosas que podemos aprender sobre los valores humanos a través del estudio de la inteligencia artificial'
-date: 2022-06-10
-url: /2022/ai-valores-humanos/
 categories:
-  - ética
+- ética
+date: 2022-06-10
+description: Cosas que podemos aprender sobre los valores humanos a través del estudio
+  de la inteligencia artificial
+lastmod: '2025-04-06T01:37:35.426924'
+related:
+- 20210104_bioetica.md
+- 20220513_dualidad_cuerpo_alma.md
+- 20221021_se_puede_ser_racional.md
+- 20250307_llms_intelectualismo_moral.md
+- 20211210_principios_moral.md
 tags:
-  - inteligencia artificial
-  - ética
+- inteligencia artificial
+- ética
+title: Lo que la inteligencia artificial nos enseña sobre los "valores humanos"
+url: /2022/ai-valores-humanos/
 ---
 
 La robótica, la inteligencia artificial (AI en lo que sigue) y disciplinas anejas son una (fructífera) trituradora de conceptos que muchas veces damos por sentado. Ya se ha utilizado [aquí](https://piensoluegohesobrevivido.es/2022/05/13/dualidad-cuerpo-alma/) al discutir la dualidad entre el cuerpo y el alma y hoy toca utilizarla para analizar qué hay detrás de eso que llamamos _valores humanos_.

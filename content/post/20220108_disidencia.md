@@ -1,14 +1,21 @@
 ---
-title: La disidencia, ¿"bug" o "feature"?
-description: "Sobre los escépticos de la vacuna, desde una perspectiva evolucionista"
-date: 2022-01-08
-url: /2022/disidencia-bug-feature/
 categories:
-  - "supervivencia"
+- supervivencia
+date: 2022-01-08
+description: Sobre los escépticos de la vacuna, desde una perspectiva evolucionista
+lastmod: '2025-04-06T01:39:07.256235'
+related:
+- 20201228_sobre_la_supervivencia.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20240322_caricaturas_antropologicas.md
+- 20210104_bioetica.md
+- 20210213_reflexiones_cambio_climatico.md
 tags:
-  - "evolución"
-  - "disidencia"
-  - "supervivencia"
+- evolución
+- disidencia
+- supervivencia
+title: La disidencia, ¿"bug" o "feature"?
+url: /2022/disidencia-bug-feature/
 ---
 
 Esta entrada es producto de unas reflexiones que me vinieron a la cabeza el otro día mientras un par de _antivacunas_ se explicaban larga y redundantemente.

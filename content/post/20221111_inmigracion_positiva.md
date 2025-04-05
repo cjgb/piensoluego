@@ -1,13 +1,20 @@
 ---
-title: '¿Toda inmigración tiene efectos positivos sobre la economía?'
-description: '¿Toda inmigración tiene efectos positivos sobre la economía?'
-date: 2022-11-11
-url: /2022/inmigracion-positiva-economia/
 categories:
-  - economía
+- economía
+date: 2022-11-11
+description: ¿Toda inmigración tiene efectos positivos sobre la economía?
+lastmod: '2025-04-06T01:38:36.951345'
+related:
+- 20240521_cortos.md
+- 20250326_cortos.md
+- 20250129_cortos.md
+- 20250402_cortos.md
+- 20250108_cortos.md
 tags:
-  - economía
-  - inmigración
+- economía
+- inmigración
+title: ¿Toda inmigración tiene efectos positivos sobre la economía?
+url: /2022/inmigracion-positiva-economia/
 ---
 
 [_Aquí reproduzco un pequeño artículo que escribí, se conoce, en junio del 2018 para vaya a saber uno que fin, que he encontrado haciendo limpieza del disco duro y que reproduzco aquí por si a alguien le pudiera resultar de provecho._]

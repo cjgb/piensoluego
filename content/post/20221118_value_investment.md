@@ -1,21 +1,29 @@
 ---
-title: 'Inversión "en valor" vs "indexada": una generalización'
-description: 'Cómo la metáfora de la inversión "en valor" (vs indexada) se aplica a más ámbitos'
-date: 2022-11-18
-url: /2022/value-investment-generalizacion/
 categories:
-  - economía
+- economía
+date: 2022-11-18
+description: Cómo la metáfora de la inversión "en valor" (vs indexada) se aplica a
+  más ámbitos
+lastmod: '2025-04-06T01:38:49.611871'
+related:
+- 20230721_greedflation.md
+- 20250328_microfundamentos.md
+- 20240913_precios_vivienda.md
+- 20231117_subvenciones_empresariales.md
+- 20241225_cortos.md
 tags:
-  - economía
-  - epistemología
-  - finanzas
-  - inversión en valor
-  - etfs
-  - mercados
-  - complejidad
-  - heurísticas
-  - teoría de la decisión
-  - equilibrio
+- economía
+- epistemología
+- finanzas
+- inversión en valor
+- etfs
+- mercados
+- complejidad
+- heurísticas
+- teoría de la decisión
+- equilibrio
+title: 'Inversión "en valor" vs "indexada": una generalización'
+url: /2022/value-investment-generalizacion/
 ---
 
 Esta entrada tiene dos partes. Una, la primera, dedicada a la tensión entre las llamadas inversión en valor e indexada en finanzas. Se presenta como motivación a otra, posterior, que la utiliza como analogía para extenderla a otros ámbitos.
@@ -43,4 +51,3 @@ Pero, ¿por qué lo son? Lo son gracias a los _compradores valor_, que se toman 
 Los _compradores valor_ logran ciertas ventajas: en promedio, consiguen mejores precios. Pero indirectamente, nos beneficiamos todos: sabemos que los precios de los bienes que han sufrido el escrutinio de los _compradores valor_ no pueden estar enteramente desencaminados.
 
 Podría seguir abundando en el asunto pero, apelando a la inteligencia de lector, dejo la discusión aquí.
-

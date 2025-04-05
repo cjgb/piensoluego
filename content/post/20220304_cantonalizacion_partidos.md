@@ -1,15 +1,23 @@
 ---
-title: En pro de la cantonalización de los partidos políticos
-description: Reflexiones sobre la necesidad de escindir cantonalmente los partidos políticos
-date: 2022-03-04
-url: /2022/cantonalizacion-partidos-politicos/
 categories:
-  - "política"
-  - "derecho"
+- política
+- derecho
+date: 2022-03-04
+description: Reflexiones sobre la necesidad de escindir cantonalmente los partidos
+  políticos
+lastmod: '2025-04-06T01:38:58.941656'
+related:
+- 20210327_ciudadanos_no_supervivencia.md
+- 20240503_infraestructuras.md
+- 20250228_adscripcion_ideologica.md
+- 20250212_cortos.md
+- 20240716_cortos.md
 tags:
-  - política
-  - partidos políticos
-  - cantonalización
+- política
+- partidos políticos
+- cantonalización
+title: En pro de la cantonalización de los partidos políticos
+url: /2022/cantonalizacion-partidos-politicos/
 ---
 
 Esta es una entrada en pro de la cantonalización de los partidos políticos españoles, i.e., de la fragmentación regional de los grandes partidos. _Cantonalización_ tiene connotaciones negativas en España y seguro que suscita un distanciamiento con respecto a la tesis defendida aquí en muchos. No es interés del autor tratar de, dirían algunos, _cohonestar_ el término o apuntar algunos de sus defectos ---previstos o no por el autor--- sino plasmar una propuesta de cantonalización de los partidos políticos como solución ---siempre parcial, como es de necesidad en el ámbito político--- a algunos de los problemas concretos que plantea el actual estado de las cosas.

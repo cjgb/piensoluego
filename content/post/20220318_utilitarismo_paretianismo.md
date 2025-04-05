@@ -1,17 +1,24 @@
 ---
-title: 'Utilitarismo vs "paretianismo": una descripción gráfica'
-description: Una gráfica que describe las diferencias entre el utilitarismo y el paretianismo
-date: 2022-03-18
-url: /2022/utilitarismo-paretianismo/
 categories:
-  - filosofía
-  - economía
+- filosofía
+- economía
+date: 2022-03-18
+description: Una gráfica que describe las diferencias entre el utilitarismo y el paretianismo
+lastmod: '2025-04-06T01:38:58.503541'
+related:
+- 20230203_moral_nominal_vs_real.md
+- 20230127_otra_conclusion_repugnante.md
+- 20220121_justo_eficiente.md
+- 20240712_economia_politica.md
+- 20240216_topologia_moral.md
 tags:
-  - economía
-  - filosofía
-  - utilitarismo
-  - paretiianismo
-  - joseph heath
+- economía
+- filosofía
+- utilitarismo
+- paretiianismo
+- joseph heath
+title: 'Utilitarismo vs "paretianismo": una descripción gráfica'
+url: /2022/utilitarismo-paretianismo/
 ---
 
 Utilitarismo y _paretianismo_ (no volveré a marcarlo en lo sucesivo) son dos criterios de aceptabilidad de una determinada medida. Pero nada mejor para entenderlos y compararlos que la siguiente gráfica (extraída de un libro de Joseph Heath que no viene al caso):

@@ -1,20 +1,27 @@
 ---
-title: 'La supervivencia del Future Fund'
-date: 2022-12-16
-url: /2022/supervivenia-future-fund/
 categories:
-  - supervivencia
+- supervivencia
+date: 2022-12-16
+lastmod: '2025-04-06T01:39:01.590659'
+related:
+- 20250305_cortos.md
+- 20211030_supervivencia_etica_corporativa.md
+- 20240319_cortos.md
+- 20240524_cortos.md
+- 20220624_bottomlines.md
 tags:
-  - supervivencia
-  - riesgos
-  - finanzas
-  - cambio climático
-  - altruismo efectivo
-  - quiebras
-  - ftx
-  - criptomonedas
-  - future fund
-  - noticias
+- supervivencia
+- riesgos
+- finanzas
+- cambio climático
+- altruismo efectivo
+- quiebras
+- ftx
+- criptomonedas
+- future fund
+- noticias
+title: La supervivencia del Future Fund
+url: /2022/supervivenia-future-fund/
 ---
 
 Un blog con el nombre e intención del presente, no podía dejar de hacer eco de una noticia ---me perdonarán por ello los lectores mejor informados--- bien conocida: la quiebra del fondo Future Fund (FF en lo que sigue).

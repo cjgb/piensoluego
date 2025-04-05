@@ -1,14 +1,21 @@
 ---
-title: 'Discusiones en grado "meta"'
-description: ''
-date: 2022-06-17
-url: /2022/metadiscusiones/
 categories:
-  - epistemología
+- epistemología
+date: 2022-06-17
+description: ''
+lastmod: '2025-04-06T01:37:40.457736'
+related:
+- 20220708_meritocracia.md
+- 20210425_corrupcion_arte_contemporaneo.md
+- 20210104_bioetica.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20210109_moralizacion_amoralizacion.md
 tags:
-  - derecho
-  - política
-  - epistemología
+- derecho
+- política
+- epistemología
+title: Discusiones en grado "meta"
+url: /2022/metadiscusiones/
 ---
 
 En términos muy gruesos, cierto tipo de discusiones pueden categorizarse en dos categorías: la _positiva_ y la _meta_. La siguiente imagen permite ilustrar la diferencia a la perfección:
@@ -28,4 +35,3 @@ Que sí, que es _correcto_, pero...
 Participo o sigo muchas conversaciones en España y fuera de ella. Obviamente, me decanto por las que me parecen más interesantes y tal vez por eso estoy sobreexpuesto a discusiones _meta_ fuera de ella. Tal vez de ahí la _injusticia_ que pudiera haberle hecho a España arriba. Pero no quiero dejar pasar la ocasión para enlazar (y así también guardar la referencia a) el artículo
 [_How to think for yourself_](http://paulgraham.com/think.html?utm_source=pocket_mylist)
 de Paul Graham, que complementa lo dicho más arriba.
-

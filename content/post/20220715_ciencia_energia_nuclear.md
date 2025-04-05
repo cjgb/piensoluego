@@ -1,14 +1,22 @@
 ---
-title: 'Sostener que "la ciencia respalda la energía nuclear" implica indirectamente que la economía no es una ciencia'
-description: 'Más apuntes sobre la dimensión económica de la energía nuclear'
-date: 2022-07-15
-url: /2022/energia-nuclear-ciencia-economia/
 categories:
-  - ciencia
-  - economía
+- ciencia
+- economía
+date: 2022-07-15
+description: Más apuntes sobre la dimensión económica de la energía nuclear
+lastmod: '2025-04-06T01:37:57.842507'
+related:
+- 20250219_cortos.md
+- 20240402_cortos.md
+- 20210521_colapso_expectativas_ciencia.md
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20220916_ciencias_empiricas.md
 tags:
-  - energía nuclear
-  - economía
+- energía nuclear
+- economía
+title: Sostener que "la ciencia respalda la energía nuclear" implica indirectamente
+  que la economía no es una ciencia
+url: /2022/energia-nuclear-ciencia-economia/
 ---
 
 Se expande por ahí la particular especie de que _la ciencia_ ---¿con mayúscula tal vez?--- respalda el uso de la energía nuclear. Lo cual es solo parcial e interesadamente cierto.

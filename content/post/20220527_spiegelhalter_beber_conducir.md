@@ -1,13 +1,21 @@
 ---
-title: "Spiegelhalter sobre beber vs conducir: una puntualización"
-description: Matizando una declaración de Spiegelhalter sobre la comparación de los riesgos de beber vs los de conducir
-date: 2022-05-27
-url: /2022/spiegelhalter-beber-conducir/
 categories:
-  - supervivencia
+- supervivencia
+date: 2022-05-27
+description: Matizando una declaración de Spiegelhalter sobre la comparación de los
+  riesgos de beber vs los de conducir
+lastmod: '2025-04-06T01:38:51.795352'
+related:
+- 20211212_riesgo_vacunas.md
+- 20201228_sobre_la_supervivencia.md
+- 20241101_valencia.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20210109_moralizacion_amoralizacion.md
 tags:
-  - riesgo
-  - epidemiología
+- riesgo
+- epidemiología
+title: 'Spiegelhalter sobre beber vs conducir: una puntualización'
+url: /2022/spiegelhalter-beber-conducir/
 ---
 
 Hace unos años, un estudio extenso sobre los riesgos del consumo de alcohol, fue recogido en los medios con titulares alarmando sobre cómo incluso consumos minúsculos representan un riesgo para la salud. No es sitio este para entrar en la forma y en el fondo del debate. Solo quiero analizar bajo la perspectiva propia de estas páginas unas declaraciones de

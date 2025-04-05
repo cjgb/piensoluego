@@ -1,15 +1,23 @@
 ---
-title: 'La cooperación, un arma de doble filo'
-description: De la cooperación suele predicarse en positivo; aquí, un recordatorio de que esto no siempre tiene que ser así.
-date: 2022-05-06
-url: /2022/cooperacion-arma-doble-filo/
 categories:
-  - ética
+- ética
+date: 2022-05-06
+description: De la cooperación suele predicarse en positivo; aquí, un recordatorio
+  de que esto no siempre tiene que ser así.
+lastmod: '2025-04-06T01:38:59.819717'
+related:
+- 20220121_justo_eficiente.md
+- 20240716_cortos.md
+- 20220617_metadiscusiones.md
+- 20241011_cooperativas.md
+- 20221202_fundamentos_moral.md
 tags:
-  - economía
-  - política
-  - ética
-  - moral
+- economía
+- política
+- ética
+- moral
+title: La cooperación, un arma de doble filo
+url: /2022/cooperacion-arma-doble-filo/
 ---
 
 De la cooperación (entre individuos) siempre suele predicarse en positivo. También de aquellas tecnologías que permiten resolver problemas de coordinación, aquellos que dificultan la cooperación entre los individuos. No está claro qué está ocurriendo cuando se procede de tal modo: ¿Se da por hecho que la cooperación es siempre positiva? ¿Se da implícitamente por conocido y sin necesidad de demostración que las oportunidades para una colaboración con un efecto positivo exceden las de una colaboración con un efecto negativo? ¿Otras?

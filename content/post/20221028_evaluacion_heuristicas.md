@@ -1,20 +1,27 @@
 ---
-title: '¿Cómo (no) evaluar una heurística?'
-description: 'Sobre las heurísticas que aplicamos día a día'
-date: 2022-10-28
-url: /2022/evaluacion-heuristicas/
 categories:
-  - epistemología
+- epistemología
+date: 2022-10-28
+description: Sobre las heurísticas que aplicamos día a día
+lastmod: '2025-04-06T01:38:52.237015'
+related:
+- 20221021_se_puede_ser_racional.md
+- 20250103_ganar_sistematicamente.md
+- 20210104_bioetica.md
+- 20240514_cortos.md
+- 20211210_principios_moral.md
 tags:
-  - epistemología
-  - ideología
-  - heurísticas
-  - racionalismo
-  - racionalidad acotada
-  - bondad
-  - supervivencia
-  - gigerenzer
-  - béisbol
+- epistemología
+- ideología
+- heurísticas
+- racionalismo
+- racionalidad acotada
+- bondad
+- supervivencia
+- gigerenzer
+- béisbol
+title: ¿Cómo (no) evaluar una heurística?
+url: /2022/evaluacion-heuristicas/
 ---
 
 Esta breve entrada continua y remata

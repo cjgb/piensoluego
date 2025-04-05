@@ -1,14 +1,21 @@
 ---
-title: ¿Quién construye las cosas?
-description: Sobre el verdadero autor de las cosas
-date: 2022-02-12
-url: /2022/quien-construye-cosas/
 categories:
-  - "supervivencia"
+- supervivencia
+date: 2022-02-12
+description: Sobre el verdadero autor de las cosas
+lastmod: '2025-04-06T01:37:28.413071'
+related:
+- 20201228_sobre_la_supervivencia.md
+- 20240524_cortos.md
+- 20240430_cortos.md
+- 20210104_bioetica.md
+- 20250101_cortos.md
 tags:
-  - "ingeniería"
-  - "supervivencia"
-  - "evolución"
+- ingeniería
+- supervivencia
+- evolución
+title: ¿Quién construye las cosas?
+url: /2022/quien-construye-cosas/
 ---
 
 Cuenta Émile-Auguste Chartier en su obra _Propos d’un Normand 1906-1914_ de 1908 cómo construían los polinesios sus canoas:

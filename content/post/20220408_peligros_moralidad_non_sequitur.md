@@ -1,13 +1,21 @@
 ---
-title: 'Un non sequitur aparente en "Los peligros de la moralidad"'
-description: Mis primeras impresiones del libro "Los peligros de la moralidad" de Pablo Malo
-date: 2022-04-08
-url: /2022/peligros-moralidad-non-sequitur/
 categories:
-  - ética
+- ética
+date: 2022-04-08
+description: Mis primeras impresiones del libro "Los peligros de la moralidad" de
+  Pablo Malo
+lastmod: '2025-04-06T01:38:23.894815'
+related:
+- 20211210_principios_moral.md
+- 20210109_moralizacion_amoralizacion.md
+- 20210104_bioetica.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20220401_etica_a_prueba_paso_tiempo.md
 tags:
-  - ética
-  - libros
+- ética
+- libros
+title: Un non sequitur aparente en "Los peligros de la moralidad"
+url: /2022/peligros-moralidad-non-sequitur/
 ---
 
 Estoy comenzando a leer el (muy recomendable) libro[_Los peligros de la moralidad_](https://www.goodreads.com/book/show/59463472-los-peligros-de-la-moralidad) de Pablo Malo. Como no lo he terminado aún, debería entenderse todo lo que sigue aquí como _crítica tentativa_. Solo quiero hacer constar un problema que he detectado en la estructura y argumento fundamental del libro tanto por el resumen que de él se hace en la introducción como por la lectura de los primeros capítulos.
@@ -25,6 +33,3 @@ Ningún cambio económico, social o político ha alterado significativamente nue
 Aún no lo sé, pero estaré atento a las pistas (o claves) que deje el autor en el libro.
 
 Continuaráse.
-
-
-

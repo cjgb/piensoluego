@@ -1,14 +1,21 @@
 ---
-title: 'Sobre la multiplicidad (creciente) de los "bottomlines"'
-description: 'Sobre los potenciales efectos perniciosos de la ESG'
-date: 2022-06-24
-url: /2022/multiplicidad-bottomlines/
 categories:
-  - economía
+- economía
+date: 2022-06-24
+description: Sobre los potenciales efectos perniciosos de la ESG
+lastmod: '2025-04-06T01:38:14.734437'
+related:
+- 20211030_supervivencia_etica_corporativa.md
+- 20241225_cortos.md
+- 20250101_cortos.md
+- 20241211_cortos.md
+- 20241105_cortos.md
 tags:
-  - finanzas
-  - cambio climático
-  - esg
+- finanzas
+- cambio climático
+- esg
+title: Sobre la multiplicidad (creciente) de los "bottomlines"
+url: /2022/multiplicidad-bottomlines/
 ---
 
 El 13 de septiembre de 1970, Milton Friedman escribió un influyente artículo en el NYT, [_The Social Responsibility Of Business Is to Increase Its Profits_](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html). En él se plantea el problema de la gestión empresarial como uno que los matemáticos entenderían como _bien planteado_: gestionar una empresa consiste en combinar los factores de producción de tal manera que se maximiza una única función, el beneficio, sujeta a una serie de restricciones (o _constraints_, en la jerga de la optimización) relacionadas con el cumplimiento de las normas de índole laboral, medioambiental, etc.

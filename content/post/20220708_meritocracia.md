@@ -1,14 +1,21 @@
 ---
-title: 'Tres perspectivas sobre el asunto de la meritocracia'
-description: 'Tres perspectivas sobre el asunto de la meritocracia'
-date: 2022-07-08
-url: /2022/meritocracia-y-suerte/
 categories:
-  - economía
+- economía
+date: 2022-07-08
+description: Tres perspectivas sobre el asunto de la meritocracia
+lastmod: '2025-04-06T01:38:01.930181'
+related:
+- 20220701_merito.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20210612_exito_suerte.md
+- 20210501_libertad_eleccion_educacion.md
+- 20220617_metadiscusiones.md
 tags:
-  - economía
-  - ética
-  - meritocracia
+- economía
+- ética
+- meritocracia
+title: Tres perspectivas sobre el asunto de la meritocracia
+url: /2022/meritocracia-y-suerte/
 ---
 
 Retomo el debate sobre la meritocracia, que ya ha aparecido en estas páginas en un par de ocasiones previas menos por gusto que por necesidad. Desgraciadamente, existe hoy en día y, al menos, en la parte del globo que habito, un preocupante debate al respecto que nos obliga a reflexionar, posicionarnos y, por supuesto, en el ámbito de nuestra esfera privada y familiar actuar en consecuencia.
@@ -30,11 +37,3 @@ La segunda visión sobre la meritocracia tiene fundamentos distintos y tiene dos
 La última es mucho más pragmática y, si se quiere, empírica: parece que los datos respaldan que las sociedades y los individuos ---y, muy en particular, los niños--- que valoran el mérito tienen mejores desempeños en esas métricas que son las que al final importan. Aunque ---por qué no concederlo--- el mérito fuese una ficción metafísica, _creer en él_ funciona. Así, aunque estuviésemos convencidos de esa presunta verdad de que el mérito es un mito, sería reprochable no ocultárselo a nuestros vástagos y no educarlos como si el mérito fuese tan real como la fuerza de la gravedad.
 
 Para la mayoría de nosotros, la primera aproximación no es, a efectos prácticos, sino un tema para conversar con determinados tipos de amigos, un motivo de entretenimiento trivial para pasar el tiempo. La segunda, culturilla general sobre cómo funcionan las cosas y sobre cómo debieran actuar ciertas personas a cargo de determinadas palancas que no nos pertenecen. Solo la tercera tiene efectos prácticos y tangibles en el día a día de quienes más somos y es la que hemos de tener más presente.
-
-
-
-
-
-
-
-

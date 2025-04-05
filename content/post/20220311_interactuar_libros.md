@@ -1,13 +1,20 @@
 ---
-title: Leer libros vs interactuar con ellos
-description: ¿Merece la pena leer libros de tapa a tapa?
-date: 2022-03-11
-url: /2022/leer-libros-interactuar/
 categories:
-  - "supervivencia"
+- supervivencia
+date: 2022-03-11
+description: ¿Merece la pena leer libros de tapa a tapa?
+lastmod: '2025-04-06T01:38:38.520308'
+related:
+- 20230630_trust_me_im_lying.md
+- 20240906_todo_libros.md
+- 20210612_exito_suerte.md
+- 20211030_supervivencia_etica_corporativa.md
+- 20240409_cortos.md
 tags:
-  - libros
-  - epistemología
+- libros
+- epistemología
+title: Leer libros vs interactuar con ellos
+url: /2022/leer-libros-interactuar/
 ---
 
 Leer libros es, en muchas ocasiones, una pérdida de tiempo. Muchos contienen con suerte y a lo sumo tres o cuatro ideas interesantes que se estiran cansina y reiteradamente a lo largo de 200, 300 o hasta 500 páginas. No obstante, una vez comenzado un libro muchos desarrollamos cierto sentido de responsabilidad para con él: _tenemos_ que terminarlo por más que advirtamos que, en el fondo, estamos perdiendo el tiempo.
@@ -25,4 +32,3 @@ Solo entonces cabe plantearse si emprender el esfuerzo de leerlo con más o meno
 ### Coda
 
 Tenía en mi lista de lectura el libro [_To Save Everything, Click Here: The Folly of Technological Solutionism_](https://www.goodreads.com/book/show/13587160-to-save-everything-click-here). Comencé a leerlo recientemente y me desesperó constatar que el argumento, sumamente interesante, no acababa de avanzar. Los resúmenes que leí de él confirmaron mi sospecha: que el libro no iba mucho más allá de lo que ya apuntaba el título y su introducción y que el argumento estaba sobreexplicado. Un crítico se preguntaba: _De verdad es necesario criticar "cada" caso de...?_ Lo cerré y ya no más. Sin remordimiento.
-

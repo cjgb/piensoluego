@@ -1,13 +1,21 @@
 ---
-title: 'Tras la invasión de Ucrania, ¿incrementar el gasto militar?'
-description: En pura lógica, a la vista de lo ocurrido tras la invasión de Ucrania, habría que reducir el gasto militar, no incrementarlo.
-date: 2022-04-15
-url: /2022/ucrania-incrementar-gasto-militar/
 categories:
-  - política
+- política
+date: 2022-04-15
+description: En pura lógica, a la vista de lo ocurrido tras la invasión de Ucrania,
+  habría que reducir el gasto militar, no incrementarlo.
+lastmod: '2025-04-06T01:37:47.047809'
+related:
+- 20240402_cortos.md
+- 20240514_cortos.md
+- 20250129_cortos.md
+- 20220715_ciencia_energia_nuclear.md
+- 20201228_sobre_la_supervivencia.md
 tags:
-  - defensa
-  - economía
+- defensa
+- economía
+title: Tras la invasión de Ucrania, ¿incrementar el gasto militar?
+url: /2022/ucrania-incrementar-gasto-militar/
 ---
 
 El gasto militar ---hablo desde una prespectiva intra-OTAN, por supuesto--- previo a la invasión rusa de Ucrania era el que era, entiendo, como combinación de dos (¿tres?) factores:
@@ -25,6 +33,3 @@ Lo que pone en evidencia la invasión rusa de Ucrania es que el poderío militar
 ### Coda
 
 El hecho de que Rusia haya atacado Ucrania incrementa la probabilidad del factor (1) en la lista anterior. Sin embargo, como he argumentado, esa probabilidad es prácticamente irrelevante en la determinación del nivel óptimo de gasto en defensa: hay que dar siempre la potencial agresión por cierta. El siguiente ejemplo ilustra el razonamiento. Supóngase que el enemigo potencial tiene un ejército de nivel 10 y la probabilidad de que nos ataque es del 50%. Tendría poco sentido usar esa probabilidad para ponderar las necesidades de defensa propias y estimar, como consecuencia, que nos bastaría un ejército de nivel 5 para ponernos a un nivel suficiente como para garantizar nuestra propia seguridad. No existe un _pooling_ de riesgos como pudiera haberlo al contratar un seguro: a la hora de dimensionar, hay que dar como segura la agresión.
-
-
-

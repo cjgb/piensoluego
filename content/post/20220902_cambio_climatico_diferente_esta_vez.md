@@ -1,13 +1,21 @@
 ---
-title: 'Cambio climático: ¿por qué esta vez es diferente?'
-description: 'El cambio climático en comparación con la lluvia ácida o el agujero de la capa de ozono'
-date: 2022-09-02
-url: /2022/cambio-climatico-diferente-esta-vez/
 categories:
-  - política
+- política
+date: 2022-09-02
+description: El cambio climático en comparación con la lluvia ácida o el agujero de
+  la capa de ozono
+lastmod: '2025-04-06T01:39:06.385283'
+related:
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20211119_emergencia_climatica.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20221209_cambios_tecnologicos.md
+- 20240112_precio_carbon.md
 tags:
-  - política
-  - cambio climático
+- política
+- cambio climático
+title: 'Cambio climático: ¿por qué esta vez es diferente?'
+url: /2022/cambio-climatico-diferente-esta-vez/
 ---
 
 El del llamado cambio climático no es el primer gran reto medioambiental que recordamos los que tenemos ya cierta edad. Hace no tanto, los que iba a acabar con nosotros fueron, primero, la lluvia ácida y, después, el agujero de la capa de ozono. Pero estos dos problemas han sido _solucionados_. Así que la pregunta casi necesaria es: ¿podrá igualmente _solucionarse_ el problema del cambio climático? ¿Hay algo que lo haga distinto?

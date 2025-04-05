@@ -1,13 +1,20 @@
 ---
-title: 'Expertos no bayesianos'
-description: 'Otro contraejemplo al teorema de Berstein-von Mises'
-date: 2022-10-07
-url: /2022/expertos-no-bayesianos/
 categories:
-  - epistemología
+- epistemología
+date: 2022-10-07
+description: Otro contraejemplo al teorema de Berstein-von Mises
+lastmod: '2025-04-06T01:38:50.048286'
+related:
+- 20220218_politica_informacion.md
+- 20220916_ciencias_empiricas.md
+- 20240716_cortos.md
+- 20230203_moral_nominal_vs_real.md
+- 20220909_homo_economicus.md
 tags:
-  - economía
-  - epistemología
+- economía
+- epistemología
+title: Expertos no bayesianos
+url: /2022/expertos-no-bayesianos/
 ---
 
 La versión _pop_ del

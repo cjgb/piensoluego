@@ -1,14 +1,21 @@
 ---
-title: 'Ciencias empíricas: una potencial deriva peligrosa'
-description: 'Ciencias empíricas: una potencial deriva peligrosa'
-date: 2022-09-16
-url: /2022/ciencias-empiricas/
 categories:
-  - ciencia
+- ciencia
+date: 2022-09-16
+description: 'Ciencias empíricas: una potencial deriva peligrosa'
+lastmod: '2025-04-06T01:37:33.329902'
+related:
+- 20231208_miseria_filosofia.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20210130_ciencia_tecnologia.md
+- 20240416_cortos.md
+- 20210104_bioetica.md
 tags:
-  - ciencia
-  - empirismo
-  - economía
+- ciencia
+- empirismo
+- economía
+title: 'Ciencias empíricas: una potencial deriva peligrosa'
+url: /2022/ciencias-empiricas/
 ---
 
 Hace un tiempo, escuché una conferencia de uno de los más conocidos y reconocidos economistas españoles en Youtube y habrá de perdonárseme ahora la pereza por ubicar en enlace. Lo relevante de la charla versaba sobre lo que me llevó a ella, el tratamiento ---¿neotratamiento?--- de la causalidad dentro de dicha disciplina. Pero lo relevante para la entrada de hoy fue el llamamiento a convertir la economía en una _ciencia empírica_.

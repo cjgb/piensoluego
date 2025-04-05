@@ -1,13 +1,20 @@
 ---
-title: "¿Una ética a prueba del paso del tiempo?"
-description: Sobre la imposibilidad de crear una ética a prueba del paso del tiempo
-date: 2022-04-01
-url: /2022/etica-prueba-paso-tiempo/
 categories:
-  - ética
+- ética
+date: 2022-04-01
+description: Sobre la imposibilidad de crear una ética a prueba del paso del tiempo
+lastmod: '2025-04-06T01:38:19.175343'
+related:
+- 20211210_principios_moral.md
+- 20210104_bioetica.md
+- 20201228_sobre_la_supervivencia.md
+- 20210109_moralizacion_amoralizacion.md
+- 20220408_peligros_moralidad_non_sequitur.md
 tags:
-  - ética
-  - supervivencia
+- ética
+- supervivencia
+title: ¿Una ética a prueba del paso del tiempo?
+url: /2022/etica-prueba-paso-tiempo/
 ---
 
 A Holden Karnofsky le aterra pensar qué dirán de él en el futuro. Nos lo cuenta en [_Future-proof ethics_](https://www.cold-takes.com/future-proof-ethics/)

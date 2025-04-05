@@ -1,13 +1,21 @@
 ---
-title: 'La ley y sus condiciones iniciales'
-description: Demasiado frecuentemente, la ley es dependiente de las condiciones iniciales en las que se gestó. Esta entrada elabora una propuesta para romper dicha dependencia.
-date: 2022-04-29
-url: /2022/demora-publicacion-ley/
 categories:
-  - filosofía
+- filosofía
+date: 2022-04-29
+description: Demasiado frecuentemente, la ley es dependiente de las condiciones iniciales
+  en las que se gestó. Esta entrada elabora una propuesta para romper dicha dependencia.
+lastmod: '2025-04-06T01:38:03.897008'
+related:
+- 20240416_cortos.md
+- 20231201_indultos.md
+- 20230623_aborto_para_matematicos.md
+- 20240412_impuestos.md
+- 20210627_derecho_punto_focal.md
 tags:
-  - filosofía
-  - política
+- filosofía
+- política
+title: La ley y sus condiciones iniciales
+url: /2022/demora-publicacion-ley/
 ---
 
 Dos echan algo a suertes, a cara o cruz. Uno toma una moneda, la deposita sobre la palma de la mano, la empuja suavemente hacia arriba, la moneda asciende apenas dos centímetros y, sin llegar a rotar, cae otra vez sobre la palma en la misma posición de partida. Difícilmente podría aceptarse el resultado.

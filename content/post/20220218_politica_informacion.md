@@ -1,13 +1,21 @@
 ---
-title: Orientación política vs flujos de información
-description: ¿Influyen las intuiciones sobre los flujos de información sobre las opciones políticas?
-date: 2022-02-18
-url: /2022/orientacion-politica-flujo-informacion/
 categories:
-  - "política"
+- política
+date: 2022-02-18
+description: ¿Influyen las intuiciones sobre los flujos de información sobre las opciones
+  políticas?
+lastmod: '2025-04-06T01:37:35.951972'
+related:
+- 20210627_derecho_punto_focal.md
+- 20221007_expertos_no_bayesianos.md
+- 20240412_impuestos.md
+- 20220617_metadiscusiones.md
+- 20210104_bioetica.md
 tags:
-  - "información"
-  - "política"
+- información
+- política
+title: Orientación política vs flujos de información
+url: /2022/orientacion-politica-flujo-informacion/
 ---
 
 Mucho se ha discutido sobre las causas subyacentes de las orientaciones políticas. Frecuentemente se buscan en el ámbito de los valores. Esta entrada, sin embargo, quiere abundar en una dimensión alternativa del debate: el que relaciona las opciones políticas con las intuiciones acerca de la efectividad de los dos sentidos potenciales de los flujos de información.

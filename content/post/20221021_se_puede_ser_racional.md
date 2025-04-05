@@ -1,14 +1,21 @@
 ---
-title: '¿Se puede ser (siempre) racional?'
-description: 'Sobre las heurísticas que aplicamos día a día'
-date: 2022-10-21
-url: /2022/se-puede-ser-racional/
 categories:
-  - epistemología
+- epistemología
+date: 2022-10-21
+description: Sobre las heurísticas que aplicamos día a día
+lastmod: '2025-04-06T01:37:27.849689'
+related:
+- 20221028_evaluacion_heuristicas.md
+- 20210104_bioetica.md
+- 20250103_ganar_sistematicamente.md
+- 20220909_homo_economicus.md
+- 20241122_como_decidimos.md
 tags:
-  - epistemología
-  - ideología
-  - heurísticas
+- epistemología
+- ideología
+- heurísticas
+title: ¿Se puede ser (siempre) racional?
+url: /2022/se-puede-ser-racional/
 ---
 
 Esta es una entrada breve ---que probablemente continuaré con otra igualmente breve--- acerca de si podemos o no ser _siempre_ racionales. Está lejanamente motivada, como tantas otras, por una discusión en Twitter en la que alguien afeaba a otro no saber fundamentar racionalmente la ideología de la que hacía gala.

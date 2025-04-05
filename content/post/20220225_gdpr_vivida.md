@@ -1,15 +1,22 @@
 ---
-title: GDPR vivida
-description: Sobre los efectos de la GDPR
-date: 2022-02-25
-url: /2022/gdpr-vivida/
 categories:
-  - "política"
-  - "derecho"
+- política
+- derecho
+date: 2022-02-25
+description: Sobre los efectos de la GDPR
+lastmod: '2025-04-06T01:38:09.658671'
+related:
+- 20250129_cortos.md
+- 20240416_cortos.md
+- 20250117_constitucion.md
+- 20240716_cortos.md
+- 20250101_cortos.md
 tags:
-  - gdpr
-  - política
-  - derecho
+- gdpr
+- política
+- derecho
+title: GDPR vivida
+url: /2022/gdpr-vivida/
 ---
 
 Mario Conde es abogado. Todos sabemos que pasó una temporada en la cárcel. Menos conocido es que acabó escribiendo un libro ---que, obviamente, no he leído--- con un título que dice muchas cosas: _Derecho penitenciario vivido_. Supongo que podrían escribirse muchos otros libros similares acerca de cualquier otra ley: ley orgánica de la educación (cualquiera de ellas) _vivida_, etc. Cada uno podrá traer sus propios ejemplos.

@@ -1,20 +1,27 @@
 ---
-title: 'El "trabajo profundo" y su relación con el "ascensor social"'
-date: 2022-11-25
-url: /2022/trabajo-profundo-ascensor-social/
 categories:
-  - economía
+- economía
+date: 2022-11-25
+lastmod: '2025-04-06T01:37:21.305066'
+related:
+- 20210612_exito_suerte.md
+- 20250312_cortos.md
+- 20240521_cortos.md
+- 20240723_cortos.md
+- 20210501_libertad_eleccion_educacion.md
 tags:
-  - economía
-  - justicia
-  - ruido
-  - justicia social
-  - meritocracia
-  - concentración
-  - trabajo
-  - trabajo profundo
-  - clases bajas
-  - libros
+- economía
+- justicia
+- ruido
+- justicia social
+- meritocracia
+- concentración
+- trabajo
+- trabajo profundo
+- clases bajas
+- libros
+title: El "trabajo profundo" y su relación con el "ascensor social"
+url: /2022/trabajo-profundo-ascensor-social/
 ---
 
 Tengo piendiente leer el libro

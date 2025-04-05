@@ -5,7 +5,13 @@ date: 2022-12-09
 description: '"Análisis de los cambios tecnológicos pasados vs. actuales: adopción
   voluntaria vs. transiciones forzadas por subvenciones e imposiciones estatales en
   energías renovables y vehículos eléctricos."'
-lastmod: '2025-04-03T15:40:56.174011'
+lastmod: '2025-04-06T01:37:32.891847'
+related:
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20220902_cambio_climatico_diferente_esta_vez.md
+- 20211119_emergencia_climatica.md
+- 20231124_paradojas_autoinstalaciones.md
+- 20240626_cortos.md
 tags:
 - cambio climático
 - economía

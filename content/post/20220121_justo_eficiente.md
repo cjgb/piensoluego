@@ -1,15 +1,23 @@
 ---
-title: Lo justo y lo eficiente
-description: Una reflexión sobre la correlación entre lo que es justo y lo que es eficiente
-date: 2022-01-30
-url: /2022/lo-justo-lo-eficiente/
 categories:
-  - "ética"
+- ética
+date: 2022-01-30
+description: Una reflexión sobre la correlación entre lo que es justo y lo que es
+  eficiente
+lastmod: '2025-04-06T01:39:05.950594'
+related:
+- 20240716_cortos.md
+- 20240416_cortos.md
+- 20240723_cortos.md
+- 20241108_rol_estado.md
+- 20210220_meritocracia_deberes_intereses.md
 tags:
-  - "evolución"
-  - "justicia"
-  - "eficiencia"
-  - "ética"
+- evolución
+- justicia
+- eficiencia
+- ética
+title: Lo justo y lo eficiente
+url: /2022/lo-justo-lo-eficiente/
 ---
 
 La entrada de hoy quiere dejar constancia de una _subidea_ potencialmente poderosa extraída de [_A Positive Account of Property Rights_](http://www.daviddfriedman.com/Academic/Property/Property.html) (o, más propiamente, una observación empírica): suele haber una concordancia entre lo que es justo y lo que es eficiente.

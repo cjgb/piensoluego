@@ -1,16 +1,24 @@
 ---
-title: 'Salvando. tal vez, al homo economicus'
-description: 'Una apología sobre el homo economicus basada en un argumento de Jonathan Haidt en The Righteous Mind'
-date: 2022-09-09
-url: /2022/salvando-homo-economicus/
 categories:
-  - economía
-  - ética
+- economía
+- ética
+date: 2022-09-09
+description: Una apología sobre el homo economicus basada en un argumento de Jonathan
+  Haidt en The Righteous Mind
+lastmod: '2025-04-06T01:37:39.118393'
+related:
+- 20240322_caricaturas_antropologicas.md
+- 20221021_se_puede_ser_racional.md
+- 20240430_cortos.md
+- 20210104_bioetica.md
+- 20220916_ciencias_empiricas.md
 tags:
-  - economía
-  - sicología
-  - racionalidad
-  - haidt
+- economía
+- sicología
+- racionalidad
+- haidt
+title: Salvando. tal vez, al homo economicus
+url: /2022/salvando-homo-economicus/
 ---
 
 Lo del _homo economicus_ siempre ha sido un mito. Pero léase (¡lease!) [esto](/2022/mitos-modelos/).

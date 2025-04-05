@@ -1,21 +1,28 @@
 ---
-title: 'Un hilo (no mío) sobre los fundamentos sicológicos de la moral'
-date: 2022-12-02
-url: /2022/hilo-fundamnetos-moral/
 categories:
-  - ética
+- ética
+date: 2022-12-02
+lastmod: '2025-04-06T01:38:24.783257'
+related:
+- 20211210_principios_moral.md
+- 20210109_moralizacion_amoralizacion.md
+- 20220708_meritocracia.md
+- 20210104_bioetica.md
+- 20210220_meritocracia_deberes_intereses.md
 tags:
-  - ética
-  - moral
-  - sicología
-  - haidt
-  - altruismo
-  - evolución
-  - reciprocidad
-  - lealtad
-  - propiedad
-  - autoridad
-  - equidad
+- ética
+- moral
+- sicología
+- haidt
+- altruismo
+- evolución
+- reciprocidad
+- lealtad
+- propiedad
+- autoridad
+- equidad
+title: Un hilo (no mío) sobre los fundamentos sicológicos de la moral
+url: /2022/hilo-fundamnetos-moral/
 ---
 
 Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido

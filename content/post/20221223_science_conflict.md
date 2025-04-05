@@ -1,15 +1,22 @@
 ---
-title: 'Ciencia y mentiras piadosas'
-date: 2022-12-23
-url: /2022/ciencia-conflicto-moral/
 categories:
-  - ciencia
+- ciencia
+date: 2022-12-23
+lastmod: '2025-04-06T01:38:22.497446'
+related:
+- 20210213_reflexiones_cambio_climatico.md
+- 20240105_goodhard_experts.md
+- 20240510_confianza_ciencia.md
+- 20211030_supervivencia_etica_corporativa.md
+- 20231229_justicia_verdad.md
 tags:
-  - supervivencia
-  - ciencia
-  - moral
-  - conflicto
-  - gelman
+- supervivencia
+- ciencia
+- moral
+- conflicto
+- gelman
+title: Ciencia y mentiras piadosas
+url: /2022/ciencia-conflicto-moral/
 ---
 
 En
