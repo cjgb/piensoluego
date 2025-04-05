@@ -7,7 +7,6 @@ categories:
 tags:
   - economía
   - veblen
-  -
 ---
 
 Le he preguntado a Claude acerca de Veblen, lo que él llama la clase ociosa y su relación con el desarrollo tecnológico. En particular, si esta clase ociosa tiene algún tipo de interés, siempre según Veblen, en sabotearlo. Me ha dicho esto:
