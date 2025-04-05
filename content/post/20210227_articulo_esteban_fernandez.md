@@ -1,14 +1,21 @@
 ---
-title: "¿Ha cambiado el humor?"
-description: "Reflexiones al hilo de un artículo de Esteban Hernández"
-date: 2021-02-27
-url: /2021/reflexiones-articulo-esteban-hernandez/
 categories:
-  - "ética"
+- ética
+date: 2021-02-27
+description: Reflexiones al hilo de un artículo de Esteban Hernández
+lastmod: '2025-04-06T01:39:06.823885'
+related:
+- 20210425_corrupcion_arte_contemporaneo.md
+- 20210104_bioetica.md
+- 20240514_cortos.md
+- 20211210_principios_moral.md
+- 20210109_moralizacion_amoralizacion.md
 tags:
-  - "ética"
-  - "política"
-  - "humor"
+- ética
+- política
+- humor
+title: ¿Ha cambiado el humor?
+url: /2021/reflexiones-articulo-esteban-hernandez/
 ---
 
 > I am convinced that a majority of the learned philosophers who have written treatises on laughter and the comic never saw a baby. ---Max Eastman

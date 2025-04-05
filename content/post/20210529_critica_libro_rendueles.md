@@ -1,15 +1,23 @@
 ---
-title: Claves para leer "Contra la igualdad de oportunidades"
-description: Una crítica del libro "Contra la igualdad de oportunidades, un panfleto igualitarista" de César Rendueles
-date: 2021-05-29
-url: /2021/critica-libro-rendueles-igualdad-oportunidades/
 categories:
-  - "política"
-  - "economía"
+- política
+- economía
+date: 2021-05-29
+description: Una crítica del libro "Contra la igualdad de oportunidades, un panfleto
+  igualitarista" de César Rendueles
+lastmod: '2025-04-06T01:37:30.836578'
+related:
+- 20210104_bioetica.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20220108_disidencia.md
+- 20210227_articulo_esteban_fernandez.md
+- 20230707_mas_sobre_terraplanismo.md
 tags:
-  - "economía"
-  - "política"
-  - "libros"
+- economía
+- política
+- libros
+title: Claves para leer "Contra la igualdad de oportunidades"
+url: /2021/critica-libro-rendueles-igualdad-oportunidades/
 ---
 
 [GPT-3](https://en.wikipedia.org/wiki/GPT-3) es una enorme red neuronal capaz de producir textos de muy alta calidad a partir de una serie de apuntes (_prompts_). Por ejemplo, enfrentado al apunte

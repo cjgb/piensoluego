@@ -1,14 +1,21 @@
 ---
-title: Un experimento mental con final abierto sobre la distribución de las vacunas
-description: ¿Y si se hubiese descentralizado la gestión de las vacunas?
-date: 2021-06-19
-url: /2021/descentralizacion-vacunas/
 categories:
-  - "economía"
+- economía
+date: 2021-06-19
+description: ¿Y si se hubiese descentralizado la gestión de las vacunas?
+lastmod: '2025-04-06T01:37:52.899034'
+related:
+- 20211212_riesgo_vacunas.md
+- 20210417_vacuna_dilema_tranvia.md
+- 20240322_caricaturas_antropologicas.md
+- 20210501_libertad_eleccion_educacion.md
+- 20240716_cortos.md
 tags:
-  - "economía"
-  - "covid"
-  - "vacunas"
+- economía
+- covid
+- vacunas
+title: Un experimento mental con final abierto sobre la distribución de las vacunas
+url: /2021/descentralizacion-vacunas/
 ---
 
 Esta entrada se limita a dejar constancia de un pequeño experimento mental con el que me entretuve hace unos días. No es, desde luego, una recomendación ni, siquiera, la manifestación de una preferencia personal. Es, como anuncio arriba, un mero experimento mental.

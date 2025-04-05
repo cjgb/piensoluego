@@ -1,14 +1,21 @@
 ---
-title: Supervivencia y ética corporativa
-description: La supervivencia como sustrato material de la ética corporativa
-date: 2021-10-30
-url: /2021/supervivencia-etica-corporativa/
 categories:
-  - "ética"
+- ética
+date: 2021-10-30
+description: La supervivencia como sustrato material de la ética corporativa
+lastmod: '2025-04-06T01:38:29.105117'
+related:
+- 20220624_bottomlines.md
+- 20201228_sobre_la_supervivencia.md
+- 20240703_cortos.md
+- 20211210_principios_moral.md
+- 20220121_justo_eficiente.md
 tags:
-  - "economía"
-  - "ética"
-  - "empresa"
+- economía
+- ética
+- empresa
+title: Supervivencia y ética corporativa
+url: /2021/supervivencia-etica-corporativa/
 ---
 
 Estoy leyendo un libro muy interesante: [_Morality, Competition, and the Firm: The Market Failures Approach to Business Ethics_](https://www.goodreads.com/book/show/20958352-morality-competition-and-the-firm).

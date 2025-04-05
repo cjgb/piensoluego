@@ -1,14 +1,21 @@
 ---
-title: ¿"Resolverá" la inmigración el "problema" de las pensiones?
-description: Sobre la sostenibilidad del sistema de pensiones en España
-date: 2021-07-10
-url: /2021/pensiones-inmigracion/
 categories:
-  - "economía"
+- economía
+date: 2021-07-10
+description: Sobre la sostenibilidad del sistema de pensiones en España
+lastmod: '2025-04-06T01:38:34.972104'
+related:
+- 20210903_pensiones_balanzas.md
+- 20250129_cortos.md
+- 20240628_capital_humano.md
+- 20240531_pensiones_jovenes.md
+- 20250326_cortos.md
 tags:
-  - "economía"
-  - "pensiones"
-  - "inmigración"
+- economía
+- pensiones
+- inmigración
+title: ¿"Resolverá" la inmigración el "problema" de las pensiones?
+url: /2021/pensiones-inmigracion/
 ---
 
 **I.**
@@ -62,6 +69,3 @@ Se fía popularmente la sostenibilidad del sistema al incremento de la població
 Pero esa no es la solución al problema de la solvencia. Cada inmigrante se convertirá en un pasivo semoviente de la Seguridad Social. La contribución neta _intertemporal_ de esa masa de inmigrantes será negativa salvo que se reequilibre la balanza.
 
 La llegada de inmigrantes serviría, a lo sumo, para hacer frente a un problema de liquidez temporal: afrontar el pago de las pensiones de esa generación nacida entre 1960 y 1975. Pero sin reequilibrio, será únicamente el proverbial _hambre para mañana_.
-
-
-

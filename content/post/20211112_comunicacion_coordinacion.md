@@ -1,15 +1,22 @@
 ---
-title: La comunicación como problema de coordinación
-description: Sobre la comunicación, puntos focales (o de Schelling), etc.
-date: 2021-11-12
-url: /2021/comunicacion-problema-coordinacion/
 categories:
-  - filosofía
-  - economía
+- filosofía
+- economía
+date: 2021-11-12
+description: Sobre la comunicación, puntos focales (o de Schelling), etc.
+lastmod: '2025-04-06T01:37:43.083799'
+related:
+- 20220617_metadiscusiones.md
+- 20240716_cortos.md
+- 20210627_derecho_punto_focal.md
+- 20220218_politica_informacion.md
+- 20220121_justo_eficiente.md
 tags:
-  - economía
-  - comunicación
-  - lenguaje
+- economía
+- comunicación
+- lenguaje
+title: La comunicación como problema de coordinación
+url: /2021/comunicacion-problema-coordinacion/
 ---
 
 El descriptivismo está de moda. El prescritivismo (o normativismo) se contempla con recelo.

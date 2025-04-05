@@ -1,14 +1,21 @@
 ---
-title: Dos metáforas físico-mecánicas de la economía
-description: Media y varianza en economía
-date: 2021-07-03
-url: /2021/economia-media-varianza/
 categories:
-  - "economía"
+- economía
+date: 2021-07-03
+description: Media y varianza en economía
+lastmod: '2025-04-06T01:38:17.812161'
+related:
+- 20211002_races_bottom.md
+- 20220916_ciencias_empiricas.md
+- 20250402_cortos.md
+- 20241220_maquinaria_gobierno.md
+- 20250108_cortos.md
 tags:
-  - "economía"
-  - "varianza"
-  - "riesgo"
+- economía
+- varianza
+- riesgo
+title: Dos metáforas físico-mecánicas de la economía
+url: /2021/economia-media-varianza/
 ---
 
 Esta es una ---conocidísima--- metáfora físico-mecánica (¿físico-hidráulica?) de la economía:

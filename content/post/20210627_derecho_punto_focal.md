@@ -1,13 +1,20 @@
 ---
-title: Sobre el derecho como conocimiento común y punto focal
-description: Sobre el derecho como conocimiento común y punto focal
-date: 2021-06-27
-url: /2021/derecho-punto-focal/
 categories:
-  - "derecho"
+- derecho
+date: 2021-06-27
+description: Sobre el derecho como conocimiento común y punto focal
+lastmod: '2025-04-06T01:38:42.011623'
+related:
+- 20240412_impuestos.md
+- 20220218_politica_informacion.md
+- 20240716_cortos.md
+- 20220121_justo_eficiente.md
+- 20240416_cortos.md
 tags:
-  - "derecho"
-  - "coordinación"
+- derecho
+- coordinación
+title: Sobre el derecho como conocimiento común y punto focal
+url: /2021/derecho-punto-focal/
 ---
 
 Leo [aquí](https://derechomercantilespana.blogspot.com/2021/06/el-rompecabezas-de-los-ninos-que-tenian.html?spref=tw):

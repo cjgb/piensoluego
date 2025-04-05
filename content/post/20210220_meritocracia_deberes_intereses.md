@@ -1,16 +1,22 @@
 ---
-title: "Meritocracia: deberes vs intereses"
-description: Reflexiones al hilo de un artículo de Gregorio Luri
-date: 2021-02-20
-url: /2021/reflexiones-articulo-gregorio-luri/
 categories:
-  - "ética"
+- ética
+date: 2021-02-20
+description: Reflexiones al hilo de un artículo de Gregorio Luri
+lastmod: '2025-04-06T01:38:02.868379'
+related:
+- 20220708_meritocracia.md
+- 20220701_merito.md
+- 20210501_libertad_eleccion_educacion.md
+- 20210612_exito_suerte.md
+- 20240514_cortos.md
 tags:
-  - "ética"
-  - "política"
-  - "desigualdad"
-  - "meritocracia"
-#menu: main
+- ética
+- política
+- desigualdad
+- meritocracia
+title: 'Meritocracia: deberes vs intereses'
+url: /2021/reflexiones-articulo-gregorio-luri/
 ---
 
 El artículo al que me refiero es [_¿La tiranía del mérito?_](https://theobjective.com/elsubjetivo/la-tirania-del-merito), de Gregorio Luri, publicado recientemente en la sección muy oportunamente denominada _elSubjetivo_ de [_TheObjective_](https://theobjective.com/). La entradilla que alguien eligió para el artículo, un breve fragmento del mismo extraído de su parte final, dice lo siguiente:

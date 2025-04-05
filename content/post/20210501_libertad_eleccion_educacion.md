@@ -1,16 +1,24 @@
 ---
-title: 'Sobre el estudio "Diversidad y libertad: Reducir la segregación escolar respetando la capacidad de elección de centro"'
-description: "Una visión subjetiva sobre sobre educación y políticas públicas al respecto"
-date: 2021-05-01
-url: /2021/reducir-segregacion-escolar-capacidad-eleccion/
 categories:
-  - "economía"
-  - "política"
+- economía
+- política
+date: 2021-05-01
+description: Una visión subjetiva sobre sobre educación y políticas públicas al respecto
+lastmod: '2025-04-06T01:39:04.203372'
+related:
+- 20240723_cortos.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20241126_cortos.md
+- 20240514_cortos.md
+- 20240716_cortos.md
 tags:
-  - "educación"
-  - "economía"
-  - "política"
-  - "artículos"
+- educación
+- economía
+- política
+- artículos
+title: 'Sobre el estudio "Diversidad y libertad: Reducir la segregación escolar respetando
+  la capacidad de elección de centro"'
+url: /2021/reducir-segregacion-escolar-capacidad-eleccion/
 ---
 
 En esta entrada voy a aportar unos comentarios personalísimos al el estudio [_Diversidad y libertad: Reducir la segregación escolar respetando la capacidad de elección de centro_](https://itemsweb.esade.edu/research/EsadeEcPol_Insight29_SavetheChildren_DiversidadLibertad_final.pdf) recientemente publicado por [EsadeEcPol](https://dobetter.esade.edu/es/autor/esadeecpol). Por _personalísimos_ quiero dar a entender que como _pater familias_ y con un vástago en edad preescolar, el tema me afecta directamente; como también lo hace indirectamente como miembro más o menos circunstancial de la sociedad a la que se dirige el estudio.

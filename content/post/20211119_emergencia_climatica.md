@@ -1,15 +1,22 @@
 ---
-title: ¿Emergencia climática?
-description: No hay emergencia climática sino fiscal
-date: 2021-11-19
-url: /2021/emergencia-climatica-fiscal/
 categories:
-  - "economía"
+- economía
+date: 2021-11-19
+description: No hay emergencia climática sino fiscal
+lastmod: '2025-04-06T01:39:01.151749'
+related:
+- 20220902_cambio_climatico_diferente_esta_vez.md
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20221209_cambios_tecnologicos.md
+- 20240112_precio_carbon.md
 tags:
-  - "economía"
-  - "ecología"
-  - "impuestos"
-  - "cambio climático"
+- economía
+- ecología
+- impuestos
+- cambio climático
+title: ¿Emergencia climática?
+url: /2021/emergencia-climatica-fiscal/
 ---
 
 Estas páginas no niegan el cambio climático. De hecho, [el clima no ha dejado de cambiar en los últimos 500 millones de años](https://www.climate.gov/news-features/climate-qa/whats-hottest-earths-ever-been).
@@ -29,5 +36,3 @@ Sin embargo, lo que se observa es un incremento (tanto actual como potencial) de
 Si fuese verdaderamente urgente luchar contra el cambio climático, si se quisiesen implementar cuanto antes las políticas que puedan retrasarlo, los poderes públicos harían más por recomponer sus ingresos fiscales que por incrementarlos. Que hagan lo segundo podría interpretarse como indicio de que en el fondo, lo del clima no les importa una higa y que sus aspavientos no son otra cosa que una maniobra de despiste para separarnos todavía más de nuestro dinero.
 
 El razonamiento anterior ha erosionado muy sustancialmente la fe que pudiera haber tenido en ese dogma de los tiempos modernos que es la _emergencia climática_de la que, hasta nueva evidencia, me declaro escéptico.
-
-

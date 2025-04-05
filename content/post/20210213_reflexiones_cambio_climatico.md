@@ -1,16 +1,22 @@
 ---
-title: "Sobre el cambio climático"
-description: Reflexiones sobre el cambio climático
-date: 2021-02-13
-url: /2021/reflexiones-cambio-climatico/
 categories:
-  - "ciencia"
+- ciencia
+date: 2021-02-13
+description: Reflexiones sobre el cambio climático
+lastmod: '2025-04-06T01:38:31.601116'
+related:
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20210104_bioetica.md
+- 20211119_emergencia_climatica.md
+- 20220916_ciencias_empiricas.md
+- 20220902_cambio_climatico_diferente_esta_vez.md
 tags:
-  - "ciencia"
-  - "cambio climático"
-  - "ética"
-  - "democracia"
-#menu: main
+- ciencia
+- cambio climático
+- ética
+- democracia
+title: Sobre el cambio climático
+url: /2021/reflexiones-cambio-climatico/
 ---
 
 > Now, given that humans are competitive social animals, it would be surprising if we chose this one arena—national politics—to suddenly live up to our altruistic ideals. ([The Elephant in the Brain](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain))

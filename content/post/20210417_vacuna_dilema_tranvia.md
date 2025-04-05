@@ -1,14 +1,21 @@
 ---
-title: "Vacunas y el dilema del tranvía"
-description: "La vacuna de AstraZeneca como aplicación práctica del dilema del tranvía"
-date: 2021-04-17
-url: /2021/vacuna-dilema-tranvia/
 categories:
-  - "ética"
+- ética
+date: 2021-04-17
+description: La vacuna de AstraZeneca como aplicación práctica del dilema del tranvía
+lastmod: '2025-04-06T01:38:44.451023'
+related:
+- 20211212_riesgo_vacunas.md
+- 20210104_bioetica.md
+- 20210619_descentralizacion_vacunas.md
+- 20230127_otra_conclusion_repugnante.md
+- 20210109_moralizacion_amoralizacion.md
 tags:
-  - "paradojas"
-  - "covid"
-  - "ética"
+- paradojas
+- covid
+- ética
+title: Vacunas y el dilema del tranvía
+url: /2021/vacuna-dilema-tranvia/
 ---
 
 Me autocito (de [aquí](/2021/etica-bioetica/)) a modo de introducción:
@@ -22,4 +29,3 @@ El contraejemplo ahí citado, el del tranvía, lo es para una doctrina ética, l
 Nuestras ---o algunas de nuestras--- instituciones sanitarias, sin embargo, piensan de otra forma. Ellas son las que disponen de la palanca y sus estatutos ---y, por lo tanto, sus incentivos--- han sido elaborados desde una perspectiva tal vez no enteramente pero sí sustancialmente anticonsecuencialista: han puesto trabas en un proceso de vacunación masivo, lo que _indirectamente_ acabará con la vida de unos cuantos sujetos, por salvar la de unos cuantos menos.
 
 Solo porque la de estos últimos recaería en su debe mientras la de aquellos, a lo más, en la de la providencia divina.
-

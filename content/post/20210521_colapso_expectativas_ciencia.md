@@ -1,16 +1,23 @@
 ---
-title: El colapso de las expectativas sobre la ciencia y la técnica
-description: "Cómo nos contaron que iba a ser el futuro"
-date: 2021-05-21
-url: /2021/colapso-expectativas-ciencia-tecnica/
 categories:
-  - "ciencia"
+- ciencia
+date: 2021-05-21
+description: Cómo nos contaron que iba a ser el futuro
+lastmod: '2025-04-06T01:38:21.433908'
+related:
+- 20240126_aciertos_futurologia.md
+- 20250108_cortos.md
+- 20220715_ciencia_energia_nuclear.md
+- 20250305_cortos.md
+- 20250219_cortos.md
 tags:
-  - "economía"
-  - "política"
-  - "progreso"
-  - "ciencia"
-  - "proyecciones"
+- economía
+- política
+- progreso
+- ciencia
+- proyecciones
+title: El colapso de las expectativas sobre la ciencia y la técnica
+url: /2021/colapso-expectativas-ciencia-tecnica/
 ---
 
 Esta han coincidido dos eventos relacionados: por un lado, hemos conocido cuál es la visión de la  [Oficina Nacional de Prospectiva y Estrategia de País a Largo Plazo](https://es.wikipedia.org/wiki/Oficina_Nacional_de_Prospectiva_y_Estrategia) para el año [2050](https://www.espana2050.com/) y, por el otro, haciendo limpieza de libros que ya nunca leeré, he tropezado con _Reportaje desde el siglo XXI_, de Vasilíev y Gúschev, que compré en junio del 95 según mi ex-libris de entonces, que había sido editado por Alianza editorial en 1971 a partir del original ruso de, se conoce, 1959.

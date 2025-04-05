@@ -1,15 +1,21 @@
 ---
-title: Ocasionalismo laico
-description: Ocasionalismo laico para las sociedades estatalizadas del s  XXI
-date: 2021-01-16
-url: /2021/ocasionalismo-laico/
 categories:
-  - "filosofía"
+- filosofía
+date: 2021-01-16
+description: Ocasionalismo laico para las sociedades estatalizadas del s  XXI
+lastmod: '2025-04-06T01:38:12.865387'
+related:
+- 20201228_sobre_la_supervivencia.md
+- 20210104_bioetica.md
+- 20220429_demora_publicacion_ley.md
+- 20220916_ciencias_empiricas.md
+- 20240416_cortos.md
 tags:
-  - "estado"
-  - "política"
-  - "ocasionalismo"
-#menu: main
+- estado
+- política
+- ocasionalismo
+title: Ocasionalismo laico
+url: /2021/ocasionalismo-laico/
 ---
 
 El [ocasionalismo](https://plato.stanford.edu/entries/occasionalism/) es una doctrina filosófica que no encuentra otra solución a que las cosas ocurran que el que esté Dios constantemente causándolas:

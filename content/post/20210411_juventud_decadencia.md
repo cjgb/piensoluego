@@ -1,15 +1,22 @@
 ---
-title: "O tempora, o mores"
-description: "Sobre la educación de la juventud"
-date: 2021-04-11
-url: /2021/juventud-decadencia-costumbres/
 categories:
-  - supervivencia
+- supervivencia
+date: 2021-04-11
+description: Sobre la educación de la juventud
+lastmod: '2025-04-06T01:38:03.410491'
+related:
+- 20220401_etica_a_prueba_paso_tiempo.md
+- 20250205_cortos.md
+- 20231208_miseria_filosofia.md
+- 20230310_colapso_demografico.md
+- 20240430_cortos.md
 tags:
-  - juventud
-  - supervivencia
-  - historia
-  - educación
+- juventud
+- supervivencia
+- historia
+- educación
+title: O tempora, o mores
+url: /2021/juventud-decadencia-costumbres/
 ---
 
 Es frecuente oír decir ---en toda la gama de grados, admite el autor--- que los malos hábitos y actitudes de la _juventud_ son indicio del ineludible colapso de nuestra civilización.

@@ -1,14 +1,21 @@
 ---
-title: 'La parábola de la ventana no rota'
-description: "Una visión subjetiva sobre sobre educación y políticas públicas al respecto"
-date: 2021-05-08
-url: /2021/parabola-ventana-no-rota/
 categories:
-  - "economía"
-  - "política"
+- economía
+- política
+date: 2021-05-08
+description: Una visión subjetiva sobre sobre educación y políticas públicas al respecto
+lastmod: '2025-04-06T01:38:40.518565'
+related:
+- 20210501_libertad_eleccion_educacion.md
+- 20240716_cortos.md
+- 20241105_cortos.md
+- 20240723_cortos.md
+- 20210515_progreso_visto_nino.md
 tags:
-  - "economía"
-  - "política"
+- economía
+- política
+title: La parábola de la ventana no rota
+url: /2021/parabola-ventana-no-rota/
 ---
 
 La parábola de la ventana rota fue formulada por Bastiat en 1850. La Wikipedia ([aquí](https://es.wikipedia.org/wiki/Falacia_de_la_ventana_rota)) la resume así:

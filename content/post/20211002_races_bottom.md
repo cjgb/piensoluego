@@ -1,13 +1,20 @@
 ---
-title: "Races to the bottom"
-description: Sobre el estado como guardián contra las "races to the bottom"
-date: 2021-10-01
-url: /2021/races-bottom/
 categories:
-  - "economía"
+- economía
+date: 2021-10-01
+description: Sobre el estado como guardián contra las "races to the bottom"
+lastmod: '2025-04-06T01:37:26.340279'
+related:
+- 20250101_cortos.md
+- 20210703_economia_media_varianza.md
+- 20240626_cortos.md
+- 20230526_selectividad.md
+- 20250402_cortos.md
 tags:
-  - "economía"
-  - "política"
+- economía
+- política
+title: Races to the bottom
+url: /2021/races-bottom/
 ---
 
 _[No sé cómo traducir "race to the bottom" al español. Así que usaré las sigla RtB en lo que sigue.]_

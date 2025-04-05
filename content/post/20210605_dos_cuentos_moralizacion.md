@@ -1,16 +1,24 @@
 ---
-title: Apuntes para dos cuentos sin pretensiones
-description: Apuntes para dos cuentos sin pretensiones sobre la moralización de la sociedad
-date: 2021-06-05
-url: /2021/dos-cuentos-moral/
 categories:
-  - "política"
-  - "economía"
+- política
+- economía
+date: 2021-06-05
+description: Apuntes para dos cuentos sin pretensiones sobre la moralización de la
+  sociedad
+lastmod: '2025-04-06T01:38:18.253210'
+related:
+- 20231027_aborto_en_2222.md
+- 20210612_exito_suerte.md
+- 20240322_caricaturas_antropologicas.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20231020_futuro_trabajo.md
 tags:
-  - "economía"
-  - "política"
-  - "cuentos"
-  - "prospectiva"
+- economía
+- política
+- cuentos
+- prospectiva
+title: Apuntes para dos cuentos sin pretensiones
+url: /2021/dos-cuentos-moral/
 ---
 
 Son dos cuentos que nunca desarrollaré pero de los que quiero dejar un indicio público. Por no tener, no tienen ni título y, uno de ellos, el primero, ni argumento: se trata de un mero decorado sobre el que podrían proyectarse una comedia romántica, un drama redencionista o un _thriller_ policíaco.

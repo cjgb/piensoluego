@@ -1,16 +1,22 @@
 ---
-title: Platón gana todas las guerras, pero Protágoras todas las batallas
-description: Sobre cómo el tiempo reconcilia a Sokal y Latour
-date: 2021-01-23
-url: /2021/reconciliacion-sokal-latour/
 categories:
-  - "filosofía"
-  - "ciencia"
+- filosofía
+- ciencia
+date: 2021-01-23
+description: Sobre cómo el tiempo reconcilia a Sokal y Latour
+lastmod: '2025-04-06T01:37:47.486387'
+related:
+- 20231208_miseria_filosofia.md
+- 20201228_sobre_la_supervivencia.md
+- 20210425_corrupcion_arte_contemporaneo.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20230707_mas_sobre_terraplanismo.md
 tags:
-  - "epistemología"
-  - "sokal"
-  - "latour"
-#menu: main
+- epistemología
+- sokal
+- latour
+title: Platón gana todas las guerras, pero Protágoras todas las batallas
+url: /2021/reconciliacion-sokal-latour/
 ---
 
 Esta entrada tercia en el conflicto de posturas entre Sokal y Latour que el primero, junto con su coautor, describe en [_Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science_](https://www.goodreads.com/book/show/130479.Fashionable_Nonsense). En realidad, se enzarzan en dos capítulos distintos del libro, aunque para los efectos de esta entrada, el conflicto relevante es el que se describe en el capítulo dedicado a la sociología de la ciencia. Voy a comenzar con una breve semblanza de los dos protagonistas.

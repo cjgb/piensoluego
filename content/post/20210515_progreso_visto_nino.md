@@ -1,15 +1,22 @@
 ---
-title: "El progreso, visto por un niño"
-description: "El progreso, visto por un niño"
-date: 2021-05-15
-url: /2021/progreso-visto-nino/
 categories:
-  - "economía"
-  - "política"
+- economía
+- política
+date: 2021-05-15
+description: El progreso, visto por un niño
+lastmod: '2025-04-06T01:38:56.306035'
+related:
+- 20240723_cortos.md
+- 20210508_parabola_ventana_no_rota.md
+- 20250108_cortos.md
+- 20240524_cortos.md
+- 20210612_exito_suerte.md
 tags:
-  - "economía"
-  - "política"
-  - "progreso"
+- economía
+- política
+- progreso
+title: El progreso, visto por un niño
+url: /2021/progreso-visto-nino/
 ---
 
 Hace muchos años, cuando yo era un niño muy, muy pequeño, y volvíamos del pueblo, a veces, generalmente cuando se nos había hecho tarde y ya había anochecido, mi padre tomaba la autopista de peaje, el tramo Gallur-Zaragoza.

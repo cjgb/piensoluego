@@ -1,17 +1,25 @@
 ---
-title: Sobre "Éxito y suerte. El mito de la meritocracia."
-description: Crítica del libro "Éxito y suerte, el mito de la meritocracia" de Robert Frank
-date: 2021-06-12
-url: /2021/exito-suerte/
 categories:
-  - "economía"
-  - "política"
+- economía
+- política
+date: 2021-06-12
+description: Crítica del libro "Éxito y suerte, el mito de la meritocracia" de Robert
+  Frank
+lastmod: '2025-04-06T01:37:59.165094'
+related:
+- 20220708_meritocracia.md
+- 20250129_cortos.md
+- 20241204_cortos.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20240723_cortos.md
 tags:
-  - "azar"
-  - "economía"
-  - "política"
-  - "libros"
-  - "meritocracia"
+- azar
+- economía
+- política
+- libros
+- meritocracia
+title: Sobre "Éxito y suerte. El mito de la meritocracia."
+url: /2021/exito-suerte/
 ---
 
 Acabo de terminar el libro de Robert Frank que da nombre a esta entrada y me ha apetecido dejar escritas unas líneas sobre él.

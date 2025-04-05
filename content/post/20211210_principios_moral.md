@@ -1,16 +1,23 @@
 ---
-title: Principios de moral
-description: Principios de moral desde la óptica de la supervivencia y la evolución
-date: 2021-12-10
-url: /2021/principios-de-moral/
 categories:
-  - "ética"
+- ética
+date: 2021-12-10
+description: Principios de moral desde la óptica de la supervivencia y la evolución
+lastmod: '2025-04-06T01:38:10.350765'
+related:
+- 20210104_bioetica.md
+- 20210109_moralizacion_amoralizacion.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20220401_etica_a_prueba_paso_tiempo.md
+- 20221202_fundamentos_moral.md
 tags:
-  - "moral"
-  - "ética"
-  - "principios"
-  - "supervivencia"
-  - "evolución"
+- moral
+- ética
+- principios
+- supervivencia
+- evolución
+title: Principios de moral
+url: /2021/principios-de-moral/
 ---
 
 En esta entrada voy a establecer primero y discutir mínimamente después unos _principios de la moral_. Más que como verdades ontológicas ---sobre lo que no me pronunciaré--- lo haré como una _perspectiva_ ---que estimo muy fructífera--- que nos permite entender y razonar sobre los problemas morales.

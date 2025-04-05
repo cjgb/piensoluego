@@ -1,14 +1,20 @@
 ---
-title: Moral, moralización y amoralización
-description: Sobre los procesos de moralización y amoralización
-date: 2021-01-09
-url: /2021/moral-moralizacion-amoralizacion/
 categories:
-  - "ética"
+- ética
+date: 2021-01-09
+description: Sobre los procesos de moralización y amoralización
+lastmod: '2025-04-06T01:38:30.145448'
+related:
+- 20210104_bioetica.md
+- 20211210_principios_moral.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20220401_etica_a_prueba_paso_tiempo.md
+- 20221202_fundamentos_moral.md
 tags:
-  - "ética"
-  - "moralización"
-#menu: main
+- ética
+- moralización
+title: Moral, moralización y amoralización
+url: /2021/moral-moralizacion-amoralizacion/
 ---
 
 He leído recientemente dos entradas ([esta](https://evolucionyneurociencias.blogspot.com/2020/12/sobre-la-moralizacion-de-la-respuesta.html) y [esta](https://evolucionyneurociencias.blogspot.com/2020/12/moralizacion-de-la-respuesta-la-covid.html)) en el blog ---muy recomendable--- [Evolución y Neurociencias](https://evolucionyneurociencias.blogspot.com/) que tratan la llamada _moralización_ de la respuesta al codiv. Pero no me voy a referir hoy tanto al fondo de la cuestión que discute y las conclusiones que alcanza su autor ---que me son, al fin y al cabo, simpáticas---, como a describir y, si me da tiempo, criticar, el marco conceptual que le sirve de apoyo.

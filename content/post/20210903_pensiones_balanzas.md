@@ -1,14 +1,21 @@
 ---
-title: "Pensiones: la imagen de las 100 balanzas"
-description: Sobre la sostenibilidad del sistema de pensiones en España
-date: 2021-09-03
-url: /2021/pensiones-balanzas/
 categories:
-  - "economía"
+- economía
+date: 2021-09-03
+description: Sobre la sostenibilidad del sistema de pensiones en España
+lastmod: '2025-04-06T01:37:16.290204'
+related:
+- 20210710_inmigracion_pensiones.md
+- 20240628_capital_humano.md
+- 20240531_pensiones_jovenes.md
+- 20250129_cortos.md
+- 20231020_futuro_trabajo.md
 tags:
-  - "economía"
-  - "pensiones"
-  - "inmigración"
+- economía
+- pensiones
+- inmigración
+title: 'Pensiones: la imagen de las 100 balanzas'
+url: /2021/pensiones-balanzas/
 ---
 
 Mi última entrada versó sobre el asunto de las pensiones. En esta quiero volver sobre el asunto de otra manera por dos motivos. El primero, porque pensé que hacía falta buscar una imagen mucho más gráfica para representar las ideas que allí se contenían; el segundo y más fundamental, porque creo haberla encontrado.
@@ -22,5 +29,3 @@ Sin embargo, la imagen de las cien balanzas exige respuestas más matizadas. Las
 Con cien balanzas, queda claro que la aportación de cada contribuyente _medio_ ---no ha lugar explicar lo que sucede con cada contribuyente _individual_ entre gente sensata--- tiene que ser neutra en cada una de las siguientes cien balanzas.
 
 Lo que conduce _gráficamente_ a la misma conclusión que se trató en la última entrada: encontrar una manera de que la contribución esperada de cada cotizante sea intertemporalmente neutra.
-
-

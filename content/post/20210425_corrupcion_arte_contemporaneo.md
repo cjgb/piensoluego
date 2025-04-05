@@ -1,13 +1,21 @@
 ---
-title: '¿Debería elaborarse un "barómetro à la CIS" entre los "artistas contemporáneos"?'
-description: "Acerca de un vídeo de Paloma Pájaro sobre la corrupción del arte contemporáneo en España"
-date: 2021-04-24
-url: /2021/corrupcion-arte-contemporaneo/
 categories:
-  - "política"
+- política
+date: 2021-04-24
+description: Acerca de un vídeo de Paloma Pájaro sobre la corrupción del arte contemporáneo
+  en España
+lastmod: '2025-04-06T01:38:20.987520'
+related:
+- 20240514_cortos.md
+- 20210227_articulo_esteban_fernandez.md
+- 20201228_sobre_la_supervivencia.md
+- 20240619_cortos.md
+- 20220617_metadiscusiones.md
 tags:
-  - "arte"
-  - "política"
+- arte
+- política
+title: ¿Debería elaborarse un "barómetro à la CIS" entre los "artistas contemporáneos"?
+url: /2021/corrupcion-arte-contemporaneo/
 ---
 
 La entrada de hoy versa sobre el siguiente vídeo:

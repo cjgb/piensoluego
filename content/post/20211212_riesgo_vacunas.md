@@ -1,14 +1,21 @@
 ---
-title: Riesgos y vacunas
-description: "Las vacunas: ¿es legítimo imponer riesgos sobre los demás?"
-date: 2021-12-12
-url: /2021/riesgo-vacunas/
 categories:
-  - "ética"
+- ética
+date: 2021-12-12
+description: 'Las vacunas: ¿es legítimo imponer riesgos sobre los demás?'
+lastmod: '2025-04-06T01:37:34.447384'
+related:
+- 20210417_vacuna_dilema_tranvia.md
+- 20210619_descentralizacion_vacunas.md
+- 20220527_spiegelhalter_beber_conducir.md
+- 20210109_moralizacion_amoralizacion.md
+- 20250129_cortos.md
 tags:
-  - "ética"
-  - "covid"
-  - "vacunas"
+- ética
+- covid
+- vacunas
+title: Riesgos y vacunas
+url: /2021/riesgo-vacunas/
 ---
 
 Aunque planteada con toda la crudeza, la pregunta sobre si es lícito poner en peligro (incluso de muerte) a otros parece suscitar en nosotros una respuesta moral negativa, la realidad es que es algo que ocurre rutinariamente. Por ejemplo, sucede así con el tráfico rodado: los conductores ponen en peligro tanto a peatones y ciclistas como a otros conductores ---por no hablar de a sí mismos---; no obstante, está permitido conducir todo tipo de vehículos.
