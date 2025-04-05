@@ -1,6 +1,6 @@
 ---
 title: 'Sobre la inobservancia de los microfundamentos en economía: de Marx a Jesús Fernández Villaverde'
-description: "Los microfundamnetos son esenciales paa entender el funcionamiento de la economía, pero es fácil ignorarlos y asumir posturas 'funcionalistas' alejadas de la realidad."
+description: "Los microfundamnetos son esenciales paa entender el funcionamiento de la economía, pero es tentador ignorarlos y asumir posturas 'funcionalistas' alejadas de la realidad."
 date: 2025-03-28
 url: /2025/microfundamentos-economia
 categories:
