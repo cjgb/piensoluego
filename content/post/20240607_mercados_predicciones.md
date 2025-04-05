@@ -1,14 +1,21 @@
 ---
-title: 'Mercados de predicciones: ¿sí o no?'
-date: 2024-06-07
-url: /2024/mercados-apuestas
 categories:
-  - economía
+- economía
+date: 2024-06-07
+lastmod: '2025-04-06T01:37:45.270275'
+related:
+- 20240716_cortos.md
+- 20240430_cortos.md
+- 20250103_ganar_sistematicamente.md
+- 20250328_microfundamentos.md
+- 20250101_cortos.md
 tags:
-  - economía
-  - medios
-  - epistemología
-  - mercados de apuestas
+- economía
+- medios
+- epistemología
+- mercados de apuestas
+title: 'Mercados de predicciones: ¿sí o no?'
+url: /2024/mercados-apuestas
 ---
 
 Tiene Scott Alexander un [promptuario de sobre mercados de apuestas](https://www.astralcodexten.com/p/prediction-market-faq) en el que:
@@ -41,6 +48,3 @@ Efectivamente, Scott Alexander considera reiteradamente las externalidades posit
 **Coda:** Personalmente, participo en [Hypermind](https://lepoint.hypermind.com/hypermind/app.html#rewards) más como _jugador_ que como _experto_. Lo cual me permite corroborar empíricamente la bondad de los argumentos de ambas partes.
 
 **Otra coda:** En el artículo [_On the ethics of pollsters or journalists or political scientists betting on prediction markets_](https://statmodeling.stat.columbia.edu/2023/02/02/on-the-ethics-of-pollsters-or-journalists-or-political-scientists-betting-on-prediction-markets/) se discute el fenómeno de los mercados de apuestas argumentando dos cosas: 1) su pequeña utilidad y 2) los problemas éticos que puede llegar a plantear participar en ellos. Para gustos, ¡colores!
-
-
-

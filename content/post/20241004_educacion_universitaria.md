@@ -1,14 +1,22 @@
 ---
-title: 'Más sobre la educación universitaria como industria exportadora'
-description: "Sobre la posibilidad de exportar servicios de formación universitaria en España y el papel de las universidades privadas en ese mercado."
-date: 2024-10-04
-url: /2024/exportacion-educacion-universitaria
 categories:
 - economía
+date: 2024-10-04
+description: Sobre la posibilidad de exportar servicios de formación universitaria
+  en España y el papel de las universidades privadas en ese mercado.
+lastmod: '2025-04-06T01:38:53.551649'
+related:
+- 20241001_cortos.md
+- 20241126_cortos.md
+- 20240521_cortos.md
+- 20250115_cortos.md
+- 20210501_libertad_eleccion_educacion.md
 tags:
 - educación
 - economía
 - universidad
+title: Más sobre la educación universitaria como industria exportadora
+url: /2024/exportacion-educacion-universitaria
 ---
 
 ### I.

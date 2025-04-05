@@ -1,13 +1,20 @@
 ---
-title: 'La ciencia como "confianza verificada"'
-date: 2024-05-10
-url: /2024/ciencia-confianza-verificada
 categories:
-  - epistemología
+- epistemología
+date: 2024-05-10
+lastmod: '2025-04-06T01:38:46.941735'
+related:
+- 20230414_entendiendo_terraplanistas.md
+- 20210130_ciencia_tecnologia.md
+- 20230707_mas_sobre_terraplanismo.md
+- 20210123_sokal_latour.md
+- 20250115_cortos.md
 tags:
-  - epistemología
-  - ciencia
-  - terraplanismo
+- epistemología
+- ciencia
+- terraplanismo
+title: La ciencia como "confianza verificada"
+url: /2024/ciencia-confianza-verificada
 ---
 
 [_Science as Verified Trust_](https://www.bookandsword.com/2022/04/16/science-as-verified-trust/) arranca así:

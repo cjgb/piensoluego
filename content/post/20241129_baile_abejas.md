@@ -1,14 +1,21 @@
 ---
-title: 'La inane danza de las abejas'
-date: 2024-11-29
-url: /2024/baile-abejas
 categories:
 - epistemología
+date: 2024-11-29
+lastmod: '2025-04-06T01:38:42.545484'
+related:
+- 20220108_disidencia.md
+- 20210529_critica_libro_rendueles.md
+- 20210104_bioetica.md
+- 20210227_articulo_esteban_fernandez.md
+- 20240405_modelos_mentales.md
 tags:
 - epistemología
 - prejuicios
 - abejas
 - feynman
+title: La inane danza de las abejas
+url: /2024/baile-abejas
 ---
 
 Karl R. von Frisch descubrió lo que se llama la
@@ -22,5 +29,3 @@ El problema es que la danza es totalmente inefectiva (al menos, en países como 
 - En consecuencia, el rendimiento de las abejas que siguen las indicaciones de la danza y el de las que no es indistinguible.
 
 En definitiva, se trata de otra versión del [_cargo cult_ de Feynman](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!), con sus mismas lecturas y aplicaciones.
-
-

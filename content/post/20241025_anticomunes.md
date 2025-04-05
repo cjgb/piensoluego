@@ -1,13 +1,21 @@
 ---
-title: 'Conceptos importantes (pero no lo suficientemente conocidos) para entender lo que ocurre hoy: los anticomunes'
-date: 2024-10-25
-url: /2024/anticomunes
 categories:
 - economía
+date: 2024-10-25
+lastmod: '2025-04-06T01:38:15.613934'
+related:
+- 20241204_cortos.md
+- 20250212_cortos.md
+- 20250402_cortos.md
+- 20240716_cortos.md
+- 20240416_cortos.md
 tags:
 - vivienda
 - anticomunes
 - comunes
+title: 'Conceptos importantes (pero no lo suficientemente conocidos) para entender
+  lo que ocurre hoy: los anticomunes'
+url: /2024/anticomunes
 ---
 
 El asunto de los comunes y su _tragedia_ es, pienso, sobradamente conocido ya. Pero como concepto o modelo para entender lo que ocurre no es tan útil como el concepto _dual_ de los _anticomunes_. Le he pedido a Perplexity que me muestre unos cuantos ejemplos de la cosa y, prácticamente me ha escrito la entrada completamente. Me ha dicho:
@@ -28,4 +36,3 @@ El asunto de los comunes y su _tragedia_ es, pienso, sobradamente conocido ya. P
 > Estos ejemplos ilustran cómo los derechos de propiedad fragmentados o los poderes de veto excesivos pueden llevar a la subutilización de recursos, que es el concepto central de la _tragedia de los anticomunes_.
 
 Omite el que pensaba que era el ejemplo canónico: el negocio de especias medieval entre la India y Europa. Pero es muy oportuno ---y es, precisamente, a donde quería llegar--- que cite el ejemplo de la vivienda urbana. _Desafortunadamente_ (según desde dónde se mire la cosa), se centra en la forma concreata que dizque adopta la tragedia de los anticomunes en el mercado de la vivienda en los EEUU. En España hay otros; están relacionados, sí, pero son distintos.
-

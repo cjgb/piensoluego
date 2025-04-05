@@ -1,15 +1,22 @@
 ---
-title: 'La paradoja de la escasez de vivienda: el caso de Portugal'
-date: 2024-12-06
-url: /2024/vivienda-portugal
 categories:
 - economía
 - política
+date: 2024-12-06
+lastmod: '2025-04-06T01:37:56.425935'
+related:
+- 20241204_cortos.md
+- 20250129_cortos.md
+- 20240705_construccion.md
+- 20250326_cortos.md
+- 20230303_ferrovial.md
 tags:
 - economía
 - política
 - portugal
 - vivienda
+title: 'La paradoja de la escasez de vivienda: el caso de Portugal'
+url: /2024/vivienda-portugal
 ---
 
 Esta semana he escrito una serie de [cortos sobre vivienda](/2024/cortos-25/) y quiero explayarme en algunos aspectos del llamado problema. En particular, sobre la paradoja que nadie parece discutir a la que hacía mención al final de esa entrada. La voy a ilustrar con un asunto relacionado con nuestro vecino Portugal.

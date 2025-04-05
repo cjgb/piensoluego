@@ -1,12 +1,19 @@
 ---
-title: 'Veblen, clase ociosa y progreso tecnológico'
-date: 2024-09-27
-url: /2024/veblen-clase-ociosa
 categories:
-  - política
+- política
+date: 2024-09-27
+lastmod: '2025-04-06T01:37:58.278921'
+related:
+- 20250328_microfundamentos.md
+- 20240416_cortos.md
+- 20210605_dos_cuentos_moralizacion.md
+- 20250212_cortos.md
+- 20250312_cortos.md
 tags:
-  - economía
-  - veblen
+- economía
+- veblen
+title: Veblen, clase ociosa y progreso tecnológico
+url: /2024/veblen-clase-ociosa
 ---
 
 Le he preguntado a Claude acerca de Veblen, lo que él llama la clase ociosa y su relación con el desarrollo tecnológico. En particular, si esta clase ociosa tiene algún tipo de interés, siempre según Veblen, en sabotearlo. Me ha dicho esto:

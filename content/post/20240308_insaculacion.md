@@ -1,13 +1,20 @@
 ---
-title: 'Sobre la insaculación'
-date: 2024-03-08
-url: /2024/insaculacion
 categories:
-  - política
+- política
+date: 2024-03-08
+lastmod: '2025-04-06T01:37:32.326993'
+related:
+- 20230602_evaluacion_reincidencia.md
+- 20220304_cantonalizacion_partidos.md
+- 20241119_cortos.md
+- 20250314_promesas_electorales.md
+- 20231201_indultos.md
 tags:
-  - política
-  - democracia
-  - insaculación
+- política
+- democracia
+- insaculación
+title: Sobre la insaculación
+url: /2024/insaculacion
 ---
 
 ### I.

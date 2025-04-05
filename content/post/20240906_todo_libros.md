@@ -1,13 +1,20 @@
 ---
-title: 'Todo está en los libros, pero algunos quieren que solo esté en ellos'
-date: 2024-09-06
-url: /2024/todo-en-libros
 categories:
-  - tecnología
+- tecnología
+date: 2024-09-06
+lastmod: '2025-04-06T01:37:21.875354'
+related:
+- 20250110_soberania_tecnologica.md
+- 20240524_cortos.md
+- 20220311_interactuar_libros.md
+- 20240223_soluciones_sin_problema.md
+- 20250312_cortos.md
 tags:
-  - libros
-  - llms
-  - japón
+- libros
+- llms
+- japón
+title: Todo está en los libros, pero algunos quieren que solo esté en ellos
+url: /2024/todo-en-libros
 ---
 
 Japón se desarrolló muy rápidamente a partir de 1870. Alex Tabarrok estudia [aquí](https://marginalrevolution.com/marginalrevolution/2024/07/not-lost-in-translation-how-barbarian-books-laid-the-foundation-for-japans-industrial-revoluton.html) una cuestión que bien pudo ayudar a tal desarrollo: el increíble esfuerzo de traducción (al japonés) de libros técnicos en ese periodo, ilustrado en el siguiente gráfico:

@@ -1,13 +1,20 @@
 ---
-title: 'Medios antilombriz'
-date: 2024-06-21
-url: /2024/antilombriz
 categories:
-  - política
+- política
+date: 2024-06-21
+lastmod: '2025-04-06T01:37:46.147153'
+related:
+- 20240119_compra_medios.md
+- 20240409_cortos.md
+- 20240430_cortos.md
+- 20240716_cortos.md
+- 20250212_cortos.md
 tags:
-  - política
-  - economía
-  - medios
+- política
+- economía
+- medios
+title: Medios antilombriz
+url: /2024/antilombriz
 ---
 
 Cultivo lombrices en casa ---capturé unos cuantos ejemplares en la orilla del río--- con la esperanza vagamente inspirada en conocimiento científico de que, en el momento en que se afiance y crezca la colonia, me ayuden a transformar basura en suelo rico para las macetas.

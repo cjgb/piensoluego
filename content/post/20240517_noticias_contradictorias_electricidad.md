@@ -1,14 +1,21 @@
 ---
-title: 'Mercados eléctricos: dos noticias contradictorias'
-date: 2024-05-17
-url: /2024/noticias-contradictorias-mercados-electricos
 categories:
-  - economía
+- economía
+date: 2024-05-17
+lastmod: '2025-04-06T01:37:31.352308'
+related:
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20250219_cortos.md
+- 20220715_ciencia_energia_nuclear.md
+- 20240402_cortos.md
+- 20240712_economia_politica.md
 tags:
-  - economía
-  - mercado eléctrico
-  - aporías
-  - modelos mentales
+- economía
+- mercado eléctrico
+- aporías
+- modelos mentales
+title: 'Mercados eléctricos: dos noticias contradictorias'
+url: /2024/noticias-contradictorias-mercados-electricos
 ---
 
 En lógica, de darse por cierta una aporía, puede probarse cualquier cosa.
@@ -26,4 +33,3 @@ Por el otro,
 a causa del _derrumbe del precio de la electricidad_.
 
 ¿Qué modelo mental soporta simultáneamente ambos hechos?
-

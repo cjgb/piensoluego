@@ -1,13 +1,20 @@
 ---
-title: '¿Hemos olvidado de cómo construir (viviendas)?'
-date: 2024-07-05
-url: /2024/construccion-viviendas
 categories:
-  - economía
+- economía
+date: 2024-07-05
+lastmod: '2025-04-06T01:38:45.432581'
+related:
+- 20241206_vivienda_portugal.md
+- 20241018_cooperativas_vivienda.md
+- 20241204_cortos.md
+- 20250212_cortos.md
+- 20250124_tarifas_vivienda.md
 tags:
-  - política
-  - economía
-  - medios
+- política
+- economía
+- medios
+title: ¿Hemos olvidado de cómo construir (viviendas)?
+url: /2024/construccion-viviendas
 ---
 
 Unas cuantas noticias de antes de 2008:

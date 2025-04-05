@@ -1,12 +1,19 @@
 ---
-title: 'Economía y política: dos pares de ejes oblicuos'
-date: 2024-07-12
-url: /2024/economia-vs-politica
 categories:
-  - economía
+- economía
+date: 2024-07-12
+lastmod: '2025-04-06T01:38:47.822424'
+related:
+- 20230203_moral_nominal_vs_real.md
+- 20230120_crisis_economicas_estado.md
+- 20240412_impuestos.md
+- 20240716_cortos.md
+- 20220121_justo_eficiente.md
 tags:
-  - política
-  - modelos mentales
+- política
+- modelos mentales
+title: 'Economía y política: dos pares de ejes oblicuos'
+url: /2024/economia-vs-politica
 ---
 
 Discuto hoy otro [modelo mental](/tags/modelos-mentales/) para entender multitud de textos en los que se expone un conflicto entre economía y política. Lo hago en función de dos _ejes oblicuos_ (donde por _oblicuo_ entiendo que no son ortogonales, sino que guardan una cierta correlación).

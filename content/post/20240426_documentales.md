@@ -1,14 +1,21 @@
 ---
-title: 'La historia, según Alberto Olmos'
-date: 2024-04-26
-url: /2024/historia-olmos
 categories:
-  - otros
+- otros
+date: 2024-04-26
+lastmod: '2025-04-06T01:37:39.569116'
+related:
+- 20240514_cortos.md
+- 20210123_sokal_latour.md
+- 20240906_todo_libros.md
+- 20210227_articulo_esteban_fernandez.md
+- 20241227_trump_egan.md
 tags:
-  - epistemología
-  - historia
-  - alberto olmos
-  - guerra
+- epistemología
+- historia
+- alberto olmos
+- guerra
+title: La historia, según Alberto Olmos
+url: /2024/historia-olmos
 ---
 
 Cito a Alberto Olmos de [aquí](https://www.elconfidencial.com/cultura/2024-04-12/hispanoamerica-culpable-conquistar-america_3864645/):

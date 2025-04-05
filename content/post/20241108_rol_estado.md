@@ -1,12 +1,19 @@
 ---
-title: 'Recordatorio periódico: el rol del estado'
-date: 2024-11-08
-url: /2024/rol-estado
 categories:
 - política
+date: 2024-11-08
+lastmod: '2025-04-06T01:37:33.858299'
+related:
+- 20220121_justo_eficiente.md
+- 20240716_cortos.md
+- 20230407_limites_accion_estado.md
+- 20240416_cortos.md
+- 20250212_cortos.md
 tags:
 - política
 - economía
+title: 'Recordatorio periódico: el rol del estado'
+url: /2024/rol-estado
 ---
 
 En España es popular un discurso según el cual el estado tiene un papel fundamental en la provisión de sanidad y educación. Como si proporcionar sanidad y educación es el fin y la justificación del estado (y de las servidumbres asociadas a su existencia, como los impuestos, etc.). (Obviamente, "sanidad y educación" es solo un meme tamaño pancarta (o tuit): en realidad, los que lo defienden no quieren decir que el estado deba restringirse a esas tareas, pero es no obstante significativo que se trate de las que subrayen con mayor ahínco). Cuando sanidad y educación son servicios que en muchas sociedades exitosas son de provisión privada ---aun cuando el estado desempeñe en ellas cierto papel corrigiendo algunos desajustes del mercado---.
@@ -22,6 +29,3 @@ Uno puede comenzar a repasar tareas y asignárselas sea al estado o sea al secto
 - Gestión de emergencias: debe estar delegado en el sector público.
 
 Tenemos un estado que quiere abarcar mucho y que, a la vista está, aprieta poco.
-
-
-

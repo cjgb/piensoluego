@@ -1,13 +1,20 @@
 ---
-title: 'El problema de las soluciones sin problema'
-date: 2024-02-23
-url: /2024/soluciones-sin-problema
 categories:
-  - tecnología
+- tecnología
+date: 2024-02-23
+lastmod: '2025-04-06T01:38:15.175254'
+related:
+- 20240716_cortos.md
+- 20240607_mercados_predicciones.md
+- 20240906_todo_libros.md
+- 20240301_soluciones_sin_problema_ii.md
+- 20250312_cortos.md
 tags:
-  - periodismo
-  - substack
-  - scott alexander
+- periodismo
+- substack
+- scott alexander
+title: El problema de las soluciones sin problema
+url: /2024/soluciones-sin-problema
 ---
 
 Lo *normal* es que exista o aparezca un problema y que se le busque una solución. En el mundo de la tecnología, de vez en cuando, sucede lo contrario: aparece una solución y el *problema* consiste en encontrar un problema que resuelva.

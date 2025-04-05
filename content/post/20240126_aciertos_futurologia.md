@@ -1,13 +1,20 @@
 ---
-title: ¿Acierta (y dónde) la futurología?
-date: 2024-01-26
-url: /2024/aciertos-futurologia
 categories:
-  - epistemología
+- epistemología
+date: 2024-01-26
+lastmod: '2025-04-06T01:37:59.599276'
+related:
+- 20210521_colapso_expectativas_ciencia.md
+- 20221209_cambios_tecnologicos.md
+- 20231208_miseria_filosofia.md
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20240906_todo_libros.md
 tags:
-  - futurología
-  - epistemología
-  - energía
+- futurología
+- epistemología
+- energía
+title: ¿Acierta (y dónde) la futurología?
+url: /2024/aciertos-futurologia
 ---
 
 Existe un debate sobre cuánto y cómo acertaron las predicciones que se hicieron en décadas pasadas ---léase, Asimov, etc.--- sobre el mundo de hoy en día. Uno puede leer, por ejemplo,

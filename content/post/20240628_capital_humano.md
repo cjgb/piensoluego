@@ -1,17 +1,24 @@
 ---
-title: '¿Quién (qué) pagará nuestras pensiones? Si acaso, el capital humano'
-date: 2024-06-28
-url: /2024/capital-humano-pensiones
 categories:
-  - economía
+- economía
+date: 2024-06-28
+lastmod: '2025-04-06T01:38:44.889281'
+related:
+- 20210710_inmigracion_pensiones.md
+- 20210903_pensiones_balanzas.md
+- 20240531_pensiones_jovenes.md
+- 20240521_cortos.md
+- 20250129_cortos.md
 tags:
-  - política
-  - economía
-  - pensiones
-  - capital humano
-  - inmigración
-  - natalidad
-  - demografía
+- política
+- economía
+- pensiones
+- capital humano
+- inmigración
+- natalidad
+- demografía
+title: ¿Quién (qué) pagará nuestras pensiones? Si acaso, el capital humano
+url: /2024/capital-humano-pensiones
 ---
 
 El lector habrá encontrado escrita por ahí frases diciendo que estos o aquellos serán quienes paguen nuestras pensiones en el futuro. Sin embargo:

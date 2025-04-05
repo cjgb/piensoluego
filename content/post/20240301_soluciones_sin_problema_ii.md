@@ -1,16 +1,23 @@
 ---
-title: 'El problema de las soluciones sin problema (y II)'
-date: 2024-03-01
-url: /2024/soluciones-sin-problema-ii
 categories:
-  - tecnología
+- tecnología
+date: 2024-03-01
+lastmod: '2025-04-06T01:38:01.438716'
+related:
+- 20241126_cortos.md
+- 20250115_cortos.md
+- 20250402_cortos.md
+- 20250212_cortos.md
+- 20240319_cortos.md
 tags:
-  - investigación
-  - universidad
-  - productividad
-  - tabarrok
-  - ciencia
-  - bienes públicos
+- investigación
+- universidad
+- productividad
+- tabarrok
+- ciencia
+- bienes públicos
+title: El problema de las soluciones sin problema (y II)
+url: /2024/soluciones-sin-problema-ii
 ---
 
 La [entrada homónima de la semana](/2024/soluciones-sin-problema/) pasada ha devenido serie tras leer [_Is Science a Public Good?_](https://marginalrevolution.com/marginalrevolution/2024/02/is-science-a-public-good.html), que ChatGPT y yo resumimos así:

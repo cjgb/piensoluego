@@ -1,11 +1,18 @@
 ---
-title: 'Lo que dizque hay que saber sobre las cooperativas no es esto'
-date: 2024-10-11
-url: /2024/cooperativas
 categories:
 - economía
+date: 2024-10-11
+lastmod: '2025-04-06T01:38:11.059331'
+related:
+- 20250328_microfundamentos.md
+- 20240521_cortos.md
+- 20241018_cooperativas_vivienda.md
+- 20240409_cortos.md
+- 20240716_cortos.md
 tags:
 - cooperativas
+title: Lo que dizque hay que saber sobre las cooperativas no es esto
+url: /2024/cooperativas
 ---
 
 Esta entrada tiene que ver con la publicación en NadaEsGratis de [_Sin Patrón: Primer Empleo en una Cooperativa_](https://nadaesgratis.es/admin/sin-patron-primer-empleo-en-una-cooperativa). Es un pequeño artículo que leí con la intención ---a priori--- de ver mi micromodelo sobre las cooperativas felizmente confirmado una vez más.

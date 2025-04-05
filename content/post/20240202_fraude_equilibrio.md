@@ -1,14 +1,21 @@
 ---
-title: El fraude como equilibrio
-date: 2024-02-02
-url: /2024/fraude-equilibrio
 categories:
-  - economía
+- economía
+date: 2024-02-02
+lastmod: '2025-04-06T01:37:50.121533'
+related:
+- 20250326_cortos.md
+- 20241211_cortos.md
+- 20240626_cortos.md
+- 20211002_races_bottom.md
+- 20211030_supervivencia_etica_corporativa.md
 tags:
-  - economía
-  - política
-  - moral
-  - fraude
+- economía
+- política
+- moral
+- fraude
+title: El fraude como equilibrio
+url: /2024/fraude-equilibrio
 ---
 
 La primera y más importante lección que puede extraerse sobre este

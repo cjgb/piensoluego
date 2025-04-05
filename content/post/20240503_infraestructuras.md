@@ -1,14 +1,21 @@
 ---
-title: 'Carreteras en España vs carreteras en Francia'
-date: 2024-05-03
-url: /2024/carreteras-espana-francia
 categories:
-  - política
+- política
+date: 2024-05-03
+lastmod: '2025-04-06T01:37:40.890866'
+related:
+- 20220304_cantonalizacion_partidos.md
+- 20240524_cortos.md
+- 20250108_cortos.md
+- 20230303_ferrovial.md
+- 20240416_cortos.md
 tags:
-  - política
-  - españa
-  - francia
-  - infraestructuras
+- política
+- españa
+- francia
+- infraestructuras
+title: Carreteras en España vs carreteras en Francia
+url: /2024/carreteras-espana-francia
 ---
 
 Acabo de regresar de un viaje por Francia (centro y sur). Observo:

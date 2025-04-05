@@ -1,13 +1,20 @@
 ---
-title: 'Trump y mentes semieducadas'
-date: 2024-12-25
-url: /2024/trump-egan
 categories:
 - política
+date: 2024-12-25
+lastmod: '2025-04-06T01:38:47.384413'
+related:
+- 20240514_cortos.md
+- 20210501_libertad_eleccion_educacion.md
+- 20210227_articulo_esteban_fernandez.md
+- 20240430_cortos.md
+- 20220708_meritocracia.md
 tags:
 - política
 - libros
 - bulos
+title: Trump y mentes semieducadas
+url: /2024/trump-egan
 ---
 
 El _filósofo de la educación_ [Kieran Egan](https://es.wikipedia.org/wiki/Kieran_Egan)

@@ -1,15 +1,22 @@
 ---
-title: 'Modelos mentales'
-date: 2024-04-05
-url: /2024/modelos-mentales
 categories:
-  - epistemología
+- epistemología
+date: 2024-04-05
+lastmod: '2025-04-06T01:38:50.483515'
+related:
+- 20210104_bioetica.md
+- 20231208_miseria_filosofia.md
+- 20220108_disidencia.md
+- 20240514_cortos.md
+- 20220916_ciencias_empiricas.md
 tags:
-  - porfirio
-  - género
-  - especie
-  - bayesianismo
-  - modelos mentales
+- porfirio
+- género
+- especie
+- bayesianismo
+- modelos mentales
+title: Modelos mentales
+url: /2024/modelos-mentales
 ---
 
 ### I.

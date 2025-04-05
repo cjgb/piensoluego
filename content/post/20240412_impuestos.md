@@ -1,15 +1,22 @@
 ---
-title: 'Impuestos y emigración'
-date: 2024-04-12
-url: /2024/impuestos-emigracion
 categories:
-  - ética
+- ética
+date: 2024-04-12
+lastmod: '2025-04-06T01:37:48.814324'
+related:
+- 20240416_cortos.md
+- 20250129_cortos.md
+- 20250326_cortos.md
+- 20210627_derecho_punto_focal.md
+- 20220121_justo_eficiente.md
 tags:
-  - impuestos
-  - locke
-  - ética
-  - política
-  - emigración
+- impuestos
+- locke
+- ética
+- política
+- emigración
+title: Impuestos y emigración
+url: /2024/impuestos-emigracion
 ---
 
 ### I.

@@ -1,14 +1,22 @@
 ---
-title: '¿Podemos fiarnos de la opinión de los "expertos"? Una generalización del principio de Goodhart'
-date: 2024-01-05
-url: /2024/confianza-opinion-expertos
 categories:
-  - epistemología
+- epistemología
+date: 2024-01-05
+lastmod: '2025-04-06T01:37:22.318936'
+related:
+- 20220916_ciencias_empiricas.md
+- 20230602_evaluacion_reincidencia.md
+- 20201228_sobre_la_supervivencia.md
+- 20220218_politica_informacion.md
+- 20210213_reflexiones_cambio_climatico.md
 tags:
-  - epistemología
-  - expertos
-  - goodhart
-  - leo strauss
+- epistemología
+- expertos
+- goodhart
+- leo strauss
+title: ¿Podemos fiarnos de la opinión de los "expertos"? Una generalización del principio
+  de Goodhart
+url: /2024/confianza-opinion-expertos
 ---
 
 Trajo Scott Alexander una entrada en su blog,
@@ -36,8 +44,3 @@ Uno de los temas de este, parece ser, fue la de la indagación de mensajes y sub
 > La Directora de los CDC lee esos mismos documentos. Pero algún senador importante dice que si se anuncia la transmisión por aire, algunas industrias relevantes de su estado quebrarán. Ciudadanos Contra los Confinamientos argumenta que los CDC ya cometieron un error al hacer hincapié en la transmisión a través de las superficies de contacto, que más tarde se demostró que no existía [...]; algún congresista comprensivo le dice a la directora que si comete ese mismo error por segunda vez, será destituida. Uno de los documentos que afirma que la transmisión por aire es imposible proviene de Stanford, y la Directora le debe un favor al decano del departamento de epidemiología de Stanford por ayudar a obtener apoyo para una de sus políticas en alguna ocasión. Así que la Directora emite un comunicado de prensa diciendo que la evidencia no es _lo suficientemente fuerte_ como para afirmar definitivamente que la transmisión por aire ocurre y que revisarán el asunto más a fondo.
 
 ¡Así se cocina el subtexto!
-
-
-
-
-
