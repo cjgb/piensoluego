@@ -1,16 +1,23 @@
 ---
-title: 'Moral/economía nominal/real'
-date: 2023-02-03
-url: /2023/moral-nominal-real/
 categories:
-  - ética
+- ética
+date: 2023-02-03
+lastmod: '2025-04-06T01:38:33.034602'
+related:
+- 20220318_utilitarismo_paretianismo.md
+- 20210104_bioetica.md
+- 20220916_ciencias_empiricas.md
+- 20230127_otra_conclusion_repugnante.md
+- 20220909_homo_economicus.md
 tags:
-  - ética
-  - economía
-  - dualidad
-  - utilitarismo
-  - paretianismo
-  - bayesianismo
+- ética
+- economía
+- dualidad
+- utilitarismo
+- paretianismo
+- bayesianismo
+title: Moral/economía nominal/real
+url: /2023/moral-nominal-real/
 ---
 
 La economía (como _realidad_) es _dual_, como el universo de Descartes. Hay una economía real (productos y servicios que se generan e intercambian) y una nominal (números que se apuntan y borran de una serie de libros contables).

@@ -1,13 +1,20 @@
 ---
-title: 'Y libéranos de toda complejidad. Amén.'
-date: 2023-02-17
-url: /2023/liberanos-complejidad/
 categories:
-  - política
+- política
+date: 2023-02-17
+lastmod: '2025-04-06T01:38:50.922993'
+related:
+- 20230407_limites_accion_estado.md
+- 20240716_cortos.md
+- 20230512_complejidad_regulatoria.md
+- 20250312_cortos.md
+- 20250402_cortos.md
 tags:
-  - economía
-  - complejidad
-  - estado
+- economía
+- complejidad
+- estado
+title: Y libéranos de toda complejidad. Amén.
+url: /2023/liberanos-complejidad/
 ---
 
 Una de las funciones menos publicitadas de los estados ---y una de las que, por falta de énfasis y transparencia, menos eficazmente realizan--- es la de liberarnos de un porcentaje sustancial de la complejidad del mundo.
@@ -29,5 +36,3 @@ Por otro lado, existen marcas con una visibilidad y sometidas a un escrutinio ta
 Pero, de nuevo, aunque la lista pudiera ser sustancial, quedaría demasiado corta en términos de la potencial cuota de mercado de sus integrantes dentro del universo de bienes consumidos. Sería conveniente para todos que ciertas organizaciones pudieran optar a quedarse fuera de las regulaciones habituales, pero contraproducente aspirar a eliminarlas todas.
 
 Eso sí, allí donde el estado actuase para reducir la complejidad de lo que existe, debería pedírsele cuentas en términos de su eficacia en dicho sentido. Y no, simplemente, echar mano del argumento de la complejidad para justificar una simple extensión del poder coercitivo del estado.
-
-

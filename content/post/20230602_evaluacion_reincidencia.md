@@ -1,13 +1,20 @@
 ---
-title: 'Juicios estadísticos vs "clínicos" de nuevo'
-date: 2023-06-02
-url: /2023/juicios-estadisticos-clinicos/
 categories:
-  - derecho
+- derecho
+date: 2023-06-02
+lastmod: '2025-04-06T01:38:43.500786'
+related:
+- 20220916_ciencias_empiricas.md
+- 20231201_indultos.md
+- 20210104_bioetica.md
+- 20240308_insaculacion.md
+- 20210213_reflexiones_cambio_climatico.md
 tags:
-  - derecho
-  - expertos
-  - meehl
+- derecho
+- expertos
+- meehl
+title: Juicios estadísticos vs "clínicos" de nuevo
+url: /2023/juicios-estadisticos-clinicos/
 ---
 
 [Aquí](https://almacendederecho.org/inteligencia-artificial-peligrosidad-y-derecho-penal)

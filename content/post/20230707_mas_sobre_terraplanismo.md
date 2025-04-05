@@ -1,13 +1,20 @@
 ---
-title: 'Más sobre el terraplanismo'
-date: 2023-07-07
-url: /2023/mas-sobre-terraplanismo
 categories:
-  - ciencia
+- ciencia
+date: 2023-07-07
+lastmod: '2025-04-06T01:37:53.954362'
+related:
+- 20230414_entendiendo_terraplanistas.md
+- 20240726_otros_terraplanismos.md
+- 20210123_sokal_latour.md
+- 20240510_confianza_ciencia.md
+- 20210104_bioetica.md
 tags:
-  - ciencia
-  - epistemología
-  - terraplanismo
+- ciencia
+- epistemología
+- terraplanismo
+title: Más sobre el terraplanismo
+url: /2023/mas-sobre-terraplanismo
 ---
 
 Hay cosas que están en _escala humana_. Para entender las cosas en _escala humana_ no hace falta sino un poquitín de sentido común. No tienen mucho misterio.

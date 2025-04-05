@@ -1,13 +1,21 @@
 ---
-title: 'Lo que las micromuertes, microbodas, etc. nos enseñan sobre la suerte y el mérito'
-date: 2023-05-05
-url: /2023/micromuertes-suerte-merito/
 categories:
-  - ética
+- ética
+date: 2023-05-05
+lastmod: '2025-04-06T01:38:41.499665'
+related:
+- 20220701_merito.md
+- 20220708_meritocracia.md
+- 20210220_meritocracia_deberes_intereses.md
+- 20250103_ganar_sistematicamente.md
+- 20210612_exito_suerte.md
 tags:
-  - meritocracia
-  - micromuerte
-  - suerte
+- meritocracia
+- micromuerte
+- suerte
+title: Lo que las micromuertes, microbodas, etc. nos enseñan sobre la suerte y el
+  mérito
+url: /2023/micromuertes-suerte-merito/
 ---
 
 ## Micromuertes
@@ -24,4 +32,3 @@ Un personaje de internet cuyo nombre no viene al caso buscaba, se ve, casarse. E
 
 De la misma manera podría hablarse del éxito dentro de ese debate que se ha abierto sobre la meritocracia (ya tratada en estas páginas
 [antes](/tags/meritocracia/)). Lo que tengo que decir, a la vista de todo lo anterior, es más que evidente. Así que, en deferencia a la inteligencia del lector, lo callo.
-

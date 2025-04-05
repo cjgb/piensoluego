@@ -1,12 +1,19 @@
 ---
-title: 'Totalitarismo, autoritarismo, democracia y todas esas cosas'
-date: 2023-09-15
-url: /2023/totalitarismo-democracia-etc
 categories:
-  - política
+- política
+date: 2023-09-15
+lastmod: '2025-04-06T01:38:11.628297'
+related:
+- 20240209_porno_autoritarismo.md
+- 20210313_democracia_ergodica.md
+- 20240322_caricaturas_antropologicas.md
+- 20240216_topologia_moral.md
+- 20240514_cortos.md
 tags:
-  - política
-  - democracia
+- política
+- democracia
+title: Totalitarismo, autoritarismo, democracia y todas esas cosas
+url: /2023/totalitarismo-democracia-etc
 ---
 
 Traduzco (de [aquí](https://astralcodexten.substack.com/p/bad-definitions-of-democracy-and)):

@@ -1,13 +1,20 @@
 ---
-title: 'Cómo construir telescopios'
-date: 2023-01-06
-url: /2023/como-construir-telescopios/
 categories:
-  - supervivencia
+- supervivencia
+date: 2023-01-06
+lastmod: '2025-04-06T01:37:41.769725'
+related:
+- 20230512_complejidad_regulatoria.md
+- 20201228_sobre_la_supervivencia.md
+- 20221028_evaluacion_heuristicas.md
+- 20250221_friccion.md
+- 20210130_ciencia_tecnologia.md
 tags:
-  - supervivencia
-  - tecnología
-  - telescopios
+- supervivencia
+- tecnología
+- telescopios
+title: Cómo construir telescopios
+url: /2023/como-construir-telescopios/
 ---
 
 La regla de Thompson para fabricantes bisoños de telescopios dice:

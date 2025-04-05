@@ -1,15 +1,22 @@
 ---
-title: 'La dimensión cultural de la enfermedad mental'
-date: 2023-03-17
-url: /2023/dimension-cultural-enfermedad-mental/
 categories:
-  - ciencia
+- ciencia
+date: 2023-03-17
+lastmod: '2025-04-06T01:37:46.592546'
+related:
+- 20240430_cortos.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20250207_legalidad_moralidad.md
+- 20240904_cortos.md
+- 20250205_cortos.md
 tags:
-  - enfermedad mental
-  - cultura
-  - scott alexander
-  - libros
-  - siquiatría
+- enfermedad mental
+- cultura
+- scott alexander
+- libros
+- siquiatría
+title: La dimensión cultural de la enfermedad mental
+url: /2023/dimension-cultural-enfermedad-mental/
 ---
 
 Esta entrada solo pretende recoger una pequeña idea contenida en

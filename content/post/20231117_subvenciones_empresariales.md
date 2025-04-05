@@ -1,13 +1,20 @@
 ---
-title: 'Las subvenciones: el modelo'
-date: 2023-11-17
-url: /2023/subvenciones-el-modelo
 categories:
-  - economía
+- economía
+date: 2023-11-17
+lastmod: '2025-04-06T01:37:54.906986'
+related:
+- 20241211_cortos.md
+- 20230519_incentivos_periodismo.md
+- 20230721_greedflation.md
+- 20250328_microfundamentos.md
+- 20250101_cortos.md
 tags:
-  - economía
-  - empresas
-  - subvenciones
+- economía
+- empresas
+- subvenciones
+title: 'Las subvenciones: el modelo'
+url: /2023/subvenciones-el-modelo
 ---
 
 Se puede pensar en una empresa como en un conjunto de personas sentadas alrededor de un montón de dinero. Las personas van tomando dinero del montón ---nóminas, bonus, dividendos, etc.--- y con él pagan sus casas, sus coches, el colegio de sus niños, etc. Desafortunadamente, el dinero del montón se va consumiendo. Así que las personas que vivían felices simplemente agarrando fajos de billetes, se ven en la penosa y tediosa tesitura de pensar cómo añadir más dinero al menguante montón.

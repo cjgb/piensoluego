@@ -1,16 +1,23 @@
 ---
-title: 'Colapso demográfico, colapso del capital humano'
-date: 2023-03-10
-url: /2023/colapso-demografico-capital-humano/
 categories:
-  - supervivencia
+- supervivencia
+date: 2023-03-10
+lastmod: '2025-04-06T01:38:49.159398'
+related:
+- 20241101_valencia.md
+- 20231020_futuro_trabajo.md
+- 20250212_cortos.md
+- 20250205_cortos.md
+- 20240521_cortos.md
 tags:
-  - supervivencia
-  - decadencia
-  - colapso demográfico
-  - capital humano
-  - economía
-  - españa
+- supervivencia
+- decadencia
+- colapso demográfico
+- capital humano
+- economía
+- españa
+title: Colapso demográfico, colapso del capital humano
+url: /2023/colapso-demografico-capital-humano/
 ---
 
 _Huele a decadencia_. Así terminaba la anterior entrada de este blog y así principia la de hoy.

@@ -1,12 +1,20 @@
 ---
-title: 'Sobre la influencia de las ideas filosóficas contemporáneas en la política, la educación, etc.'
-date: 2023-12-08
-url: /2023/miseria-filosofia
 categories:
-  - filosofía
+- filosofía
+date: 2023-12-08
+lastmod: '2025-04-06T01:37:43.517838'
+related:
+- 20220916_ciencias_empiricas.md
+- 20250205_cortos.md
+- 20210123_sokal_latour.md
+- 20250115_cortos.md
+- 20210425_corrupcion_arte_contemporaneo.md
 tags:
-  - política
-  - filosofía
+- política
+- filosofía
+title: Sobre la influencia de las ideas filosóficas contemporáneas en la política,
+  la educación, etc.
+url: /2023/miseria-filosofia
 ---
 
 Hoy quiero resumir el argumento fundamental de

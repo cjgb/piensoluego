@@ -1,14 +1,21 @@
 ---
-title: 'Lecciones sobre una teoría trucha de la inflación'
-date: 2023-07-28
-url: /2023/inflacion-preferencias
 categories:
-  - economía
+- economía
+date: 2023-07-28
+lastmod: '2025-04-06T01:37:24.368412'
+related:
+- 20240913_precios_vivienda.md
+- 20230721_greedflation.md
+- 20230120_crisis_economicas_estado.md
+- 20240626_cortos.md
+- 20250326_cortos.md
 tags:
-  - economía
-  - inflación
-  - precios
-  - greedflation
+- economía
+- inflación
+- precios
+- greedflation
+title: Lecciones sobre una teoría trucha de la inflación
+url: /2023/inflacion-preferencias
 ---
 
 Hay una teoría _trucha_ sobre las causas de inflación ---y también sobre los ciclos económicos--- que la asocian a cambios de preferencias por parte de la población. La califico de _trucha_ por varios motivos: no está generalmente aceptada por el consenso de los economistas y ni explica ni puede explicar ciertos y muy destacados episodios inflacionarios (e hiperinflacionarios). Pero que, sin duda, explica parte del que vivimos actualmente.
@@ -30,5 +37,3 @@ De vuelta a la economía real, es obvio que durante los últimos años hemos pre
 - Etc.
 
 Es obvio que también han ocurrido otras cosas, como la guerra de Ucrania. Pero este particular episodio inflacionario admite la teoría trucha dentro del _mix_ causal. Y eso condiciona sin duda lo que pueda pensarse sobre la _greedflation_, los remedios, etc.
-
-

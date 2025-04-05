@@ -1,16 +1,24 @@
 ---
-title: 'Criris económicas como desajuste entre tecnología y preferencias: las consecuencias previsibles'
-date: 2023-01-20
-url: /2023/crisis-economicas-papel-estado/
 categories:
-  - economía
+- economía
+date: 2023-01-20
+lastmod: '2025-04-06T01:37:36.979309'
+related:
+- 20230728_inflacion.md
+- 20220916_ciencias_empiricas.md
+- 20240712_economia_politica.md
+- 20240626_cortos.md
+- 20240716_cortos.md
 tags:
-  - economía
-  - ciclos económicos
-  - estado
-  - economía política
-  - dirigismo
-  - fischer black
+- economía
+- ciclos económicos
+- estado
+- economía política
+- dirigismo
+- fischer black
+title: 'Criris económicas como desajuste entre tecnología y preferencias: las consecuencias
+  previsibles'
+url: /2023/crisis-economicas-papel-estado/
 ---
 
 Tiene [Fischer Black](https://en.wikipedia.org/wiki/Fischer_Black) una teoría sobre los ciclos económicos que puede no gustar a muchos economistas. No sé hasta qué punto se la considerará una excentricidad de esas que se toleran a los genios fuera de su ámbito de especialización: recuérdese que podría decirse que Black _obtuvo_ ---aunque no lo obtuviese--- el nóbel de economía por contribuciones que no tienen que ver con aquello.

@@ -1,12 +1,19 @@
 ---
-title: 'Los tres estados hogaño'
-date: 2023-10-06
-url: /2023/tercer-estado
 categories:
-  - política
+- política
+date: 2023-10-06
+lastmod: '2025-04-06T01:37:20.701839'
+related:
+- 20241108_rol_estado.md
+- 20220304_cantonalizacion_partidos.md
+- 20211002_races_bottom.md
+- 20240416_cortos.md
+- 20250228_adscripcion_ideologica.md
 tags:
-  - política
-  - economía
+- política
+- economía
+title: Los tres estados hogaño
+url: /2023/tercer-estado
 ---
 
 Nota previa: El tercer estado de los libros es [esto](https://es.wikipedia.org/wiki/Tercer_Estado).

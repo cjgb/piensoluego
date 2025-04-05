@@ -1,17 +1,24 @@
 ---
-title: 'Confía en mí, estoy mintiendo, etc.'
-date: 2023-06-30
-url: /2023/confia-en-mi-estoy-mintiendo
 categories:
-  - ética
+- ética
+date: 2023-06-30
+lastmod: '2025-04-06T01:37:38.093465'
+related:
+- 20240119_compra_medios.md
+- 20240621_medios_antilombriz.md
+- 20220311_interactuar_libros.md
+- 20240716_cortos.md
+- 20240430_cortos.md
 tags:
-  - ética
-  - moral
-  - libros
-  - publicidad
-  - medios
-  - economía
-  - incentivos
+- ética
+- moral
+- libros
+- publicidad
+- medios
+- economía
+- incentivos
+title: Confía en mí, estoy mintiendo, etc.
+url: /2023/confia-en-mi-estoy-mintiendo
 ---
 
 Pese a la aparente contradicción, escribo para recomendar un libro que dudo en terminar de leer: _Confía en mí, estoy mintiendo; confesiones de un manipulador de medios_.

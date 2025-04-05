@@ -1,13 +1,20 @@
 ---
-title: '¿A quién beneficia realmente la regulación de la IA?'
-date: 2023-04-28
-url: /2023/beneficiarios-regulacion-ia/
 categories:
-  - política
+- política
+date: 2023-04-28
+lastmod: '2025-04-06T01:38:48.708185'
+related:
+- 20241211_cortos.md
+- 20210403_kill_zones_administracion.md
+- 20250312_cortos.md
+- 20250101_cortos.md
+- 20250402_cortos.md
 tags:
-  - inteligencia artificial
-  - regulación
-  - google
+- inteligencia artificial
+- regulación
+- google
+title: ¿A quién beneficia realmente la regulación de la IA?
+url: /2023/beneficiarios-regulacion-ia/
 ---
 
 No merece abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando ya sea por su regulación. Además, en muchos casos, exigiendo una de esas regulaciones asimilables a la estrangulación.
@@ -23,4 +30,3 @@ La petición de una regulación ---como se la prevé-- asfixiante para _la IA_ e
 ## Coda
 
 Parecido pero en inglés, [aquí](https://www.economist.com/business/2023/05/25/why-tech-giants-want-to-strangle-ai-with-red-tape).
-

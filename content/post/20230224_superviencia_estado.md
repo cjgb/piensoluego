@@ -1,13 +1,20 @@
 ---
-title: 'El estado es un instrumento al servicio de su propia supervivencia'
-date: 2023-02-24
-url: /2023/supervivencia-estado/
 categories:
-  - supervivencia
+- supervivencia
+date: 2023-02-24
+lastmod: '2025-04-06T01:38:05.942211'
+related:
+- 20250129_cortos.md
+- 20240329_por_cuanto_te_retirarias.md
+- 20210903_pensiones_balanzas.md
+- 20241108_rol_estado.md
+- 20210710_inmigracion_pensiones.md
 tags:
-  - supervivencia
-  - estado
-  - impuestos
+- supervivencia
+- estado
+- impuestos
+title: El estado es un instrumento al servicio de su propia supervivencia
+url: /2023/supervivencia-estado/
 ---
 
 Y para que quede constancia de ello,

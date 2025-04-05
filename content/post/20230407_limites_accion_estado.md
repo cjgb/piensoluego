@@ -1,12 +1,19 @@
 ---
-title: 'Sobre los límites de la acción del estado'
-date: 2023-04-07
-url: /2023/limites-accion-estado/
 categories:
-  - economía
+- economía
+date: 2023-04-07
+lastmod: '2025-04-06T01:37:19.615397'
+related:
+- 20230217_liberanos_complejidad.md
+- 20250101_cortos.md
+- 20241108_rol_estado.md
+- 20240416_cortos.md
+- 20250129_cortos.md
 tags:
-  - política
-  - economía
+- política
+- economía
+title: Sobre los límites de la acción del estado
+url: /2023/limites-accion-estado/
 ---
 
 Si [ayer](/2024/estado-backups/)

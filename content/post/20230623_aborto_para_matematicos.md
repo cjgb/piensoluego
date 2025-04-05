@@ -1,13 +1,20 @@
 ---
-title: 'El debate del aborto, explicado para gentes de números'
-date: 2023-06-23
-url: /2023/aborto-matematicos
 categories:
-  - ética
+- ética
+date: 2023-06-23
+lastmod: '2025-04-06T01:38:44.004523'
+related:
+- 20210104_bioetica.md
+- 20231027_aborto_en_2222.md
+- 20240216_topologia_moral.md
+- 20240416_cortos.md
+- 20210425_corrupcion_arte_contemporaneo.md
 tags:
-  - ética
-  - moral
-  - aborto
+- ética
+- moral
+- aborto
+title: El debate del aborto, explicado para gentes de números
+url: /2023/aborto-matematicos
 ---
 
 El otro día leía una discusión de un profesor de filosofía del derecho sobre una reciente sentencia del Tribunal Constitucional sobre el asunto del aborto. Para entender el esquema de su argumentación se me ocurrió reformularla en términos cuantitativos como se describe a continuación. Que conste que me interesa más aquí dar a conocer dicha representación que defender o atacar la postura del profesor sobre el asunto.
@@ -51,4 +58,3 @@ o alguna formulación continua similar. La cuestión en todo esto es que, de exi
 por debajo del cual y habida cuenta la desproporción de _derechos_, la madre estaría ---legalmente--- facultada para echar al nonato por el retrete.
 
 **Nota final:** ¿No es un poco extraño apelar a la continuidad en una discusión jurídica? El derecho es una disciplina refractaria a dicho principio tan habitual en las ciencias naturales y crea discontinuidades por doquier: si robas $x - \epsilon$ te vas a tu casa, pero si robas $x + \epsilon$ vas a la cárcel; si tienes $18+\epsilon$ años estás legitimado a hacer muchas cosas que estaban prohibidas apenas $2\epsilon$ años antes, etc. Así que la interpretación de un profesional del derecho de mi interpretación de lo argumentado por un profesional del derecho va a estar, casi seguro, muy seriamente pixelada.
-

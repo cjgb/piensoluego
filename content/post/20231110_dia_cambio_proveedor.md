@@ -1,12 +1,19 @@
 ---
-title: '¿El día del cambio de proveedor de servicios?'
-date: 2023-11-10
-url: /2023/dia-cambio-proveedor-servicios
 categories:
-  - otros
+- otros
+date: 2023-11-10
+lastmod: '2025-04-06T01:38:34.431709'
+related:
+- 20221209_cambios_tecnologicos.md
+- 20230331_estado_backups.md
+- 20231117_subvenciones_empresariales.md
+- 20240626_cortos.md
+- 20241211_cortos.md
 tags:
-  - economía
-  - fiestas
+- economía
+- fiestas
+title: ¿El día del cambio de proveedor de servicios?
+url: /2023/dia-cambio-proveedor-servicios
 ---
 
 Antaño, el calendario marcaba determinados festivos asociados a celebraciones diversas en los que, en algunos casos, se determinaban determinadas liturgias. Muchos de esos festivos estaban asociados a fenómenos relativos al ciclo de las cosechas, a la vida económica de entonces. En ocasiones se revestían de significado religioso; en otras no ---o no tanto---.

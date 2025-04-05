@@ -1,13 +1,20 @@
 ---
-title: '"Diversidad" en la tecnología: un modelo hipotético'
-date: 2023-03-24
-url: /2023/diversidad-tecnologia-modelo-hipotetico/
 categories:
-  - tecnología
+- tecnología
+date: 2023-03-24
+lastmod: '2025-04-06T01:38:28.141457'
+related:
+- 20250328_microfundamentos.md
+- 20210501_libertad_eleccion_educacion.md
+- 20240716_cortos.md
+- 20240319_cortos.md
+- 20221007_expertos_no_bayesianos.md
 tags:
-  - tecnología
-  - cultura
-  - política
+- tecnología
+- cultura
+- política
+title: '"Diversidad" en la tecnología: un modelo hipotético'
+url: /2023/diversidad-tecnologia-modelo-hipotetico/
 ---
 
 Hoy quiero comentar un modelo hipotético que podría explicar la evidencia anecdótica que se me muestra al examinar el asunto de la _diversidad_ en el campo de la tecnología. No es un modelo que defienda ni deje de defender hasta poder contrastarlo ---¿lo habrá hecho ya alguien?--- con datos amplios y representativos y herramientas analíticas sólidas.

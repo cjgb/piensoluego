@@ -1,14 +1,22 @@
 ---
-title: 'Otra conclusión repugnante (del utilitarismo y por qué en estas páginas estamos más próximos al "paretianismo"'
-date: 2023-01-27
-url: /2023/otra-conclusion-repugnante/
 categories:
-  - ética
+- ética
+date: 2023-01-27
+lastmod: '2025-04-06T01:37:25.338618'
+related:
+- 20220318_utilitarismo_paretianismo.md
+- 20230203_moral_nominal_vs_real.md
+- 20210417_vacuna_dilema_tranvia.md
+- 20210104_bioetica.md
+- 20240514_cortos.md
 tags:
-  - ética
-  - conclusion repugnante
-  - utilitarismo
-  - paretianismo
+- ética
+- conclusion repugnante
+- utilitarismo
+- paretianismo
+title: Otra conclusión repugnante (del utilitarismo y por qué en estas páginas estamos
+  más próximos al "paretianismo"
+url: /2023/otra-conclusion-repugnante/
 ---
 
 Dentro del utilitarismo se ha discutido mucho la llamada

@@ -1,15 +1,22 @@
 ---
-title: '¿Debería el estado incentivar y promover las copias de seguridad?'
-date: 2023-03-31
-url: /2023/estado-backups/
 categories:
-  - economía
+- economía
+date: 2023-03-31
+lastmod: '2025-04-06T01:37:23.839241'
+related:
+- 20240716_cortos.md
+- 20241108_rol_estado.md
+- 20211002_races_bottom.md
+- 20240626_cortos.md
+- 20250110_soberania_tecnologica.md
 tags:
-  - tecnología
-  - cultura
-  - política
-  - backups
-  - fallos del mercado
+- tecnología
+- cultura
+- política
+- backups
+- fallos del mercado
+title: ¿Debería el estado incentivar y promover las copias de seguridad?
+url: /2023/estado-backups/
 ---
 
 Poca gente racional ---aquí, racional significa algo así como sinceramente adscrita a la epistemología bayesiana--- pone en duda el papel relevante del estado en la mitigación de los efectos de los _fallos del mercado_.

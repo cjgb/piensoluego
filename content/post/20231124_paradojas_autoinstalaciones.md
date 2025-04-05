@@ -1,14 +1,21 @@
 ---
-title: 'La paradoja de la popularidad de las "autoinstalaciones" energéticas'
-date: 2023-11-24
-url: /2023/paradojas-autoinstalaciones
 categories:
-  - economía
+- economía
+date: 2023-11-24
+lastmod: '2025-04-06T01:39:02.890300'
+related:
+- 20221209_cambios_tecnologicos.md
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20250226_cortos.md
+- 20241206_vivienda_portugal.md
+- 20241105_cortos.md
 tags:
-  - economía
-  - electricidad
-  - energía solar
-  - baterías
+- economía
+- electricidad
+- energía solar
+- baterías
+title: La paradoja de la popularidad de las "autoinstalaciones" energéticas
+url: /2023/paradojas-autoinstalaciones
 ---
 
 Es paradójico que las autoinstalaciones ---de paneles solares, de baterías, etc.--- no sean excepcionalísimas. Desde luego, no se entienden desde primeros principios.

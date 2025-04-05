@@ -1,13 +1,20 @@
 ---
-title: 'Conceptos como agrupaciones de correlaciones útiles'
-date: 2023-12-15
-url: /2023/conceptos-agrupaciones-correlaciones
 categories:
-  - filosofía
+- filosofía
+date: 2023-12-15
+lastmod: '2025-04-06T01:38:37.390335'
+related:
+- 20220610_valores_humanos.md
+- 20240419_aprender_historia.md
+- 20231208_miseria_filosofia.md
+- 20221021_se_puede_ser_racional.md
+- 20221028_evaluacion_heuristicas.md
 tags:
-  - filosofía
-  - epistemología
-  - conceptos
+- filosofía
+- epistemología
+- conceptos
+title: Conceptos como agrupaciones de correlaciones útiles
+url: /2023/conceptos-agrupaciones-correlaciones
 ---
 
 Recojo aquí, movido por interés principalmente (auto) mnemotécnico, una idea que expone Scott Alexander en

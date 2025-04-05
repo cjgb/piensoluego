@@ -1,13 +1,20 @@
 ---
-title: '¿Qué nos enseña la educación formal?'
-date: 2023-04-21
-url: /2023/resistencia-intelectual/
 categories:
-  - educación
+- educación
+date: 2023-04-21
+lastmod: '2025-04-06T01:37:55.425105'
+related:
+- 20250115_cortos.md
+- 20241126_cortos.md
+- 20241227_trump_egan.md
+- 20220617_metadiscusiones.md
+- 20250319_cortos.md
 tags:
-  - educación
-  - epistemología
-  - universidad
+- educación
+- epistemología
+- universidad
+title: ¿Qué nos enseña la educación formal?
+url: /2023/resistencia-intelectual/
 ---
 
 ¿Qué cosa nos enseña realmente la educación formal? ¿Conocimientos objetivos? Sin duda, pero, ¿son realmente útiles en la carrera profesional de los más?
@@ -25,5 +32,3 @@ Pero hay una faceta en la que la educación formal puede ser muy efectiva: la
 es decir, la capacidad para estar sentado durante largos periodos de tiempo desarrollando una actividad intelectual exigente. Lo hemos entrenado durante largas sesiones en clase, durante los exámenes, durante su preparación. Somos resistentes porque nos hemos entrenado duramente para ello. Igual que hacen los corredores de fondo: no todos estamos predispuestos para correr 20 km sin un entrenamiento previo serio.
 
 Y esa, la resistencia congnitiva, sí que es, efectivamente, una habilidad que nos prepara para la vida (o, al menos, por ser justos, para ciertos tipos y aspectos de ella).
-
-

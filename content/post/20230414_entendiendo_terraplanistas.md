@@ -1,12 +1,19 @@
 ---
-title: 'Un marco para entender caritativamente el terraplanismo y otras anomalías epistemológicas'
-date: 2023-04-14
-url: /2023/entendiendo-terraplanistas/
 categories:
-  - epistemología
+- epistemología
+date: 2023-04-14
+lastmod: '2025-04-06T01:38:24.336538'
+related:
+- 20240510_confianza_ciencia.md
+- 20230707_mas_sobre_terraplanismo.md
+- 20240726_otros_terraplanismos.md
+- 20210123_sokal_latour.md
+- 20210104_bioetica.md
 tags:
-  - ciencia
-  - terraplanismo
+- ciencia
+- terraplanismo
+title: Un marco para entender caritativamente el terraplanismo y otras anomalías epistemológicas
+url: /2023/entendiendo-terraplanistas/
 ---
 
 > La creencia en la mayor parte de las cosas de las que estoy convencido está basada en la confianza en terceras personas.

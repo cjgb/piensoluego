@@ -1,14 +1,21 @@
 ---
-title: 'Ferrovial se va a Holanda: lo que no he visto discutir'
-date: 2023-03-03
-url: /2023/lecciones-ferrovial-holanda/
 categories:
-  - economía
+- economía
+date: 2023-03-03
+lastmod: '2025-04-06T01:37:44.832100'
+related:
+- 20241206_vivienda_portugal.md
+- 20240503_infraestructuras.md
+- 20250219_cortos.md
+- 20230310_colapso_demografico.md
+- 20250101_cortos.md
 tags:
-  - ferrovial
-  - holanda
-  - supervivencia
-  - decadencia
+- ferrovial
+- holanda
+- supervivencia
+- decadencia
+title: 'Ferrovial se va a Holanda: lo que no he visto discutir'
+url: /2023/lecciones-ferrovial-holanda/
 ---
 
 Para quién me lea desde lejos o mucho después: en estos días se ha sabido que Ferrovial, una de las principales empresas constructoras (y de gestión de infraestructuras, debería añadir) quiere mudarse a Holanda.

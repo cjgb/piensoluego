@@ -1,15 +1,22 @@
 ---
-title: 'Complejidad regulatoria: una visión desde el desarrollo de software'
-date: 2023-05-12
-url: /2023/complejidad-regulatoria/
 categories:
-  - economía
-  - política
+- economía
+- política
+date: 2023-05-12
+lastmod: '2025-04-06T01:38:16.052007'
+related:
+- 20240716_cortos.md
+- 20250402_cortos.md
+- 20230217_liberanos_complejidad.md
+- 20250101_cortos.md
+- 20241211_cortos.md
 tags:
-  - economía
-  - política
-  - regulación
-  - informática
+- economía
+- política
+- regulación
+- informática
+title: 'Complejidad regulatoria: una visión desde el desarrollo de software'
+url: /2023/complejidad-regulatoria/
 ---
 
 Existe una moda popular en ciertos sectores ideológicos que cosiste en evaluar los efectos sobre la actividad económica de la regulación _al peso_. Un ejemplo de ello puede verse

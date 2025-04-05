@@ -1,13 +1,20 @@
 ---
-title: 'Todo es igual y la culpa, en gran medida, es de la regulación'
-date: 2023-11-03
-url: /2023/todo-es-igual
 categories:
-  - otros
+- otros
+date: 2023-11-03
+lastmod: '2025-04-06T01:38:32.526068'
+related:
+- 20240716_cortos.md
+- 20241001_cortos.md
+- 20241204_cortos.md
+- 20240209_porno_autoritarismo.md
+- 20210612_exito_suerte.md
 tags:
-  - regulación
-  - diversidad
-  - política
+- regulación
+- diversidad
+- política
+title: Todo es igual y la culpa, en gran medida, es de la regulación
+url: /2023/todo-es-igual
 ---
 
 [Todo es igual](https://www.alexmurrell.co.uk/articles/the-age-of-average)

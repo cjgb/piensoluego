@@ -1,14 +1,21 @@
 ---
-title: 'Regresiones mentales'
-date: 2023-01-13
-url: /2023/regresiones-mentales/
 categories:
-  - epistemología
+- epistemología
+date: 2023-01-13
+lastmod: '2025-04-06T01:38:55.435299'
+related:
+- 20220916_ciencias_empiricas.md
+- 20221021_se_puede_ser_racional.md
+- 20241115_mejores_prejuicios.md
+- 20210213_reflexiones_cambio_climatico.md
+- 20250131_aprender_error.md
 tags:
-  - bayesianismo
-  - epistemología
-  - cowen
-  - frases
+- bayesianismo
+- epistemología
+- cowen
+- frases
+title: Regresiones mentales
+url: /2023/regresiones-mentales/
 ---
 
 Dice Tyler Cowen [aquí](https://marginalrevolution.com/marginalrevolution/2022/11/how-defective-a-thinker-are-you.html) (a cuenta de algo que no viene al caso):

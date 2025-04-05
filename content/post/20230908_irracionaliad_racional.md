@@ -1,13 +1,20 @@
 ---
-title: 'Irracionalidad racional'
-date: 2023-09-08
-url: /2023/irracionaidad-racional
 categories:
-  - política
+- política
+date: 2023-09-08
+lastmod: '2025-04-06T01:38:07.551885'
+related:
+- 20210213_reflexiones_cambio_climatico.md
+- 20221021_se_puede_ser_racional.md
+- 20220923_indicios_cambio_climatico_tomadura_pelo.md
+- 20240322_caricaturas_antropologicas.md
+- 20250205_cortos.md
 tags:
-  - ética
-  - racionalidad
-  - política
+- ética
+- racionalidad
+- política
+title: Irracionalidad racional
+url: /2023/irracionaidad-racional
 ---
 
 A cierta gente se a la acusa de irracional por decir cosas como esta:

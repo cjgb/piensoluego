@@ -1,17 +1,24 @@
 ---
-title: '¿Es posible la igualdad en extremistán?'
-date: 2023-02-10
-url: /2023/igualdad-extremistan/
 categories:
-  - economía
+- economía
+date: 2023-02-10
+lastmod: '2025-04-06T01:39:00.709798'
+related:
+- 20210220_meritocracia_deberes_intereses.md
+- 20240716_cortos.md
+- 20220708_meritocracia.md
+- 20250312_cortos.md
+- 20240723_cortos.md
 tags:
-  - economía
-  - ética
-  - igualdad
-  - extremistán
-  - escalabilidad
-  - taleb
-  - rawls
+- economía
+- ética
+- igualdad
+- extremistán
+- escalabilidad
+- taleb
+- rawls
+title: ¿Es posible la igualdad en extremistán?
+url: /2023/igualdad-extremistan/
 ---
 
 Hay quienes piensan que, ya que toca trabajar, no está mal hacer dinero con ello. O hacer _lo suficiente_ trabajando lo mínimo. En definitiva, lograr más con menos esfuerzo. Quienes conozcan a personas movidas por tal principio oirán de ellas mencionar ---entre otros, claro--- el concepto de la escalabilidad. Es escalable aquello que una vez da servicio a una persona, puede darlo también a cien, mil o un millón por el mismo esfuerzo (o similar). Un matemático diría que el rendimiento es superlineal con respecto al esfuerzo.
