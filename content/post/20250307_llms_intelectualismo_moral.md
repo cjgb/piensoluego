@@ -1,13 +1,21 @@
 ---
-title: 'LLMs e intelectualismo moral'
-description: 'Explorando cómo el post-entrenamiento con código deficiente genera desalineación moral en LLMs, y su paralelismo con el intelectualismo moral'
-date: 2025-03-07
-url: /2025/llms-intelectualismo-moral
 categories:
 - ética
+date: 2025-03-07
+description: Explorando cómo el post-entrenamiento con código deficiente genera desalineación
+  moral en LLMs, y su paralelismo con el intelectualismo moral
+lastmod: '2025-04-06T01:38:57.624156'
+related:
+- 20220610_valores_humanos.md
+- 20210104_bioetica.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20220930_intuiciones_morales_como_fallo_potencial_seguridad.md
+- 20210109_moralizacion_amoralizacion.md
 tags:
 - ética
 - llms
+title: LLMs e intelectualismo moral
+url: /2025/llms-intelectualismo-moral
 ---
 
 El resumen de un reciente artículo, [_Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs_](https://arxiv.org/abs/2502.17424), es más o menos, este:

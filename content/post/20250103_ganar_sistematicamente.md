@@ -1,13 +1,20 @@
 ---
-title: '¿Es "ganar sistemáticamente" una buena definición de "racionalismo"?'
-date: 2025-01-03
-url: /2025/racionalidad-ganar-sistematicamente
 categories:
 - filosofía
+date: 2025-01-03
+lastmod: '2025-04-06T01:37:26.863986'
+related:
+- 20221028_evaluacion_heuristicas.md
+- 20221021_se_puede_ser_racional.md
+- 20240716_cortos.md
+- 20220708_meritocracia.md
+- 20240514_cortos.md
 tags:
 - racionalismo
 - heurísticas
 - teoría de la decisión
+title: ¿Es "ganar sistemáticamente" una buena definición de "racionalismo"?
+url: /2025/racionalidad-ganar-sistematicamente
 ---
 
 ### Antes de empezar, ¿qué es aquí "racionalismo"?

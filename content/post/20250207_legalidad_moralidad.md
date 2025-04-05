@@ -1,13 +1,20 @@
 ---
-title: 'Cultura: jerarquías y cambio'
-date: 2025-02-07
-url: /2025/cultura-jerarquía-cambio
 categories:
 - política
+date: 2025-02-07
+lastmod: '2025-04-06T01:37:37.557461'
+related:
+- 20220401_etica_a_prueba_paso_tiempo.md
+- 20211210_principios_moral.md
+- 20201228_sobre_la_supervivencia.md
+- 20220408_peligros_moralidad_non_sequitur.md
+- 20241122_como_decidimos.md
 tags:
 - política
 - ética
 - cultura
+title: 'Cultura: jerarquías y cambio'
+url: /2025/cultura-jerarquía-cambio
 ---
 
 - Supongamos ---algo que no es totalmente evidente, pero sí aceptable en primera aproximación--- que la cultura imperante condiciona la legalidad vigente ---la gente elige políticos que redactan leyes--- y las conductas generalmente consideradas éticas.

@@ -1,13 +1,21 @@
 ---
-title: 'Campañas electorales e información'
-description: "Sobre la paradoja de cómo los políticos sorprenden al electorado una vez ganadas las elecciones."
-date: 2025-03-14
-url: /2025/campanas-electorales-informacion
 categories:
 - política
+date: 2025-03-14
+description: Sobre la paradoja de cómo los políticos sorprenden al electorado una
+  vez ganadas las elecciones.
+lastmod: '2025-04-06T01:38:25.287713'
+related:
+- 20240308_insaculacion.md
+- 20210327_ciudadanos_no_supervivencia.md
+- 20220304_cantonalizacion_partidos.md
+- 20241227_trump_egan.md
+- 20220429_demora_publicacion_ley.md
 tags:
 - política
 - democracia
+title: Campañas electorales e información
+url: /2025/campanas-electorales-informacion
 ---
 
 En democracia hay elecciones periódicamente. Los candidatos exponen sus programas, los discuten en debates, etc. y la gente vota.

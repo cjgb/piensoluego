@@ -1,14 +1,22 @@
 ---
-title: 'Lo que tienen en común las tarifas de Trump y la manía por no incrementar la oferta de vivienda en casi todas partes'
-date: 2025-01-24
-url: /2025/tarifas-vivienda
 categories:
 - política
+date: 2025-01-24
+lastmod: '2025-04-06T01:38:38.002808'
+related:
+- 20240723_cortos.md
+- 20250129_cortos.md
+- 20241206_vivienda_portugal.md
+- 20250402_cortos.md
+- 20250326_cortos.md
 tags:
 - tarifas
 - proteccionismo
 - vivienda
 - oferta
+title: Lo que tienen en común las tarifas de Trump y la manía por no incrementar la
+  oferta de vivienda en casi todas partes
+url: /2025/tarifas-vivienda
 ---
 
 El nuevo presidente de los EEUU dice querer imponer tarifas punitivas a las importaciones de productos extranjeros. Políticos de todo el mundo buscan soluciones al ubicuo problema de la vivienda distintos de los de construir más. ¿Qué tienen ambas políticas en común? Que sus más entusiastas partidarios son, precisa y paradójicamente, sus principales afectados.

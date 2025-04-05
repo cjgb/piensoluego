@@ -1,13 +1,23 @@
 ---
-title: 'Sobre la inobservancia de los microfundamentos en economía: de Marx a Jesús Fernández Villaverde'
-description: "Los microfundamnetos son esenciales paa entender el funcionamiento de la economía, pero es tentador ignorarlos y asumir posturas 'funcionalistas' alejadas de la realidad."
-date: 2025-03-28
-url: /2025/microfundamentos-economia
 categories:
 - economía
+date: 2025-03-28
+description: Los microfundamnetos son esenciales paa entender el funcionamiento de
+  la economía, pero es tentador ignorarlos y asumir posturas 'funcionalistas' alejadas
+  de la realidad.
+lastmod: '2025-04-06T01:38:16.494334'
+related:
+- 20241225_cortos.md
+- 20241105_cortos.md
+- 20220916_ciencias_empiricas.md
+- 20250312_cortos.md
+- 20241011_cooperativas.md
 tags:
 - microfundamentos
 - funcionalismo
+title: 'Sobre la inobservancia de los microfundamentos en economía: de Marx a Jesús
+  Fernández Villaverde'
+url: /2025/microfundamentos-economia
 ---
 
 Jon Elster, al revisar _analíticamente_ la obra de Marx, encontró poco creíble su aproximación _funcionalista_ a la descripción del comportamiento de, por ejemplo, la clase capitalista. Aunque tal vez como clase tuviesen interés en lograr objetivos como mantener sojuzgada y emprobrecida a la clase trabajadora, es evidente que desde la óptica de la teoría de juegos, de la teoría de la elección racional y el análisis microeconómico, es evidente que muchos capitalistas tenían incentivos para actuar de otra manera. Además, seguro que si se hiciese una encuesta entre los capitalistas industriales del Mánchester de 1860, posiblemente ninguno diría operar motivado por muchos de aquellos motivos que les presuponía Marx.
