@@ -1,15 +1,22 @@
 ---
-title: De Superviventia
-description: Por qué existen estas páginas en lugar de no existir
-date: 2020-12-28
-url: /2021/sobre-la-supervivencia/
 categories:
-  - "supervivencia"
-tags:
-  - "supervivencia"
+- supervivencia
+date: 2020-12-28
+description: Por qué existen estas páginas en lugar de no existir
+lastmod: '2025-04-06T01:37:16.841130'
 menu:
-    main:
-        weight: 10
+  main:
+    weight: 10
+related:
+- 20211210_principios_moral.md
+- 20240514_cortos.md
+- 20220401_etica_a_prueba_paso_tiempo.md
+- 20241101_valencia.md
+- 20210425_corrupcion_arte_contemporaneo.md
+tags:
+- supervivencia
+title: De Superviventia
+url: /2021/sobre-la-supervivencia/
 ---
 
 No sorprenderá a nadie que las primeras líneas que se escriben en este blog se refieran al apotegma cartesiano.
@@ -39,5 +46,3 @@ El segundo es R. Dawkings, que llega a manifestar que todo cuanto somos y hacemo
 Seríamos, consistiríamos en, según él, marionetas de un mecanismo de autoreplicación, ciego a cualquier otra consideración.
 
 En cualquier caso, en estas páginas intentará el autor poner en negro sobre blanco su cosmovisión particular, empapada, como pone de manifiesto esta la primera entrada, de ese su criterio máximo.
-
-
