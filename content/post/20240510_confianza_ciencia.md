@@ -23,4 +23,4 @@ url: /2024/ciencia-confianza-verificada
 
 Y luego continúa explicando cómo se transita por la calle de en medio.
 
-**Coda:** Este es un buen momento para repasar [esto](/2023/entendiendo-terraplanistas/).
+**Coda:** Este es un buen momento para repasar la entrada [_Un marco para entender caritativamente el terraplanismo y otras anomalías epistemológicas_](/2023/entendiendo-terraplanistas/).
