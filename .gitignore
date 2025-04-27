@@ -2,4 +2,5 @@
 .hugo_build.lock
 content/paginas/por_etiqueta.md
 content/paginas/por_fecha.md
-
+content/post/.embeddings.pkl
+public
