@@ -17,7 +17,7 @@ title: Moral, moralización y amoralización
 url: /2021/moral-moralizacion-amoralizacion/
 ---
 
-He leído recientemente dos entradas ([esta](https://evolucionyneurociencias.blogspot.com/2020/12/sobre-la-moralizacion-de-la-respuesta.html) y [esta](https://evolucionyneurociencias.blogspot.com/2020/12/moralizacion-de-la-respuesta-la-covid.html)) en el blog ---muy recomendable--- [Evolución y Neurociencias](https://evolucionyneurociencias.blogspot.com/) que tratan la llamada _moralización_ de la respuesta al codiv. Pero no me voy a referir hoy tanto al fondo de la cuestión que discute y las conclusiones que alcanza su autor ---que me son, al fin y al cabo, simpáticas---, como a describir y, si me da tiempo, criticar, el marco conceptual que le sirve de apoyo.
+He leído recientemente dos entradas ([esta](https://evolucionyneurociencias.blogspot.com/2020/12/sobre-la-moralizacion-de-la-respuesta.html) y [esta](https://evolucionyneurociencias.blogspot.com/2020/12/moralizacion-de-la-respuesta-la-covid.html)) en el blog ---muy recomendable--- [Evolución y Neurociencias](https://evolucionyneurociencias.blogspot.com/) que tratan la llamada _moralización_ de la respuesta al covid. Pero no me voy a referir hoy tanto al fondo de la cuestión que discute y las conclusiones que alcanza su autor ---que me son, al fin y al cabo, simpáticas---, como a describir y, si me da tiempo, criticar, el marco conceptual que le sirve de apoyo.
 
 
 ### Moralización y coordinación
