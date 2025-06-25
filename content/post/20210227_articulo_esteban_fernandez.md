@@ -18,7 +18,7 @@ title: ¿Ha cambiado el humor?
 url: /2021/reflexiones-articulo-esteban-hernandez/
 ---
 
-> I am convinced that a majority of the learned philosophers who have written treatises on laughter and the comic never saw a baby. ---Max Eastman
+> Estoy convencido de que la mayoría de los erudito filósofos que han escrito tratados sobre la risa y lo cómico nunca han visto un niño pequeño. ---Max Eastman
 
 Tiene Esteban Fernández en El Confidencial el artículo [_La política de los últimos años, explicada mediante los chistes de murcianos y gitanos_](https://blogs.elconfidencial.com/alma-corazon-vida/tribuna/2018-08-28/la-politica-de-los-ultimos-anos-explicada-mediante-los-chistes-de-gitanos_1608955/). No voy a entrar tanto en el fondo del artículo como en una serie de consideraciones suscitadas por el siguiente extracto:
 
