@@ -21,9 +21,9 @@ url: /2024/confianza-opinion-expertos
 
 Trajo Scott Alexander una entrada en su blog,
 [_WebMD, And The Tragedy Of Legible Expertise_](https://www.astralcodexten.com/p/webmd-and-the-tragedy-of-legible)
-que resumo y reinterpreto aquí y que, también, invito a consultar por lo relevantes que son los ejemplos y casos de aplicación que discute y que aquí omito.
+que resumo y reinterpreto hoy y que, de paso, invito a consultar por lo relevantes que son los ejemplos y casos de aplicación que discute pero que aquí omito.
 
-En el fondo, trata sobre cómo de fiable es la opinión de los expertos y, en particular, los expertos oficialmente designados como tales; p.e., las _autoridades sanitarias_ como Fernando Simón en su día. Merece la pena reinterpretar todo lo que se dijo como una variación de la llamada
+En el fondo, trata sobre el grado de fiabilidad de la opinión de los expertos y, en particular, los expertos oficialmente designados como tales (p.e., las _autoridades sanitarias_ como Fernando Simón en su día). Viene a describir una variación de la llamada
 [ley de Goodhart](https://es.wikipedia.org/wiki/Ley_de_Goodhart),
 cuya formulación original,
 
@@ -33,7 +33,7 @@ habría que mutar en algo así como
 
 > La fiabilidad de cualquier experto tenderá a desplomarse una vez sea oficialmente designado como tal.
 
-El motivo está discutido hasta la saciedad en el artículo y, en resumen, consiste en que la tarea de un experto oficial es mucho más difícil que la de otro que, expresado poéticamente, solo ha de rendir cuentas a la verdad. Un experto oficial, solo por serlo, entra en un juego de equilibrios, intereses e incentivos que, frecuentemente, sesgan sus opiniones declaradas.
+El motivo está discutido hasta la saciedad en el artículo y, en resumen, consiste en que la tarea de un experto oficial es mucho más difícil que la de otro que, expresado poéticamente, solo ha de rendir cuentas a la verdad. Un experto oficial, solo por serlo, entra en un juego de equilibrios, intereses e incentivos que, inevitablemente, tenderán a sesgar sus opiniones declaradas.
 
 ## Coda
 
