@@ -19,7 +19,7 @@ url: /2024/carreteras-espana-francia
 ---
 
 Acabo de regresar de un viaje por Francia (centro y sur). Observo:
-- Las carreteras (obras públicas por excelencia) son mucho mejores en España que en Francia.
+- Las carreteras (obras públicas por antonomasia) son mucho mejores en España que en Francia.
 - Además, en España, muchas estaban en obras (y en Francia no).
 
 Obviamente, estas aseveraciones son producto de una mera inspección visual por la ventanilla del vehículo que me desplazaba, sin pretensión alguna de validez estadístico-muestral.
