@@ -26,10 +26,10 @@ Para ilustrarlos, es conveniente repasar los conceptos de pozo y barrera de pote
 
 ![Pozo potencial](/images/pozo-potencial.jpeg)
 
-Una partícula preferirá situarse en el derecho que en el izquierdo. Pero, para pasar a él, necesita tener la suficiente energía como para sortear la llamada barrera de potencial.
+Una partícula preferirá situarse en el pozo de potencial de la derecha que en el de la izquierda. Pero, para pasar a él, necesita tener la suficiente energía como para sortear la llamada barrera de potencial.
 
 Así las cosas, lo primero que evidencia el asunto Ferrovial es que Holanda es un lugar más deseable para hacer negocios que España. Al menos, para muchos tipos de empresas. Que Ferrovial se largue de forma visible y manifiesta indica cómo, casi seguro, sin que nos hayamos dado cuenta ni haya salido publicado en ningún sitio, muchas empresas de fuera que lo consideraron acabaron tachando Madrid como lugar donde establecerse. España es un patito feo.
 
 Lo segundo es que toda la actividad del gobierno en estos últimos días ha ido encaminada a reforzar la _barrera de potencial_. De concertinas la coronaba, de poder. Quieren hacer de España una cárcel para empresas. Lo cual evitará que alguna otra se escape. Pero a saber si alguna querrá entrar por su propio pie.
 
-Huele a decadencia.
+Apesta a decadencia.
