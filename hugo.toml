@@ -12,6 +12,12 @@ theme = "mainroad"
 [pagination]
   pagerSize = "13"
 
+[outputs]
+  home = ["html", "rss"] 
+  section = ["html"]
+  taxonomy = ["html"] 
+  term = ["html"] 
+
 [Params]
   description = "Un blog sobre política, economía, filosofía y ciencia en el que el criterio de verdad es la supervivencia del sujeto."
   opengraph = true
