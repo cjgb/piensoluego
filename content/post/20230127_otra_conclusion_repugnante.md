@@ -25,7 +25,7 @@ En su versión más concisa, dice que
 
 > Para cada población con un bienestar elevado, existe una población _[tal vez hipotética]_ con un bienestar muy bajo que es preferible a la primera _[desde un punto de vista formalmente, al menos, utilitarista]_.
 
-El utilitarmismo también ofrece _conclusiones repugnantes_ que bien podrían caricaturizarse así:
+El utilitarismo también ofrece _conclusiones repugnantes_ que bien podrían caricaturizarse así:
 
 > Si muchísima gente odia mucho a los habitantes de X, bombardear X es preferible a no hacerlo _[desde un punto de vista formalmente, de nuevo, utilitarista]_.
 
