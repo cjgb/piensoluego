@@ -29,7 +29,7 @@ Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido
 [_aquí_](https://twitter.com/Oliver_S_Curry/status/1075738543656394752).
 
 1. ¿Cuál es el problema de la Teoría de los Fundamentos Morales? (Y cómo hacer sicología de la moral correctamente.)
-1. Aunque originalmente se trató exclusivamente desde el punto de vista de la moral y la filosofía, el estudio de la moral es un ámbito de estudio muy rico e interdisciplinar, en el que se cruzan la teoría de la evolución, la genética, la biología, el comportamiento animal, la sicología y la antropología.
+1. Aunque originalmente se trató exclusivamente desde el punto de vista de la teología y la filosofía, el estudio de la moral es un ámbito de estudio muy rico e interdisciplinar, en el que se cruzan la teoría de la evolución, la genética, la biología, el comportamiento animal, la sicología y la antropología.
 1. Bajo esta perspectiva, no hay nada misterioso o mágico en la moral: es simplemente una colección de mecanismos biológicos y culturales para promover la cooperación.
 1. Una de las propuestas más relevantes ha sido la Teoría de los Fundamentos Morales (MFT) de Jonathan Haidt.
 1. La MFT argumenta que como los humanos nos enfrentamos a múltiples problemas sociales, tenemos una multiplicidad de valores morales. Que están basados en múltiples "fundamentos" a la hora de tomar decisiones morales. Entre ellos, el cuidado, la equidad, la lealtad, el respeto y la pureza.

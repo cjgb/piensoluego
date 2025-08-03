@@ -18,8 +18,8 @@ title: ¿Cambiará el "sentir" sobre el aborto cuando arrecie la crisis demográ
 url: /2023/aborto-crisis-demografica/
 ---
 
-Hoy en día existen leyes permisivas ---por calificarlas de alguna manera--- con el aborto que reflejan el _sentir popular_ actual sobre el asunto.
+Hoy en día existen leyes permisivas ---por calificarlas de alguna manera--- hacia el aborto. Son reflejo del _sentir popular_ actual sobre el asunto.
 
-Pero es entretenido pensar cómo pudiera pendular dicho _sentir_ en el momento en el que arrecie la crisis demográfica hacia la que nos encaminamos. Y, como consecuencia de ello, en qué dirección podría virar la legislación venidera.
+Pero es entretenido imaginar la dirección en la que pudiera pendular dicho _sentir_ en distintos escenarios y, como consecuencia de ello, en qué dirección podría virar la legislación venidera.. En particular, en el momento en el que arrecie la crisis demográfica que se cierne sobre nuestras sociedades.
 
 El futuro va a ser, sin duda, entretenido.
