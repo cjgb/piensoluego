@@ -5,9 +5,14 @@
 		{{ . }}
 	</div>
 	{{- end }}
-	{{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+
+	{{ $filteredPages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+	{{ $paginator := .Paginate $filteredPages }}
+
 	{{- range $paginator.Pages }}
-		{{- .Render "summary" }}
+		  {{- if eq .Type "posts" }}
+    		{{- .Render "summary" }}
+		  {{- end }}
 	{{- end }}
 	{{- if and (eq $paginator.TotalNumberOfElements 0) (not $.Content) }}
 		<div class="warning">
@@ -22,3 +27,4 @@
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
+
