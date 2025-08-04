@@ -10,7 +10,7 @@
 	{{ $paginator := .Paginate $filteredPages }}
 
 	{{- range $paginator.Pages }}
-		  {{- if eq .Type "posts" }}
+		  {{- if eq .Type "post" }}
     		{{- .Render "summary" }}
 		  {{- end }}
 	{{- end }}
@@ -27,4 +27,3 @@
 </main>
 {{ partial "pagination.html" . }}
 {{ end }}
-
