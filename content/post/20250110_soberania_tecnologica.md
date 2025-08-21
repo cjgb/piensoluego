@@ -17,7 +17,7 @@ title: ¿Soberanía tecnológica?
 url: /2025/soberania-tecnologica
 ---
 
-El estado ha tomado el dinero que los autónomos hemos creado _ex nihilo_ y se lo ha dado a unos tipos de Barcelona para que creen modelos de lenguaje (LLMs, como ChatGPT) especialmente diseñados para dar soporte a esos idiomas que hablan algunos en la zona periférica de la península Ibérica. Es muy difícil encontrar información sobre el asunto, pero he dado con el [vídeo de una charla](https://www.ujaen.es/centros/ceatic/eventos/conferencia-salamandra-una-nueva-coleccion-de-modelos-de-lenguaje-multilingues-del-bsc) de uno de uno de los responsables del proyecto en la U. de Jaén.
+El estado ha tomado el dinero que los autónomos hemos creado _ex nihilo_ y se lo ha dado a unos tipos de Barcelona para que creen modelos de lenguaje (LLMs, como ChatGPT) especialmente diseñados para dar soporte a esos idiomas que hablan algunos en la zona periférica de la península Ibérica. Es muy difícil encontrar información sobre el asunto, pero he dado con el [vídeo de una charla](https://www.ujaen.es/centros/ceatic/eventos/conferencia-salamandra-una-nueva-coleccion-de-modelos-de-lenguaje-multilingues-del-bsc) de uno de los responsables del proyecto en la U. de Jaén.
 
 No es este el sitio para tratar en profundidad el asunto por sus muchas derivaciones. Me quiero centrar en un aspecto de su justificación (¿por qué se hace algo en lugar de, simplemente, no hacer nada?, ¿con qué excusa se realiza este dispendio?). En la transcripción del vídeo se lee:
 
