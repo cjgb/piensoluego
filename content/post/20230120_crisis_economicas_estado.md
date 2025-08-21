@@ -16,7 +16,7 @@ tags:
 - economía política
 - dirigismo
 - fischer black
-title: 'Criris económicas como desajuste entre tecnología y preferencias: las consecuencias
+title: 'Crisis económicas como desajuste entre tecnología y preferencias: las consecuencias
   previsibles'
 url: /2023/crisis-economicas-papel-estado/
 ---

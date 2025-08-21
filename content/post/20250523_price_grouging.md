@@ -15,7 +15,7 @@ tags:
 - economía
 - precios
 - ética
-title: ¿De dónde sacan a los econimistas en España?
+title: ¿De dónde sacan a los economistas en España?
 url: /2025/price-grouging-apagon
 ---
 

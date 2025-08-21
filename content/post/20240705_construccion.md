@@ -13,7 +13,7 @@ tags:
 - política
 - economía
 - medios
-title: ¿Hemos olvidado de cómo construir (viviendas)?
+title: ¿Hemos olvidado cómo construir (viviendas)?
 url: /2024/construccion-viviendas
 ---
 

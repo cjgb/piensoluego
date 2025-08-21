@@ -22,7 +22,7 @@ tags:
 - autoridad
 - equidad
 title: Un hilo (no mío) sobre los fundamentos sicológicos de la moral
-url: /2022/hilo-fundamnetos-moral/
+url: /2022/hilo-fundamentos-moral/
 ---
 
 Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido

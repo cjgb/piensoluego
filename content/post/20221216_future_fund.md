@@ -21,7 +21,7 @@ tags:
 - future fund
 - noticias
 title: La supervivencia del Future Fund
-url: /2022/supervivenia-future-fund/
+url: /2022/supervivencia-future-fund/
 ---
 
 Un blog con el nombre e intención del presente, no podía dejar de hacer eco de una noticia ---me perdonarán por ello los lectores mejor informados--- bien conocida: la quiebra del fondo Future Fund (FF en lo que sigue).
