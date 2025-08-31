@@ -19,9 +19,9 @@ url: /2025/racionalidad-ganar-sistematicamente
 
 ### Antes de empezar, ¿qué es aquí "racionalismo"?
 
-Aquí, por racionalismo no se entenderá lo que figura en los libros canónicos de filosofía (Descartes, etc.) sino la muy peculiar corriente de pensamiento representada por pensadores como Scott Alexander o Eliezer Yudkowsky y foros como LessWrong. El autor considera, además, que han adoptado impropiamente el nombre de _racionalismo_ cuando se trata en gran medida de una mezcla de positivismo y empiricismo.
+Aquí, por racionalismo no se entenderá lo que figura en los libros canónicos de filosofía (Descartes, etc.) sino la muy peculiar corriente de pensamiento representada por pensadores como Scott Alexander o Eliezer Yudkowsky y foros como LessWrong. El autor considera, además, que han adoptado impropiamente el nombre de _racionalismo_ cuando se trata en gran medida de una mezcla de positivismo y empirismo.
 
-El lema o eslogan _el racionalismo es el arte de ganar sistemáticamente_ [se atribuye precisamente a a Yudkowsky](https://www.lesswrong.com/posts/4ARtkT3EYox3THYjF/rationality-is-systematized-winning) y ha sido debatido hasta la saciedad en el círculo racionalista. El autor quiere aclarar que en lo que sigue, se esforzará por hacer una lectura caritativa del eslogan. Por supuesto que se pueden encontrar acepciones de ambos términos, "racionalismo" y "ganar (sistemáticamente)", que invalidan absolutamente la cópula "es": Miguel Induráin tendía a ganar sistemáticamente el Tour de Francia sin que nadie haya advertido jamás destello de inteligencia alguno en él.
+El lema o eslogan _el racionalismo es el arte de ganar sistemáticamente_ [se atribuye precisamente a Yudkowsky](https://www.lesswrong.com/posts/4ARtkT3EYox3THYjF/rationality-is-systematized-winning) y ha sido debatido hasta la saciedad en el círculo racionalista. El autor quiere aclarar que en lo que sigue, se esforzará por hacer una lectura caritativa del eslogan. Por supuesto que se pueden encontrar acepciones de ambos términos, "racionalismo" y "ganar (sistemáticamente)", que invalidan absolutamente la cópula "es": Miguel Induráin tendía a ganar sistemáticamente el Tour de Francia sin que nadie haya advertido jamás destello alguno de inteligencia en él.
 
 
 ### ¿Qué se entiende (y qué no) por "ganar"?
