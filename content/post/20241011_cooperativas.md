@@ -12,7 +12,7 @@ related:
 tags:
 - cooperativas
 title: Lo que dizque hay que saber sobre las cooperativas no es esto
-url: /2024/cooperativas
+url: /2024/cooperativas/
 ---
 
 Esta entrada tiene que ver con la publicación en NadaEsGratis de [_Sin Patrón: Primer Empleo en una Cooperativa_](https://nadaesgratis.es/admin/sin-patron-primer-empleo-en-una-cooperativa). Es un pequeño artículo que leí con la intención ---a priori--- de ver mi micromodelo sobre las cooperativas felizmente confirmado una vez más.

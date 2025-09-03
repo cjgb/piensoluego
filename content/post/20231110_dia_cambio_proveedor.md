@@ -13,7 +13,7 @@ tags:
 - economía
 - fiestas
 title: ¿El día del cambio de proveedor de servicios?
-url: /2023/dia-cambio-proveedor-servicios
+url: /2023/dia-cambio-proveedor-servicios/
 ---
 
 Antaño, el calendario marcaba determinados festivos asociados a celebraciones diversas en los que, en algunos casos, se determinaban determinadas liturgias. Muchos de esos festivos estaban asociados a fenómenos relativos al ciclo de las cosechas, a la vida económica de entonces. En ocasiones se revestían de significado religioso; en otras no ---o no tanto---.

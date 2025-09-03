@@ -15,7 +15,7 @@ tags:
 - latour
 - burocracia
 title: El posmodernismo como la filosofía de y para funcionarios
-url: /2025/posmodernismo
+url: /2025/posmodernismo/
 ---
 
 Buscándola, no he encontrado una larga y sesuda entrada que planeé hace un tiempo sobre el posmodernismo y mis crecientes simpatías hacia dicho movimiento. Lo que me hae pensar que fue una ensoñación, un mero bosquejo mental que nunca llegué a plasmar por escrito.

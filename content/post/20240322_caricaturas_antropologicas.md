@@ -13,7 +13,7 @@ tags:
 - antropología
 - política
 title: '"Caricaturas antropológicas" que subyacen a ciertos posicionamientos políticos'
-url: /2024/caricaturas-antropologicas-posicionamientos-politicos
+url: /2024/caricaturas-antropologicas-posicionamientos-politicos/
 ---
 
 Me ha llamado siempre la atención cómo el posicionamiento político de determinados ---¿todos? ¿muchos?--- individuos parece emanar de unas escuetas caracterizaciones antropológicas, unas caricaturas sobre cómo es _el hombre_, a las que se aferran. Algunos ejemplos:

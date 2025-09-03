@@ -15,7 +15,7 @@ tags:
 - porno
 - autoritarismo
 title: Así es como va asentándose el "totalitarismo democrático"
-url: /2024/autoritarismo-porno
+url: /2024/autoritarismo-porno/
 ---
 
 Cito de [_Generación porno: el sexo extremo, nuevo tutor de los niños y jóvenes españoles_](https://blogs.elconfidencial.com/espana/pesca-de-arrastre/2024-01-16/generacion-porno-sexo-extremo-tutor-jovenes_3811757/):

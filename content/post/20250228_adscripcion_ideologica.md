@@ -15,7 +15,7 @@ tags:
 - política
 - ideología
 title: El parco callejero de la adscripción ideológica
-url: /2025/adscripcion-ideologica
+url: /2025/adscripcion-ideologica/
 ---
 
 El municipio de Madrid mide algo más de 600 km² y cuenta con 9139 calles, plazas, etc. Si A dice estar en el número tal de la calle cual de Madrid (y no miente) es fácil tenerlo ubicado con un error de unos escasos metros. Supongamos que Madrid no tuviese sino... ¿20 plazas con nombre? Si a alguien le preguntasen dónde está, tendría problemas en identificar la ubicación. Tal vez diría "en Tirso de Molina" por ser la plaza con nombre más cercana a su ubicación, probablemente a cientos de metros de dicha plaza.

@@ -14,7 +14,7 @@ tags:
 - política
 - demografía
 title: El futuro del trabajo
-url: /2023/futuro-trabajo
+url: /2023/futuro-trabajo/
 ---
 
 Permítaseme esta entrada especulativa sobre el futuro del trabajo.

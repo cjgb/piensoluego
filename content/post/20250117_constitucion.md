@@ -12,7 +12,7 @@ related:
 tags:
 - constitución
 title: 'Producto vs Usabilidad: la Constitución Española'
-url: /2025/ce-producto-usabilidad
+url: /2025/ce-producto-usabilidad/
 ---
 
 La interpretación más caritativa que puede hacerse de la situación constitucional española actual a la vista de lo que se cuenta [aquí](https://derechomercantilespana.blogspot.com/2025/01/la-conjura-contra-espana-cviii-va.html) (resumido por Claude debajo) es que la CE como producto tenía el aspecto

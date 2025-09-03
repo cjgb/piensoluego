@@ -15,7 +15,7 @@ tags:
 - españa
 - ideología
 title: Las pensiones de jubilación, insuficientemente explicadas a  los jóvenes
-url: /2024/pensiones-jovenes
+url: /2024/pensiones-jovenes/
 ---
 
 Trae NadaEsGratis, el muy revelador blog sobre el estado de la economía académica en España, un artículo mal titulado

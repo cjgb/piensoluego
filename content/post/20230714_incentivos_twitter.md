@@ -14,7 +14,7 @@ tags:
 - incentivos
 - elon musk
 title: ¿Cambiarán los incentivos en Twitter?
-url: /2023/cambio-incentivos-twitter
+url: /2023/cambio-incentivos-twitter/
 ---
 
 Dizque las redes sociales tienen éxito por su carácter adictivo: se ha escrito mucho al respecto y no merece la pena abundar en ello. Las redes sociales, además, son muy _democráticas_: un _clic_, un voto; tanto da el de Agamenón como el de su porquero. El _clic_ ---o la impresión, para el caso---, además, está sumamente devaluado por dos motivos: que hay muchos y que la tecnología no es capaz de discriminar satisfactoriamente; de hecho, la tecnología es prácticamente incapaz de separar humanos de _bots_.

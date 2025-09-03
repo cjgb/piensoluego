@@ -15,7 +15,7 @@ tags:
 - ciencias sociales
 - mala ciencia
 title: Sobre la función de las ciencias sociales
-url: /2025/funcion-ciencias-sociales
+url: /2025/funcion-ciencias-sociales/
 ---
 
 Esta entrada es prácticamente un resumen de la parte fundamental de

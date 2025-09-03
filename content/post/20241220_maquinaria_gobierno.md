@@ -14,7 +14,7 @@ tags:
 - bce
 - cambio climático
 title: Sobre la "maquinaria del gobierno"
-url: /2024/maquinaria-gobierno
+url: /2024/maquinaria-gobierno/
 ---
 
 Llevo leído como el 20% de uno de los peores libros de Joseph Heath que ha caído en mis manos: _The Machinery of Government_. El libro argumenta que una parte significativa de la actividad del poder ejecutivo no es exógena ---impuesta sobre él por los representantes democráticos (ministros, etc.) que la dirigen nominalmente--- sino endógena, producto de la iniciativa de la propia administración y, en última instancia, de funcionarios de carrera no electos. A partir de esa premisa ---que no es obvia hasta que se le presta atención al asunto--- comienza a construir una teoría moral y política de ese estado que es democrático en la cúspide pero tecnocrático en el resto de los escalafones. Una de las cuestiones centrales en la discusión es, pecisamente, la de los límites del poder de tal sistema burocrático.

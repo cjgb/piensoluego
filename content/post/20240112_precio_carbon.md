@@ -14,7 +14,7 @@ tags:
 - política
 - cambio climático
 title: Así se les pone precio a las cosas que importan
-url: /2024/precio-carbon
+url: /2024/precio-carbon/
 ---
 
 Extraigo, traduzco y subrayo de

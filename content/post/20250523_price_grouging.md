@@ -16,7 +16,7 @@ tags:
 - precios
 - ética
 title: ¿De dónde sacan a los economistas en España?
-url: /2025/price-grouging-apagon
+url: /2025/price-grouging-apagon/
 ---
 
 Dudo que exista alguna disciplina de la que nadie haya recopilado alguna lista de paradojas asociadas a ella, es decir, resultados que la disciplina da por buena pero que están en conflicto con la intuición o el sentido común. Por ejemplo, en probabilidad es posible probar que en una habitación con apenas 23 personas elegidas al azar, hay una probabilidad del 50% (aproximadamente) de que dos de ellas cumplan años el mismo día.

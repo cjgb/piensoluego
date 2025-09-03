@@ -13,7 +13,7 @@ tags:
 - política
 - economía
 title: Los tres estados hogaño
-url: /2023/tercer-estado
+url: /2023/tercer-estado/
 ---
 
 Nota previa: El tercer estado de los libros es [esto](https://es.wikipedia.org/wiki/Tercer_Estado).

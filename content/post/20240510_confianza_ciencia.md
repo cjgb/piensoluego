@@ -14,7 +14,7 @@ tags:
 - ciencia
 - terraplanismo
 title: La ciencia como "confianza verificada"
-url: /2024/ciencia-confianza-verificada
+url: /2024/ciencia-confianza-verificada/
 ---
 
 [_Science as Verified Trust_](https://www.bookandsword.com/2022/04/16/science-as-verified-trust/) arranca así:

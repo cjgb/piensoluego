@@ -14,7 +14,7 @@ tags:
 - regulación
 - economía
 title: ¿Por qué la regulación favorece sistemáticamente al "incumbente"?
-url: /2023/a-quien-favorece-la-regulacion
+url: /2023/a-quien-favorece-la-regulacion/
 ---
 
 Es muy recomendable ver

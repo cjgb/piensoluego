@@ -14,7 +14,7 @@ tags:
 - racionalidad
 - política
 title: Irracionalidad racional
-url: /2023/irracionaidad-racional
+url: /2023/irracionaidad-racional/
 ---
 
 A cierta gente se a la acusa de irracional por decir cosas como esta:

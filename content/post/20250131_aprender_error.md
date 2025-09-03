@@ -12,7 +12,7 @@ related:
 tags:
 - errores
 title: Aprender equivocándose
-url: /2025/aprender-error
+url: /2025/aprender-error/
 ---
 
 Por motivos, he estado expuesto a las opiniones de múltiples expertos en áreas relacionadas con la tecnología que declaraban ---en algunos casos, ufanándose--- haber aprendido su oficio _gracias a sus errores_, es decir, probando y equivocándose reiteradamente hasta dar con la clave.

@@ -14,7 +14,7 @@ tags:
 - ortega
 title: '"Claro es que la realidad posee dureza sobrada para resistir los embates de
   las ideas."'
-url: /2024/realidad-ideas
+url: /2024/realidad-ideas/
 ---
 
 Así las gasta Ortega [aquí](https://www.ensayistas.org/antologia/XXE/ortega/ortega4.htm).

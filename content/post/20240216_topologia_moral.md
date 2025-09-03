@@ -15,7 +15,7 @@ tags:
 - topología
 - moral
 title: Aspectos topológicos de la ética
-url: /2024/topologia-etica
+url: /2024/topologia-etica/
 ---
 
 La topología es una subdisciplina de las matemáticas que estudia ciertas propiedades fundamentales ---o, si se quiere, _débiles_--- de los objetos. En topología ---aquí hablo con cierta impropiedad---, una taza y una rosquilla son _equivalentes_:

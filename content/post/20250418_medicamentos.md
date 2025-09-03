@@ -17,7 +17,7 @@ tags:
 - medicamentos
 - talidomida
 title: ¿Padecemos una talidomida al año?
-url: /2025/medicamentos-talidomida
+url: /2025/medicamentos-talidomida/
 ---
 
 El otro día compartí mesa con $X_1,\dots,X_{13}$. En un momento, $X_5$ reveló que trabajaba para la agencia española encargada de aprobar medicamentos y que su papel consistía en evaluar ciertos aspectos de los que proponía la industria de cara a su potencial comercialización. $X_9$, sentado enfrente, le hizo la pregunta casi necesaria entre los que tienen un mínimo de cultura científica: ¿estamos a salvo de [_otra talidomida_](https://en.wikipedia.org/wiki/Thalidomide_scandal)?

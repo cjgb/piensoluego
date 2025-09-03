@@ -13,7 +13,7 @@ tags:
 - supervivencia
 - finanzas
 title: ¿Por cuánto te retirarías?
-url: /2024/por-cuanto-te-retirarias
+url: /2024/por-cuanto-te-retirarias/
 ---
 
 La entrada de hoy puede resultar un poco tonta, casi de autoayuda barata. Hay cuestiones que a uno lo interpelan directamente y otras que no. Depende de las circunstancias de cada cual.

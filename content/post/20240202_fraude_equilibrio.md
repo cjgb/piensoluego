@@ -15,7 +15,7 @@ tags:
 - moral
 - fraude
 title: El fraude como equilibrio
-url: /2024/fraude-equilibrio
+url: /2024/fraude-equilibrio/
 ---
 
 La primera y más importante lección que puede extraerse sobre este

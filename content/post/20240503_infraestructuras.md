@@ -15,7 +15,7 @@ tags:
 - francia
 - infraestructuras
 title: Carreteras en España vs carreteras en Francia
-url: /2024/carreteras-espana-francia
+url: /2024/carreteras-espana-francia/
 ---
 
 Acabo de regresar de un viaje por Francia (centro y sur). Observo:

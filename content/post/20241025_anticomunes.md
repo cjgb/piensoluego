@@ -15,7 +15,7 @@ tags:
 - comunes
 title: 'Conceptos importantes (pero no lo suficientemente conocidos) para entender
   lo que ocurre hoy: los anticomunes'
-url: /2024/anticomunes
+url: /2024/anticomunes/
 ---
 
 El asunto de los comunes y su _tragedia_ es, pienso, sobradamente conocido ya. Pero como concepto o modelo para entender lo que ocurre no es tan útil como el concepto _dual_ de los _anticomunes_. Le he pedido a Perplexity que me muestre unos cuantos ejemplos de la cosa y, prácticamente me ha escrito la entrada completamente. Me ha dicho:

@@ -16,7 +16,7 @@ tags:
 - bayesianismo
 - modelos mentales
 title: Modelos mentales
-url: /2024/modelos-mentales
+url: /2024/modelos-mentales/
 ---
 
 ### I.

@@ -14,7 +14,7 @@ tags:
 - epistemología
 - terraplanismo
 title: Más sobre el terraplanismo
-url: /2023/mas-sobre-terraplanismo
+url: /2023/mas-sobre-terraplanismo/
 ---
 
 Hay cosas que están en _escala humana_. Para entender las cosas en _escala humana_ no hace falta sino un poquitín de sentido común. No tienen mucho misterio.

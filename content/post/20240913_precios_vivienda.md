@@ -13,7 +13,7 @@ tags:
 - vivienda
 - economía
 title: Alchian y Allen sobre el mercado inmobiliario español
-url: /2024/vivienda-alchian-allen
+url: /2024/vivienda-alchian-allen/
 ---
 
 Hay dos párrafos muy intrigantes (e inexplicados) en [NadaEsGratis](https://nadaesgratis.es/admin/el-sistema-ya-no-financia-burbujas). Dicen:

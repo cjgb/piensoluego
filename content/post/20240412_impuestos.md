@@ -16,7 +16,7 @@ tags:
 - política
 - emigración
 title: Impuestos y emigración
-url: /2024/impuestos-emigracion
+url: /2024/impuestos-emigracion/
 ---
 
 ### I.

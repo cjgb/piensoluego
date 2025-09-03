@@ -15,7 +15,7 @@ tags:
 - tecnología
 - fricción
 title: 'Potencia vs fricción: el informe Draghi'
-url: /2024/potencia-fricción-draghi
+url: /2024/potencia-fricción-draghi/
 ---
 
 Todo lo que he leído sobre el reciente _informe Draghi_ ---un documento estratégico elaborado por Mario Draghi a instancias de la Comisión Europea que analiza la competitividad económica de la UE---, he tratado de entenderlo sobre un modelo potencia-rozamiento: la UE es un vehículo que queremos que circule más rápido; para ello tenemos dos alternativas: incrementar su potencia o reducir la fricción ---mejorando su perfil aerodinámico, etc.---.

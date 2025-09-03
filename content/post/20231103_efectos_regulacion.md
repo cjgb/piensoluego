@@ -14,7 +14,7 @@ tags:
 - diversidad
 - política
 title: Todo es igual y la culpa, en gran medida, es de la regulación
-url: /2023/todo-es-igual
+url: /2023/todo-es-igual/
 ---
 
 [Todo es igual](https://www.alexmurrell.co.uk/articles/the-age-of-average)

@@ -13,7 +13,7 @@ tags:
 - epistemología
 - prejuicios
 title: Necesitamos entrenar y mejorar nuestros prejuicios
-url: /2024/mejores-prejuicios
+url: /2024/mejores-prejuicios/
 ---
 
 Participé recientemente en una reunión de un _club de lectura racionalista_ en el que se discutieron los dos primeros capítulos del libro _Superforecasting_. El segundo discute, entre otras cosas, los sistemas 1 y 2 de pensamiento que popularizó Kahneman en su famoso libro _Thinking, Fast and Slow_.

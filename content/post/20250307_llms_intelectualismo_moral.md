@@ -15,7 +15,7 @@ tags:
 - ética
 - llms
 title: LLMs e intelectualismo moral
-url: /2025/llms-intelectualismo-moral
+url: /2025/llms-intelectualismo-moral/
 ---
 
 El resumen de un reciente artículo, [_Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs_](https://arxiv.org/abs/2502.17424), es más o menos, este:

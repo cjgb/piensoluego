@@ -15,7 +15,7 @@ tags:
 - precios
 - greedflation
 title: Sobre la "greedflation"
-url: /2023/greedflation
+url: /2023/greedflation/
 ---
 
 La "greedflation" es una seudoexplicación causal de la inflación: a las empresas, de repente, les da por subir precios más o menos simultáneamente y eso desemboca en una espiral inflacionista. Se trata de una teoría muy arraigada en ciertos sectores ideológicos.

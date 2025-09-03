@@ -13,7 +13,7 @@ tags:
 - cooperativas
 - vivienda
 title: ¿Dónde están las cooperativas de viviendas?
-url: /2024/cooperativas-vivienda
+url: /2024/cooperativas-vivienda/
 ---
 
 Esta entrada plantea una pregunta a la que [ya contesté la semana pasada](/2024/cooperativas).

@@ -14,7 +14,7 @@ tags:
 - democracia
 - insaculación
 title: Sobre la insaculación
-url: /2024/insaculacion
+url: /2024/insaculacion/
 ---
 
 ### I.

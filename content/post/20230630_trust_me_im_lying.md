@@ -18,7 +18,7 @@ tags:
 - economía
 - incentivos
 title: Confía en mí, estoy mintiendo, etc.
-url: /2023/confia-en-mi-estoy-mintiendo
+url: /2023/confia-en-mi-estoy-mintiendo/
 ---
 
 Pese a la aparente contradicción, escribo para recomendar un libro que dudo en terminar de leer: _Confía en mí, estoy mintiendo; confesiones de un manipulador de medios_.

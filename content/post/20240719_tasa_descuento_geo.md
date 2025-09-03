@@ -14,7 +14,7 @@ tags:
 - tasa descuento
 - moral
 title: Tasa de descuento en t, tasa de descuento en d
-url: /2024/tasa-descuento-distancia
+url: /2024/tasa-descuento-distancia/
 ---
 
 Al hilo de

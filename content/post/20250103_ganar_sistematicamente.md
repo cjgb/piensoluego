@@ -14,7 +14,7 @@ tags:
 - heurísticas
 - teoría de la decisión
 title: ¿Es "ganar sistemáticamente" una buena definición de "racionalismo"?
-url: /2025/racionalidad-ganar-sistematicamente
+url: /2025/racionalidad-ganar-sistematicamente/
 ---
 
 ### Antes de empezar, ¿qué es aquí "racionalismo"?

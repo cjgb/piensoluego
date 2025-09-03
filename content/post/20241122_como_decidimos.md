@@ -15,7 +15,7 @@ tags:
 - sicología evolutiva
 - cultura
 title: ¿Cuál es el criterio último que más pesa en nuestras decisiones?
-url: /2024/como-decidimos
+url: /2024/como-decidimos/
 ---
 
 La gente toma decisiones y hay gente que estudia de dónde proceden y cómo se construyen. A grandes rasgos, hay tres hipótesis distintas:

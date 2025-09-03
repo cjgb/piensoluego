@@ -18,7 +18,7 @@ tags:
 - mercado
 - eficiencia
 title: Dos cosas que el sector público hace mal
-url: /2025/sector-publico-hace-mal
+url: /2025/sector-publico-hace-mal/
 ---
 
 El sector público ha asumido muchas tareas. Se percibe a menudo como ineficiente y según Joseph Heath (en el libro que comenté [aquí](/2024/maquinaria-gobierno)), uno de los motivos es que asume tareas en las que es muy difícil operar eficientemente. Aún así, el sector público, con el apoyo de una parte sustancial de la ciudadanía, está incentivado a ampliar su ámbito de intervención (_function creep_, lo llaman en inglés). Así que no está mal recordar de vez en cuando algunas cosas que hace mal.

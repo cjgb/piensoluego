@@ -14,7 +14,7 @@ tags:
 - libros
 - bulos
 title: Trump y mentes semieducadas
-url: /2024/trump-egan
+url: /2024/trump-egan/
 ---
 
 El _filósofo de la educación_ [Kieran Egan](https://es.wikipedia.org/wiki/Kieran_Egan)

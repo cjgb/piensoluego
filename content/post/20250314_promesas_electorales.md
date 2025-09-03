@@ -15,7 +15,7 @@ tags:
 - política
 - democracia
 title: Campañas electorales e información
-url: /2025/campanas-electorales-informacion
+url: /2025/campanas-electorales-informacion/
 ---
 
 En democracia hay elecciones periódicamente. Los candidatos exponen sus programas, los discuten en debates, etc. y la gente vota.

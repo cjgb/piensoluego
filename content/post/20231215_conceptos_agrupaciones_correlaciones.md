@@ -14,7 +14,7 @@ tags:
 - epistemología
 - conceptos
 title: Conceptos como agrupaciones de correlaciones útiles
-url: /2023/conceptos-agrupaciones-correlaciones
+url: /2023/conceptos-agrupaciones-correlaciones/
 ---
 
 Recojo aquí, movido por interés principalmente (auto) mnemotécnico, una idea que expone Scott Alexander en

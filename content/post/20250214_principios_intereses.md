@@ -15,7 +15,7 @@ tags:
 - españa
 - historia
 title: Principios vs intereses en la Europa de 2025
-url: /2025/principios-intereses
+url: /2025/principios-intereses/
 ---
 
 Dijo Lord Palmerston ---político británico que fue primer ministro a mediados del XIX--- desde la cúspide del poder del Imperio:

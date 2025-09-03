@@ -15,7 +15,7 @@ tags:
 - abejas
 - feynman
 title: La inane danza de las abejas
-url: /2024/baile-abejas
+url: /2024/baile-abejas/
 ---
 
 Karl R. von Frisch descubrió lo que se llama la

@@ -15,7 +15,7 @@ tags:
 - epistemología
 - mercados de apuestas
 title: 'Mercados de predicciones: ¿sí o no?'
-url: /2024/mercados-apuestas
+url: /2024/mercados-apuestas/
 ---
 
 Tiene Scott Alexander un [promptuario de sobre mercados de apuestas](https://www.astralcodexten.com/p/prediction-market-faq) en el que:

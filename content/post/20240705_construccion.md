@@ -14,7 +14,7 @@ tags:
 - economía
 - medios
 title: ¿Hemos olvidado cómo construir (viviendas)?
-url: /2024/construccion-viviendas
+url: /2024/construccion-viviendas/
 ---
 
 Unas cuantas noticias de antes de 2008:

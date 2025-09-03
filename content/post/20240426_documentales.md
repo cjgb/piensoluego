@@ -15,7 +15,7 @@ tags:
 - alberto olmos
 - guerra
 title: La historia, según Alberto Olmos
-url: /2024/historia-olmos
+url: /2024/historia-olmos/
 ---
 
 Cito a Alberto Olmos de [aquí](https://www.elconfidencial.com/cultura/2024-04-12/hispanoamerica-culpable-conquistar-america_3864645/):

@@ -14,7 +14,7 @@ tags:
 - economía
 - medios
 title: Medios antilombriz
-url: /2024/antilombriz
+url: /2024/antilombriz/
 ---
 
 Cultivo lombrices en casa ---capturé unos cuantos ejemplares en la orilla del río--- con la esperanza vagamente inspirada en conocimiento científico de que, en el momento en que se afiance y crezca la colonia, me ayuden a transformar basura en suelo rico para las macetas.

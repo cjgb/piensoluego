@@ -17,7 +17,7 @@ tags:
 - ciencia
 - bienes públicos
 title: El problema de las soluciones sin problema (y II)
-url: /2024/soluciones-sin-problema-ii
+url: /2024/soluciones-sin-problema-ii/
 ---
 
 La [entrada homónima de la semana](/2024/soluciones-sin-problema/) pasada ha devenido serie tras leer [_Is Science a Public Good?_](https://marginalrevolution.com/marginalrevolution/2024/02/is-science-a-public-good.html), que ChatGPT y yo resumimos así:

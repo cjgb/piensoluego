@@ -16,7 +16,7 @@ tags:
 - leo strauss
 title: ¿Podemos fiarnos de la opinión de los "expertos"? Una generalización del principio
   de Goodhart
-url: /2024/confianza-opinion-expertos
+url: /2024/confianza-opinion-expertos/
 ---
 
 Trajo Scott Alexander una entrada en su blog,

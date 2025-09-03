@@ -14,7 +14,7 @@ tags:
 - filosofía
 title: Sobre la influencia de las ideas filosóficas contemporáneas en la política,
   la educación, etc.
-url: /2023/miseria-filosofia
+url: /2023/miseria-filosofia/
 ---
 
 Hoy quiero resumir el argumento fundamental de

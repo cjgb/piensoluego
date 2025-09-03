@@ -13,7 +13,7 @@ tags:
 - política
 - economía
 title: 'Recordatorio periódico: el rol del estado'
-url: /2024/rol-estado
+url: /2024/rol-estado/
 ---
 
 En España es popular un discurso según el cual el estado tiene un papel fundamental en la provisión de sanidad y educación. Como si proporcionar sanidad y educación es el fin y la justificación del estado (y de las servidumbres asociadas a su existencia, como los impuestos, etc.). (Obviamente, "sanidad y educación" es solo un meme tamaño pancarta (o tuit): en realidad, los que lo defienden no quieren decir que el estado deba restringirse a esas tareas, pero es no obstante significativo que se trate de las que subrayen con mayor ahínco). Cuando sanidad y educación son servicios que en muchas sociedades exitosas son de provisión privada ---aun cuando el estado desempeñe en ellas cierto papel corrigiendo algunos desajustes del mercado---.

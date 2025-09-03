@@ -13,7 +13,7 @@ tags:
 - terraplanismo
 - economía
 title: Sobre los otros terraplanismos
-url: /2024/otros-terraplanismos
+url: /2024/otros-terraplanismos/
 ---
 
 Del [terraplanismo](/tags/terraplanismo/) ya se ha hablado aquí. Uno de los aspectos más importantes del terraplanismo es que se trata de un folclore intrascendente. Los terraplanistas pueden

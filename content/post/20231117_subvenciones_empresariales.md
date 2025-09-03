@@ -14,7 +14,7 @@ tags:
 - empresas
 - subvenciones
 title: 'Las subvenciones: el modelo'
-url: /2023/subvenciones-el-modelo
+url: /2023/subvenciones-el-modelo/
 ---
 
 Se puede pensar en una empresa como en un conjunto de personas sentadas alrededor de un montón de dinero. Las personas van tomando dinero del montón ---nóminas, bonus, dividendos, etc.--- y con él pagan sus casas, sus coches, el colegio de sus niños, etc. Desafortunadamente, el dinero del montón se va consumiendo. Así que las personas que vivían felices simplemente agarrando fajos de billetes, se ven en la penosa y tediosa tesitura de pensar cómo añadir más dinero al menguante montón.

@@ -18,7 +18,7 @@ tags:
 - natalidad
 - demografía
 title: ¿Quién (qué) pagará nuestras pensiones? Si acaso, el capital humano
-url: /2024/capital-humano-pensiones
+url: /2024/capital-humano-pensiones/
 ---
 
 El lector habrá encontrado escrita por ahí frases diciendo que estos o aquellos serán quienes paguen nuestras pensiones en el futuro. Sin embargo:

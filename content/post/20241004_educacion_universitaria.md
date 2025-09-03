@@ -16,7 +16,7 @@ tags:
 - economía
 - universidad
 title: Más sobre la educación universitaria como industria exportadora
-url: /2024/exportacion-educacion-universitaria
+url: /2024/exportacion-educacion-universitaria/
 ---
 
 ### I.

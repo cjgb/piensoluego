@@ -13,7 +13,7 @@ tags:
 - verdad
 - ciencia
 title: 'Un modelo mental para el concepto: "buscar la verdad"'
-url: /2023/buscar-la-verdad
+url: /2023/buscar-la-verdad/
 ---
 
 Aquí va un modelo sobre cómo pensar sobre la verdad y la búsqueda de la verdad. Que, además, puede extenderse a otras ideas como la justicia, etc.

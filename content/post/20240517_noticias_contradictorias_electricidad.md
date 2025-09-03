@@ -15,7 +15,7 @@ tags:
 - aporías
 - modelos mentales
 title: 'Mercados eléctricos: dos noticias contradictorias'
-url: /2024/noticias-contradictorias-mercados-electricos
+url: /2024/noticias-contradictorias-mercados-electricos/
 ---
 
 En lógica, de darse por cierta una aporía, puede probarse cualquier cosa.

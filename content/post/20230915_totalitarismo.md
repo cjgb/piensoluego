@@ -13,7 +13,7 @@ tags:
 - política
 - democracia
 title: Totalitarismo, autoritarismo, democracia y todas esas cosas
-url: /2023/totalitarismo-democracia-etc
+url: /2023/totalitarismo-democracia-etc/
 ---
 
 Traduzco (de [aquí](https://astralcodexten.substack.com/p/bad-definitions-of-democracy-and)):

@@ -14,7 +14,7 @@ tags:
 - competencia
 - estabilidad
 title: 'Banca: competencia vs estabilidad'
-url: /2023/banca-competencia-estabilidad
+url: /2023/banca-competencia-estabilidad/
 ---
 
 La competencia es sana. Puede que el sector bancario en España esté excesivamente concentrado. Algunos protestan. Pero la vida de las empresas que operan en mercados de _competencia perfecta_ es _nasty, brutish and short_.

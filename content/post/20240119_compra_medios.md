@@ -15,7 +15,7 @@ tags:
 - epistemología
 title: Tiene que ser muy barato comprar la opiníón de los medios de comunicación,
   así que...
-url: /2024/compra-medios
+url: /2024/compra-medios/
 ---
 
 Hace años tuve ocasión de hablar con una señora de ya cierta edad que me contaba cómo uno de sus primeros trabajos, en la época de la transición, había consistido en emitir cheques con los que el gobierno de España pagaba a articulistas extranjeros cuyas piezas convenían resultaban convenientes a sus intereses. Desde entonces he permanecido alerta a indicios de que lo que leo en la sección internacional ---particularmente en ella--- pueda ser un publirreportaje de parte.

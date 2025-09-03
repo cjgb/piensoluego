@@ -15,7 +15,7 @@ tags:
 - epistemología
 - historia
 title: Sobre la historia de las disciplinas (y su aprendizaje)
-url: /2024/aprender-historia
+url: /2024/aprender-historia/
 ---
 
 * Recientemente, me he visto _obligado_ a familiarizarme _ex nihilo_ con ciertos conceptos técnicos.

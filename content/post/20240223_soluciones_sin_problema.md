@@ -14,7 +14,7 @@ tags:
 - substack
 - scott alexander
 title: El problema de las soluciones sin problema
-url: /2024/soluciones-sin-problema
+url: /2024/soluciones-sin-problema/
 ---
 
 Lo *normal* es que exista o aparezca un problema y que se le busque una solución. En el mundo de la tecnología, de vez en cuando, sucede lo contrario: aparece una solución y el *problema* consiste en encontrar un problema que resuelva.
