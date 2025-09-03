@@ -16,7 +16,7 @@ tags:
 - ecología
 - ciencia
 title: 'Economía y ecología: tan parecidas, tan diferentes'
-url: /2025/economia-ecologia
+url: /2025/economia-ecologia/
 ---
 
 Ecología y economía son dos disciplinas que se parecen en muchos aspectos:

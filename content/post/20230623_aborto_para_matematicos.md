@@ -14,7 +14,7 @@ tags:
 - moral
 - aborto
 title: El debate del aborto, explicado para gentes de números
-url: /2023/aborto-matematicos
+url: /2023/aborto-matematicos/
 ---
 
 El otro día leía una discusión de un profesor de filosofía del derecho sobre una reciente sentencia del Tribunal Constitucional sobre el asunto del aborto. Para entender el esquema de su argumentación se me ocurrió reformularla en términos cuantitativos como se describe a continuación. Que conste que me interesa más aquí dar a conocer dicha representación que defender o atacar la postura del profesor sobre el asunto.

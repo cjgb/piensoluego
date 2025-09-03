@@ -18,7 +18,7 @@ tags:
 - redes sociales
 - estado del bienestar
 title: Tiktok contra el estado del bienestar
-url: /2025/tiktok-estado-bienestar
+url: /2025/tiktok-estado-bienestar/
 ---
 
 El artículo de The Economist [_The tyranny of TikTokkers who turn up_](https://www.economist.com/britain/2025/04/02/the-tyranny-of-tiktokkers-who-turn-up) puede resumirse así:
