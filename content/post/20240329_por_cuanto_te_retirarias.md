@@ -16,10 +16,10 @@ title: ¿Por cuánto te retirarías?
 url: /2024/por-cuanto-te-retirarias/
 ---
 
-La entrada de hoy puede resultar un poco tonta, casi de autoayuda barata. Hay cuestiones que a uno lo interpelan directamente y otras que no. Depende de las circunstancias de cada cual.
+La entrada de hoy puede resultar un poco tonta, casi de autoayuda barata. Hay cuestiones que lo interpelan a uno directamente y otras que no. Depende de las circunstancias de cada cual.
 
-Las navidades pasadas alguien me preguntó medio de pasada lo siguiente: ¿cuánto dinero te hace falta para retirarte (y no trabajar más)?
+Durante las pasadas navidades, alguien me preguntó de pasada lo siguiente: ¿con qué cantidad de dinero crees que dejarías de trabajar y te retirarías?
 
-La respuesta es irrelevante; el proceso mental para llegar a ella, también. Lo que ha traído el asunto aquí, sin embargo, es que al pensar en el asunto y mirar con perspectiva financiera y no solo financiera los años que me quedan por delante, aparecieron opciones (al margen de las inercias cotidianas). Es probable que darle vueltas al asunto acabe cambiando mi vida.
+La respuesta que di es irrelevante; el proceso mental para llegar a ella, también. Lo que ha traído el asunto aquí, sin embargo, es que al pensar en dicha pregunta y mirar con perspectiva tanto financiera como extrafinanciera los años que me quedan por delante, aparecieron súbitamente opciones más allá de las inercias cotidianas. Es probable que darle vueltas al asunto acabe cambiando mi vida.
 
-(Y no, lamentándolo mucho, no puedo ser específico acerca de las cadenas de razonamientos, los conflictos de valores, etc. detrás de las distintas opciones. Solo puedo adelantar el papel fundamental que tuvo en todos ellos la idea que hila subrepticiamente la aparente heterogeneidad de temas sobre los que escribo aquí: la supervivencia del sujeto.)
+(Y no, lamentándolo mucho, no puedo ser específico acerca de las cadenas de razonamientos, los conflictos de valores, etc. detrás de las distintas opciones. Solo puedo adelantar el papel fundamental que tuvo en todos ellos la idea que hila subrepticiamente la aparente heterogeneidad de temas sobre los que escribo en estas páginas: la supervivencia del sujeto.)
