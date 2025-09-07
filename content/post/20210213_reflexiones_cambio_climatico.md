@@ -15,7 +15,7 @@ tags:
 - cambio climático
 - ética
 - democracia
-title: Sobre el cambio climático
+title: "Cambio climático: ciencia, escepticismo y ¿decisiones racionales?"
 url: /2021/reflexiones-cambio-climatico/
 ---
 
