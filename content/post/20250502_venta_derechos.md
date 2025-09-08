@@ -20,7 +20,9 @@ title: ¿Cuánto deprecia un derecho el hecho de que no se pueda vender?
 url: /2025/venta-derechos/
 ---
 
-En el segundo tercio del siglo XIX hubo una revolución silenciosa (a ratos) en España propiciada por un hecho fundamental: la desamortización. Hasta aquella fecha, había entidades que tenían un particular derecho de propiedad sobre vastos conjuntos de bienes (tierras, edificios, etc.): los poseían pero no podían venderlos.
+En el segundo tercio del siglo XIX hubo una revolución silenciosa (a ratos) en España propiciada por un hecho fundamental: la desamortización.
+Hasta entonces, habían existido entidades que tenían un particular derecho de propiedad sobre vastos conjuntos de bienes (tierras, edificios, etc.): los poseían pero no podían transferirlos, venderlos.
+Eso no solo restaba valor a su posesión sino que impedía su eficaz aprovechamiento y lastraba el desarrollo económico.
 
 Muchos de nuestros derechos que gozamos hoy en día tienen cercenado su valor porque no son transferibles: piénsese en esos que otorga la GDPR.
 
