@@ -2,7 +2,7 @@
 categories:
 - supervivencia
 date: 2025-07-03
-description: TBA
+description: Sobre los efectos beneficiosos del cártel de sobres que existió en España
 lastmod: '2025-09-10T19:03:36.159607'
 related:
 - 20240626_cortos.md
@@ -13,7 +13,7 @@ related:
 tags:
 - supervivencia
 - prospectiva
-title: Cártel de Sobres
+title: No necesitamos un cártel de sobres, necesitamos un monopolio de sobres
 url: /2025/cartel-sobres/
 ---
 
