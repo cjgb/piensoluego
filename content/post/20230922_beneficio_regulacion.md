@@ -23,7 +23,7 @@ En esa charla, Bill Gurley ofrece cierta ---porque no deja de ser personal o sub
 
 Pero no nos dice por qué, siendo como es tan sencillo de explicar.
 
-Imaginemos que se reparte una herencia. Hay cinco herederos pero los las gestiones y los detalles últimos del reparto las realizan dos de ellos exclusivamente. ¿Qué cabe esperar?
+Imaginemos que se reparte una herencia. Hay cinco herederos pero las gestiones y los detalles últimos del reparto las realizan dos de ellos exclusivamente. ¿Qué cabe esperar?
 
 En la creación de regulación hay cinco partes interesadas:
 

@@ -14,7 +14,7 @@ tags:
 - conclusion repugnante
 - utilitarismo
 - paretianismo
-title: Otra conclusión repugnante (del utilitarismo y por qué en estas páginas estamos
+title: Otra conclusión repugnante (del utilitarismo) y por qué en estas páginas estamos
   más próximos al "paretianismo"
 url: /2023/otra-conclusion-repugnante/
 ---
