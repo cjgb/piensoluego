@@ -13,7 +13,7 @@ related:
 tags:
 - economía
 - ética
-- empresa
+- empresas
 title: Supervivencia y ética corporativa
 url: /2021/supervivencia-etica-corporativa/
 ---

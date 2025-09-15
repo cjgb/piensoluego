@@ -15,7 +15,7 @@ tags:
 - economía
 - filosofía
 - utilitarismo
-- paretiianismo
+- paretianismo
 - joseph heath
 title: 'Utilitarismo vs "paretianismo": una descripción gráfica'
 url: /2022/utilitarismo-paretianismo/
