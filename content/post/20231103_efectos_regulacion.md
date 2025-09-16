@@ -18,7 +18,7 @@ url: /2023/todo-es-igual/
 ---
 
 [Todo es igual](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-y la culpa, es, en gran medida, de la regulación.
+y la culpa la tiene, en gran medida, la regulación.
 
 Supongamos que el ayuntamiento de Madrid decide un día que es en el interés de la ciudadanía que las tortillas de patata que sirven los restaurantes de la capital cumplan ciertos requisitos. Requisitos _mínimos_, dicen, para tranquilizar. Para ello convoca una comisión de expertos que redacta una ordenanza en la que se enumeran minuciosamente las características con las que ha de contar una genuina tortilla capitalina.
 

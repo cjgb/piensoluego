@@ -21,7 +21,7 @@ La competencia es sana. Puede que el sector bancario en España esté excesivame
 
 ¿Queremos que la vida de nuestros bancos sea corta? ¿Queremos que algunos quiebren de vez en cuando? ¿Queremos, por tanto, _competencia perfecta_ en el sector bancario?
 
-La banca es, por lo tanto, particular. Estabilidad bancaria y competencia son objetivos ambos deseables pero no alineados y que exigen un _trade off_. ¿Cuál? Afortunadamente, no es problema mío.
+La banca es, por lo tanto, particular. Estabilidad bancaria y competencia son objetivos ambos deseables pero no alineados y que exigen un _trade-off_. ¿Cuál? Afortunadamente, no es problema mío.
 
 ## Coda
 

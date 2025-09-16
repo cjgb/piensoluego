@@ -26,10 +26,10 @@ url: /2022/evaluacion-heuristicas/
 
 Esta breve entrada continua y remata
 [la de la semana pasada](/2022/se-puede-ser-racional/).
-Allí discutía como la _racionalidad_ de una heurística ---incluyendo dentro de ellas a las ideologías y sin entrar a evaluar qué significa ser _racional_--- no puede ser nunca el criterio de bondad.
+Allí discutía cómo la _racionalidad_ de una heurística ---incluyendo dentro de ellas a las ideologías y sin entrar a evaluar qué significa ser _racional_--- no puede ser nunca el criterio de bondad.
 
 Entonces, ¿qué hace buena a una determinada heurística? Podría resumir aquí la discusión de Gigerenzer sobre cómo los beisbolistas atrapan las pelotas, pero el lector interesado lo puede consultar por su cuenta en el muy recomendable artículo
-[_A Simple Heuristic Successfully Used by Humans, Animals, and Machines: The Story of the RAF and Luftwaffe, Hawks and Ducks, Dogs and Frisbees, Baseball Outfielders and Sidewinder Missiles—Oh My!_](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12269). En general, dentro del campo de la [_racionalidad con limitada_](https://es.wikipedia.org/wiki/Racionalidad_limitada), en el que se inscribe el trabajo anterior, se ofrecen respuestas a esta cuestión. Respuestas que, por lo que he visto sin pararme a repasar la literatura, suelen ceñirse al mundo de pequeñas decisiones cotidianas.
+[_A Simple Heuristic Successfully Used by Humans, Animals, and Machines: The Story of the RAF and Luftwaffe, Hawks and Ducks, Dogs and Frisbees, Baseball Outfielders and Sidewinder Missiles—Oh My!_](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12269). En general, dentro del campo de la [_racionalidad con limitada_](https://es.wikipedia.org/wiki/Racionalidad_limitada), en el que se inscribe el trabajo anterior, se ofrecen respuestas a esta cuestión. Respuestas que, por lo que he visto sin detenerme a repasar la literatura, suelen ceñirse al mundo de pequeñas decisiones cotidianas.
 
 Pero extendido a otras más _trascendentes_, podría aplicarse el mismo criterio: es _buena_ una ideología, por ejemplo, no tanto por disponer de una sólida justificación racional sino porque facilita a los sujetos que la adoptan alcanzar sus objetivos más o menos eficazmente y operar con cierta normalidad. En definitiva, si es propicia para su supervivencia, pueda o no justificarla desde primeros principios.
 

@@ -3,6 +3,7 @@ categories:
 - economía
 date: 2024-10-25
 lastmod: '2025-04-06T01:38:15.613934'
+description: "La tragedia de los anticomunes, un concepto clave menos conocido que el de la tragedia de los comunes, esencial para entender la crisis de vivienda, los derechos de propiedad y su impacto en la economía actual."
 related:
 - 20241204_cortos.md
 - 20250212_cortos.md
@@ -18,7 +19,7 @@ title: 'Conceptos importantes (pero no lo suficientemente conocidos) para entend
 url: /2024/anticomunes/
 ---
 
-El asunto de los comunes y su _tragedia_ es, pienso, sobradamente conocido ya. Pero como concepto o modelo para entender lo que ocurre no es tan útil como el concepto _dual_ de los _anticomunes_. Le he pedido a Perplexity que me muestre unos cuantos ejemplos de la cosa y, prácticamente me ha escrito la entrada completamente. Me ha dicho:
+El asunto de los comunes y su _tragedia_ es, pienso, sobradamente conocido ya. Pero como concepto o modelo para entender lo que ocurre no es tan útil como el concepto _dual_ de los _anticomunes_. Le he pedido a Perplexity que me muestre unos cuantos ejemplos de la cosa y, prácticamente, me ha escrito la entrada entera. Me ha dicho:
 
 > La literatura cita varios ejemplos para ilustrar el concepto de los anticomunes:
 >
