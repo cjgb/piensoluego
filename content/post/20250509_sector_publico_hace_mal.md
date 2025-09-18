@@ -15,7 +15,7 @@ related:
 tags:
 - política
 - economía
-- mercado
+- mercados
 - eficiencia
 title: Dos cosas que el sector público hace mal
 url: /2025/sector-publico-hace-mal/

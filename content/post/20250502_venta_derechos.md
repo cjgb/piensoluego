@@ -15,7 +15,7 @@ tags:
 - política
 - economía
 - derechos
-- mercado
+- mercados
 title: ¿Cuánto deprecia un derecho el hecho de que no se pueda vender?
 url: /2025/venta-derechos/
 ---
