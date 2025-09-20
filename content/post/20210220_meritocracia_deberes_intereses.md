@@ -40,7 +40,7 @@ De las premisas
 
 no se sigue que tengamos deberes para con los segundos; se sigue, más bien, que _querremos_ darles oportunidades para que puedan convertirse en esos profesionales que necesitamos.
 
-Reconozco que la diferencia entre el deber y el querer puede hacerse tan grande o pequeña como se quiera. Por ejemplo, si todos asumimos el interés por contribuir a la mejora de las oportunidades de los menos afortunados, pude haber quien se escaquee (¿cómo traducir _free-riding_ aquí?) obteniendo los beneficios pero sin contribuir a ello. Entonces, el grupo puede hacer valer su poder coercitivo convirtiendo esa preferencia en un deber y encargando a la Guardia Civil de antaño el velar su puntual cumplimiento.
+Reconozco que la diferencia entre el deber y el querer puede hacerse tan grande o pequeña como se quiera. Por ejemplo, si todos asumimos el interés por contribuir a la mejora de las oportunidades de los menos afortunados, puede haber quien se escaquee (¿cómo traducir _free-riding_ aquí?) obteniendo los beneficios pero sin contribuir a ello. Entonces, el grupo puede hacer valer su poder coercitivo convirtiendo esa preferencia en un deber y encargando a la Guardia Civil de antaño el velar su puntual cumplimiento.
 
 Por otro lado, una diferencia entre ambas aproximaciones radica en que desde la perspectiva del querer, a aquel que contumazmente malbaratase las posibilidades de ascenso social que se le proporcionasen, no habría por qué obstaculizarle su voluntario despeñamiento hacia al chabolismo. Pero como si eso no ocurriese incluso después de décadas de esa onerosa _guerra contra la pobreza_ que tanto nos cuesta dar por perdida y entregar armas y bagajes en una rendición oportuna.
 
