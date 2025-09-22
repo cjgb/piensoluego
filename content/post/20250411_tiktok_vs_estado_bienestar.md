@@ -30,7 +30,7 @@ El artículo de The Economist [_The tyranny of TikTokkers who turn up_](https://
 
 Contiene, además, párrafos tan propios de este blog como este:
 
-> Si la gente se ha espabildado en sus relaciones con el estado es tal vez porque se ha vuelto cínica sobre su futuro.
+> Si la gente se ha espabilado en sus relaciones con el estado es tal vez porque se ha vuelto cínica sobre su futuro.
 > La tercera parte de la población cree que en treinta años no habrá pensiones, según el Instituto de Estudios Fiscales.
 > Eso genera un incentivo para que la gente trate de obtener hoy lo máximo posible.
 > Es similar a un _bank run_: como cree que no podrá hacer frente a sus obligaciones mañana, la gente toma del estado todo lo que puede hoy.
