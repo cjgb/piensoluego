@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2025-09-04
-description: tba
+description: "Crítica a la directiva de Bruselas sobre basuras: posmodernismo, tasas injustas y la excusa climática como pretexto para recaudar más."
 lastmod: '2025-09-27T18:45:03.475281'
 related:
 - 20240716_cortos.md
