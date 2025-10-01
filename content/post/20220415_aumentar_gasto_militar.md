@@ -18,7 +18,7 @@ title: Tras la invasión de Ucrania, ¿incrementar el gasto militar?
 url: /2022/ucrania-incrementar-gasto-militar/
 ---
 
-El gasto militar ---hablo desde una prespectiva intra-OTAN, por supuesto--- previo a la invasión rusa de Ucrania era el que era, entiendo, como combinación de dos (¿tres?) factores:
+El gasto militar ---hablo desde una perspectiva intra-OTAN, por supuesto--- previo a la invasión rusa de Ucrania era el que era, entiendo, como combinación de dos (¿tres?) factores:
 
 1. La probabilidad de que los enemigos potenciales de la OTAN adoptasen políticas agresivas.
 2. La capacidad militar de dichos enemigos potenciales.
