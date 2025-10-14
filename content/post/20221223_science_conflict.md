@@ -11,6 +11,7 @@ related:
 - 20231229_justicia_verdad.md
 tags:
 - supervivencia
+- mala ciencia
 - ciencia
 - moral
 - conflicto
