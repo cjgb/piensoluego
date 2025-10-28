@@ -18,7 +18,7 @@ title: El posmodernismo como la filosofía de y para funcionarios
 url: /2025/posmodernismo/
 ---
 
-Buscándola, no he encontrado una larga y sesuda entrada que planeé hace un tiempo sobre el posmodernismo y mis crecientes simpatías hacia dicho movimiento. Lo que me hae pensar que fue una ensoñación, un mero bosquejo mental que nunca llegué a plasmar por escrito.
+Buscándola, no he encontrado una larga y sesuda entrada que planeé hace un tiempo sobre el posmodernismo y mis crecientes simpatías hacia dicho movimiento. Lo que me hace pensar que fue una ensoñación, un mero bosquejo mental que nunca llegué a plasmar por escrito.
 
 Vaya por delante que apenas tengo conocimiento directo del posmodernismo. Apenas he leído a alguna de sus principales figuras directamente. Fundamentalmente, he aprendido sobre él a través de sus críticos, especialmente en las ciencias duras, como [Sokal](/2021/reconciliacion-sokal-latour/). Entiendo que eso sesga y condiciona mi opinión sobre el asunto.
 

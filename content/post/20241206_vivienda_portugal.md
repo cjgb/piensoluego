@@ -19,7 +19,7 @@ title: 'La paradoja de la escasez de vivienda: el caso de Portugal'
 url: /2024/vivienda-portugal/
 ---
 
-Esta semana he escrito una serie de [cortos sobre vivienda](/2024/cortos-25/) y quiero explayarme en algunos aspectos del llamado problema. En particular, sobre la paradoja que nadie parece discutir a la que hacía mención al final de aquella entrada. La voy a ilustrar con un asunto relacionado con nuestro vecino Portugal.
+Esta semana he escrito una serie de [cortos sobre vivienda](/2024/cortos-25/) y quiero explayarme en algunos aspectos del _problema_. En particular, sobre la paradoja que nadie parece percibir y a la que hacía mención al final de aquella entrada. La voy a ilustrar con el caso de nuestro vecino Portugal.
 
 Primero, una serie de hechos conocidos:
 - Portugal es un país que, por motivos que algunos conocen, es incapaz de producir bienes y servicios que deseen los extranjeros.
