@@ -23,7 +23,7 @@ El artículo al que me refiero es [_¿La tiranía del mérito?_](https://theobje
 
 > Nadie es merecedor ni de su dotación genética ni de la familia que lo acoge. Precisamente por eso tenemos el deber inexcusable de la solidaridad.
 
-Se trata de una entradilla desafortunada porque desdice de lo que viene luego, tanto en contenido como en espíritu. El artículo, de hecho, es un breve resumen con unas mínimas pinceladas críticas ---es tan breve que no da para más--- del libro _La tiranía del mérito_ de M. J. Sandel. La frase que rescata la entradilla forma parte de una especie de silogismo incompleto e inconsistente, como una silla de dos patas, que dice así:
+Se trata de una selección desafortunada porque desdice de lo que viene luego, tanto en contenido como en espíritu. El artículo, de hecho, es un breve resumen con unas mínimas pinceladas críticas ---es tan breve que no da para más--- del libro _La tiranía del mérito_ de M. J. Sandel. La frase que rescata la entradilla forma parte de una especie de silogismo incompleto e inconsistente, como una silla de dos patas, que dice así:
 
 > Es obvio que las condiciones de partida de la carrera meritocrática son claramente desiguales. Nadie es merecedor ni de su dotación genética ni de la familia que lo acoge. Precisamente por eso tenemos el deber inexcusable de la solidaridad.
 

@@ -22,7 +22,7 @@ url: /2025/economia-ecologia/
 Ecología y economía son dos disciplinas que se parecen en muchos aspectos:
 - Estudian fenómenos complejos plagados de relaciones no lineales.
 - En los sistemas que estudian hay agentes que maximizan ciertas funciones y están sujetos a restricciones presupuestarias.
-- En ambas disciplinas, la noción de equilibrio juega un papel fundamental.
+- La noción de equilibrio juega un papel fundamental en ambas disciplinas.
 - Están condicionadas por los conceptos análogos de cultura y etología.
 
 Sin embargo, operan sobre fundamentos ideológicos distintos:
