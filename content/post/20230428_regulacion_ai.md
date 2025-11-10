@@ -17,7 +17,7 @@ title: ¿A quién beneficia realmente la regulación de la IA?
 url: /2023/beneficiarios-regulacion-ia/
 ---
 
-No merece abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando ya sea por su regulación. Además, en muchos casos, exigiendo una de esas regulaciones asimilables a la estrangulación.
+No merece la pena abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando ya sea por su regulación. Además, en muchos casos, exigiendo una de esas regulaciones asimilables a la estrangulación.
 
 Pero, ¿quiénes serían los máximos beneficiarios de un tal estado de las cosas? Evidentemente, los grandes actores: Google, Amazon, Microsoft y algunos otros pocos más.
 
