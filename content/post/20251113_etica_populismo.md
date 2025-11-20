@@ -20,7 +20,7 @@ title: Ética y populismo
 url: /2025/etica-populismo/
 ---
 
-Hace un tiempo escribí [esto](2022/intuiciones-morales-metafora-seguridad-informatica/). Allí me refería a la tensión entre las intuiciones morales y las construcciones éticas formales.
+Hace un tiempo escribí [esto](/2022/intuiciones-morales-metafora-seguridad-informatica/). Allí me refería a la tensión entre las intuiciones morales y las construcciones éticas formales. Y, en la misma línea, también [esto](/2021/etica-bioetica/).
 
 No hace tanto, Joseph Heath escribió [_Populism fast and slow_](https://josephheath.substack.com/p/populism-fast-and-slow), que relaciona el populismo con la capacidad o no de activar el _sistema 2_ ---el popularizado por Kahneman--- para resolver esas cuestiones que al _sistema 1_ se le antojan contradictorias y difíciles de conciliar con el sentido común. De acuerdo con Heath, sería _populista_ un sistema político que confiriese la primacía al _sistema 1_.
 
