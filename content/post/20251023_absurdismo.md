@@ -12,6 +12,7 @@ related:
 - 20250530_girard_vivienda.md
 tags:
 - absurdismo
+- filosofía
 title: ¿Seré un criptoabsurdista?
 url: /2025/absurdismo/
 ---

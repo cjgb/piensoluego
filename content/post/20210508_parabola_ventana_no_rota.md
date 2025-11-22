@@ -28,4 +28,4 @@ Sin embargo:
 
 Una versión moderna y burda de esta parábola es la de aquellos operarios que, en palabras de un testigo ocular conocido mío, llegaron un buen día a una calle medio vacía con la furgoneta, sacaron de ella una maza, destrozaron una señal de tráfico, la fotografiaron, la arreglaron con cemento y cariño, la volvieron a fotografiar en toda su derechura y se largaron muy fehacientemente.
 
-Sin embargo, la versión moderna más refinada de esta paradoja consiste en convencer a muchos de que una ventana en perfecto estado está rota. Sobra la piedra, sobra la maza: basta la la palabra del cristalero.
+Sin embargo, la versión moderna más refinada de esta paradoja consiste en convencer a muchos de que una ventana en perfecto estado está rota. Sobra la piedra, sobra la maza: basta la palabra del cristalero.

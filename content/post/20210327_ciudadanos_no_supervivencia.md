@@ -18,9 +18,9 @@ title: Sobre la no supervivencia de Ciudadanos
 url: /2021/ciudadanos-no-supervivencia/
 ---
 
-Vaya por delante que el autor de estas líneas habría emigrado de buen grado a una dictadura cuyos principios rectores fuesen los del programa _fundacional_ de Ciudadanos. Al menos, aquel que se fue desgranado tema a tema en una serie de actos realizados en 2014 (¿2015?) y que constituyeron además la presentación del partido en el ámbito nacional. El autor asistió en persona a uno de ellos, celebrado en el Teatro Goya de Madrid y que formaba parte del ciclo dedicado a las medidas económicas.
+Vaya por delante que el autor de estas líneas habría emigrado de buen grado a una dictadura cuyos principios rectores fuesen los del programa _fundacional_ de Ciudadanos. Al menos, aquel que se fue desgranando tema a tema en una serie de actos realizados en 2014 (¿2015?) y que constituyeron además la presentación del partido en el ámbito nacional. El autor asistió en persona a uno de ellos, celebrado en el Teatro Goya de Madrid y que formaba parte del ciclo dedicado a las medidas económicas.
 
-Lo único que al autor encontró chirriante ---¿y populista?--- de Ciudadanos a lo largo de estos años fue su insistencia en que habrían de _ganar las elecciones_, en que Rivera habría de convertirse en el _próximo presidente_, etc. Supongo que no habrá manual para realizar campañas electorales que invite no hacerlo ---y con cara, además, de creérselo---. Pero se habría agradecido desde el primer momento un discurso mucho más acorde a las expectativas que entonces se tenían y construido alrededor de los puntos siguientes:
+Lo único que al autor encontró chirriante ---¿y populista?--- de Ciudadanos a lo largo de estos años fue su insistencia en que habrían de _ganar las elecciones_, en que Rivera habría de convertirse en el _próximo presidente_, etc. Supongo que no habrá manual para realizar campañas electorales que invite a no hacerlo ---y con cara, además, de creérselo---. Pero se habría agradecido desde el primer momento un discurso mucho más acorde con las expectativas que entonces se tenían y construido alrededor de los puntos siguientes:
 
 * No vamos a ganar las elecciones, pero esperamos conseguir un buen resultado.
 * Vamos a tratar de ser necesarios para, si no la conformación, sí el sostenimiento del gobierno que vendrá.

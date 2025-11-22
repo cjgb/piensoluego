@@ -48,7 +48,7 @@ GPT-3 [produjo](https://www.buildgpt3.com/post/88/) automáticamente el texto
 
 > The unicorns then asked the scientists to help them kill all of the humans on Earth. The scientists agreed, saying that they were [...]
 
-Leyendo el texto de César Rendueles me preguntaba cuál podría haber sido ese apunte mínimo a partir del cuál se desarrollasen las 220 páginas del autodenominado _panfleto igualitarista_. A mi juicio, son dos:
+Leyendo el texto de César Rendueles me preguntaba cuál podría haber sido ese apunte mínimo a partir del cual se desarrollasen las 220 páginas del autodenominado _panfleto igualitarista_. A mi juicio, son dos:
 
 1. Los seres humanos tenemos una inclinación natural, biológica e innata a la igualdad.
 2. Los seres humanos somos más felices (y vivimos más y mejor) en sociedades igualitaristas.
@@ -57,7 +57,7 @@ Entendiendo en ambos casos _igualdad_ por igualdad no exclusiva pero particular 
 
 El libro consiste en una hilación de justificaciones y corolarios de esos dos postulados. Por ejemplo, con respecto a la justificación de la inclinación a la igualdad de la especie humana se citan evidencias más o menos anecdóticas, como nuestra similitud con los bonobos, cuyas sociedades son menos jerárquicas que las de los chimpancés y otras especies de primates similares a nuestra especie; o los estudios realizados sobre ciertas tribus ancladas aún en la edad de piedra; o un par de estudios realizados con niños a los que se premiaba con caramelos según su comportamiento presuntamente pro o anti igualitario. Significativamente, que ninguna civilización de la que el autor (de estas líneas) tenga noticia haya sido igualitaria no parece obstar.
 
-Sobre las bondades de la igualdad en diversas esferas de la vida también recopila una serie de evidencias que parecen extraídas del hipotético _Cambridge Historical Comprehensive Dictionary of Statistical Fallacies_: el caso de [Roseto](https://en.wikipedia.org/wiki/Roseto_effect), que si los actores con el óscar (o los científicos con el nobel) viven más años que el resto, etc. Son todas sistemáticamente _evidencias_ que consideramos (el nosotros, aquí, se refiere a los miembros del gremio al que pertenece el autor de estas líneas) parte de un canon de inferencias torcidas. Pero Rendueles parece haber hecho suya una versión cutre del _anything goes_ feyerabeandiano.
+Sobre las bondades de la igualdad en diversas esferas de la vida también recopila una serie de evidencias que parecen extraídas del hipotético _Cambridge Historical Comprehensive Dictionary of Statistical Fallacies_: el caso de [Roseto](https://en.wikipedia.org/wiki/Roseto_effect), que si los actores con el óscar (o los científicos con el Nobel) viven más años que el resto, etc. Son todas sistemáticamente _evidencias_ que consideramos (el nosotros, aquí, se refiere a los miembros del gremio al que pertenece el autor de estas líneas) parte de un canon de inferencias torcidas. Pero Rendueles parece haber hecho suya una versión cutre del _anything goes_ feyerabeandiano.
 
 Sospecho que si alguna vez el _Cambridge Historical Comprehensive Dictionary of Statistical Fallacies_ llegase a ver la luz, podrían construirse muy promisorias carreras académicas en el ámbito de la sociología, las ciencias políticas y tal vez, incluso, la filosofía, construyendo hipótesis biensonantes sostenidas por seudoevidencias sobradamente desacreditadas.
 

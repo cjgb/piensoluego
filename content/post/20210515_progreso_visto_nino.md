@@ -21,11 +21,11 @@ url: /2021/progreso-visto-nino/
 
 Hace muchos años, cuando yo era un niño muy, muy pequeño, y volvíamos del pueblo, a veces, generalmente cuando se nos había hecho tarde y ya había anochecido, mi padre tomaba la autopista de peaje, el tramo Gallur-Zaragoza.
 
-Para aquel niño resultaba asombroso tener que pagar ---¿me suenan unas doscientas pesetas?--- por circular por una carretera. Mi padre, que, de hecho, había trabajado como topógrafo en su construcción muchos años añtes, me lo explicó de la siguiente manera:
+Para aquel niño resultaba asombroso tener que pagar ---¿me suenan unas doscientas pesetas?--- por circular por una carretera. Mi padre ---que, de hecho, había trabajado como topógrafo en su construcción muchos años antes--- me lo explicó de la siguiente manera:
 
 * La autopista fue construida por una empresa
 * A cambio de su construcción, el estado le permitía cobrar por su uso durante unos años.
-* Al térmimo de ese plazo, la autopista revertiría en el estado y sería gratuita.
+* Al térmimo de ese plazo, la autopista revertiría al estado y sería gratuita.
 
 Esa fue para ese niño la imagen del progreso: progresar es, al fin y al cabo, volverse rentista. Del esfuerzo acumulado a lo largo de una serie de años durante los que es necesario pagar un peaje, se deriva la recompensa del uso gratuito a perpetuidad.
 

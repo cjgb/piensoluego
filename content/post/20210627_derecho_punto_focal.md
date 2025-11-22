@@ -23,7 +23,7 @@ Leo [aquí](https://derechomercantilespana.blogspot.com/2021/06/el-rompecabezas-
 
 El artículo sigue con un argumento acerca del teorema de Aumann del que creo que no se siguen las conclusiones que el autor espera. Sospecho que es más útil para lograrlo recurrir a ese cuasirecíproco del teorema de Aumann que es el de von Mises: dos sujetos con distintas prioris ---que cumplan unas condiciones matemáticas bastante laxas y que son bastante habituales en la práctica--- pero que observan los mismos datos, tenderán a tener posterioris similares. Pero ese es tema para mi otro blog, el técnico.
 
-En este me voy a limitar a extraer de todo el derecho dos normas muy distintas y que creo que sirven de contrajemplo para mucho de lo que el autor expone en el texto anterior:
+En este me voy a limitar a extraer de todo el derecho dos normas muy distintas y que creo que sirven de contraejemplo para mucho de lo que el autor expone en el texto anterior:
 
 * Condúzcase por la derecha.
 * Aquel que compre un producto de segunda mano por Wallapop e independientemente de su valor tendrá que abonar el Impuesto de Transmisiones Patrimoniales, el 4% del valor de lo adquirido, a través del modelo 600 en el plazo de un mes a partir de la fecha de la operación de compraventa.

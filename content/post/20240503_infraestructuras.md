@@ -30,7 +30,7 @@ compatible con de este fenómeno, de serlo. Ahí va.
 
 La lista de los
 [ministros de fomento en España](https://es.wikipedia.org/wiki/Anexo:Ministros_de_Fomento_de_Espa%C3%B1a)
-durante los últimos 25 años contiene un número sorprendentemente alto de sujetos ---Cascos, José Blanco, Ávalos, etc.--- que tuvieron en su momento cargos orgánicos importantes en sus respectivos partidos políticos: secretarios de organización, etc. Por otro lado, España es un país en en que las regiones tienen un gran poder político, tanto en la relación entre los partidos como dentro de ellos mismos.
+durante los últimos 25 años contiene un número sorprendentemente alto de sujetos ---Cascos, José Blanco, Ávalos, etc.--- que tuvieron en su momento cargos orgánicos importantes en sus respectivos partidos políticos: secretarios de organización, etc. Por otro lado, España es un país en el que las regiones tienen un gran poder político, tanto en la relación entre los partidos como dentro de ellos mismos.
 
 Cabe pensar que el ministerio de fomento se usa como correa de transmisión del poder central sobre las regiones ---si quieres tal puente...---. Esporádicamente, de hecho, emergen hasta la superficie visible de la política episodios concordantes con el anterior modelo, como
 [este](https://www.20minutos.es/noticia/5221007/0/alcalde-socialista-leon-amenazado-asesor-abalos-era-casi-amenaza-propio-ministerio-ministro/).

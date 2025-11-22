@@ -42,7 +42,7 @@ De entre las fuentes explícitas, rescato dos.
 La primera, N. Taleb, que nos advierte del truísmo de que la supervivencia precede a la ciencia; o, de otro modo, que no hay ciencia sin supervivencia.
 Como truísmo, podría tacharse de banal, pero, ¿no estamos acaso ---según muchos--- actuando como si no existiese en temas tan de actualidad como el cambio climático?
 
-El segundo es R. Dawkings, que llega a manifestar que todo cuanto somos y hacemos no es más que una envoltura material (química), cultural, moral, etc. de la que se recubren ciertas moléculas que contenemos, ciertos _genes egoístas_, de las que se sirven para subsistir y propagarse.
+El segundo es R. Dawkins, que llega a manifestar que todo cuanto somos y hacemos no es más que una envoltura material (química), cultural, moral, etc. de la que se recubren ciertas moléculas que contenemos, ciertos _genes egoístas_, de las que se sirven para subsistir y propagarse.
 Seríamos, consistiríamos en, según él, marionetas de un mecanismo de autoreplicación, ciego a cualquier otra consideración.
 
-En cualquier caso, en estas páginas intentará el autor poner en negro sobre blanco su cosmovisión particular, empapada, como pone de manifiesto esta la primera entrada, de ese su criterio máximo.
+En cualquier caso, en estas páginas intentará el autor poner en negro sobre blanco su cosmovisión particular, empapada, como pone de manifiesto esta primera entrada, de ese su criterio máximo.

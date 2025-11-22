@@ -21,8 +21,7 @@ title: Apuntes para dos cuentos sin pretensiones
 url: /2021/dos-cuentos-moral/
 ---
 
-Son dos cuentos que nunca desarrollaré pero de los que quiero dejar un indicio público. Por no tener, no tienen ni título y, uno de ellos, el primero, ni argumento: se trata de un mero decorado sobre el que podrían proyectarse una comedia romántica, un drama redencionista o un _thriller_ policíaco.
-
+Son dos cuentos que nunca desarrollaré pero de los que quiero dejar un indicio público. Por no tener, no tienen ni título; y, uno de ellos, el primero, ni argumento siquiera: se trata de un mero decorado sobre el que podrían proyectarse una comedia romántica, un drama redencionista o un _thriller_ policíaco.
 
 **I.**
 
@@ -32,7 +31,7 @@ Los esclavos sostienen materialmente dicha sociedad. En lo económico, viven ape
 
 **II.**
 
-En una sociedad medianamente funcional, comienza a expandirse cierta especie de fundamentalismo moral. A cuentagotas al principio, con creciente frecuencia después, algunos de los individuos que protestan ese tipo de preceptos son _cancelados_. La cancelación implica la muerte civil _de facto_: aunque legalmente aún son ciudadanos de pleno derecho, nadie osa contratarlos, convocarlos o amigarse con ellos.
+En una sociedad medianamente funcional, comienza a expandirse cierta especie de fundamentalismo moral. A cuentagotas al principio, con creciente frecuencia después, algunos de los individuos que protestan contra ese tipo de preceptos son _cancelados_. La cancelación implica la muerte civil _de facto_: aunque legalmente aún son ciudadanos de pleno derecho, nadie osa contratarlos, convocarlos o amigarse con ellos.
 
 Los cancelados se convierten en parias de esa sociedad y comienzan a ocupar los barrios chabolistas de la periferia de las ciudades. Pero poco a poco, comienzan a montar sus propios servicios (un bar, una peluquería, etc.) que, obviamente, solo tienen como clientes a otros cancelados. Con el tiempo, esa otra economía _de la cancelación_ crece y se vuelve más sofisticada: colegios, bancos, constructoras, viajes, universidades. Porque, al fin y al cabo, el temple moral y humano del cancelado está muy por encima del del moralista de visillo.
 

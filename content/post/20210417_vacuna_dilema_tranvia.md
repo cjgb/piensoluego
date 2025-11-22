@@ -24,8 +24,8 @@ Me autocito (de [aquí](/2021/etica-bioetica/)) a modo de introducción:
 
 ![Trolley problem](/images/trolley_problem.jpg)
 
-El contraejemplo ahí citado, el del tranvía, lo es para una doctrina ética, la del consecuencialismo. En resumidas cuentas, en consecuencialismo da por bueno un acto si sus consecuencias netas, una vez descontadas las que son consecuencia directa del acto en sí, son positivas. En el dilema del tranvía y desde una perspectiva consecuencialista, si al operar la palanca matamos ciertamente a un sujeto pero salvamos la vida a cinco, el acto sería juzgado positivamente.
+El contraejemplo ahí citado, el del tranvía, lo es para una doctrina ética, la del consecuencialismo. En resumidas cuentas, el consecuencialismo da por bueno un acto si sus consecuencias netas, una vez descontadas las que son consecuencia directa del acto en sí, son positivas. En el dilema del tranvía y desde una perspectiva consecuencialista, si al operar la palanca matamos ciertamente a un sujeto pero salvamos la vida a cinco, el acto sería juzgado positivamente.
 
-Nuestras ---o algunas de nuestras--- instituciones sanitarias, sin embargo, piensan de otra forma. Ellas son las que disponen de la palanca y sus estatutos ---y, por lo tanto, sus incentivos--- han sido elaborados desde una perspectiva tal vez no enteramente pero sí sustancialmente anticonsecuencialista: han puesto trabas en un proceso de vacunación masivo, lo que _indirectamente_ acabará con la vida de unos cuantos sujetos, por salvar la de unos cuantos menos.
+Nuestras ---o algunas de nuestras--- instituciones sanitarias, sin embargo, piensan de otra forma. Ellas son las que disponen de la palanca y sus estatutos ---y, por lo tanto, sus incentivos--- han sido elaborados desde una perspectiva tal vez no enteramente pero sí sustancialmente anticonsecuencialista: han puesto trabas a un proceso de vacunación masivo, lo que _indirectamente_ acabará con la vida de unos cuantos sujetos, por salvar la de unos cuantos menos.
 
 Solo porque la de estos últimos recaería en su debe mientras la de aquellos, a lo más, en la de la providencia divina.

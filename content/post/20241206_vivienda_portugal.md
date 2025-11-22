@@ -28,13 +28,13 @@ Primero, una serie de hechos conocidos:
 
 La idea es estupenda: aunque los productos y servicios portugueses no encuentran compradores fuera, es posible traer a los compradores dentro. Las ventajas son:
 
-- Se obtienen mayores ingresos fiscales: se recauda una tajada de una serie rentas que serían cero si los nuevos residentes se hubiesen quedado en su país de origen.
+- Se obtienen mayores ingresos fiscales: se recauda una tajada de una serie de rentas que serían cero si los nuevos residentes se hubiesen quedado en su país de origen.
 - Se les venden productos y servicios locales, tanto de los que se comercian en los mercados internacionales (p.e., gasolina), como los que no (p.e., cortes de pelo o entradas de cine).
 - En particular, se les puede vender "alojamiento", un producto en el que los proveedores portugueses no tienen ningún tipo de competencia internacional.
 
 Sin embargo, esta política tan promisoria ---sobre el papel--- [ha sido cancelada](https://edition.cnn.com/2023/04/02/europe/thousands-protest-housing-crisis-portugal-intl/index.html):
 
-> El gobierno socialista anunció el mes pasado [esto se escribió en abril del 2023] un paquete de medidas relacionados con la vivienda que, entre otras medidas, terminó con la controvertida "Goldel Visa" [...].
+> El gobierno socialista anunció el mes pasado [esto se escribió en abril de 2023] un paquete de medidas relacionados con la vivienda que, entre otras medidas, terminó con la controvertida "Goldel Visa" [...].
 
 Es evidente que aunque seas incapaz de fabricar GPUs o barcos, si no puedes proporcionar servicios financieros o de programación al extranjero, etc., por muy Portugal que seas, dominas la simplicísima tecnología necesaria para construir bloques de viviendas. Puedes construir tantas como sean necesarias para satisfacer las necesidades de todos esos extranjeros a los que has atraído a tu país. Dubai, sin ir más lejos, lo hace.
 

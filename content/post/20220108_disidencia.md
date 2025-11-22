@@ -32,7 +32,7 @@ Para muchos, lo primero. No se explican cómo puede haber gente que no solo adop
 
 Pero, ¿y si fuese _feature_? ¿Y si estuviésemos _evolutivamente programados_ a lanzar un dado interno de 10 caras y, si sale 1, negar que el agua moje? ¿No podría ser un mecanismo ---todo lo ineficiente que se quiera--- para evitar que la especie quede atrapada en un _pozo evolutivo_, incapaz de saltar a un estadio superior porque dizque la barrera que los separa es _infranqueable_?
 
-Estos escépticos (de la variante lunática) podrían ser los tontos útiles de nuestra especie ---o de nuestros _genes_, si se quiere explotar la metafísica materialista de Dawkings--- que tienen como misión explorar alternativas a la realidad _oficial_.
+Estos escépticos (de la variante lunática) podrían ser los tontos útiles de nuestra especie ---o de nuestros _genes_, si se quiere explotar la metafísica materialista de Dawkins--- que tienen como misión explorar alternativas a la realidad _oficial_.
 
 De hecho, debemos mucho a algunos de esos lunáticos: Sócrates, Colón, Galileo, Nash, Einstein, San Pablo, etc.
 

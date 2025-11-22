@@ -24,7 +24,7 @@ El posmodernismo, descrito brevemente, consiste en lo siguiente:
 - La realidad del mundo es irrelevante.
 - Lo relevante son los discursos que genera el poder.
 
-El poder está en Bruselas, _Bruselas_ redacta muchas _directivas_ y a las directivas y a sus autores les suda mucho cómo sea el mundo realmente: mandan y cobran igual.
+El poder está en Bruselas, _Bruselas_ redacta muchas _directivas_; pero a las directivas y a sus autores les suda mucho cómo sea el mundo realmente: mandan y cobran igual.
 
 Ahora _Bruselas_ quiere que en toda la UE, el servicio de recogida de basuras se orqueste como se indica debajo.
 
@@ -40,9 +40,9 @@ De modo que a algún munícipe se le podría ocurrir cobrar una cantidad por bar
 
 ### Vuelta al hilo principal
 
-_Bruselas_ alucina a lo ChatGPT con que la basura es como el pan de Magerit. Sabe que actualmente la gente tira tanta basura el contenedor como se le ocurre; que esta es recogida por camiones gestionados por los ayuntamientos y que el servicio se sufraga a través de impuestos. Y se le ocurre lo mismo que a aquel alcalde perspicaz: cobrar por uso. Con lo cual, entre otras cosas, se generaría menos basura ---igual que en Magerit se consumiría menos pan--- y, con ello, se le asestaría una monumental lanzada en el pecho al dragón alevoso del cambio climático.
+_Bruselas_ alucina a lo ChatGPT con que la basura es como el pan de Magerit. Sabe que actualmente la gente tira tanta basura al contenedor como se le ocurre; que esta es recogida por camiones gestionados por los ayuntamientos y que el servicio se sufraga a través de impuestos. Y se le ocurre lo mismo que a aquel alcalde perspicaz: cobrar por uso. Con lo cual, entre otras cosas, se generaría menos basura ---igual que en Magerit se consumiría menos pan--- y, con ello, se le asestaría una monumental lanzada en el pecho al dragón alevoso del cambio climático.
 
-De hecho, no es _cobrar por uso_ porque _Bruselas_ ni recoge basuras ni cobra por ello. _Bruselas_, más bien, redacta una directiva para obligar a todo ayuntamiento sobre la faz de la UE a financiar la recogida de basuras no como mejor entiendan sus responsables democráticamente elegidos, sino como a ellos se les ocurre.
+De hecho, no es _cobrar por uso_ porque _Bruselas_ ni recoge basura ni cobra por ello. _Bruselas_, más bien, redacta una directiva para obligar a todo ayuntamiento sobre la faz de la UE a financiar la recogida de basura no como mejor entiendan sus responsables democráticamente elegidos, sino como a ellos se les ocurre.
 
 Para los ayuntamientos, la medida es agridulce:
 - Por un lado, los obliga a diseñar un sistema en el que parezca que la basura se cobra al kilo, como las lentejas en la tienda. Lo cual, como es tarea imposible, los obliga a parecer tarados mentales, implementen lo que implementen.
@@ -50,6 +50,6 @@ Para los ayuntamientos, la medida es agridulce:
 
 Pero en el mundo:
 - Para el común de la ciudadanía, la generación de basura es inelástica al precio de retirada.
-- Pero es que, además, los mecanismos de estimación de la tarifa orquestados por los ayuntamientos, destruyen totalmente la potencial relación entre su cuantía y cualquier cambio de comportamiento en la ciudadanía. En un mundo perfecto, si yo quisiese minorar la tasa de gestión de basuras, tendría que intentar generar menos basuras; en Madrid, sin embargo, para hacerlo tendría que mudarme a una casa más pequeña.
+- Pero es que, además, los mecanismos de estimación de la tarifa orquestados por los ayuntamientos, destruyen totalmente la potencial relación entre su cuantía y cualquier cambio de comportamiento en la ciudadanía. En un mundo perfecto, si yo quisiese minorar la tasa de gestión de la basura, tendría que intentar generar menos basura; en Madrid, sin embargo, para hacerlo tendría que mudarme a una casa más pequeña.
 
 Así que, en la práctica, todo este tinglado parecería un episodio más de la serie titulada "Lo de la lucha contra el cambio climático es solo una excusa para limpiar la cartera del contribuyente".
