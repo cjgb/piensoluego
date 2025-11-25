@@ -18,7 +18,7 @@ title: 'Ferrovial se va a Holanda: lo que no he visto discutir'
 url: /2023/lecciones-ferrovial-holanda/
 ---
 
-Para quién me lea desde lejos o mucho después: en estos días se ha sabido que Ferrovial, una de las principales empresas constructoras (y de gestión de infraestructuras, debería añadir) quiere mudarse a Holanda.
+Para quien me lea desde lejos o mucho después: en estos días se ha sabido que Ferrovial, una de las principales empresas constructoras (y de gestión de infraestructuras, debería añadir) quiere mudarse a Holanda.
 
 Se ha escrito mucho al respecto, pero he echado en falta dos cuestiones importantes.
 

@@ -38,6 +38,6 @@ Como estos podrían extraerse muchos más textos que nos ayudasen a responder a 
 
 Los barcos no los diseñan los ingenieros, como parecería, sino el mar. Es el mar el que informa a los ingenieros acerca de cómo construir sus barcos y el que en última instancia evalúa sus diseños. Estos se limitan a copiar lo que funciona, a copiar lo que regresa del mar.
 
-Obviamente, en estas páginas no estamos particularmente interesados en la ingeniería naval. En estas páginas utilizamos nos referimos a lo anterior como alegoría extrapolable a otros ámbitos: la economía, la política, el derecho, etc.
+Obviamente, en estas páginas no estamos particularmente interesados en la ingeniería naval. En estas páginas nos referimos a lo anterior como alegoría extrapolable a otros ámbitos: la economía, la política, el derecho, etc.
 
 Así que reformulamos la pregunta: ¿quién y cómo construye las cosas?

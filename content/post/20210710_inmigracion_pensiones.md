@@ -30,7 +30,7 @@ Lo que se cuenta aplica a la España de hoy, pero puede extrapolarse a otros pa�
 
 **III.**
 
-Este apartado discute el problema esencial de aqueja a las pensiones españolas hoy en día. Si tomamos a un cotizante cualquiera y ponemos en un platillo de la balanza sus contribuciones al sistema ---debidamente [descontadas](https://es.wikipedia.org/wiki/Valor_actual_neto)--- y en el otro los pagos que recibirá, puede pasar cualquier cosa. PUede que el cotizante fallezca antes de los 65 y la balanza se escore del lado del _ahorro excesivo_; puede que viva hasta los 100 años y la balanza indique lo contrario; etc.
+Este apartado discute el problema esencial que aqueja a las pensiones españolas hoy en día. Si tomamos a un cotizante cualquiera y ponemos en un platillo de la balanza sus contribuciones al sistema ---debidamente [descontadas](https://es.wikipedia.org/wiki/Valor_actual_neto)--- y en el otro los pagos que recibirá, puede pasar cualquier cosa. Puede que el cotizante fallezca antes de los 65 y la balanza se escore del lado del _ahorro excesivo_; puede que viva hasta los 100 años y la balanza indique lo contrario; etc.
 
 En realidad, lo anterior es un mero ejercicio mental que exigiría de una presciencia que no tenemos para poder sopesar la contribución neta de un individuo cualquiera. Pero es posible _agregar_, dejar operar la ley de los grandes números y utilizar tablas actuariales de supervivencia para llegar a la conclusión de que _en promedio_, un cotizante aporta menos de lo que recibe.
 
@@ -58,7 +58,7 @@ Para reequilibrar la balanza, solo existen tres opciones (dentro de lo razonable
 2. Se aumenta el tamaño de las mensualidades del haber.
 3. Se reequilibra el número de mensualidades de uno y otro lado (i.e., se retrasa la edad de jubilación).
 
-Hay otras, algunas de las cuales se reducen a alguna de las anteriores. Por ejemplo, suplementar el platillo del haber con impuestos. Pero esos impuestos acaban siendo pagados en última instancia por los contribuyentes, de tal manera que ese incremento de los impuestos no dejarían de ser cotizaciones disfrazadas sin derecho a incrementar las prestaciones futuras.
+Hay otras, algunas de las cuales se reducen a alguna de las anteriores. Por ejemplo, suplementar el platillo del haber con impuestos. Pero esos impuestos acaban siendo pagados en última instancia por los contribuyentes, de tal manera que ese incremento impositivo no dejaría de ser una cotización disfrazada sin derecho a incrementar las prestaciones futuras.
 
 Tendría la, para muchos, ventaja de aumentar la _progresividad del sistema_, pero habría que ver cuántos de los españoles más capaces del futuro querrían voluntariamente someterse a tal yugo estando tan a la mano planificar una vida mejor fuera.
 

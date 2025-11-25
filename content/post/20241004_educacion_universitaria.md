@@ -23,7 +23,7 @@ url: /2024/exportacion-educacion-universitaria/
 
 El otro día [escribí](/2024/cortos-21):
 
-> Joseph Heath ha vuelto a _bloguear_ y a escrbir cosas como [_Canadians should think of higher education as an export industry_](https://josephheath.substack.com/p/canadians-should-think-of-higher). España podría también ---tiene un enorme mercado pontencial---, pero, para eso habría que... Vamos, que no podría.
+> Joseph Heath ha vuelto a _bloguear_ y a escribir cosas como [_Canadians should think of higher education as an export industry_](https://josephheath.substack.com/p/canadians-should-think-of-higher). España podría también ---tiene un enorme mercado potencial---, pero, para eso habría que... Vamos, que no podría.
 
 El artículo de Heath no dice nada extravagante ni que no se pueda extrapolar fácilmente del título: la educación en Canadá tiene buena reputación y muchos estudiantes de todo el mundo estarían dispuestos a pagar por formarse allí.
 

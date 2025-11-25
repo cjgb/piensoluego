@@ -21,11 +21,11 @@ Una de las funciones menos publicitadas de los estados ---y una de las que, por 
 
 El mundo es complejo y cada individuo tiene una capacidad limitada para evaluarla, procesarla y tomar las decisiones adecuadas. ¿Es pan realmente esto que contiene una barra? ¿Estará hueco por dentro este multímetro que me ofrecen? ¿Tendrá realmente 256 GB de memoria este pincho? ¿Es adecuado el programa lectivo de esta escuela para mis críos? ¿Contiene metales pesados la pintura de este juguete?
 
-Es imposible resolver por nosotros mismos estas cuestiones. Necesitamos de una institución con tanques que dicte y haga cumplir determinadas normas. [Por mucho que les duela a los enemigos más empedernidos de ese tipo de organizaciones armadas](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/).
+Es imposible resolver por nosotros mismos estas cuestiones. Necesitamos una institución con tanques que dicte y haga cumplir determinadas normas. [Por mucho que les duela a los enemigos más empedernidos de ese tipo de organizaciones armadas](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/).
 
 Eso sí, hay que distinguir casas y casos y hay que evaluar las normas dirigidas a reducir la complejidad del mundo por, precisamente, su eficacia al respecto.
 
-Existen sectores en los que, en este sentido, la intervención del estado prácticamente innecesaria. Por ejemplo, una institución privada, el
+Existen sectores en los que, en este sentido, la intervención del estado es prácticamente innecesaria. Por ejemplo, una institución privada, el
 [_Bluetooth Special Interest Group_](https://es.wikipedia.org/wiki/Bluetooth_Special_Interest_Group),
 da fe de que los cachivaches con el símbolo de Bluetooth sean efectivamente cachivaches Bluetooth. (Cierto que aún dependen de los estados para que las denuncias a actores malintencionados que impriman en falso el logo de Bluetooth en sus productos sigan su recto curso.)
 

@@ -27,6 +27,6 @@ El autor es sumamente crítico de la GDPR. Esta postura es original en tanto que
 
 Personalmente, soy una víctima directa de la GDPR. El impacto es difícilmente cuantificable ---¿cuántos proyectos habrían salido adelante de no haberse encarecido o imposibilitado a causa de la GDPR?, etc.--- pero existe, sin duda.
 
-Mi falta de entusiasmo por la GDPR se traduce en que periodicamente denuncio alguno de sus efectos perniciosos públicamente en Twitter. Curiosamenete, la respuesta que he obtenido en alguna ocasión que he criticado las consecuencias _vividas_ (o _de facto_) de algún aspecto de la GDPR ha sido, texto legal en mano, que aquello que denuncio no existe _de iure_.
+Mi falta de entusiasmo por la GDPR se traduce en que periódicamente denuncio alguno de sus efectos perniciosos públicamente en Twitter. Curiosamente, la respuesta que he obtenido en alguna ocasión que he criticado las consecuencias _vividas_ (o _de facto_) de algún aspecto de la GDPR ha sido, texto legal en mano, que aquello que denuncio no existe _de iure_.
 
 Es la confusión entre ambas caras de la ley, la positiva y la vivida, la que me ha motivado a escribir esta entrada. Espero que sirva de advertencia a quienes ---tal vez por falta de exposición al mundo tal cual es--- tienden a confundir BOE y realidad.

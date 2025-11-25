@@ -18,8 +18,8 @@ title: 'Spiegelhalter sobre beber vs conducir: una puntualización'
 url: /2022/spiegelhalter-beber-conducir/
 ---
 
-Hace unos años, se realizó un estudio extenso sobre los riesgos del consumo de alcohol que fue recogido en los medios con titulares alarmando sobre cómo incluso consumos minúsculos representan un riesgo para la salud. No es sitio este para entrar en la forma y en el fondo del debate. Solo quiero analizar bajo la perspectiva propia de estas páginas unas declaraciones de
-[David Spielgelhalter](https://es.wikipedia.org/wiki/David_Spiegelhalter)
+Hace unos años, se realizó un estudio extenso sobre los riesgos del consumo de alcohol que fue recogido en los medios con titulares alarmantes sobre cómo incluso consumos minúsculos representan un riesgo para la salud. No es sitio este para entrar en la forma y en el fondo del debate. Solo quiero analizar bajo la perspectiva propia de estas páginas unas declaraciones de
+[David Spiegelhalter](https://es.wikipedia.org/wiki/David_Spiegelhalter)
 al respecto recogidas en
 [_No safe level of alcohol consumption, major study concludes_](https://www.independent.co.uk/news/health/alcohol-drinking-no-safe-level-health-heart-disease-cancer-study-a8505181.html). En dicho artículo afirma que (con mi traducción):
 
@@ -31,7 +31,7 @@ Una actividad _tan_ peligrosa como conducir estaría plusquamprohibida si no fue
 [_Las vacunas: ¿es legítimo imponer riesgos sobre los demás?_](/2021/12/12/riesgo-vacunas/)
 para una discusión al respecto).
 
-¿Qué no, pues, decir de _vivir_? Pero podríamos hablar de otras actividades como poseer explosivos o armas de guerra, cuyo riesgo no está compensando por ningún tipo de utilidad ---ni personal ni social--- razonable, confesable o legítima y que están ---muchos estamos convencidos de ello--- justamente hiperreguladas cuando no directamente prohibidas.
+¿Qué no, pues, decir de _vivir_? Pero podríamos hablar de otras actividades como poseer explosivos o armas de guerra, cuyo riesgo no está compensado por ningún tipo de utilidad ---ni personal ni social--- razonable, confesable o legítima y que están ---muchos estamos convencidos de ello--- justamente hiperreguladas cuando no directamente prohibidas.
 
 Para que el argumento de Spiegelhalter cobrase la fuerza que se espera de él habría que especificar cuáles son los beneficios que aporta el consumo moderado de alcohol y ver si compensan o no los riesgos que suponen.
 

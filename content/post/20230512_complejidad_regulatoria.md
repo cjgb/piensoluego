@@ -19,7 +19,7 @@ title: 'Complejidad regulatoria: una visión desde el desarrollo de software'
 url: /2023/complejidad-regulatoria/
 ---
 
-Existe una moda popular en ciertos sectores ideológicos que cosiste en evaluar los efectos sobre la actividad económica de la regulación _al peso_. Un ejemplo de ello puede verse
+Existe una moda popular en ciertos sectores ideológicos que consiste en evaluar los efectos sobre la actividad económica de la regulación _al peso_. Un ejemplo de ello puede verse
 [aquí](https://nadaesgratis.es/admin/desagregando-los-efectos-economicos-de-la-complejidad-regulatoria-ha-llegado-espana-a-un-punto-de-inflexion). Se trata de un estudio en cuyas conclusiones se dice (con mi subrayado):
 
 > Nuestro análisis econométrico apunta a un efecto negativo de la complejidad regulatoria por sector en la eficiencia económica. Por ejemplo, nuestras estimaciones muestran que _cada norma adicional promulgada_ tiende a disminuir la participación del empleo en un 0,7 por ciento. Encontramos también evidencia de una reducción significativa de la intensidad de mano de obra y del capital y menores tasas de inversión, en respuesta a una regulación más voluminosa.

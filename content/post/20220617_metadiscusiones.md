@@ -22,7 +22,7 @@ En términos muy gruesos, cierto tipo de discusiones pueden categorizarse en dos
 
 ![Atajo](/images/shortcut.jpg)
 
-En una discusión _positiva_ se criticaría a quienes toman el atajo: existe una _norma_ casí explícita ---camínese por la senda provista a tal efecto---, pero unos cuantos _avispados_ reinterpretan o desnaturalizan _lo que debe hacerse_ y eso, necesariamente, es cuestionable. En una discusión _meta_, sin embargo, uno podría comenzar cuestionando desde el principio el trazado de la senda para acabar, probablemente, justificando el uso del atajo.
+En una discusión _positiva_ se criticaría a quienes toman el atajo: existe una _norma_ casi explícita ---camínese por la senda provista a tal efecto---, pero unos cuantos _avispados_ reinterpretan o desnaturalizan _lo que debe hacerse_ y eso, necesariamente, es cuestionable. En una discusión _meta_, sin embargo, uno podría comenzar cuestionando desde el principio el trazado de la senda para acabar, probablemente, justificando el uso del atajo.
 
 Las discusiones positivas son, habitualmente, previsibles. Tienen la siguiente estructura: existe una norma, alguien la viola, ergo su conducta es reprochable ---y, probablemente, del interés de la guardia civil---. Las discusiones _meta_ son mucho más ricas y, bajo mi punto de vista, mucho más estimulantes.
 

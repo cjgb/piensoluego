@@ -23,7 +23,7 @@ Estas páginas no niegan el cambio climático. De hecho, [el clima no ha dejado 
 
 ![Cambio climático en los últimos 500 millones de años](/images/climate_change_500_m_years.png)
 
-Tampoco niegan que, por efecto del hombre, ciertas cantidades de CO₂ que estuvieron en la atmósfera, que fueron capturados por distintos organismos y permanecieron enterradas durante millones de años hayan vuelto a su lugar original y que ello haya causado ciertas alteraciones climáticas. Eso sí, es mucho más escéptico acerca de dichos cambios vayan a ser _tremendamente_ nocivos para la humanidad. Aunque tampoco se quieren ignorar los potenciales efectos nocivos de dicho cambio en unas páginas que hacen de la idea de supervivencia su hilo conductor.
+Tampoco niegan que, por efecto del hombre, ciertas cantidades de CO₂ que estuvieron en la atmósfera, que fueron capturadas por distintos organismos y permanecieron enterradas durante millones de años hayan vuelto a su lugar original y que ello haya causado ciertas alteraciones climáticas. Eso sí, es mucho más escéptico acerca de que dichos cambios vayan a ser _tremendamente_ nocivos para la humanidad. Aunque tampoco se quieren ignorar los potenciales efectos nocivos de dicho cambio en unas páginas que hacen de la idea de supervivencia su hilo conductor.
 
 Sin embargo, la actitud de los poderes públicos es sumamente tranquilizante en ese aspecto: nos induce a pensar que la verdadera emergencia es fiscal y no climática. Que es lo que trataré de explicar en el resto de la entrada.
 
@@ -35,4 +35,4 @@ Sin embargo, lo que se observa es un incremento (tanto actual como potencial) de
 
 Si fuese verdaderamente urgente luchar contra el cambio climático, si se quisiesen implementar cuanto antes las políticas que puedan retrasarlo, los poderes públicos harían más por recomponer sus ingresos fiscales que por incrementarlos. Que hagan lo segundo podría interpretarse como indicio de que en el fondo, lo del clima no les importa una higa y que sus aspavientos no son otra cosa que una maniobra de despiste para separarnos todavía más de nuestro dinero.
 
-El razonamiento anterior ha erosionado muy sustancialmente la fe que pudiera haber tenido en ese dogma de los tiempos modernos que es la _emergencia climática_de la que, hasta nueva evidencia, me declaro escéptico.
+El razonamiento anterior ha erosionado muy sustancialmente la fe que pudiera haber tenido en ese dogma de los tiempos modernos que es la _emergencia climática_ de la que, hasta nueva evidencia, me declaro escéptico.

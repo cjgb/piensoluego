@@ -22,7 +22,7 @@ url: /2023/micromuertes-suerte-merito/
 
 Una micromuerte es una probabilidad de uno en un millón de morirse. Es un ínfimo e infame boleto de una lotería a la que todos jugamos. No es este el sitio para abundar en el concepto porque está sobrada y estupendamente hecho en otras partes, pero se lo recomiendo a todo aquel que haya tropezado aquí con él por primera vez.
 
-La cuestión es que aunque todos tengamos una asignación de boletos por diversos motivos, hay quienes adquieren de manera más o menos voluntariamente otros adicionales al fumar, tener una vida sedentaria, practicar determinados deportes de riesgo, comportarse de manera poco recomendable, etc. Luego, la lotería puede o no tocar en un día determinado: eso es el azar. Pero es indudable que unos hacen más méritos que otros para el premio.
+La cuestión es que aunque todos tengamos una asignación de boletos por diversos motivos, hay quienes adquieren de manera más o menos voluntaria otros adicionales al fumar, tener una vida sedentaria, practicar determinados deportes de riesgo, comportarse de manera poco recomendable, etc. Luego, la lotería puede o no tocar en un día determinado: eso es el azar. Pero es indudable que unos hacen más méritos que otros para el premio.
 
 ## Microbodas
 

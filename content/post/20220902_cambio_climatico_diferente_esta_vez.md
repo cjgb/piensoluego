@@ -18,7 +18,7 @@ title: 'Cambio climático: ¿por qué esta vez es diferente?'
 url: /2022/cambio-climatico-diferente-esta-vez/
 ---
 
-El del llamado cambio climático no es el primer gran reto medioambiental que recordamos los que tenemos ya cierta edad. Hace no tanto, los que iba a acabar con nosotros fueron, primero, la lluvia ácida y, después, el agujero de la capa de ozono. Pero estos dos problemas han sido _solucionados_. Así que la pregunta casi necesaria es: ¿podrá igualmente _solucionarse_ el problema del cambio climático? ¿Hay algo que lo haga distinto?
+El del llamado cambio climático no es el primer gran reto medioambiental que recordamos los que tenemos ya cierta edad. Hace no tanto, los que iban a acabar con nosotros fueron, primero, la lluvia ácida y, después, el agujero de la capa de ozono. Pero estos dos problemas han sido _solucionados_. Así que la pregunta casi necesaria es: ¿podrá igualmente _solucionarse_ el problema del cambio climático? ¿Hay algo que lo haga distinto?
 
 Puede argumentarse que el cambio climático es cualitativamente distinto a los otros dos problemas: estos fueron resueltos mediante soluciones técnicas fáciles de implementar y supervisar y que tenían un coste relativamente pequeño, lo que facilitó su aceptación por parte de la _comunidad internacional_.
 

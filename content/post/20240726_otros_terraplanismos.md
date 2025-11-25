@@ -22,4 +22,4 @@ y no causan mayor perjuicio ni para sí ni para los demás.
 
 Sin embargo, existen muchas otras ideas que, siendo igualmente falsas, son perjudiciales tanto para quien las sostiene como para la sociedad que contiene dichas mentes iluminadas. Pero, por algún motivo, vuelan por debajo del radar del reproche intelectual y social.
 
-(Escribo todo lo anterior después de soportar indignado y ojoplático uno de esos largos anuncios de Youtube en los que una asociación que dice trabajar por la naturaleza nos explica cómo las empresas nos obligan ---obviamente, contra nuestra voluntad, la declarada--- a usar envases de plástico.)
+(Escribo todo lo anterior después de soportar indignado y ojoplático uno de esos largos anuncios de YouTube en los que una asociación que dice trabajar por la naturaleza nos explica cómo las empresas nos obligan ---obviamente, contra nuestra voluntad, la declarada--- a usar envases de plástico.)

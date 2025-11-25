@@ -30,7 +30,7 @@ Eso motiva mi experimento mental: ¿quién tiene más información sobre quiéne
 
 Por ejemplo, si en un día determinado están disponibles 100k vacunas, a los móviles de 100k ciudadanos no vacunados cualesquiera se hacen llegar sus correspondientes _tokens_. Estos tienen la opción o de vacunarse ellos mismos o de transferir sus _tokens_ de la manera que consideren más oportuna: a sus padres; al profesor de sus hijos; a un menesteroso; a un anciano al azar; a su jugador de fútbol favorito; al cajero de su supermercado; a quien ofrezca por su _token_ más dinero en eBay; a, de ser antivacunas, alguien que les caiga mal; a la chica que les gusta; a un actor; a, ¡quién sabe!, un político en activo.
 
-Qué duda cabe de que este ejercicio revelaría la verdadera tesitura moral de nuestra sociedad. Es fácil moralizar ---entiéndase despectivamente--- sobre las políticas decididas por un comité dentro de esa organización monopolizadora de la fuerza que es el estado; es fácil acusar a uno u otro de _saltarse_ el turno; es fácil convertir en categorías morales las decisiones simplonas del estado, de hacer de la necesidad virtud.
+Qué duda cabe que este ejercicio revelaría la verdadera tesitura moral de nuestra sociedad. Es fácil moralizar ---entiéndase despectivamente--- sobre las políticas decididas por un comité dentro de esa organización monopolizadora de la fuerza que es el estado; es fácil acusar a uno u otro de _saltarse_ el turno; es fácil convertir en categorías morales las decisiones simplonas del estado, de hacer de la necesidad virtud.
 
 Pero sería todo un espectáculo ver el proceder de esas viejas visilleras _token_ en mano.
 

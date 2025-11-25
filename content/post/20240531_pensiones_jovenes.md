@@ -22,7 +22,7 @@ Trae NadaEsGratis, el muy revelador blog sobre el estado de la economía académ
 [_Las pensiones de jubilación explicadas a los jóvenes_](https://nadaesgratis.es/juan-luis-jimenez/las-pensiones-de-jubilacion-explicadas-a-los-jovenes)
 en el que trata de explicar en términos sencillitos, cómo funciona eso de las pensiones de jubilación.
 
-La RAE define _entinema_ así:
+La RAE define _entimema_ así:
 
 > Silogismo abreviado que, por sobrentenderse una de las premisas, solo consta de dos proposiciones, que se llaman antecedente y consiguiente; p. ej., el sol alumbra, luego es de día.
 

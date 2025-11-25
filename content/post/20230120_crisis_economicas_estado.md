@@ -21,7 +21,7 @@ title: 'Crisis económicas como desajuste entre tecnología y preferencias: las 
 url: /2023/crisis-economicas-papel-estado/
 ---
 
-Tiene [Fischer Black](https://en.wikipedia.org/wiki/Fischer_Black) una teoría sobre los ciclos económicos que puede no gustar a muchos economistas. No sé hasta qué punto se la considerará una excentricidad de esas que se toleran a los genios fuera de su ámbito de especialización: recuérdese que podría decirse que Black _obtuvo_ ---aunque no lo obtuviese realmente: se murió antes--- el nóbel de economía por contribuciones que no tienen que ver con aquello. Aunque, por otro lado, a priori, no conviene negar un grano de verdad a las ideas de gente muy inteligente y sabida acerca de temas sobre los que ha meditado con cierta atención.
+Tiene [Fischer Black](https://en.wikipedia.org/wiki/Fischer_Black) una teoría sobre los ciclos económicos que puede no gustar a muchos economistas. No sé hasta qué punto se la considerará una excentricidad de esas que se toleran a los genios fuera de su ámbito de especialización: recuérdese que podría decirse que Black _obtuvo_ ---aunque no lo obtuviese realmente: se murió antes--- el Nobel de economía por contribuciones que no tienen que ver con aquello. Aunque, por otro lado, a priori, no conviene negar un grano de verdad a las ideas de gente muy inteligente y sabida acerca de temas sobre los que ha meditado con cierta atención.
 
 Sostiene Black que las crisis económicas son producto de un desfase entre la tecnología y las preferencias de los consumidores. Mientras los consumidores quieran algo que la tecnología existente es capaz de ofrecerles, la economía se mantendrá sana. Pero si en un momento determinado la tecnología solo es capaz de ofrecer un producto que los consumidores no quieren ---la frase anterior podría haberse redactado también invirtiendo los términos---, aparece un desajuste que adquiere la forma de crisis económica.
 
@@ -33,4 +33,4 @@ Con el resultado, probablemente, que auguraba Black: crisis.
 
 ### Coda
 
-Un corolario de la teoría de Black es que el estado, con mucha menos información sobre las preferencias de los agentes económicos, debería inmiscuirse lo menos posible en las decisiones económicas, dejándolas en mano de quienes están _a pie de calle_. Que es, justamente, lo contrario de lo que está ocurriendo.
+Un corolario de la teoría de Black es que el estado, con mucha menos información sobre las preferencias de los agentes económicos, debería inmiscuirse lo menos posible en las decisiones económicas, dejándolas en manos de quienes están _a pie de calle_. Que es, justamente, lo contrario de lo que está ocurriendo.
