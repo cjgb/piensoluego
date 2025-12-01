@@ -26,7 +26,7 @@ El lema o eslogan _el racionalismo es el arte de ganar sistemáticamente_ [se at
 
 ### ¿Qué se entiende (y qué no) por "ganar"?
 
-Un ejercicio de selección interesada y anticaritiativa de definiciones es la que se hace en [_Rationality !== Winning_](https://www.lesswrong.com/posts/3GSRhtrs2adzpXcbY/rationality-winning). En él se usa en ocasiones _ganar_ como _winning-at-life_; que "copiar lo que hacen tus vecinos" o "trabajar duro" no son propiamente procedimientos "racionales" para ganar (¿por qué?); o que la racionalidad, en tanto que uno la está desarrollando y haciéndose con ella, no es una buena guía para la toma de decisiones y es necesario apoyarse en otros principios alternativos (¿cuáles? ¿con qué criterio?).
+Un ejercicio de selección interesada y anticaritativa de definiciones es la que se hace en [_Rationality !== Winning_](https://www.lesswrong.com/posts/3GSRhtrs2adzpXcbY/rationality-winning). En él se usa en ocasiones _ganar_ como _winning-at-life_; que "copiar lo que hacen tus vecinos" o "trabajar duro" no son propiamente procedimientos "racionales" para ganar (¿por qué?); o que la racionalidad, en tanto que uno la está desarrollando y haciéndose con ella, no es una buena guía para la toma de decisiones y es necesario apoyarse en otros principios alternativos (¿cuáles? ¿con qué criterio?).
 
 Hay que tener en cuenta que el escrito de Yudkowsky es de 2009, solo un año después del comienzo de la crisis económica secular. Generaciones más jóvenes ven con cierto resentimiento el término ganar porque lo interpretan más que las anteriores en términos de juegos de suma cero: para que alguien gane, otro tiene que perder. Que alguien aspire a _ganar sistemáticamente_ lo hermana con antihéroes de la calaña de Gordon Gekko.
 

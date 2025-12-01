@@ -25,7 +25,7 @@ El otro día compartí mesa con $X_1,\dots,X_{13}$. En un momento, $X_5$ reveló
 Es natural que quienes trabajan en ese tipo de agencias operen bajo el presupuesto legal y cultural de que hay que evitar _otra talidomida_ a toda costa. Pero pongamos algunos números a la cosa (algunos extraídos de Gemini o la Wikipedia):
 
 - Se estima que la talidomida afectó (sin mayor cualificación) a unos 10k personas.
-- La agencia europea de medicamento aprueba algo más de 100 medicamentos al año.
+- La agencia europea del medicamento aprueba algo más de 100 medicamentos al año.
 - Desde que se realiza la solicitud de comercialización hasta que esta se aprueba discurren unos 14-15 meses.
 - Sin contar con la duración de los estudios previos, que, de nuevo según Gemini, pueden extenderse de 10 a 15 años.
 

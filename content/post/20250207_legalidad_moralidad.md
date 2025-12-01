@@ -23,7 +23,7 @@ url: /2025/cultura-jerarquia-cambio/
 
 Lo cual encierra una contradicción clara. La solución que a este problema se ha encontrado en estas páginas es:
 
-- Las culturas evolucionan de manera más o menos _random_: se pasa de $C(t)$ a $C(t+1)$ a golpe de ocurrencia. Estas ocurrencias, consisten frecuentemente, en la importación o imitación de prácticas culturales de otros.
+- Las culturas evolucionan de manera más o menos _random_: se pasa de $C(t)$ a $C(t+1)$ a golpe de ocurrencia. Estas ocurrencias consisten frecuentemente en la importación o imitación de prácticas culturales de otros.
 - En algún momento, las entidades en las que operan esas culturas se someten a pruebas existenciales (de vida o muerte).
 - Algunas, las que disponen de culturas mejor adaptadas (y tienen, además, algo de suerte) sobreviven; el resto, desaparecen (como el imperio Otomano o Enron).
 

@@ -23,7 +23,7 @@ tiene un libro bastante recomendable, [_The Educated Mind_](https://en.wikipedia
 2. Enseñar usos y costumbres sociales (decir "buenos días", etc.)
 3. Desarrollar el pensamiento crítico.
 
-A nadie se le escapará que los tres objetivos no están siepmre perfectamente alineados (y ahí radica, en parte, la dificultad de la educación).
+A nadie se le escapará que los tres objetivos no están siempre perfectamente alineados (y ahí radica, en parte, la dificultad de la educación).
 
 En la segunda parte discute cuatro estadios en la evolución de la mente infantil-juvenil que se corresponden con otras tantas estrategias educativas:
 1. La fase _mítica_ (hasta los 6-7 años).
@@ -35,7 +35,7 @@ Durante la llamada fase _mítica_, la mente de los niños es muy receptiva a:
 1. Oposiciones binarias (alto-bajo, frío-caliente, bueno-malo, amigo-enemigo, etc.). Más adelante, los niños aprenden y se familiarizan con los tonos de gris, pero en esa época el mundo parece entenderse mejor a través de disyunciones.
 2. Los cuentos, las narraciones, los mitos.
 
-La recomendación de Egan para un currículo educativo en esas edades tiene que ver con la estrategia de los nadadores que quieren atravesar un río: no nadar contra la corriente, dejarse arrastrar según se avanza hacia la orilla opuesta. Es decir, exponer a los niños a múltiples conceptos apuestos por un lado y embeber aquellas cosa que se les quiera enseñar en un excipiente de historias, mitos, cuentos, narraciones, etc.
+La recomendación de Egan para un currículo educativo en esas edades tiene que ver con la estrategia de los nadadores que quieren atravesar un río: no nadar contra la corriente, dejarse arrastrar según se avanza hacia la orilla opuesta. Es decir, exponer a los niños a múltiples conceptos opuestos por un lado y embeber aquellas cosas que se les quiera enseñar en un excipiente de historias, mitos, cuentos, narraciones, etc.
 
 ¿Y Trump?
 
