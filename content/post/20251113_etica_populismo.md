@@ -16,6 +16,7 @@ tags:
 - ética
 - contradicciones
 - populismo
+- joseph heath
 title: Ética y populismo
 url: /2025/etica-populismo/
 ---

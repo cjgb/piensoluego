@@ -23,7 +23,7 @@ El descriptivismo está de moda. El prescritivismo (o normativismo) se contempla
 
 El descriptivismo es entretenido. Puede considerarse una afición emparentada con la entomología o la filatelia. Consiste en coleccionar especímenes ---cuanto más exóticos, mejor--- y pincharlos sobre un corcho con un alfilerito. Tiene, por supuesto, una componente política y moral muy vecina de lo posmo. Pero no quiero abundar ahora en ella.
 
-En esta entrada quiero romper una lanza en favor del prescritivismo desde un punto de vista inhabitual: el de la teoría de juegos. El estudio de la comunicación y el lenguaje se ha estudiado desde muchas perspectivas, pero una de las menos frecuentes es la económica.
+En esta entrada quiero romper una lanza en favor del prescritivismo desde un punto de vista inhabitual: el de la teoría de juegos. La comunicación y el lenguaje se han estudiado desde muchas perspectivas, pero una de las menos frecuentes es la económica.
 
 Cuando dos ordenadores establecen una conexión, acuerdan previamente utilizar un determinado protocolo y una determinada versión del mismo. Gracias a ese acuerdo, ambos comparten léxico y sintaxis. Así aumentan las probabilidades de que el intercambio tenga un resultado _feliz_.
 
