@@ -2,7 +2,7 @@
 categories:
 - educación
 date: 2023-04-21
-lastmod: '2025-04-06T01:37:55.425105'
+lastmod: '2025-12-08'
 related:
 - 20250115_cortos.md
 - 20241126_cortos.md
@@ -25,10 +25,10 @@ url: /2023/resistencia-intelectual/
 >
 > Es importante que los educadores y diseñadores instruccionales sean conscientes de los factores que pueden apoyar o dificultar la transferencia y que incorporen estrategias que maximicen la probabilidad de transferencia en sus prácticas instruccionales. Si bien la transferencia de aprendizaje puede no lograrse siempre en su totalidad, enfoques instruccionales intencionales y reflexivos pueden aumentar las posibilidades de una transferencia exitosa y promover experiencias de aprendizaje significativas.
 
-Autores como Brian Caplan en su libro _Against Education_ tiene todo un capítulo, el segundo, argumentando convincentemente acerca de lo que todos hemos visto durante años en el aula: que el _transfer in larning_ es una quimera.
+Brian Caplan, en su libro _The Case Against Education_, tiene todo un capítulo, el segundo, argumentando convincentemente acerca de lo que todos hemos visto durante años en el aula: que el _transfer in learning_ es una quimera.
 
 Pero hay una faceta en la que la educación formal puede ser muy efectiva: la
 [_resistencia cognitiva_](https://drive.google.com/file/d/1fnMY_tSYM6bMVn2w3zvCDzLNPq_lXt4_/view),
 es decir, la capacidad para estar sentado durante largos periodos de tiempo desarrollando una actividad intelectual exigente. Lo hemos entrenado durante largas sesiones en clase, durante los exámenes, durante su preparación. Somos resistentes porque nos hemos entrenado duramente para ello. Igual que hacen los corredores de fondo: no todos estamos predispuestos para correr 20 km sin un entrenamiento previo serio.
 
-Y esa, la resistencia congnitiva, sí que es, efectivamente, una habilidad que nos prepara para la vida (o, al menos, por ser justos, para ciertos tipos y aspectos de ella).
+Y esa, la resistencia cognitiva, sí que es, efectivamente, una habilidad que nos prepara para la vida (o, al menos, por ser justos, para ciertos tipos y aspectos de ella).
