@@ -55,6 +55,6 @@ o alguna formulación continua similar. La cuestión en todo esto es que, de exi
 
 ![Aborto](/images/aborto_umbral.png#center)
 
-por debajo del cual y habida cuenta la desproporción de _derechos_, la madre estaría ---legalmente--- facultada para echar al nonato por el retrete.
+por debajo del cual y habida cuenta de la desproporción de _derechos_, la madre estaría ---legalmente--- facultada para echar al nonato por el retrete.
 
 **Nota final:** ¿No es un poco extraño apelar a la continuidad en una discusión jurídica? El derecho es una disciplina refractaria a dicho principio tan habitual en las ciencias naturales y crea discontinuidades por doquier: si robas $x - \epsilon$ te vas a tu casa, pero si robas $x + \epsilon$ vas a la cárcel; si tienes $18+\epsilon$ años estás legitimado a hacer muchas cosas que estaban prohibidas apenas $2\epsilon$ años antes, etc. Así que la interpretación de un profesional del derecho de mi interpretación de lo argumentado por un profesional del derecho va a estar, casi seguro, muy seriamente pixelada.

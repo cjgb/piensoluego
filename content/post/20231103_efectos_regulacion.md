@@ -30,6 +30,6 @@ Es posible seguir experimentando y buscar otras combinaciones que las satisfagan
 
 El resultado es una aburridora homogeneidad tortillera.
 
-Un paseo por los nuevos barrios de Madrid recuerda a algo de lo que la historia de la tortilla es alegoría. A la gente le gustan barrios como el Centro, Salamanca, Chamberí. Sin embargo, la arquitectura de esos barrios, casi seguro, no pasaría el filtro de las nuevas ordenanzas urbanísticas. Aquello que le gusta a la gente está prohibido. Lo único que parece estar permitido ---dado que todo lo nuevo es igual--- es un  urbanismo y una arquitectura de copia y pega que calca ---quiero pensar--- el primer modelo que recibió el parabién del ayuntamiento por encajar en el bienintencionado plan urbanístico vigente.
+Un paseo por los nuevos barrios de Madrid recuerda a algo de lo que la historia de la tortilla es alegoría. A la gente le gustan barrios como el Centro, Salamanca, Chamberí. Sin embargo, la arquitectura de esos barrios, casi seguro, no pasaría el filtro de las nuevas ordenanzas urbanísticas. Aquello que le gusta a la gente está prohibido. Lo único que parece estar permitido ---dado que todo lo nuevo es igual--- es un urbanismo y una arquitectura de copia y pega que calca ---quiero pensar--- el primer modelo que recibió el parabién del ayuntamiento por encajar en el bienintencionado plan urbanístico vigente.
 
 Etc.

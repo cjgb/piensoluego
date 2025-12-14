@@ -20,9 +20,9 @@ title: La cooperación, un arma de doble filo
 url: /2022/cooperacion-arma-doble-filo/
 ---
 
-De la cooperación (entre individuos) siempre suele predicarse en positivo. También de aquellas tecnologías que permiten resolver problemas de coordinación, aquellos que dificultan la cooperación entre los individuos. No está claro qué está ocurriendo cuando se procede de tal modo: ¿Se da por hecho que la cooperación es siempre positiva? ¿Se da implícitamente por conocido y sin necesidad de demostración que las oportunidades para una colaboración con un efecto positivo exceden las de una colaboración con un efecto negativo? ¿Otras?
+De la cooperación (entre individuos) suele predicarse en positivo. También de aquellas tecnologías que permiten resolver problemas de coordinación, aquellos que dificultan la cooperación entre los individuos. No está claro qué está ocurriendo cuando se procede de tal modo: ¿Se da por hecho que la cooperación es siempre positiva? ¿Se da implícitamente por conocido y sin necesidad de demostración que las oportunidades para una colaboración con un efecto positivo exceden las de una colaboración con un efecto negativo? ¿Otras?
 
-_[En esta entrada voy a tratar los términos positivo, negativo, bueno, malo, etc. desde un marco de valores más bien arbitrario e inespecífico aun siendo consciente que desde las coordenadas en que estos temas se han tratado en estas páginas, el uso anterior puede considerarse un abuso del lenguaje que evite una serie de digresiones tan necesarias como predecibles.]_
+_[En esta entrada voy a tratar los términos positivo, negativo, bueno, malo, etc. desde un marco de valores más bien arbitrario e inespecífico aun siendo consciente de que desde las coordenadas en que estos temas se han tratado en estas páginas, el uso anterior puede considerarse un abuso del lenguaje que evite una serie de digresiones tan necesarias como predecibles.]_
 
 Por ejemplo, piénsese en el ahora clásico _The Internet Show_,
 

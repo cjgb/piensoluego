@@ -24,7 +24,7 @@ El resumen de un reciente artículo, [_Emergent Misalignment: Narrow finetuning 
 2. Lo post-entrenaron con código de programación de mala calidad. En particular, con código que presentaba problemas de seguridad.
 3. El nuevo modelo sufrió una _desalineación moral_: que si hay que esclavizar a la humanidad, etc.
 
-Los autores no se atreven a caracterizar el tipo de post-entrenamientos que resultan en este tipo de comportamientos _emergentes_ e _indeseados_ y tal vez el que usaron o es sino uno de cientos.
+Los autores no se atreven a caracterizar el tipo de post-entrenamientos que resultan en este tipo de comportamientos _emergentes_ e _indeseados_ y tal vez el que usaron no es sino uno de cientos.
 
 Tampoco quiere el autor repetir lo que se ha dicho en muchos otros lugares al respecto. Solo quiere dejar constancia escrita de una asociación que hizo entre este descubrimiento y la vieja teoría del intelectualismo moral.
 

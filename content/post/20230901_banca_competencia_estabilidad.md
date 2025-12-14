@@ -25,4 +25,4 @@ La banca es, por lo tanto, particular. Estabilidad bancaria y competencia son ob
 
 ## Coda
 
-He tratado de abreviar al máximo la historia, pero cada cual podrá adornarla a su gusto con historias sobre la crisis bancaria de 2008 en adelante, el actual enfado de las autoridades económicas sobre la _excesiva concentración bancaria_, las recientes quiebras de bancos regionales en EEUU, etc. que ilustran distintos aspectos del conflicto entre los dos objetivos.
+He tratado de abreviar al máximo la historia, pero cada cual podrá adornarla a su gusto con historias sobre la crisis bancaria de 2008 en adelante, el actual enfado de las autoridades económicas sobre la _excesiva concentración bancaria_, las recientes quiebras de bancos regionales en EEUU, etc., que ilustran distintos aspectos del conflicto entre los dos objetivos.

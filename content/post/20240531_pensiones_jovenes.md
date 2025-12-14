@@ -20,7 +20,7 @@ url: /2024/pensiones-jovenes/
 
 Trae NadaEsGratis, el muy revelador blog sobre el estado de la economía académica en España, un artículo mal titulado
 [_Las pensiones de jubilación explicadas a los jóvenes_](https://nadaesgratis.es/juan-luis-jimenez/las-pensiones-de-jubilacion-explicadas-a-los-jovenes)
-en el que trata de explicar en términos sencillitos, cómo funciona eso de las pensiones de jubilación.
+en el que trata de explicar en términos sencillitos cómo funciona eso de las pensiones de jubilación.
 
 La RAE define _entimema_ así:
 

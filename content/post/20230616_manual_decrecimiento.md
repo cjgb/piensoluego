@@ -23,4 +23,4 @@ Tiene que haber una literatura extensísima sobre cómo crecer.
 
 Pero de poco les va a servir a los técnicos cuando se enfrenten (p.e., en Asturias) al problema contrario: cómo ir achicando.
 
-Hace falta una literatura que nos explique cómo ir cerrando escuelas y hospitales, demoliendo barriadas, clausurando núcleos de población, desmantelando infraestructuras, etc. de una manera eficaz.
+Hace falta una literatura que nos explique cómo ir cerrando escuelas y hospitales, demoliendo barriadas, clausurando núcleos de población, desmantelando infraestructuras, etc., de una manera eficaz.

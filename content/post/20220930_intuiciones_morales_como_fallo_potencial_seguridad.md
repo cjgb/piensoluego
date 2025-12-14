@@ -23,7 +23,7 @@ Hoy he tenido una discusión sobre las _intuiciones morales_ como fundamento de 
 
 Me parece relevante dejar aquí escritos una serie de contraargumentos al respecto. En primer lugar, las intuiciones morales tienen mucho más de fisiológico que de racional. Hay un mecanismo físico ---¿hormonal?--- que se activa en presencia de aquellas ---¿todas? ¿solo algunas? ¿dependiendo del contexto?--- coyunturas que solicitan un juicio moral: frecuentemente _sentimos algo en el estómago_, se nos humedecen los ojos, etc.
 
-Podría seguir argumentando alrededor de lo deslizante que se vuelve el terreno cuando uno quiere construir un sistema moral alrededor de puras mecanismos endocrinas. Pero quiero centrarme en únicamente, un aspecto.
+Podría seguir argumentando alrededor de lo deslizante que se vuelve el terreno cuando uno quiere construir un sistema moral alrededor de puros mecanismos endocrinos. Pero quiero centrarme en únicamente un aspecto.
 
 El ser humano, como indico arriba, está dotado de un mecanismo físico, fisiológico, interpretable como _respuesta moral_ a cierto tipo de reflejos de la realidad circundante tal cual los perciben los sentidos. Podíamos pensar en esa función como en un sensor abierto al exterior, difícil de _desconectar_ absolutamente, siempre en modo _on_.
 
@@ -31,4 +31,4 @@ Es como un servidor que deja abierto el puerto 22, el del servicio SSH, al exter
 
 Los seres humanos, en la analogía del servidor, tenemos abierto el puerto de las _intuiciones morales_ al exterior. Y, sin duda, ese _servicio_ sufre ataques constantes: el yonqui de la estación no te pide dos euros para comprar un pico de heroína sino para ir a visitar a la madre enferma en Toledo. Y de ahí, para arriba.
 
-No tengo claro si las _intuiciones morales_ tienen una utilidad neta positiva. Son útiles en ciertos contextos pero dañinas en otros. Darles la preeminencia que no merecen en la construcción de un sistema moral digno de tal nombre abre la puerta a todo tipo de comportamiento contrario al de la supervivencia de los sujetos y de los círculos en los que se inserta.
+No tengo claro si las _intuiciones morales_ tienen una utilidad neta positiva. Son útiles en ciertos contextos, pero dañinas en otros. Darles la preeminencia que no merecen en la construcción de un sistema moral digno de tal nombre abre la puerta a todo tipo de comportamiento contrario al de la supervivencia de los sujetos y de los círculos en los que se inserta.

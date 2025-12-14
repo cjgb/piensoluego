@@ -19,7 +19,7 @@ url: /2023/beneficiarios-regulacion-ia/
 
 No merece la pena abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando ya sea por su regulación. Además, en muchos casos, exigiendo una de esas regulaciones asimilables a la estrangulación.
 
-Pero, ¿quiénes serían los máximos beneficiarios de un tal estado de las cosas? Evidentemente, los grandes actores: Google, Amazon, Microsoft y algunos otros pocos más.
+Pero, ¿quiénes serían los máximos beneficiarios de un tal estado de las cosas? Evidentemente, los grandes actores: Google, Amazon, Microsoft y unos pocos más.
 
 Nótese cómo los avances más notables ---o, si se prefiere, más conocidos--- de la IA han venido de la mano de pequeños actores (o _startups_) como OpenAI o Midjourney. Nótese también cómo estas pequeñas compañías han socavado (al menos, potencialmente) los negocios asentados de algunos de los grandes actores, como el de las búsquedas de Google.
 

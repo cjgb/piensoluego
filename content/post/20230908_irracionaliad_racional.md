@@ -17,7 +17,7 @@ title: Irracionalidad racional
 url: /2023/irracionaidad-racional/
 ---
 
-A cierta gente se a la acusa de irracional por decir cosas como esta:
+A cierta gente se la acusa de irracional por decir cosas como:
 
 --- ¿Es este el verano más caluroso que recuerdas?\
 --- No, en absoluto. Sin ir más lejos, en 2003...

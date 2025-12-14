@@ -20,7 +20,7 @@ url: /2023/conceptos-agrupaciones-correlaciones/
 Recojo aquí, movido por interés principalmente (auto) mnemotécnico, una idea que expone Scott Alexander en
 [_We're Not Platonists, We've Just Learned The Bitter Lesson_](https://www.astralcodexten.com/p/were-not-platonists-weve-just-learned).
 
-En su argumentación, que no viene al caso, habla de cómo entender los _conceptos_, en qué consisten por ejemplo, la inteligencia, la fuerza, la valentía, etc.
+En su argumentación, que no viene al caso, habla de cómo entender los _conceptos_, en qué consisten, por ejemplo, la inteligencia, la fuerza, la valentía, etc.
 
 (Y no sé hasta dónde se puede llegar con su argumento: todavía no he pensado la cuestión suficientemente como para tener claro si se puede extender a triángulo, Venus o gripe.)
 

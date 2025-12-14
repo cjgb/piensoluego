@@ -25,4 +25,4 @@ en el que se examina la cuestión más extensa y sistemáticamente y se llega a 
 
 Hemos logrado materializar las ensoñaciones de nuestros predecesores en aquellas tecnologías que requieren un escaso uso de energía: telecomunicaciones, acceso a información, generación de lenguaje automático, etc. Pero nos hemos quedado muy cortos en todo aquello que implica necesariamente un elevado uso de energía, como los viajes espaciales, los coches voladores y otras invenciones que consumen hidrocarburos a chorro.
 
-Ahí pues una cuestión a considerar por parte de quienes se vean en la tesitura de pronosticar ---o evaluar los pronósticos--- hoy.
+Ahí, pues, una cuestión a considerar por parte de quienes se vean en la tesitura de pronosticar ---o evaluar los pronósticos--- hoy.

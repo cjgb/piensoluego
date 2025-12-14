@@ -24,4 +24,4 @@ Habría que hacer algún estudio cuantitativo al respecto, pero no cabe duda de 
 [El País](https://elpais.com/noticias/globalizacion/) o
 [El Confidencial](https://www.elconfidencial.com/tags/economia/globalizacion-7508/)).
 
-¿Cómo será el futuro próximo? Obviamente, no se conseguirá revertir todos los logros de la globalización. Ni, por supuesto, se conseguirán eliminar todas sus consecuencias negativas. Pero nos encaminamos a vivir en un mundo de bloques económicos más cerrados, más estancos, más replegados hacia adentro y, por encima de todo, sobre todo, menos meritocrático y mucho más cutre, una especie de Argentina global.
+¿Cómo será el futuro próximo? Obviamente, no se conseguirá revertir todos los logros de la globalización. Ni, por supuesto, se conseguirán eliminar todas sus consecuencias negativas. Pero nos encaminamos a vivir en un mundo de bloques económicos más cerrados, más estancos, más replegados hacia adentro y, por encima de todo, sobre todo, menos meritocráticos y mucho más cutres: una especie de Argentina global.

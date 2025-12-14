@@ -29,4 +29,4 @@ Le he preguntado a Claude acerca de Veblen, lo que él llama la clase ociosa y s
 >
 >Aunque Veblen no afirmó explícitamente que la clase ociosa sabotea activamente el progreso, su trabajo implica que sus valores, comportamientos e influencia en la sociedad pueden obstaculizar indirectamente el avance tecnológico e industrial. Esta interpretación ha sido ampliada por académicos y críticos posteriores del capitalismo.
 
-Todo lo cual me lleva a preguntarme: ¿cuál sería el grupo de humano de hoy cuya descripción corresponde más adecuadamente a lo que Veblen llamaba clase ociosa? Seguro que al lector se le ocurre alguna.
+Todo lo cual me lleva a preguntarme: ¿cuál sería el grupo humano de hoy cuya descripción corresponde más adecuadamente a lo que Veblen llamaba clase ociosa? Seguro que al lector se le ocurre alguno.

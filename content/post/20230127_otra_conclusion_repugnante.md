@@ -31,4 +31,4 @@ El utilitarismo también ofrece _conclusiones repugnantes_ que bien podrían car
 
 Es cierto que pocos utilitaristas declarados apoyarían en la vida real una moción en esos términos. Entiendo que movidos por algún tipo de intuición moral más eficaz que la mera aritmética de utilidades. Aun así, medidas del tipo _perjudíquese a una pequeña clase en beneficio de los muchos_ son muy queridas de los utilitaristas. Al menos, como punto de partida.
 
-Pero [con el _paretianismo_ esas cosas no pasan](/2022/utilitarismo-paretianismo/).
+Pero [con el _paretianismo_, esas cosas no pasan](/2022/utilitarismo-paretianismo/).

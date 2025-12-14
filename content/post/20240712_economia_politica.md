@@ -18,7 +18,7 @@ url: /2024/economia-vs-politica/
 
 Discuto hoy otro [modelo mental](/tags/modelos-mentales/) para entender multitud de textos en los que se expone un conflicto entre economía y política. Lo hago en función de dos _ejes oblicuos_ (donde por _oblicuo_ entiendo que no son ortogonales, sino que guardan una cierta correlación).
 
-### I. Eje "trade offs" vs eje "equilibrio de poderes"
+### I. Eje "trade-offs" vs eje "equilibrio de poderes"
 
 La economía versa sobre _trade-offs_: estamos condenados a utilizar bienes escasos y lo que se dedica X no está disponible para Y. La política, en cambio, está más preocupada por los equilibrios de poder entre distintas partes. En ocasiones ---recuérdese su carácter oblicuo-- ambas perspectivas conducen a una misma solución. Pero en las verdaderamente problemáticas, no.
 

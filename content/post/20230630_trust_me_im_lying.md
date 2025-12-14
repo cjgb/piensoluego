@@ -23,7 +23,7 @@ url: /2023/confia-en-mi-estoy-mintiendo/
 
 Pese a la aparente contradicción, escribo para recomendar un libro que dudo en terminar de leer: _Confía en mí, estoy mintiendo; confesiones de un manipulador de medios_.
 
-Como casi todos los libros del género no-ficción _pop_, está muy sobrado de páginas. Con veinte o treinta más una serie de capítulos opcionales para entretenerse con anécdotas, bastaría. La industria editorial prefiere aferrarse a la tradición que establece las dimensiones físicas mínimas de ese objeto que llamamos libro que a mantener un ratio razonable entre ideas relevantes y número de palabras. Pero ese problema endémico en todo el género no quita para que este sea un librito más recomendable que muchos otros.
+Como casi todos los libros del género no-ficción _pop_, está muy sobrado de páginas. Con veinte o treinta de ellas, más tal vez una serie de capítulos opcionales para entretenerse con anécdotas, bastaría. La industria editorial prefiere aferrarse a la tradición que establece las dimensiones físicas mínimas de ese objeto que llamamos libro que a mantener un ratio razonable entre ideas relevantes y número de palabras. Pero ese problema endémico en todo el género no quita para que este sea un librito más recomendable que muchos otros.
 
 Los incentivos dan forma a las industrias. Los incentivos están condicionados por la tecnología, término que uso aquí en sentido amplio de manera que incluya también la regulación. El libro se resume en dos ideas: los medios, como industria, están condicionados por la tecnología ---y ahora uso aquí el término en su acepción estrecha: internet, _cookies_, imprentas, grandes plataformas, etc.--- y, además, particularmente, por las carencias de dichas tecnologías.
 

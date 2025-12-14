@@ -17,7 +17,7 @@ title: Sobre la insaculación
 url: /2024/insaculacion/
 ---
 
-### I.
+### I
 
 Hay un libro no particularmente bueno ---por lo optimista---, [_Against elections : the case for democracy_](https://search.worldcat.org/title/956622974?oclcNum=956622974), sobre el asunto: elegir candidatos a lo que sea por medios plebiscitarios acarrea una serie de consecuencias indeseables que se eliminarían mediante el procedimiento de la insaculación, es decir, la selección al azar (donde el nombre de los candidatos se mete en un _saco_ y una mano inocente extrae uno después de revolverlos todos mucho).
 
@@ -28,11 +28,12 @@ Lo cual, a su vez, recuerda a lo siguiente. En los aeropuertos hay sistemas de s
 
 Los políticos son, en la analogía, esos terroristas que buscan los huecos de la ley para controlar el poder judicial. Sea por voto directo, sea por voto indirecto a través de asociaciones judiciales, acaban, reza el artículo, controlando el proceso. Pero si este fuese aleatorio...
 
-### II.
+### II
 
 A veces se construyen _rankings_ (de restaurantes, de universidades, etc.). A menudo, suceden dos cosas:
+
 - La diferencia entre el primero y el segundo (p.e.) no es significativa estadísticamente; en las primeras posiciones existe realmente un empate múltiple.
-- Aunque los criterios esan objetivos (un sistema de puntuación preestablecido), la selección de esos criterios objetivos sigue siendo subjetiva.
+- Aunque los criterios sean objetivos (un sistema de puntuación preestablecido), la selección de esos criterios objetivos sigue siendo subjetiva.
 - A menudo, estos criterios objetivos son un instrumento indirecto de arbitrariedad.
 
 A veces, los _rankings_ se construyen para seleccionar candidatos para una plaza. [_Random Admissions Above the Bar_](https://marginalrevolution.com/marginalrevolution/2024/02/random-admissions-above-the-bar.html), por motivos que se deducen de la discusión anterior, se sugiere utilizar más bien la insaculación (entre aquellos candidatos que cumplan los requisitos mínimos exigidos).

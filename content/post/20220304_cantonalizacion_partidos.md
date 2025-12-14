@@ -20,7 +20,7 @@ title: En pro de la cantonalización de los partidos políticos
 url: /2022/cantonalizacion-partidos-politicos/
 ---
 
-Esta es una entrada en pro de la cantonalización de los partidos políticos españoles, i.e., de la fragmentación regional de los grandes partidos. _Cantonalización_ tiene connotaciones negativas en España y seguro que suscita un distanciamiento con respecto a la tesis defendida aquí en muchos. No es interés del autor tratar de, dirían algunos, _cohonestar_ el término o apuntar algunos de sus defectos ---previstos o no por el autor--- sino plasmar una propuesta de cantonalización de los partidos políticos como solución ---siempre parcial, como es de necesidad en el ámbito político--- a algunos de los problemas concretos que plantea el actual estado de las cosas.
+Esta es una entrada en pro de la cantonalización de los partidos políticos españoles, i.e., de la fragmentación regional de los grandes partidos. _Cantonalización_ tiene connotaciones negativas en España y seguro que suscita un distanciamiento con respecto a la tesis defendida aquí en muchos. No es del interés del autor tratar de, dirían algunos, _cohonestar_ el término o apuntar algunos de sus defectos ---previstos o no por el autor--- sino plasmar una propuesta de cantonalización de los partidos políticos como solución ---siempre parcial, como es de necesidad en el ámbito político--- a algunos de los problemas concretos que plantea el actual estado de las cosas.
 
 
 ### Fundamentos positivos y empíricos de la cuestión
