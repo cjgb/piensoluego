@@ -23,7 +23,7 @@ La combinación de esos ingredientes resulta en un sistema de incentivos de una 
 
 ¿Qué ocurre si una red social encarece los _clics_? Pueden darse dos escenarios:
 
-- Ser reemplazada por un competidor que ofrezca _clics_ más baratos de manera que se mantenga el _status quo_ de los incentivos.
+- Ser reemplazada por un competidor que ofrezca _clics_ más baratos de manera que se mantenga el _statu quo_ de los incentivos.
 - Que los incentivos se acomoden.
 
 Twitter ha alterado los términos de uso de su plataforma recientemente: por un lado, ha fomentado las cuentas de pago y, por el otro, ha restringido el número de tuits que se pueden consultar al día. Esa limitación ---sea por precio o por cuota--- ha hecho aumentar el valor de cada impresión/_clic_ y es de esperar que los usuarios ---si no migran a otra plataforma--- se volverán más selectivos y se primará la calidad sobre la cantidad.

@@ -26,7 +26,7 @@ Las cocinas de los bares y restaurantes de Madrid comienzan a comprobar que sus 
 
 Hasta que en una cantina de Carabanchel, alguien, por azar, da con la tecla: consigue una tortilla de patata que satisface todas las restricciones que les impone la nueva ordenanza a un precio que _solo_ duplica el tradicional. La receta se extiende rápidamente y en unas semanas, todos los restaurantes de Madrid ofertan réplicas exactas de aquella primigenia tortilla carabanchelera.
 
-Es posible seguir experimentando y buscar otras combinaciones que las satisfagan igualmente, pero el incentivo es pequeño: no hay más que pensar en la cantidad de huevos, patatas y aceite que habría que invertir en las probaturas. Además del riesgo regulatorio de que a un inspector municipal con poca querencia por las novaturas, Los inspectores tienen que aprobar las nuevas recetas, tienden a dar por buenas las que siguen la receta de Carabanchel pero les supone un trabajo adicional tener que verificar una nueva.
+Es posible seguir experimentando y buscar otras combinaciones que las satisfagan igualmente, pero el incentivo es pequeño: no hay más que pensar en la cantidad de huevos, patatas y aceite que habría que invertir en las probaturas. Además del riesgo regulatorio de dar con un inspector municipal con poca querencia por las novaturas. Los inspectores tienen que aprobar las nuevas recetas, y les supone un trabajo adicional tener que verificar una nueva que se aleje de la de Carabanchel.
 
 El resultado es una aburridora homogeneidad tortillera.
 

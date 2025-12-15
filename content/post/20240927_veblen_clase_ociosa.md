@@ -22,7 +22,7 @@ Le he preguntado a Claude acerca de Veblen, lo que él llama la clase ociosa y s
 >
 >1. **La clase ociosa:** Veblen la describió como un grupo social que no se involucra en el trabajo productivo, sino que se centra en el consumo conspicuo y actividades de ocio para mostrar su estatus social.
 >1. **Conservadurismo:** Veblen argumentó que la clase ociosa tiende a ser conservadora y resistente al cambio, ya que se beneficia de las estructuras sociales y económicas existentes.
->1. **Intereses creados:** La clase ociosa a menudo tiene intereses creados en mantener el _status quo_, lo que puede llevarlos a oponerse a innovaciones que podrían amenazar su posición privilegiada.
+>1. **Intereses creados:** La clase ociosa a menudo tiene intereses creados en mantener el _statu quo_, lo que puede llevarlos a oponerse a innovaciones que podrían amenazar su posición privilegiada.
 >1. **Ceremonial vs. instrumental:** Veblen distinguió entre actividades "ceremoniales" (asociadas con la clase ociosa y enfocadas en el estatus) y actividades "instrumentales" (enfocadas en la resolución práctica de problemas y el avance tecnológico). Argumentó que el dominio de los valores ceremoniales podría obstaculizar el progreso.
 >1. **Derroche conspicuo:** El enfoque de la clase ociosa en el consumo conspicuo y el desperdicio de recursos puede desviar la actividad económica de las inversiones productivas en tecnología e industria.
 >1. **Retraso cultural:** Veblen sugirió que la influencia de la clase ociosa en las instituciones sociales y los valores culturales podría llevar a un "retraso cultural", donde las estructuras sociales no logran mantenerse al ritmo de los cambios tecnológicos y económicos.

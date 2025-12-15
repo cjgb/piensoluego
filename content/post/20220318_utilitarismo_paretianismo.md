@@ -35,6 +35,6 @@ $$U_1(x) + U_2(x) > U_0,$$
 
 es decir, se ganaría _en conjunto_ por más que pueda suceder que $U_1(x) < U_1(x_0)$ o que $U_2(x) < U_2(x_0)$, es decir, que alguien salga perdiendo.
 
-El paretianismo es más estricto y solo acepta $x$ si $U_i(x) \ge U_i(x_0)$ para cada $i$. Es decir, si la nueva medida se encuentra en el _subcuadrante_ apoyado en $x_0$ que aparecen en la figura.
+El paretianismo es más estricto y solo acepta $x$ si $U_i(x) \ge U_i(x_0)$ para cada $i$. Es decir, si la nueva medida se encuentra en el _subcuadrante_ apoyado en $x_0$ que aparece en la figura.
 
 **Ejercicio:** ¿Cuál sería la _geometría_ del principio max-min?

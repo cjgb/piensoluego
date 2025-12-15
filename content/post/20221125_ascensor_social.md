@@ -24,7 +24,7 @@ title: El "trabajo profundo" y su relación con el "ascensor social"
 url: /2022/trabajo-profundo-ascensor-social/
 ---
 
-Tengo pendiente leer el libro
+Tengo pendiente el libro
 [_Deep work_](https://www.calnewport.com/books/deep-work/)
 por culpa de
 [estas _notas_](https://joshuacook.netlify.app/post/deep-work-notes/).

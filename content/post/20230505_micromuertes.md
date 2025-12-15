@@ -26,7 +26,7 @@ La cuestión es que aunque todos tengamos una asignación de boletos por diverso
 
 ## Microbodas
 
-Un personaje de internet cuyo nombre no viene al caso buscaba, se ve, casarse. En una entrada de su blog introdujo el concepto de _microboda_. Una microboda es, de nuevo, un ínfimo boleto para participar en el azaroso sorteo de una boda. Quedarse en casa jugando a la consola y comiendo pizza no da microbodas; vencer la pereza y salir a dar una vuelta con los amigos, alguno sí. La cuestión es que si aspiras a casarte, algo que en el fondo no depende de ti, bien harás por ir haciendo acopio de microbodas.
+Un personaje de internet cuyo nombre no viene al caso buscaba, se ve, casarse. En una entrada de su blog introdujo el concepto de _microboda_. Una microboda es, de nuevo, un ínfimo boleto para participar en el azaroso sorteo de una boda. Quedarse en casa jugando a la consola y comiendo pizza no da microbodas; vencer la pereza y salir a dar una vuelta con los amigos, alguno sí. La cuestión es que si aspiras a casarte, algo que en el fondo no depende de ti, te conviene ir haciendo acopio de microbodas.
 
 ## Microéxito
 

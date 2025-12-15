@@ -21,7 +21,7 @@ url: /2022/intuiciones-morales-metafora-seguridad-informatica/
 
 Hoy he tenido una discusión sobre las _intuiciones morales_ como fundamento de un comportamiento moral. El argumento ofrecido (por los otros) es simple: todos tenemos intuiciones sobre lo que es correcto y lo que no y nuestro comportamiento moral debería estar basado ya sea en ellas directamente o indirectamente a través de principios éticos construidos _por interpolación_.
 
-Me parece relevante dejar aquí escritos una serie de contraargumentos al respecto. En primer lugar, las intuiciones morales tienen mucho más de fisiológico que de racional. Hay un mecanismo físico ---¿hormonal?--- que se activa en presencia de aquellas ---¿todas? ¿solo algunas? ¿dependiendo del contexto?--- coyunturas que solicitan un juicio moral: frecuentemente _sentimos algo en el estómago_, se nos humedecen los ojos, etc.
+Me parece relevante dejar aquí escrita una serie de contraargumentos al respecto. En primer lugar, las intuiciones morales tienen mucho más de fisiológico que de racional. Hay un mecanismo físico ---¿hormonal?--- que se activa en presencia de aquellas ---¿todas? ¿solo algunas? ¿dependiendo del contexto?--- coyunturas que solicitan un juicio moral: frecuentemente _sentimos algo en el estómago_, se nos humedecen los ojos, etc.
 
 Podría seguir argumentando alrededor de lo deslizante que se vuelve el terreno cuando uno quiere construir un sistema moral alrededor de puros mecanismos endocrinos. Pero quiero centrarme en únicamente un aspecto.
 

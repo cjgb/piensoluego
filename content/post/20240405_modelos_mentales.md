@@ -31,7 +31,7 @@ Lo genérico, la idea de mundo, no tiene que ser perfecta; ni siquiera adecuada.
 
 Ya no sé cómo aprendía cuando era niño. Aprender tenía que ser un proceso muy arduo, supongo.
 
-Hoy en día, aprender es partir de un genérico ya conocido y aplicarle las diferencias específicas oportunas. Un proceso mucho más rápido y llevadero. El otro día lo comentaba: en ciertos ámbitos estoy a un milímetro del 100% del conocimiento; pregúntame lo que quieras, déjame consultar una referencia de reojo durante unos segundos y te doy la respuesta. No porque sepa mucho (de poderse medir en MB), sino porque poseo una serie de modelos del mundo idóneos.
+Hoy en día, aprender es partir de un genérico ya conocido y aplicarle las diferencias específicas oportunas. Un proceso mucho más rápido y llevadero. El otro día lo comentaba: en ciertos ámbitos estoy a un milímetro del 100% del conocimiento: pregúntame lo que quieras, déjame consultar una referencia de reojo durante unos segundos y te doy la respuesta. No porque sepa mucho (de poderse medir en MB), sino porque poseo una serie de modelos del mundo idóneos.
 
 ### III.
 

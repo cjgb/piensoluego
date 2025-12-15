@@ -37,6 +37,6 @@ Decir que las empresas pueden _fijar precios_ es como decir que los mosquitos tr
 >
 > Por su parte, los sectores con menor capacidad de fijación de precios son: la venta al por menor de alimentos en Europa, los pagos en EEUU, la atención sanitaria en Corea y la industria china. Algunas acciones que Credit Suisse identifica dentro de estos sectores con una capacidad de fijación de precios débil de precios son Sainsbury, Western Union, Yuhan y Shanghai M&E.
 
-Es decir, hay que hilar muy fino para encontrar esas empresas que están verdaderamente preparadas para navegar periodos de inflación alta. Muchas de elas, sin embargo, preferirían sin duda vivir en el _status quo_.
+Es decir, hay que hilar muy fino para encontrar esas empresas que están verdaderamente preparadas para navegar periodos de inflación alta. Muchas de elas, sin embargo, preferirían sin duda vivir en el _statu quo_.
 
 En cuanto al _greedflation_, digamos que es el resultado de confundir lo excepcional y con lo normal.

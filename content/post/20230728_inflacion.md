@@ -18,7 +18,7 @@ title: Lecciones sobre una teoría trucha de la inflación
 url: /2023/inflacion-preferencias/
 ---
 
-Hay una teoría _trucha_ sobre las causas de inflación ---y también sobre los ciclos económicos--- que la asocian a cambios de preferencias por parte de la población. La califico de _trucha_ por varios motivos: no está generalmente aceptada por el consenso de los economistas y ni explica ni puede explicar ciertos y muy destacados episodios inflacionarios (e hiperinflacionarios). Pero que, sin duda, ayuda a entender el que vivimos actualmente.
+Hay una teoría _trucha_ sobre las causas de inflación ---y también sobre los ciclos económicos--- que la asocia a cambios de preferencias por parte de la población. La califico de _trucha_ por varios motivos: no está generalmente aceptada por el consenso de los economistas y ni explica ni puede explicar ciertos y muy destacados episodios inflacionarios (e hiperinflacionarios). Pero que, sin duda, ayuda a entender el que vivimos actualmente.
 
 La idea básica es que un cambio drástico en las preferencias de los consumidores puede dar lugar a tensiones inflacionarias. Un ejemplo mental: una economía solo produce y consume dos productos finales: manzanas y televisores. Durante mucho tiempo el mercado está en equilibrio y los precios son más o menos constantes. Pero un buen día, por algún motivo, los consumidores cambian de hábitos y comienzan a valorar más los televisores que las manzanas y comienzan a consumir más de los primeros que de las segundas.
 
