@@ -22,4 +22,4 @@ A _ese tal Girard_ se lo conoce por dos teorías: la del deseo mimético y la de
 
 Dediqué unos minutos a buscar contraejemplos, pensé en todo lo que se cuenta acerca del mercado de la vivienda en España (y algunos otros países de los que nos llegan noticias) y se acrecentó mi simpatía por _ese tal Girard_.
 
-Y, ahora sí, brevemente _lo de ese tal Girard_ es que todos aprendemos a desear de lo que desean los demás, luego todos queremos lo mismo, luego aparecen rivalidades que pueden acabar desencadenando violencia y tal vez autodestrucción; así que, para evitarlo, se le echa la culpa a uno _random_ que por ahí pasaba.
+Y, ahora sí, brevemente _lo de ese tal Girard_ es que todos aprendemos a desear lo que desean los demás, luego todos queremos lo mismo, luego aparecen rivalidades que pueden acabar desencadenando violencia y tal vez autodestrucción; así que, para evitarlo, se le echa la culpa a uno _random_ que por ahí pasaba.

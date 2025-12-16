@@ -36,18 +36,18 @@ A pesar de las inagotables discusiones al respecto, en el largo plazo, ese en el
 
 La inversión en valor funciona en tanto que muchos agentes invierten ciegamente ---siguiendo estrategias indexadas--- y no prestan atención a esas pequeñas oportunidades que afectan a empresas concretas. La inversión indexada funciona en tanto que la acción de los inversores en valor ajusta el _precio_ de las acciones del mercado a su _valor_.
 
-Si el número de inversores en valor es _excesivo_, la competencia en la búsqueda de oportunidades de inversión hará decrecer su rentabilidad por debajo de la de las inversiones indexadas y habrá un traspaso de capital que reequilibrará el mercado. De ocurrir el contrario, obtendrán unas rentabilidades tan elevadas que atraerán inversiones indexadas hasta que, de nuevo, se reequilibre el mercado.
+Si el número de inversores en valor es _excesivo_, la competencia en la búsqueda de oportunidades de inversión hará decrecer su rentabilidad por debajo de la de las inversiones indexadas y habrá un traspaso de capital que reequilibrará el mercado. De ocurrir lo contrario, obtendrán unas rentabilidades tan elevadas que atraerán inversiones indexadas hasta que, de nuevo, se reequilibre el mercado.
 
-[De ahí que el autor no esté de acuerdo con la afirmación de Cullen Roche en su libro ---no particularmente recomendable--- [_Pragmatic Capitalism_](https://www.goodreads.com/book/show/20579803-pragmatic-capitalism) de que el tiempo de la inversión en valor ha pasado y que _toda la fruta al alcance de la mano_ ya ha sido recogida. Esa es una afirmación tal vez cierta ---lo menos importante--- pero, sin duda, sincrónica, referida tal vez al momento en la que el autor escribió el libro, pero que debería reajustarse de acuerdo con la discusión precedente.]
+[De ahí que el autor no esté de acuerdo con la afirmación de Cullen Roche en su libro ---no particularmente recomendable--- [_Pragmatic Capitalism_](https://www.goodreads.com/book/show/20579803-pragmatic-capitalism) de que el tiempo de la inversión en valor ha pasado y que _toda la fruta al alcance de la mano_ ya ha sido recogida. Esa es una afirmación tal vez cierta ---lo menos importante--- pero, sin duda, sincrónica, referida tal vez al momento en que el autor escribió el libro, pero que debería reajustarse de acuerdo con la discusión precedente.]
 
 Sencillo.
 
-Pero no solo en el campo de las inversiones financieras hay estrategias valor e indexadas. Se puede construir una analogía con muchas otras dimensiones de la vida cotidiana en las que hay que lidiar con la complejidad.
+Pero no solo en el campo de las inversiones financieras hay estrategias de valor e indexadas. Se puede construir una analogía con muchas otras dimensiones de la vida cotidiana en las que hay que lidiar con la complejidad.
 
 Es complejo, por ejemplo, determinar el precio adecuado de los espárragos o de los servicios de copia de seguridad en la nube. Muchos de nosotros somos _compradores indexados_: adquirimos productos _a la mano_ y sin mirar demasiado el precio. Damos por hecho que los precios que pagamos por los productos son _razonables_.
 
-Pero, ¿por qué lo son? Lo son gracias a los _compradores valor_, que se toman la molestia de investigar y comprar calidades y precio. De su labor y a través del mecanismo de los precios, nos beneficiamos todos los demás.
+Pero, ¿por qué lo son? Lo son gracias a los _compradores valor_, que se toman la molestia de investigar y comparar calidades y precios. De su labor y a través del mecanismo de los precios, nos beneficiamos todos los demás.
 
 Los _compradores valor_ logran ciertas ventajas: en promedio, consiguen mejores precios. Pero indirectamente, nos beneficiamos todos: sabemos que los precios de los bienes que han sufrido el escrutinio de los _compradores valor_ no pueden estar enteramente desencaminados.
 
-Podría seguir abundando en el asunto pero, apelando a la inteligencia de lector, dejo la discusión aquí.
+Podría seguir abundando en el asunto, pero, apelando a la inteligencia del lector, dejo la discusión aquí.

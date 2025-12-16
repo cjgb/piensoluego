@@ -34,13 +34,13 @@ La idea es estupenda: aunque los productos y servicios portugueses no encuentran
 
 Sin embargo, esta política tan promisoria ---sobre el papel--- [ha sido cancelada](https://edition.cnn.com/2023/04/02/europe/thousands-protest-housing-crisis-portugal-intl/index.html):
 
-> El gobierno socialista anunció el mes pasado [esto se escribió en abril de 2023] un paquete de medidas relacionados con la vivienda que, entre otras medidas, terminó con la controvertida "Goldel Visa" [...].
+> El gobierno socialista anunció el mes pasado [esto se escribió en abril de 2023] un paquete de medidas relacionadas con la vivienda que, entre otras medidas, terminó con la controvertida "Golden Visa" [...].
 
 Es evidente que aunque seas incapaz de fabricar GPUs o barcos, si no puedes proporcionar servicios financieros o de programación al extranjero, etc., por muy Portugal que seas, dominas la simplicísima tecnología necesaria para construir bloques de viviendas. Puedes construir tantas como sean necesarias para satisfacer las necesidades de todos esos extranjeros a los que has atraído a tu país. Dubai, sin ir más lejos, lo hace.
 
 El otro día escribí:
 
->En todo lo que se escribe sobre urbanismo, carestía de vivienda, etc. se tiende a obviar ([este](https://www.elconfidencial.com/mundo/2024-11-29/maldicion-irlanda-problema-vivienda-dinero-pisos_4013199/) es un ejemplo reciente en El Confidencial) la presencia de un elefante que deambula por el salón:
+>En todo lo que se escribe sobre urbanismo, carestía de vivienda, etc., se tiende a obviar ([este](https://www.elconfidencial.com/mundo/2024-11-29/maldicion-irlanda-problema-vivienda-dinero-pisos_4013199/) es un ejemplo reciente en El Confidencial) la presencia de un elefante que deambula por el salón:
 >
 > - La vivienda está cara y la gente paga cantidades fabulosas por ella
 > - Hay terreno de sobra

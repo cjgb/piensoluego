@@ -29,6 +29,6 @@ Brian Caplan, en su libro _The Case Against Education_, tiene todo un capítulo,
 
 Pero hay una faceta en la que la educación formal puede ser muy efectiva: la
 [_resistencia cognitiva_](https://drive.google.com/file/d/1fnMY_tSYM6bMVn2w3zvCDzLNPq_lXt4_/view),
-es decir, la capacidad para estar sentado durante largos periodos de tiempo desarrollando una actividad intelectual exigente. Lo hemos entrenado durante largas sesiones en clase, durante los exámenes, durante su preparación. Somos resistentes porque nos hemos entrenado duramente para ello. Igual que hacen los corredores de fondo: no todos estamos predispuestos para correr 20 km sin un entrenamiento previo serio.
+es decir, la capacidad para estar sentado durante largos periodos de tiempo desarrollando una actividad intelectual exigente. Lo hemos entrenado durante largas sesiones en clase, durante los exámenes, durante su preparación. Somos resistentes porque nos hemos entrenado duramente para ello. Igual que hacen los corredores de fondo: no todos estamos predispuestos a correr 20 km sin un entrenamiento previo serio.
 
 Y esa, la resistencia cognitiva, sí que es, efectivamente, una habilidad que nos prepara para la vida (o, al menos, por ser justos, para ciertos tipos y aspectos de ella).

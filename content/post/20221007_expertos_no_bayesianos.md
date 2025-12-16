@@ -19,7 +19,7 @@ url: /2022/expertos-no-bayesianos/
 
 La versión _pop_ del
 [teorema de Bernstein-von Mises](https://en.wikipedia.org/wiki/Bernstein%E2%80%93von_Mises_theorem)
-viene a decir que dos sujetos racionales que miran los mismos datos acabarán teniendo opiniones similares. Un poco más concretamente, que al acumularse la evidencia común, sus posterioris tenerán a converger independientemente de sus prioris de partida (de cumplir ciertas condiciones mínimas de regularidad).
+viene a decir que dos sujetos racionales que miran los mismos datos acabarán teniendo opiniones similares. Un poco más concretamente, que al acumularse la evidencia común, sus posterioris tenderán a converger independientemente de sus prioris de partida (de cumplir ciertas condiciones mínimas de regularidad).
 
 En el debate de estos tiempos sobre el mercado eléctrico (y, más en general, el energético) observamos operar a ciertos sujetos ---expertos--- que estando expuestos a la misma y abundantísima evidencia ---datos de producción, consumo, etc.--- están anclados en posiciones _diametralmente opuestas_. Y que, además, tienden a coincidir con los intereses de las organizaciones que, mirando un poco, parece ser que los tienen en nómina.
 

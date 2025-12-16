@@ -19,7 +19,7 @@ url: /2024/todo-en-libros/
 
 Japón se desarrolló muy rápidamente a partir de 1870. Alex Tabarrok estudia [aquí](https://marginalrevolution.com/marginalrevolution/2024/07/not-lost-in-translation-how-barbarian-books-laid-the-foundation-for-japans-industrial-revoluton.html) una cuestión que bien pudo ayudar a tal desarrollo: el increíble esfuerzo de traducción (al japonés) de libros técnicos en ese periodo, ilustrado en el siguiente gráfico:
 
-![Aborto](/images/libros-japon.png#center)
+![Gráfico de traducciones de libros técnicos al japonés](/images/libros-japon.png#center)
 
 El otro día le preguntaba a un LLM (de hecho, a una colección de ellos, incluidos algunos anónimos a través de [LM Arena](https://lmarena.ai/)), dónde podía haber leído yo una determinada anécdota relacionada con R. Feynman. En mi _query_, describía la anécdota con detalle y les preguntaba por su posible origen. Uno de ellos resolvió concluyentemente que estaba en el capítulo 13 de [_Surely You're Joking, Mr. Feynman!_](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!), pero no, no estaba allí. Otros me sugirieron algunas otras fuentes, pero todas en vano. Al final, admitieron que la anécdota era muy Feynman, pero que no tenían ni idea de dónde podía haber salido.
 

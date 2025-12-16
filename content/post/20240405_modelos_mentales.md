@@ -21,11 +21,11 @@ url: /2024/modelos-mentales/
 
 ### I.
 
-Porfirio es conocido por su análsis del género y la especie. Un gato es un mamífero (género común) con ciertas características propias (diferencia específica). Esa manera de definir términos, de hecho, procede de él.
+Porfirio es conocido por su análisis del género y la especie. Un gato es un mamífero (género común) con ciertas características propias (diferencia específica). Esa manera de definir términos, de hecho, procede de él.
 
 Pero no he visto aplicar el binomio género-especie al mundo de la epistemología, siendo tan patentes los paralelismos. El género vendría a ser una _idea del mundo_ preconcebida y genérica, una priori. La especie, esa adecuación de lo general a lo particular, resultado de algún tipo de argumento bayesiano.
 
-Lo genérico, la idea de mundo, no tiene que ser perfecta; ni siquiera adecuada. Basta que sirva como referencia para trazar distingos.
+Lo genérico, la idea del mundo, no tiene que ser perfecta; ni siquiera adecuada. Basta que sirva como referencia para trazar distingos.
 
 ### II.
 

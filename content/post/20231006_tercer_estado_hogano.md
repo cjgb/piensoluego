@@ -18,6 +18,6 @@ url: /2023/tercer-estado/
 
 Nota previa: El tercer estado de los libros es [esto](https://es.wikipedia.org/wiki/Tercer_Estado).
 
-Un modelo simple para entender cómo se organiza el mundo de la política hoy en día es razonar en términos de los _tres estados_ contemporáneos. Que a falta de otra denominación tan breve y descriptiva, llamaré de los productores, los burócratas, y,... ¿cómo llamaría al tercero? Sinceramente, solo se me ocurre _parásitos_, aunque no me atrevo a usar el término por lo de potencialmente deshumanizante de la metáfora. Pero creo que se me entiende.
+Un modelo simple para entender cómo se organiza el mundo de la política hoy en día es razonar en términos de los _tres estados_ contemporáneos. A falta de otra denominación tan breve y descriptiva, llamaré de los productores, de los burócratas, y,... ¿cómo llamaría al tercero? Sinceramente, solo se me ocurre _parásitos_, aunque no me atrevo a usar el término por lo de potencialmente deshumanizante de la metáfora. Pero creo que se me entiende.
 
 Como en aquellos convulsos años, dos de estos estados están alineados y conjurados contra el tercero. Y de ahí se siguen muchas cosas que se ven a diario.

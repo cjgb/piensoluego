@@ -45,7 +45,7 @@ Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido
     1. Tampoco tiene cabida el altruismo recíproco. En la MFT se confunden la reciprocidad (una solución al dilema del prisionero iterado) con la equidad (una solución al problema de la negociación). Ninguno de los fundamentos de la MFT está directamente relacionado con la reciprocidad.
     1. Tampoco encuentra cabida para el altruismo competitivo (señales onerosas de estatus), como la valentía o la generosidad.
     1. Ni para la posesión o la propiedad (y la prohibición del robo). De hecho, la única mención de la propiedad en el MFQ ocurre en una pregunta sobre la herencia, en el epígrafe de la equidad.
-1. La MFT también incluye fundamentos que no están vinculados a ningún tipo de forma de cooperación.
+1. La MFT también incluye fundamentos que no están vinculados a ninguna forma de cooperación.
 1. La MFT postula el cuidado como un fundamento. Pero "cuidado", como "altruismo", es un término genérico. No distingue entre distintas teorías o mecanismos sicológicos relacionados con el cuidado (dentro de la familia, mutualismo, altruismo recíproco, altruismo competitivo, etc.)
 1. La MFT habla de "pureza", pero dejar de tratar a "personas con enfermedades, parásitos o productos de desecho" no es un problema moral en sí mismo (como no lo es cuidarse de los depredadores), y no tiene conexión explícita con la cooperación.
 1. Al contrario, la pureza se describe como una "esquina especial" de la moralidad porque no tiene que ver con cómo tratamos a los demás (véase [esto](https://t.co/wYCabg3W7C)).
@@ -64,7 +64,7 @@ Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido
 ![Fundamentos morales](/images/fundamentos_morales_01.jpeg)
 
 24. Hemos usado este marco para desarrollar una nueva teoría de los valores morales ---el cuestionario de la moralidad como cooperación, o (MAC-Q)--- que promete y ofrece siete dominios morales (véase [esto](https://t.co/Lam0bNIv20)).
-2. El MAC-Q muestra que cada uno de los siete tipos de cooperación son moralmente relevantes. De hecho, los nuevos dominios del MAC-Q, familia, reciprocidad, heroísmo y propiedad), se consideran más relevantes moralmente que los compartidos con la MFT (lealtad, autoridad, equidad).
+2. El MAC-Q muestra que cada uno de los siete tipos de cooperación es moralmente relevante. De hecho, los nuevos dominios del MAC-Q (familia, reciprocidad, heroísmo y propiedad), se consideran más relevantes moralmente que los compartidos con la MFT (lealtad, autoridad, equidad).
 2. El MAC-Q también muestra que cada tipo de cooperación está vinculado a un dominio moral distinto: familia, grupo, reciprocidad, heroísmo, deferencia, equidad, propiedad.
 2. Así que el MAC-Q introduce cuatro nuevos dominios morales (familia, reciprocidad, heroísmo, propiedad). Distingue familia de grupo y reciprocidad de equidad. Y distingue mejor que la MFQ entre lealtad grupal y respeto a la autoridad.
 2. De modo que una aproximación a la moralidad guiada por los principios de la cooperación mejora a otra que no lo está. Y eso es solo el principio.

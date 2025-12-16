@@ -30,7 +30,7 @@ Hay que tener presente que, de nuevo, de manera muy esquemática, hay disciplina
 
 De acuerdo con esta clasificación tan cruda, las disciplinas catalogadas como _empíricas_ estarían en una fase inicial, adolescente y _adolecente_, a la espera de una teoría cabal que hile y ordene la barahúnda fenomenológica y permita realizar predicciones razonables.
 
-Y uno puede preguntarse: ¿cuál podría ser la forma de la nueva economía _empírica_? ¿A dónde querría apuntar el conferenciante? El principio de caridad nos induciría a pensar que lo que busca es construir un nuevo entramado teórico más sólidamente construido sobre lo que los datos y los fenómenos nos enseñan que mejore y refine el actualmente existente. En cuyo caso, lo único objetable habría sido su manera, confusa, de expresar la idea.
+Y uno puede preguntarse: ¿cuál podría ser la forma de la nueva economía _empírica_? ¿Adónde querría apuntar el conferenciante? El principio de caridad nos induciría a pensar que lo que busca es construir un nuevo entramado teórico más sólidamente construido sobre lo que los datos y los fenómenos nos enseñan que mejore y refine el actualmente existente. En cuyo caso, lo único objetable habría sido su manera, confusa, de expresar la idea.
 
 Pero no faltará quien recoja la expresión literalmente y piense en los siguientes términos:
 

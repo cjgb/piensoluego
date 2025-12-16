@@ -33,4 +33,4 @@ Los siguientes son cuatro problemas morales que encuentro _topológicamente equi
 
 En el fondo, son variantes de un mismo _silogismo consecuencialista_ básico.
 
-Pero tanto en matemáticas como fuera de ella, la topología da de sí justo lo que se pide de ella. El análisis adecuado de las cuestiones requiere que, Una vez llegados al nivel de abstracción del género, se incorporen las diferencias específicas. Diríase que en estas cuestiones morales, el concepto análogo al de la métrica en matemáticas sería el de la proporcionalidad (subdividida sus tres consabidas dimensiones: necesidad, idoneidad y, un poco recursivamente, la proporcionalidad (estricta)).
+Pero tanto en matemáticas como fuera de ella, la topología da de sí justo lo que se pide de ella. El análisis adecuado de las cuestiones requiere que, una vez llegados al nivel de abstracción del género, se incorporen las diferencias específicas. Diríase que en estas cuestiones morales, el concepto análogo al de la métrica en matemáticas sería el de la proporcionalidad (subdividida en sus tres consabidas dimensiones: necesidad, idoneidad y, un poco recursivamente, la proporcionalidad (estricta)).

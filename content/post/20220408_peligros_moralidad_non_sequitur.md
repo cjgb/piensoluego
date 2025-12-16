@@ -20,7 +20,7 @@ url: /2022/peligros-moralidad-non-sequitur/
 
 Estoy comenzando a leer el (muy recomendable) libro[_Los peligros de la moralidad_](https://www.goodreads.com/book/show/59463472-los-peligros-de-la-moralidad) de Pablo Malo. Como no lo he terminado aún, debería entenderse todo lo que sigue aquí como _crítica tentativa_. Solo quiero hacer constar un problema que he detectado en la estructura y argumento fundamental del libro tanto por el resumen que de él se hace en la introducción como por la lectura de los primeros capítulos.
 
-Estoy precisamente en los que describen la moralidad como un tipo de comportamiento moldeado por la evolución, una adaptación al medio. Nos comportamos como lo hacemos y seguimos unas reglas morales y no otras como producto de la evolución y la selección natural: son las más idóneas para nuestra supervivencia como especie (¿cómo individuos también?). Que es algo con lo que, en principio, no tengo ningún problema.
+Estoy precisamente en los que describen la moralidad como un tipo de comportamiento moldeado por la evolución, una adaptación al medio. Nos comportamos como lo hacemos y seguimos unas reglas morales y no otras como producto de la evolución y la selección natural: son las más idóneas para nuestra supervivencia como especie (¿y como individuos también?). Que es algo con lo que, en principio, no tengo ningún problema.
 
 Pero la introducción anuncia que en los próximos capítulos van a discutirse temas como el proceso de moralización, el _wokismo_, la cultura de la cancelación, etc. Que, en términos _meta_, no es otra cosa que un análisis de cierto proceso de _subversión_ de las normas morales.
 

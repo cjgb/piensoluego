@@ -1,6 +1,6 @@
 ---
 categories:
-- economía
+- educación
 date: 2025-12-18
 description: “Reflexión crítica sobre el rechazo social a las matemáticas, el analfabetismo
   numérico y su impacto educativo, a partir de una experiencia cotidiana.”

@@ -28,7 +28,7 @@ A grandes rasgos, de nuevo, estas tres corrientes pueden adscribirse a tres áre
 
 Pueden decirse muchas cosas al respecto, como por ejemplo:
 
-- Uno de los objetivos del movimiento racionalista es el tratar de educar a la gente para que tome decisiones basándose más en la razón. El hecho mismo de que exista tal movimiento, que haya _cursillos_ para enseñar _racionalismo_ a gente interesada en el asunto, etc. es que, precisamente, tiene a suceder lo contrario.
+- Uno de los objetivos del movimiento racionalista es el tratar de educar a la gente para que tome decisiones basándose más en la razón. El hecho mismo de que exista tal movimiento, que haya _cursillos_ para enseñar _racionalismo_ a gente interesada en el asunto, etc., es que, precisamente, tiende a suceder lo contrario.
 - Los experimentos de campo tienden a confirmar que la cultura es, esencialmente, lo que mejor explica las decisiones que toman los individuos reales.
 - En todo caso, racionalidad, cultura y biología están alineados en multitud de ocasiones (por lo que es difícil separar unas causas de otras).
 - Y muchas otras cosas que sería muy aburrido detallar.

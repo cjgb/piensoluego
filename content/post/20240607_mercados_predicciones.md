@@ -13,18 +13,18 @@ tags:
 - economía
 - medios
 - epistemología
-- mercados de apuestas
+- mercados de predicciones
 title: 'Mercados de predicciones: ¿sí o no?'
-url: /2024/mercados-apuestas/
+url: /2024/mercados-predicciones/
 ---
 
-Tiene Scott Alexander un [promptuario de sobre mercados de apuestas](https://www.astralcodexten.com/p/prediction-market-faq) en el que:
+Tiene Scott Alexander un [promptuario sobre mercados de predicciones](https://www.astralcodexten.com/p/prediction-market-faq) en el que:
 
 - Se declara partidario entusiasta de su uso.
-- Explica por qué son útiles: p.e., un periodista, en lugar de decir que "se cree que pasará X" puede escribir "la probabilidad de que ocurra X es del Y% según tal mercado de apuestas", enriqueciendo el debate público.
+- Explica por qué son útiles: p.e., un periodista, en lugar de decir que "se cree que pasará X" puede escribir "la probabilidad de que ocurra X es del Y% según tal mercado de predicciones", enriqueciendo el debate público.
 - Sostiene y justifica que funcionan mejor que las opiniones de los expertos.
 - Sostiene y justifica que no pueden ser (fácilmente) manipulados (en la práctica).
-- Plantea un análisis coste-beneficio más o menos implícito de de su uso.
+- Plantea un análisis coste-beneficio más o menos implícito de su uso.
 - Critica agriamente el afán de los reguladores estadounidenses por prohibirlos.
 - Explica, además, qué opciones existen para participar en ellos.
 
@@ -43,8 +43,8 @@ Por su lado, Nick Whitaker y J. Zachary Mazlish [alegan](https://worksinprogress
 - Como consecuencia, tampoco atraen a los expertos que buscan lucrarse a costa del resto de los participantes en el mercado.
 - Concluyen que es poco probable que los mercados de predicción crezcan significativamente sin subsidios.
 
-Efectivamente, Scott Alexander considera reiteradamente las externalidades positivas que generean de los mercados de apuestas. Desafortunadamente, no existe un mecanismo sencillo para que los participantes capturen una cantidad suficiente de estos como para que les compense participar en ellos. En el fondo, están de acuerdo.
+Efectivamente, Scott Alexander considera reiteradamente las externalidades positivas que generan los mercados de predicciones. Desafortunadamente, no existe un mecanismo sencillo para que los participantes capturen una cantidad suficiente de estos como para que les compense participar en ellos. En el fondo, están de acuerdo.
 
 **Coda:** Personalmente, participo en [Hypermind](https://lepoint.hypermind.com/hypermind/app.html#rewards) más como _jugador_ que como _experto_. Lo cual me permite corroborar empíricamente la bondad de los argumentos de ambas partes.
 
-**Otra coda:** En el artículo [_On the ethics of pollsters or journalists or political scientists betting on prediction markets_](https://statmodeling.stat.columbia.edu/2023/02/02/on-the-ethics-of-pollsters-or-journalists-or-political-scientists-betting-on-prediction-markets/) se discute el fenómeno de los mercados de apuestas argumentando dos cosas: 1) su pequeña utilidad y 2) los problemas éticos que puede llegar a plantear participar en ellos. Para gustos, ¡colores!
+**Otra coda:** En el artículo [_On the ethics of pollsters or journalists or political scientists betting on prediction markets_](https://statmodeling.stat.columbia.edu/2023/02/02/on-the-ethics-of-pollsters-or-journalists-or-political-scientists-betting-on-prediction-markets/) se discute el fenómeno de los mercados de predicciones argumentando dos cosas: 1) su pequeña utilidad y 2) los problemas éticos que puede llegar a plantear participar en ellos. Para gustos, ¡colores!

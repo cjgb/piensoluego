@@ -24,8 +24,8 @@ La [entrada homónima de la semana](/2024/soluciones-sin-problema/) pasada ha de
 
 - La ciencia se considera a menudo un bien público, pero su difusión y uso en la economía es problemática: las ideas no siempre son fácil ni directamente utilizables y cuesta que sean _absorbidas_ por las empresas.
 - El debate sobre si la ciencia es un bien público tiene importantes implicaciones políticas:
-    - Si la ciencia es un bien público, los subsidios a las universidades son cruciales para estimular la I+D y el crecimiento económico.
-    - Por el contrario, si el beneficio de las ideas está estrechamente ligada a su aplicación, un exceso de financiación pública en la investigación universitaria podría obstaculizar el crecimiento económico. En particular, que los científicos trabajen en las universidades en lugar de en las empresas afectar a la productividad.
+  - Si la ciencia es un bien público, los subsidios a las universidades son cruciales para estimular la I+D y el crecimiento económico.
+  - Por el contrario, si el beneficio de las ideas está estrechamente ligado a su aplicación, un exceso de financiación pública en la investigación universitaria podría obstaculizar el crecimiento económico. En particular, que los científicos trabajen en las universidades en lugar de en las empresas afecta a la productividad.
 - La expansión de las universidades y la ciencia gubernamental ha coincidido con una desaceleración de la productividad. La evidencia empírica sugiere que los motivos son:
   - El movimiento de talento fuera de las empresas hacia las universidades.
   - La reducción de la capacidad de las empresas para generar ideas y adoptar innovaciones académicas.

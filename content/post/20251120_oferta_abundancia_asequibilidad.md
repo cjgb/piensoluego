@@ -9,7 +9,7 @@ lastmod: '2025-11-22T18:02:21.528511'
 related:
 - 20250507_cortos.md
 - 20240913_precios_vivienda.md
-- 20250523_price_grouging.md
+- 20250523_price_gouging.md
 - 20220121_justo_eficiente.md
 - 20240626_cortos.md
 tags:

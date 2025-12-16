@@ -18,12 +18,13 @@ title: Sobre cómo los LLMs mitigan el problema de la comunicación asíncrona
 url: /2025/llm-conversaciones-asincronas/
 ---
 
-Esta entrada elabora en las ideas contenidas en el vídeo [_Don't Trust Me, I'm an Influencer_](https://www.youtube.com/watch?v=NCWuQIjNHak) de Sabine Hossenfelder añadiéndole un pequeño comentario.
+Esta entrada elabora sobre las ideas contenidas en el vídeo [_Don't Trust Me, I'm an Influencer_](https://www.youtube.com/watch?v=NCWuQIjNHak) de Sabine Hossenfelder añadiéndole un pequeño comentario.
 
-El vídeo discute los problemas inherentes a la comunicación ---no solo la que ocurre entre los _influencers_ y su público--- y discute tres conceptos relevantes:
+El vídeo estudia los problemas inherentes a la comunicación ---no solo la que ocurre entre los _influencers_ y su público--- y desarrolla tres observaciones:
+
 - La falta de _pistas no verbales_ en la comunicación en línea, que dificultan la interpretación.
 - La diferencia entre la comunicación síncrona y asíncrona y cómo la primera permite resolver dudas en tiempo real mientras que la segunda, no.
-- Las relaciones _parasociales_ que se establecen entre los creadores y su audiencia y cómo a veces se pueden conducir a conflictos innecesarios en los que no merece la pena involucrarse.
+- Las relaciones _parasociales_ que se establecen entre los creadores y su audiencia y cómo a veces pueden conducir a conflictos innecesarios en los que no merece la pena involucrarse.
 
 ¿Qué puedo añadir a lo anterior? Que los LLMs hoy en día desdibujan la diferencia entre la comunicación síncrona y asíncrona. Uno siempre puede interrumpir la visualización de un vídeo o la lectura de un pasaje que contienen conceptos que a uno se le escapan y pedirle aclaraciones a su experto de bolsillo.
 

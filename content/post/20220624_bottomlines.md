@@ -30,6 +30,6 @@ Planteamiento que en el 50 aniversario de la publicación del artículo fue muy 
 
 ¿Qué puede pasar de acabar popularizándose esta propuesta? Se me ocurre (y también puedo decir que he vivido en alguna ocasión):
 
-* No plantea ninguna solución o remedio al problema del cortoplacismo y sería muy _naïf_ pensar que lo resolverá como subproducto del resto de las propuestas explícitas.
+* No plantea ninguna solución o remedio al problema del cortoplacismo y sería muy naíf pensar que lo resolverá como subproducto del resto de las propuestas explícitas.
 * Agudizará el problema del principal-agente: los gestores tendrán más grados de libertad para tratar de cohonestar su gestión.
 * No están en absoluto claros los efectos de la incorporación de los indicadores ESG como objetivos de gestión en términos de la eficiencia global, etc.

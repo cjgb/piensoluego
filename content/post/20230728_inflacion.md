@@ -25,7 +25,7 @@ La idea básica es que un cambio drástico en las preferencias de los consumidor
 Respecto a los precios, eso tiene varias consecuencias:
 
 - Los televisores se encarecen: los fabricantes tienen margen para subir los precios frente al encarecimiento de sus materias primas, etc. Incluso podrían plantearse ampliar sus márgenes.
-- Las manzanas no se abaratan: si el mercado era competitivo, los fabricantes operaban con márgenes muy ajustados y frente al encarecimiento de sus materias primas (algunas, como la energía, son compartidas con los televisores), ven reducirse sus márgenes y peligrar su rentabilidad. El mercado de las manzanas se acaba ajustando no bajando precios sino capacidad, es decir, a través del cierre de algunos fabricantes.
+- Las manzanas no se abaratan: si el mercado era competitivo, los fabricantes operaban con márgenes muy ajustados y frente al encarecimiento de sus materias primas (algunas, como la energía, son compartidas con los televisores), ven reducirse sus márgenes y peligrar su rentabilidad. El mercado de las manzanas se acaba ajustando no bajando precios sino reduciendo la capacidad, es decir, a través del cierre de algunos fabricantes.
 - Globalmente, los precios suben: se encarecen los televisores y no se abaratan las manzanas.
 
 De vuelta a la economía real, es obvio que durante los últimos años hemos presenciado fenómenos de esa naturaleza:

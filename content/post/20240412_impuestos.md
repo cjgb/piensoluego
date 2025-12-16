@@ -51,4 +51,4 @@ Pero, ¿por qué llamo _ideológica_ a la definición anterior? En estas página
 
 El argumento de Locke no es claramente (1). Respecto a (2), ciertamente, se puede argumentar que sí, que está más o menos empíricamente demostrado: la gente no huyó del país ---este en el que vivo--- en masa, por ejemplo, cuando el IVA subió del 19% al 21%.
 
-Sin embargo, podrían cambiar las circunstancias. Cada día es más fácil ---e incomparablemente más que en los tiempos de Locke--- emigrar. De manera que es muy posible que eso  del "si no te gusta, te vas" pase de ser el latiguillo con el que el poder da por zanjada una discusión a un consejo muy a tener en cuenta por el apelado.
+Sin embargo, podrían cambiar las circunstancias. Cada día es más fácil ---e incomparablemente más que en los tiempos de Locke--- emigrar. De manera que es muy posible que eso del "si no te gusta, te vas" pase de ser el latiguillo con el que el poder da por zanjada una discusión a un consejo muy a tener en cuenta por el apelado.

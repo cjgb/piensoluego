@@ -39,7 +39,7 @@ El motivo está discutido hasta la saciedad en el artículo y, en resumen, consi
 
 Releyendo la entrada anterior, establecí una relación adicional entre lo que trae y una idea prestada de
 [Leo Strauss](https://en.wikipedia.org/wiki/Leo_Strauss).
-Uno de los temas de este, parece ser, fue la de la indagación de mensajes y subtextos ocultos en los escritos de autores clásicos que, tal vez, no eran del todo libres para expresar abiertamente sus opiniones. Así, Scott escribe (con mi traducción):
+Uno de los temas de este, parece ser, fue la indagación de mensajes y subtextos ocultos en los escritos de autores clásicos que, tal vez, no eran del todo libres para expresar abiertamente sus opiniones. Así, Scott escribe (con mi traducción):
 
 > La Directora de los CDC lee esos mismos documentos. Pero algún senador importante dice que si se anuncia la transmisión por aire, algunas industrias relevantes de su estado quebrarán. Ciudadanos Contra los Confinamientos argumenta que los CDC ya cometieron un error al hacer hincapié en la transmisión a través de las superficies de contacto, que más tarde se demostró que no existía [...]; algún congresista comprensivo le dice a la directora que si comete ese mismo error por segunda vez, será destituida. Uno de los documentos que afirma que la transmisión por aire es imposible proviene de Stanford, y la Directora le debe un favor al decano del departamento de epidemiología de Stanford por ayudar a obtener apoyo para una de sus políticas en alguna ocasión. Así que la Directora emite un comunicado de prensa diciendo que la evidencia no es _lo suficientemente fuerte_ como para afirmar definitivamente que la transmisión por aire ocurre y que revisarán el asunto más a fondo.
 
