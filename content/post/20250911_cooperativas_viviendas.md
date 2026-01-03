@@ -23,4 +23,4 @@ Creo que ya hablé sobre el asunto [el año pasado](/2024/cooperativas-vivienda/
 
 > En la década de 1930, gran parte de la América rural aún carecía de electricidad. Las compañías privadas se negaban a extender líneas a estas zonas porque no resultaba rentable. La Administración de Electrificación Rural (REA) del New Deal intervino, movilizó a las cooperativas locales de agricultores y logró llevar rápidamente la energía a las comunidades rurales, transformando así la vida y la economía en el campo.
 
-y se me ha ocurrido que es (por motivos obvios) y no es (por motivos también obvios) relevante para pensar acerca del problema de la vivienda en España.
+y se me ha ocurrido que es y, a un tiempo, no es relevante para pensar acerca del problema de la vivienda en España por motivos que deberían resultar enteramente obvios al lector.
