@@ -16,6 +16,7 @@ tags:
 - economía
 - política
 - libros
+- desigualdad
 title: Claves para leer "Contra la igualdad de oportunidades"
 url: /2021/critica-libro-rendueles-igualdad-oportunidades/
 ---
