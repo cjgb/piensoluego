@@ -5,7 +5,7 @@
 categories:
 - economía
 date: 2026-01-01
-description: das
+description: "Analizamos el reciente metaanálisis sobre la relación entre desigualdad económica y bienestar mental, y reflexionamos sobre la validez de cierta literatura sociológica actual."
 lastmod: '2026-01-05T12:26:45.338089'
 related:
 - 20251216_cortos.md
@@ -13,7 +13,7 @@ related:
 - 20210501_libertad_eleccion_educacion.md
 - 20220708_meritocracia.md
 - 20240605_cortos.md
-title: asdf
+title: "Desigualdad y salud mental: la evidencia científica frente al relato habitual"
 url: /2026/desigualdad-economica-no-causa-problemas-salud/
 ---
 
