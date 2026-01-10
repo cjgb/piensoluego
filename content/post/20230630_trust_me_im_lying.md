@@ -21,7 +21,7 @@ title: Confía en mí, estoy mintiendo, etc.
 url: /2023/confia-en-mi-estoy-mintiendo/
 ---
 
-Pese a la aparente contradicción, escribo para recomendar un libro que dudo en terminar de leer: _Confía en mí, estoy mintiendo; confesiones de un manipulador de medios_.
+Pese a la aparente contradicción, escribo para recomendar un libro que probablemente no termine de leer: _Confía en mí, estoy mintiendo; confesiones de un manipulador de medios_.
 
 Como casi todos los libros del género no-ficción _pop_, está muy sobrado de páginas. Con veinte o treinta de ellas, más tal vez una serie de capítulos opcionales para entretenerse con anécdotas, bastaría. La industria editorial prefiere aferrarse a la tradición que establece las dimensiones físicas mínimas de ese objeto que llamamos libro que a mantener un ratio razonable entre ideas relevantes y número de palabras. Pero ese problema endémico en todo el género no quita para que este sea un librito más recomendable que muchos otros.
 
