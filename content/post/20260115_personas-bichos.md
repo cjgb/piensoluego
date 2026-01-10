@@ -1,6 +1,6 @@
 ---
 categories:
-- economía
+- ética
 date: 2026-01-15
 description: 'Análisis sobre el sesgo en el periodismo ambiental: ¿Se prioriza la
   fauna sobre las necesidades humanas? Reflexión sobre embalses, ética y transparencia'
@@ -12,7 +12,9 @@ related:
 - 20251216_cortos.md
 - 20240119_compra_medios.md
 tags:
-- vivienda
+- medio ambiente
+- ética
+- epistemología
 title: ¿Son más importantes los bichos o personas?
 url: /2026/personas-o-bichos/
 ---
