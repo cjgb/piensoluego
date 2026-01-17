@@ -1,6 +1,6 @@
 ---
 categories:
-- varios
+- otros
 date: 2025-10-16
 description: '"La aventura de las plantas", de 1982, parece muy de hoy.'
 lastmod: '2025-10-15T19:44:24.578973'
