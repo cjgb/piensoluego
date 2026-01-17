@@ -18,9 +18,9 @@ title: El parco callejero de la adscripción ideológica
 url: /2025/adscripcion-ideologica/
 ---
 
-El municipio de Madrid mide algo más de 600 km² y cuenta con 9139 calles, plazas, etc. Si A dice estar en el número tal de la calle cual de Madrid (y no miente) es fácil tenerlo ubicado con un error de unos escasos metros. Supongamos que Madrid no tuviese sino... ¿20 plazas con nombre? Si a alguien le preguntasen dónde está, tendría problemas para identificar la ubicación. Tal vez diría "en Tirso de Molina" por ser la plaza con nombre más cercana a su ubicación, probablemente a cientos de metros de dicha plaza.
+El municipio de Madrid mide algo más de 600 km² y cuenta con 9139 calles, plazas, etc. Si A dice estar en el número tal de la calle cual de Madrid (y no miente) es fácil ubicarlo con un error de unos escasos metros. Supongamos que Madrid no tuviese sino... ¿20 plazas con nombre? Si a alguien le preguntasen dónde está, tendría problemas para identificar la ubicación. Tal vez diría "en Tirso de Molina" por ser la plaza con nombre más cercana a su ubicación, probablemente a cientos de metros de dicha plaza.
 
-Imaginemos ahora el espacio / espectro de posicionamiento político / ideológico. Madrid es bidimensional, pero este otro tiene más dimensiones todavía. Es un espacio que buscamos comprender colocando etiquetas alrededor de algunos _clústers_ más o menos reconocidos (p.e., trotskismo, paleoanarquismo, etc.).
+Imaginemos ahora el espacio / espectro de posicionamiento político / ideológico. Madrid es bidimensional, pero este otro espacio tiene muchas más dimensiones. No obstante, es un espacio que pretendemos comprender colocando etiquetas alrededor de algunos _clústers_ más o menos reconocidos (p.e., trotskismo, paleoanarquismo, etc.).
 
 A la gente se le pregunta entonces: ¿qué cosa tú eres? Y posiblemente responda con una etiqueta, una etiqueta tan precisa como la de aquel que decía estar en el Tirso de Molina del Madrid bidimensional dispersamente etiquetado.
 
