@@ -44,11 +44,9 @@ rssLimit = 20        # Only the last 20 posts
   # Bloque de presentación en la página principal
   [params.homeInfoParams]
     enabled = true
-    Title = "Pienso, luego he sobrevivido"
+    Title = "«Solo la supervivencia es necesaria; todo lo demás es contingente»"
     Content = """
 Un blog sobre política, economía, filosofía y ciencia en el que el criterio de verdad es la supervivencia del sujeto.
-
-"Solo la supervivencia es necesaria; todo lo demás es contingente."
 """
 
   [[params.socialIcons]]
