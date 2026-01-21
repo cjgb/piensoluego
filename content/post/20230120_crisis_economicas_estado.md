@@ -11,7 +11,7 @@ related:
 - 20240716_cortos.md
 tags:
 - economía
-- ciclos económicos
+- ciclo económico
 - estado
 - economía política
 - dirigismo
