@@ -21,7 +21,7 @@ title: ¿Quién (qué) pagará nuestras pensiones? Si acaso, el capital humano
 url: /2024/capital-humano-pensiones/
 ---
 
-El lector habrá encontrado escritas por ahí frases diciendo que estos o aquellos serán quienes paguen nuestras pensiones en el futuro. Sin embargo:
+El lector habrá encontrado escritas por ahí frases diciendo que estos o aquellos serán quienes pagarán nuestras pensiones en el futuro. Sin embargo:
 
 - Lo que pagará nuestras pensiones es el capital humano que seamos capaces de poner a producir.
 - El capital humano está _embebido_ en seres humanos, sí.

@@ -20,10 +20,11 @@ url: /2023/futuro-trabajo/
 Permítaseme esta entrada especulativa sobre el futuro del trabajo.
 
 Lo que argumentaré:
+
 * El problema del desempleo dejará de serlo pronto.
 * Pero tendremos muchos trabajadores _pobres_.
 
-Obdulio, en los 60, se aferraba como una lapa a la clase media. Estaba pluriempleado, cosido a _letras_ y mantenía, además de la suya, cinco bocas: las de su esposa, sus tres churrumbeles y su mamá política, recientemente enviudada. En su hogar, cada trabajador soportaba cinco inactivos que comían todos los días. Ni que decir tiene que a Obdulio apenas le quedaban recursos sobrantes ---dinero, tiempo--- para cualquier tipo de amenidad. Todo lo suyo, toda su circunstancia, era modesta.
+Obdulio, en los 60, se aferraba como una lapa a la clase media. Estaba pluriempleado, cosido a _letras_ y mantenía, además de la suya, cinco bocas: las de su esposa, sus tres churumbeles y su mamá política, recientemente enviudada. En su hogar, cada trabajador soportaba cinco inactivos que comían todos los días. Ni que decir tiene que a Obdulio apenas le quedaban recursos sobrantes ---dinero, tiempo--- para cualquier tipo de amenidad. Todo lo suyo, toda su circunstancia, era modesta.
 
 La situación a la que llevamos algunas décadas acostumbrados es de sobra conocida: unos trabajan y tienen una vida razonablemente desahogada; otros no encuentran trabajo y están en apuros. La tasa de desempleo ha oscilado, pero el paro sigue siendo uno de los principales problemas que señala la gente cuando les pregunta el CIS.
 

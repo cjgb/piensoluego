@@ -19,7 +19,7 @@ url: /2023/a-quien-favorece-la-regulacion/
 
 Es muy recomendable ver
 [_Regulation is the Friend of the Incumbent_](https://marginalrevolution.com/marginalrevolution/2023/09/regulation-is-the-friend-of-the-incumbent.html).
-En esa charla, Bill Gurley ofrece cierta visión ---que no deja de ser personal o subjetiva más que sistemática--- de a quién favorece la regulación: al _incumbente_, al que está.
+En esa charla, Bill Gurley ofrece cierta visión ---personal o subjetiva más que sistemática--- de a quién favorece la regulación: al _incumbente_, al que está.
 
 Pero no nos dice por qué, siendo como es tan sencillo de explicar.
 
