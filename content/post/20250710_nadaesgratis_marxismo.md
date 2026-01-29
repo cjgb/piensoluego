@@ -45,4 +45,4 @@ Al que podrían añadirse algunos más de otras fuentes. Por ejemplo, Jon Elster
 
 De los puntos anteriores, cuatro son esencialmente de naturaleza económica. Si hasta los filósofos han dejado ya no solo de ser marxistas sino de, incluso, prestar atención a Marx, ¿cómo es que, precisamente de entre todas las demás disciplinas académicas, haya aún economistas marxistas? ¿Cómo puede ser que, además, se les dé el micrófono de una cátedra y espacio en un blog que aspira a la excelencia? Que existiesen matemáticos, químicos o informáticos marxistas podría llegar a entenderse; pero, ¿economistas?
 
-Así que chau, NadaEsGratis. Tengo mejores usos para mi tiempo que seguir leyéndoos.
+Así que ¡_chau_, NadaEsGratis!. Tengo mejores usos para mi tiempo que seguir leyéndoos.
