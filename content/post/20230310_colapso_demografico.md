@@ -12,7 +12,7 @@ related:
 tags:
 - supervivencia
 - decadencia
-- colapso demográfico
+- crisis demográfica
 - capital humano
 - economía
 - españa

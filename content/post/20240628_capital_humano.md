@@ -16,7 +16,7 @@ tags:
 - capital humano
 - inmigración
 - natalidad
-- demografía
+- crisis demográfica
 title: ¿Quién (qué) pagará nuestras pensiones? Si acaso, el capital humano
 url: /2024/capital-humano-pensiones/
 ---

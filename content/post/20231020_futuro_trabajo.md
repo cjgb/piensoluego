@@ -12,7 +12,7 @@ related:
 tags:
 - economía
 - política
-- demografía
+- crisis demográfica
 title: El futuro del trabajo
 url: /2023/futuro-trabajo/
 ---

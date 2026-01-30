@@ -12,8 +12,8 @@ related:
 tags:
 - aborto
 - derecho
-- colapso demográfico
-- demografía
+- crisis demográfica
+- crisis demográfica
 title: ¿Cambiará el "sentir" sobre el aborto cuando arrecie la crisis demográfica?
 url: /2023/aborto-crisis-demografica/
 ---
