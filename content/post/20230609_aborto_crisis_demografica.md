@@ -22,4 +22,4 @@ Hoy en día existen leyes permisivas ---por calificarlas de alguna manera--- hac
 
 Pero es entretenido imaginar la dirección en la que pudiera pendular dicho _sentir_ en distintos escenarios y, como consecuencia de ello, en qué dirección podría virar la legislación venidera. En particular, en el momento en el que arrecie la crisis demográfica que se cierne sobre nuestras sociedades.
 
-El futuro va a ser, sin duda, entretenido.
+El futuro no va a dejar de sorprendernos, casi seguro.
