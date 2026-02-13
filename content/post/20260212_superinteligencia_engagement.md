@@ -19,7 +19,7 @@ title: Superinteligencia vs «engagement»
 url: /2026/superinteligencia-vs-engagement/
 ---
 
-Google nació, creció y en un momento dado, decidió salir a bolsa. Entonces facturaba cero euros. No estaba claro cómo iba a ganar dinero y quien compró sus primeras acciones lo hizo movido por un acto de fe. Luego pasó lo que todos conocemos.
+Google nació, creció y en un momento dado, decidió salir a bolsa. Entonces facturaba cero euros. No estaba claro cómo iba a ganar dinero y quien compró sus primeras acciones, lo hizo movido por un acto de fe. Luego pasó lo que todos conocemos.
 
 OpenAI factura algo, pero no lo suficiente. Necesita más ingresos. Está en ese _momento Google_ en el que tiene que decidir qué cosa hacer para pasar de promesa a realidad. Matt Levine, al discutir el asunto en su columna, escribió recientemente:
 

@@ -17,7 +17,7 @@ tags:
 - tiktok
 - redes sociales
 - estado del bienestar
-title: Tiktok contra el estado del bienestar
+title: TikTok contra el estado del bienestar
 url: /2025/tiktok-estado-bienestar/
 ---
 
