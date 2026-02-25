@@ -3,8 +3,8 @@ categories:
 - política
 - derecho
 date: 2022-02-25
-description: Sobre los efectos de la GDPR
-lastmod: '2025-04-06T01:38:09.658671'
+description: Sobre los perniciosos efectos de la GDPR
+lastmod: 2026-02-24
 related:
 - 20250129_cortos.md
 - 20240416_cortos.md
@@ -19,7 +19,7 @@ title: GDPR vivida
 url: /2022/gdpr-vivida/
 ---
 
-Mario Conde es abogado. Todos sabemos que pasó una temporada en la cárcel. Menos conocido es que acabó escribiendo un libro ---que, obviamente, no he leído--- con un título que dice muchas cosas: _Derecho penitenciario vivido_. Supongo que podrían escribirse muchos otros libros similares acerca de cualquier otra ley: ley orgánica de la educación (cualquiera de ellas) _vivida_, etc. Cada uno podrá traer sus propios ejemplos.
+Mario Conde es abogado. Todos sabemos que pasó una temporada en la cárcel. Menos conocido es que acabó escribiendo un libro ---que, obviamente, no he leído--- con un título que dice muchas cosas: _Derecho penitenciario vivido_. Supongo que podrían escribirse muchos otros libros similares acerca de cualquier otra ley: ley orgánica de la educación (cualquiera de ellas) _vivida_, etc. Cada uno podrá aportar sus propios ejemplos.
 
 Lo que podemos aprender del título de ese libro es que media ---o puede mediar--- una distancia considerable entre los pretendidos efectos de la ley ---frecuentemente glosados en el preámbulo en términos nada sorprendentemente optimistas de su aún no probada eficacia--- y los que se obtienen tras su entrada en vigor. (Escribe esto alguien que en 2007-2008 se ganaba la vida reescribiendo en forma de _software_ la norma internacional imperante en el momento, Basilea II, para reducir la probabilidad y mitigar el impacto de una crisis del sistema global de crédito. El colapso de Lehman Brothers lo sorprendió picando código.)
 

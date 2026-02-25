@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2023-01-27
-lastmod: '2025-04-06T01:37:25.338618'
+lastmod: 2026-02-24
 related:
 - 20220318_utilitarismo_paretianismo.md
 - 20230203_moral_nominal_vs_real.md

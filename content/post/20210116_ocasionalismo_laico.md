@@ -22,7 +22,7 @@ El [ocasionalismo](https://plato.stanford.edu/entries/occasionalism/) es una doc
 
 > Malebranche [...] negó a las criaturas todo tipo de poder causal, incluyendo los poderes intra-sustancia defendidos por Leibniz. Para Malebranche, incluso los estados internos de una criatura son meras ocasiones para que Dios genere las correspondientes transiciones entre ellos. ([Fuente](https://plato.stanford.edu/entries/occasionalism/))
 
-Todo lo que vemos, según los ocasionalistas, es el resultado de una smiríada micromilagros divinos.
+Todo lo que vemos, según los ocasionalistas, es el resultado de una miríada de micromilagros divinos.
 
 En el siglo XXI se oyen cada vez más frecuentemente voces como estas:
 
