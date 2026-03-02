@@ -15,6 +15,7 @@ tags:
 - epistemología
 - sokal
 - latour
+- posmodernismo
 title: Platón gana todas las guerras, pero Protágoras todas las batallas
 url: /2021/reconciliacion-sokal-latour/
 ---
