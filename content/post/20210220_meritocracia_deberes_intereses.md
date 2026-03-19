@@ -19,11 +19,11 @@ title: 'Meritocracia: deberes vs intereses'
 url: /2021/reflexiones-articulo-gregorio-luri/
 ---
 
-El artículo al que me refiero es [_¿La tiranía del mérito?_](https://theobjective.com/elsubjetivo/la-tirania-del-merito), de Gregorio Luri, publicado recientemente en la sección muy oportunamente denominada _elSubjetivo_ de [_TheObjective_](https://theobjective.com/). La entradilla que alguien eligió para el artículo, un breve fragmento del mismo extraído de su parte final, dice lo siguiente:
+Hoy quiero escribir sobre el artículo [_¿La tiranía del mérito?_](https://theobjective.com/elsubjetivo/la-tirania-del-merito) de Gregorio Luri, publicado recientemente en la sección muy oportunamente denominada _elSubjetivo_ de [_TheObjective_](https://theobjective.com/). La entradilla que alguien eligió para el artículo, un breve fragmento del mismo extraído de su parte final, dice lo siguiente:
 
 > Nadie es merecedor ni de su dotación genética ni de la familia que lo acoge. Precisamente por eso tenemos el deber inexcusable de la solidaridad.
 
-Se trata de una selección desafortunada porque desdice de lo que viene luego, tanto en contenido como en espíritu. El artículo, de hecho, es un breve resumen con unas mínimas pinceladas críticas ---es tan breve que no da para más--- del libro _La tiranía del mérito_ de M. J. Sandel. La frase que rescata la entradilla forma parte de una especie de silogismo incompleto e inconsistente, como una silla de dos patas, que dice así:
+Se trata de una selección desafortunada porque desdice de lo que viene luego, tanto en contenido como en espíritu. El artículo, en realidad, es un breve resumen del libro _La tiranía del mérito_ de M. J. Sandel. La frase que rescata la entradilla forma parte de una especie de silogismo incompleto e inconsistente, como una silla de dos patas, que dice así:
 
 > Es obvio que las condiciones de partida de la carrera meritocrática son claramente desiguales. Nadie es merecedor ni de su dotación genética ni de la familia que lo acoge. Precisamente por eso tenemos el deber inexcusable de la solidaridad.
 
@@ -38,10 +38,8 @@ De las premisas
 1. queremos profesionales capaces y
 2. mucha gente no tiene posibilidad de formarse
 
-no se sigue que tengamos deberes para con los segundos; se sigue, más bien, que _querremos_ darles oportunidades para que puedan convertirse en esos profesionales que necesitamos.
+no se sigue que _tengamos_ deberes para con los segundos; se sigue, más bien, que _queramos_ darles oportunidades para que puedan convertirse en esos profesionales que necesitamos.
 
-Reconozco que la diferencia entre el deber y el querer puede hacerse tan grande o pequeña como se quiera. Por ejemplo, si todos asumimos el interés por contribuir a la mejora de las oportunidades de los menos afortunados, puede haber quien se escaquee (¿cómo traducir _free-riding_ aquí?) obteniendo los beneficios pero sin contribuir a ello. Entonces, el grupo puede hacer valer su poder coercitivo convirtiendo esa preferencia en un deber y encargando a la Guardia Civil de antaño el velar por su puntual cumplimiento.
+Es cierto que si como sociedad _queremos_ brindar oportunidades a todos, tendremos que convertir ese ideal en una obligación para evitar el _free riding_ de unos cuantos. Que es una manera de reconvertir el _querer_ en _deber_. Pero es empíricamente cierto que algunos de esos que carecen hoy de oportunidades para poder convertirse en ciudadanos de provecho van a perseverar contumazmente en el chabolismo. ¿En qué momento, entonces, se suspende la _obligación_?
 
-Por otro lado, una diferencia entre ambas aproximaciones radica en que desde la perspectiva del querer, a aquel que contumazmente malbaratase las posibilidades de ascenso social que se le proporcionasen, no habría por qué obstaculizarle su voluntario despeñamiento hacia el chabolismo. Pero como si eso no ocurriese incluso después de décadas de esa onerosa _guerra contra la pobreza_ que tanto nos cuesta dar por perdida y entregar armas y bagajes en una rendición oportuna.
-
-Creo en todo caso que las posiciones son claras y las consecuencias tanto lógicas como prácticas de una y otra postura también. Así que solo me queda decir que estoy sumamente sorprendido de que la conclusión a la que llega el autor de aquel artículo sea mucho más popular, casi un lugar común, que la que aquí señalo.
+Creo en todo caso que las posiciones de las posturas del _querer_ y del _deber_ son claras y las consecuencias tanto lógicas como prácticas de una y otra postura también. Por eso no está de más señalarlas.
