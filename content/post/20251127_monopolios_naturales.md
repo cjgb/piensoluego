@@ -26,6 +26,6 @@ url: /2025/globalizacion-monopolios/
 
 La lectura de [_How ASML Got EUV_](https://www.construction-physics.com/p/how-asml-got-euv) me hizo preguntarme: ¿cuántos fabricantes de dispositivos EUV para la fabricación de _chips_ avanzados caben en el mundo?
 
-La economía global es demasiado pequeña para sostener a cinco ASMLs compitiendo entre sí. Y los marcianos desoyen nuestras solicitudes de integración comercial. Algo habrá que hacer.
+La economía global es demasiado pequeña para sostener a cinco ASMLs compitiendo entre sí. Además, los marcianos desoyen nuestras solicitudes de integración comercial. Algo habrá que hacer.
 
 **Coda:** Me pregunto cuántos otros servicios y productos, presentes o futuros, tendrán características similares a las de la tecnología EUV. Es decir, que sean tan sofisticados y tengan un mercado tan de nicho que sean el equivalente global a nuestro fabricante inicial de maletas en su economía pequeña y cerrada.
