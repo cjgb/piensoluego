@@ -25,7 +25,7 @@ Nótese cómo los avances más notables ---o, si se prefiere, más conocidos--- 
 
 Y esos son solo los _directamente_ perjudicados. Indirectamente, también lo son otros actores establecidos cuyo negocio, descrito en términos abstractos, se reduce a manipular información textual: bufetes de abogados, universidades, etc.
 
-La petición de una regulación ---como se la prevé-- asfixiante para _la IA_ es indistinguible de una práctica anticompetitiva y muchos de los que la defienden no dejan de ser los tontos útiles de cuatro avispados.
+La petición de una regulación ---como se la prevé--- asfixiante para _la IA_ es indistinguible de una práctica anticompetitiva y muchos de los que la defienden no dejan de ser los tontos útiles de cuatro avispados.
 
 ## Coda
 
