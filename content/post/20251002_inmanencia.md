@@ -16,7 +16,7 @@ tags:
 - sociología
 - libros
 title: Víctor Lapuente ha escrito "Inmanencia"
-url: /2025/desintermediacion-cooperacion/
+url: /2025/inmanencia/
 ---
 
 El otro día asistí a una charla de Víctor Lapuente en la Fundación Rafael del Pino. Como advirtió el ponente, no tenía un único arco argumental, pero uno de los más evidentes era:

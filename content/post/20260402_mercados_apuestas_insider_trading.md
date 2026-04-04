@@ -1,6 +1,6 @@
 ---
 categories:
-- política
+- economía
 date: 2026-04-02
 description: El uso de la información privilegiada está perseguido en los mercados
   financieros, pero hay argumentos poderosos para fomentar su uso en los mercados
