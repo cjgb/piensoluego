@@ -28,6 +28,6 @@ La RAE define _entimema_ así:
 
 En el artículo citado, ocurre lo mismo: se sobreentiende una premisa fundamental: que esos jóvenes a los que apela van a quedarse en España y que largarse no es una opción.
 
-Pero flaco servicio le hace el artículo a la chavalada ocultando una de las opciones que individualmente más le pueden convenir al público que pueda haber leído la entrada: plantearse la opción de ir a trabajar a un lugar más grato, donde gane más dinero, donde puedan alcanzar sus objetivos vitales más fácilmente, donde se promueva el ahorro y donde, además, en concreto, exista un sistema de pensiones de capitalización y no de reparto.
+Pero flaco servicio le hace el artículo a la chavalada ocultando una de las opciones que individualmente más le pueden convenir al público que pueda haber leído la entrada: plantearse la opción de ir a trabajar a un lugar más grato, donde gane más dinero, donde pueda alcanzar sus objetivos vitales más fácilmente, donde se promueva el ahorro y donde, además, en concreto, exista un sistema de pensiones de capitalización y no de reparto.
 
 En fin, pura ideología disfrazada.
