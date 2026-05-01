@@ -22,3 +22,5 @@ Esta entrada es producto de una breve _iluminación_ ocurrida mientras leía un 
 Pero de poco les va a servir a los técnicos cuando se enfrenten ---por fijar ideas, como en Asturias--- al problema contrario: cómo ir achicando.
 
 Se hace necesaria una literatura alternativa que nos explique cómo ir cerrando escuelas y hospitales, demoliendo barriadas, clausurando núcleos de población, desmantelando infraestructuras, etc., de una manera eficiente.
+
+**Coda:** Tiempo después, [he recogido](/2026/cortos-65-vivienda/) un artículo sobre los problemas técnicos concretos que presenta el decrecimiento ilustrados con lo que ocurre con unos villorrios del Japón profundo.

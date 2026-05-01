@@ -23,7 +23,7 @@ Hoy he tenido una discusión sobre las _intuiciones morales_ como fundamento de 
 
 Me parece relevante dejar aquí escrita una serie de contraargumentos al respecto. En primer lugar, las intuiciones morales tienen mucho más de fisiológico que de racional. Hay un mecanismo físico ---¿hormonal?--- que se activa en presencia de aquellas ---¿todas? ¿solo algunas? ¿dependiendo del contexto?--- coyunturas que solicitan un juicio moral: frecuentemente _sentimos algo en el estómago_, se nos humedecen los ojos, etc.
 
-Podría seguir argumentando alrededor de lo deslizante que se vuelve el terreno cuando uno quiere construir un sistema moral alrededor de puros mecanismos endocrinos. Pero quiero centrarme en únicamente un aspecto.
+Podría seguir argumentando alrededor de lo deslizante que se vuelve el terreno cuando uno quiere construir un sistema moral alrededor de puros mecanismos endocrinos. Pero quiero centrarme únicamente en un aspecto.
 
 El ser humano, como indico arriba, está dotado de un mecanismo físico, fisiológico, interpretable como _respuesta moral_ a cierto tipo de reflejos de la realidad circundante tal cual los perciben los sentidos. Podíamos pensar en esa función como en un sensor abierto al exterior, difícil de _desconectar_ absolutamente, siempre en modo _on_.
 
