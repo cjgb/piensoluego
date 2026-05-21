@@ -18,7 +18,7 @@ title: Ocasionalismo laico
 url: /2021/ocasionalismo-laico/
 ---
 
-El [ocasionalismo](https://plato.stanford.edu/entries/occasionalism/) es una doctrina filosófica que no encuentra otra solución a que las cosas ocurran que la acción contante de Dios causándolas:
+El [ocasionalismo](https://plato.stanford.edu/entries/occasionalism/) es una doctrina filosófica que no encuentra otra solución a que las cosas ocurran que la acción constante de Dios causándolas:
 
 > Malebranche [...] negó a las criaturas todo tipo de poder causal, incluyendo los poderes intra-sustancia defendidos por Leibniz. Para Malebranche, incluso los estados internos de una criatura son meras ocasiones para que Dios genere las correspondientes transiciones entre ellos. ([Fuente](https://plato.stanford.edu/entries/occasionalism/))
 
