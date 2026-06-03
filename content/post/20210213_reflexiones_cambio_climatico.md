@@ -28,7 +28,7 @@ En esta entrada voy a volcar una serie de reflexiones sobre el cambio climático
 
 No obstante, mis convicciones están sembradas de _caveats_ de las que quiero dar cuenta aquí.
 
-### I.
+### I
 
 La actividad humana ejerce presión sobre un sistema complejo, el sutil tejido de equilibrios medioambientales, y qué duda cabe que con efectos tanto esperados como inesperados. La ciencia trata de medirlos y proyectar su previsible evolución futura. Nos advierte además de cuáles pueden ser las consecuencias, sobre todo las más perniciosas; porque, ténganse muy en cuenta, _cambio_ ---climático o de otra naturaleza--- es solo cambio, un movimiento hacia lo distinto, sea este mejor o peor. Entendiéndose por _mejor_/_peor_  lo que frecuentemente se olvida: que son etiquetas que se asignan como resultado de un problemático promedio de los impactos, seguro que asimétricos, sobre los agentes involucrados.
 
@@ -38,7 +38,7 @@ Cierto que la ciencia del cambio climático es compleja. Estudia una causa que p
 
 Mal servicio se le hace a la causa de la ciencia en estos tiempos de rampante escepticismo.
 
-### II.
+### II
 
 El segundo de los problemas asociados al estudio científico del cambio climático tiene que ver con el entrecruzamiento con la dimensión política del asunto y, en particular, por la manera en que ha tomado partido más allá de sus competencias naturales.
 
@@ -50,7 +50,7 @@ El tema del cambio climático, más allá de las cuestiones meramente científic
 
 Aquí la opinión del autor es clara: es perfectamente racional dar la razón a la ciencia en términos de la descripción de lo que está ocurriendo y es perfectamente racional al mismo tiempo hacerle caso omiso a la hora de tomar decisiones al respecto dependiendo del contexto de cada uno. De otra manera no funcionaría el chiste de aquel condenado a muerte que soplaba la espuma de la cerveza que le había sido concedida como último deseo porque _era mala para el hígado_.
 
-### III.
+### III
 
 Pero eso en cuanto a los individuos, cuyo horizonte temporal es finito. Pero los estados aspiran a sobrevivir a perpetuidad: ¿en qué constitución se prevé la disolución del estado como si fuese este una especie de contrato al uso (de alquiler, laboral, etc.)?
 
@@ -58,7 +58,7 @@ En este caso concreto, da la impresión de que los estados han optado por jugar 
 
 Queda por ver si podrán implementar esos compromisos a la vista de revueltas tales como la de los chalecos amarillos en Francia u otras que jalonan el corto y proceloso periodo de implementación de medidas de fiscalidad medioambiental; o la disciplina del mercado (y la misma fragilidad de los ecosistemas económicos) cuando se pretendan sustituir unos combustibles ya existentes por otros verdes mucho más caros ---piénsese en el hidrógeno verde---, etc.
 
-### IV.
+### IV
 
 Las consecuencias de todo lo anterior son tres:
 
@@ -66,7 +66,6 @@ Las consecuencias de todo lo anterior son tres:
 * Una deslegitimización de la ciencia, que pasa de ser un instrumento neutral de conocimiento a convertirse una vez más en un instrumento de legitimación de determinadas decisiones políticas.
 * Una polarización creciente alrededor de dos racionalidades enfrentadas: la racionalidad científica por un lado y, por el otro, la racionalidad ética del sujeto de carne y hueso en unos términos análogos a los descritos por J.C. Scott en [_Seeing Like a State_](https://en.wikipedia.org/wiki/Seeing_Like_a_State).
 
-
 ### Coda
 
-A los pocos días de publicado lo anterior se dio a conocer el artículo [_The Economic Geography of Global Warming_](https://www.nber.org/system/files/working_papers/w28466/w28466.pdf) que amplía varios de los puntos discutidos más arriba en un espíritu similar. El lector impaciente encontrará un breve resumen que recoge los puntos más relevantes del artículo [aquí](https://marginalrevolution.com/marginalrevolution/2021/02/the-economic-geography-of-global-warming.html).
+A los pocos días de publicado lo anterior se dio a conocer el artículo [_The Economic Geography of Global Warming_](https://www.nber.org/system/files/working_papers/w28466/w28466.pdf) que amplía varios de los puntos discutidos más arriba en un espíritu similar. El lector impaciente encontrará un breve resumen suyo [aquí](https://marginalrevolution.com/marginalrevolution/2021/02/the-economic-geography-of-global-warming.html).

@@ -19,7 +19,7 @@ url: /2023/cambio-incentivos-twitter/
 
 Dizque las redes sociales tienen éxito por su carácter adictivo: se ha escrito mucho al respecto y no merece la pena abundar en ello. Las redes sociales, además, son muy _democráticas_: un clic, un voto; tanto da el de Agamenón como el de su porquero. El clic ---o la impresión, para el caso---, además, está sumamente devaluado por dos motivos: que hay muchos y que la tecnología no es capaz de discriminar satisfactoriamente; de hecho, la tecnología es prácticamente incapaz de separar humanos de _bots_.
 
-La combinación de esos ingredientes resulta en un sistema de incentivos de una de cuyas consecuencias indeseables se habló indirectamente el otro día [aquí](/2023/confia-en-mi-estoy-mintiendo).
+La combinación de esos ingredientes resulta en un sistema de incentivos muy particular. De una de sus consecuencias indeseables se habló indirectamente el otro día [aquí](/2023/confia-en-mi-estoy-mintiendo).
 
 ¿Qué ocurre si una red social encarece los clics? Pueden darse dos escenarios:
 

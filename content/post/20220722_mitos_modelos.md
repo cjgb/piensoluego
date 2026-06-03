@@ -25,4 +25,4 @@ Dicen que [dijo G. Box](https://www.lacan.upc.edu/admoreWeb/2018/05/all-models-a
 
 > All models are wrong, but some are useful.
 
-¿NO vienen a decir, en el fondo, lo mismo?
+¿No vienen a decir, en el fondo, lo mismo?

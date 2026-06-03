@@ -19,7 +19,7 @@ url: /2024/soluciones-sin-problema/
 
 Lo *normal* es que exista o aparezca un problema y que se le busque una solución. En el mundo de la tecnología, de vez en cuando, sucede lo contrario: aparece una solución y el *problema* consiste en encontrar un problema que resuelva.
 
-(El motivo pudiera ser que la tecnología es _tan barata_ que permite implementar cualquier ocurrencia. Además de que algunas de estas soluciones con problema han acabado encontrándolo y haciendo de oro a sus promotores e inversores.)
+(El motivo pudiera ser que la tecnología es _tan barata_ que permite implementar cualquier ocurrencia. Además de que algunas de estas soluciones sin problema han acabado encontrándolo y haciendo de oro a sus promotores e inversores.)
 
 En su entrada *[Citas: Substack, Pontegadea y Francina Armengol](https://derechomercantilespana.blogspot.com/2024/01/citas-substack-pontegadea-y-francina.html)*, el autor, Jesús Alfaro, argumenta sobre Substack al hilo de una publicación previa de Scott Alexander. Su argumento es que Substack no es una solución idónea para el problema que tienen muchos blogueros y sugiere que acabará fracasando.
 
