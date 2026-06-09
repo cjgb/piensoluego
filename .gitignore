@@ -1,4 +1,5 @@
 .vscode
+.wrangler
 .hugo_build.lock
 content/paginas/por_etiqueta.md
 content/paginas/por_fecha.md
