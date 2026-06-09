@@ -26,7 +26,7 @@ En esta entrada voy a volcar una serie de reflexiones sobre el cambio climático
 * Soy de los que dan por buena la evidencia científica acerca de ciertos cambios, casi seguro debidos a la acción del hombre, tales como el aumento global de las temperaturas.
 * Tengo cierta querencia por el [_principio de precaución_](https://www.fooledbyrandomness.com/climateletter.pdf) tanto en este como en muchas otras coyunturas en que es de aplicación.
 
-No obstante, mis convicciones están sembradas de _caveats_ de las que quiero dar cuenta aquí.
+No obstante, mis convicciones están sembradas de _caveats_ de los que quiero dar cuenta aquí.
 
 ### I
 

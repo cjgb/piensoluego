@@ -39,3 +39,7 @@ Pero estamos más o menos de acuerdo en que citar anécdotas no demuestra nada. 
 > En resumen: si podemos ver que una idea va a ser importante, probablemente haya una buena probabilidad de descubrimientos independientes múltiples, lo que introduce cierta redundancia. Pero en todos los demás casos, no hay garantías.
 
 Ergo...
+
+## Coda
+
+Tiempo después de escrito lo anterior quise añadir la siguiente reflexión. El sistema actual de innovación, seal el que fuere, está en gran medida condicionado por la estructura de incentivos. Así visto, el texto analizado es un tanto paradójico. Por un lado, alega que el sistema parece diseñado para premiar a los creadores individuales, pero, por el otro, que tales no existen. ¿No debería ocurrir lo contrario?
