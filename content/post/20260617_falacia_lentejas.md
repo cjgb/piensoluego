@@ -1,10 +1,10 @@
 ---
 categories:
-- economía
+- epistemología
 date: 2026-06-17
 description: Sobre la tendencia a interpretar cualquier interés, análisis o distanciamiento
   respecto a una idea como evidencia de una simpatía secreta hacia ella.
-lastmod: '2026-06-11T16:07:22.832811'
+lastmod: '2026-06-11T18'
 related:
 - 20250611_cortos.md
 - 20260423_scott_alexander.md
@@ -13,6 +13,8 @@ related:
 - 20250606_anecdotas_discursos.md
 tags:
 - epistemología
+- falacias
+- scott alexander
 title: La falacia del «no me gustan las lentejas»
 url: /2026/falacia-no-me-gustan-las-lentejas/
 ---
