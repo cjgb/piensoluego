@@ -4,7 +4,7 @@ categories:
 date: 2026-06-17
 description: Sobre la tendencia a interpretar cualquier interés, análisis o distanciamiento
   respecto a una idea como evidencia de una simpatía secreta hacia ella.
-lastmod: '2026-06-11T18'
+lastmod: '2026-06-11'
 related:
 - 20250611_cortos.md
 - 20260423_scott_alexander.md
