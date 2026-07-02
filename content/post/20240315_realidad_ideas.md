@@ -3,6 +3,7 @@ categories:
 - filosofía
 date: 2024-03-15
 lastmod: '2025-04-06T01:38:00.948359'
+noindex: true
 related:
 - 20220422_rawls_ortega.md
 - 20201228_sobre_la_supervivencia.md
@@ -12,8 +13,7 @@ related:
 tags:
 - filosofía
 - ortega
-title: '"Claro es que la realidad posee dureza sobrada para resistir los embates de
-  las ideas."'
+title: '"Claro es que la realidad posee dureza sobrada para resistir los embates de las ideas."'
 url: /2024/realidad-ideas/
 ---
 
