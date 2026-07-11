@@ -25,7 +25,7 @@ Para aquel niño resultaba asombroso tener que pagar ---¿me suenan unas doscien
 
 * La autopista fue construida por una empresa
 * A cambio de su construcción, el estado le permitía cobrar por su uso durante unos años.
-* Al térmimo de ese plazo, la autopista revertiría al estado y sería gratuita.
+* Al término de ese plazo, la autopista revertiría al estado y sería gratuita.
 
 Esa fue para ese niño la imagen del progreso: progresar es, al fin y al cabo, volverse rentista. Del esfuerzo acumulado a lo largo de una serie de años durante los que es necesario pagar un peaje, se deriva la recompensa del uso gratuito a perpetuidad.
 

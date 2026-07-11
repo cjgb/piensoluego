@@ -26,7 +26,7 @@ En él discute cómo investigar esas cosas en las que uno _cree_ a través de la
 
 > Creo que estas investigaciones consumen demasiado tiempo y es impráctico confiar en ellas por defecto. Aunque creo que son muy útiles para crear intuiciones sobre en quién, cuándo, sobre qué temas y por qué confiar.
 
-El terraplanismo y otras _anomalías epistemológicas_ pueden entenderse como versiones un poco caricaturescas de esa pulsión a no creer otra cosa que [la que se ve y toca](https://es.wikipedia.org/wiki/Incredulidad_de_Tom%C3%A1s):
+El terraplanismo y otras _anomalías epistemológicas_ pueden entenderse como versiones un poco caricaturescas de esa pulsión a no creer otra cosa que [la que se ve y se toca](https://es.wikipedia.org/wiki/Incredulidad_de_Tom%C3%A1s):
 
 > Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré.
 
