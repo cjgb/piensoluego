@@ -28,6 +28,6 @@ Pero mi inapetencia por el chascarrillo cotidiano tiene mucho que ver con el hec
 
 En resumen, el lector atento descubrirá cómo cada vez vamos siendo menos ---aunque el vaciamiento no ocurra homogéneamente en lo geográfico--- y cómo comienzan a escasear, precisamente, los mejores: médicos, etc.
 
-El problema, ahora incipiente, se volverá mucho más serio en unos años, en un par de décadas. En particular, la gente más preparada huirá de España: el país se está volviendo cada vez más hostil hacia ellos. Se irán porque vida solo hay una y los héroes y los santos son los menos por definición.
+El problema, ahora incipiente, se volverá mucho más serio en unos años, en un par de décadas. En particular, la gente más preparada huirá de España: el país se está volviendo cada vez más hostil hacia ella. Se irán porque vida solo hay una y los héroes y los santos son los menos por definición.
 
 Teruel (o Soria, o Asturias) es a España lo que España será a Occidente en no mucho.

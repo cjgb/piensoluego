@@ -18,7 +18,7 @@ title: 'Spiegelhalter sobre beber vs conducir: una puntualización'
 url: /2022/spiegelhalter-beber-conducir/
 ---
 
-Hace unos años, se realizó un estudio extenso sobre los riesgos del consumo de alcohol que fue recogido en los medios con titulares alarmantes sobre cómo incluso consumos minúsculos representan un riesgo para la salud. No es sitio este para entrar en la forma y en el fondo del debate. Solo quiero analizar bajo la perspectiva propia de estas páginas unas declaraciones de
+Hace unos años, se realizó un estudio extenso sobre los riesgos del consumo de alcohol que fue recogido en los medios con titulares alarmantes sobre cómo incluso consumos minúsculos representan un riesgo para la salud. No es sitio este para entrar en la forma y en el fondo del debate. Solo quiero analizar desde la perspectiva propia de estas páginas unas declaraciones de
 [David Spiegelhalter](https://es.wikipedia.org/wiki/David_Spiegelhalter)
 al respecto recogidas en
 [_No safe level of alcohol consumption, major study concludes_](https://www.independent.co.uk/news/health/alcohol-drinking-no-safe-level-health-heart-disease-cancer-study-a8505181.html). En dicho artículo afirma que (con mi traducción):

@@ -34,7 +34,7 @@ El problema de la energía nuclear es que es incapaz de producir el tipo de ener
 Termino con un ejercicio enteramente potestativo para el lector:
 
 1. Obténgase una copia electrónica del [libro pro-nuclear más famoso que circula actualmente](https://www.goodreads.com/book/show/51103229-la-energ-a-nuclear-salvar-el-mundo).
-2. Búsquese en él las (muy escasas ocurrencias de las palabras) _dólar_, _euro_ o _coste_.
+2. Búsquense en él las (muy escasas) ocurrencias de las palabras _dólar_, _euro_ o _coste_.
 3. Léanse las líneas que las rodean.
 
 _[Nota final: la imagen que adorna esta entrada es la interpretación de DALL·E de un neutrón impactando a alta velocidad una hipotética partícula con forma de símbolo del dólar dorado.]_

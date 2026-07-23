@@ -28,7 +28,7 @@ los motivos detrás de la creación del nuevo Observatorio de Beneficios Empresa
 
 Hay que decir al respecto que el motivo _oficial_ es estudiar los márgenes empresariales para sustentar en datos las negociaciones salariales, una cuestión relacionada solo tangencialmente con la _greedflation_, pero lo que percibe en ocasiones el público es lo que deja entrever más o menos capciosamente el articulista.
 
-Es cierto que los precios suben porque los suben las empresas: son estas las que asumen la labor social de fijar los precios de las cosas. Pero no menos cierto que modificar los precios es una tarea aburrida y costosa: hay que pasar horas delante del escandallo, editar los catálogos, reetiquetar los productos, reimprimir los menús, editar la página web, explicárselo a los clientes, etc. Y no está exenta de riesgos: nunca se sabe cómo van a reaccionar los clientes a esos cambios.
+Es cierto que los precios suben porque los suben las empresas: son estas las que asumen la labor social de fijar los precios de las cosas. Pero no es menos cierto que modificar los precios es una tarea aburrida y costosa: hay que pasar horas delante del escandallo, editar los catálogos, reetiquetar los productos, reimprimir los menús, editar la página web, explicárselo a los clientes, etc. Y no está exenta de riesgos: nunca se sabe cómo van a reaccionar los clientes a esos cambios.
 
 Decir que las empresas pueden _fijar precios_ es como decir que los mosquitos transmiten enfermedades (solo una minúscula fracción de ellos lo hacen) o que los [censurado] son todos delincuentes. Prueba de ello es que existe una estrategia de inversión que recibe particular interés en épocas de alta inflación que consiste en buscar empresas con poder de fijación de precios. Y no, no son _todas_: son solo unas cuantas empresas en una serie de sectores muy concretos las que tienen cierto poder efectivo en ese sentido. Por ejemplo, se lee
 [aquí](https://www.bolsamania.com/noticias/mercados/poder-fijacion-precios-estos-sectores-lideraran-mercado-segun-credit-suisse--7988858.html):
@@ -39,4 +39,4 @@ Decir que las empresas pueden _fijar precios_ es como decir que los mosquitos tr
 
 Es decir, hay que hilar muy fino para encontrar esas empresas que están verdaderamente preparadas para navegar periodos de inflación alta. Muchas de ellas, sin embargo, preferirían sin duda vivir en el _statu quo_.
 
-En cuanto al _greedflation_, digamos que es el resultado de confundir lo excepcional con lo normal.
+En cuanto a la _greedflation_, digamos que es el resultado de confundir lo excepcional con lo normal.

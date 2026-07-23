@@ -4,7 +4,7 @@ categories:
 date: 2026-06-24
 description: La tesis es que lo que llamamos libre albedrío es el resultado de la
   dommesticación evolutiva de la aleatoriedad inherente a los sistemas complejos.
-lastmod: '2026-06-18T12:57:36.746496'
+lastmod: '2026-07-21'
 related:
 - 20220108_disidencia.md
 - 20220429_demora_publicacion_ley.md
@@ -33,7 +33,7 @@ Claro está, no vamos a negar la causalidad. Tampoco que un sujeto externo pueda
 
 ## Eliminar vs domesticar la aleatoriedad
 
-Generalmente, los sistemas complejos tienden a mostrar patrones aleatorios. En muchos de ellos, tal comportamiento es indeseable y se dedican grandes esfuerzos a tratar de eliminarlos.
+Generalmente, los sistemas complejos tienden a mostrar patrones aleatorios. En muchos de ellos, tal comportamiento es indeseable y, como se indica arriba, sus diseñadores se esfuerzan por eliminarlos.
 
 También lo hacen en gran medida esos sistemas complejos que son los seres vivos de la mano de ese diseñador suyo que es la adaptación evolutiva.
 
