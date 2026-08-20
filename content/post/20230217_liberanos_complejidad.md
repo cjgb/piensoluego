@@ -17,13 +17,13 @@ title: Y libéranos de toda complejidad. Amén.
 url: /2023/liberanos-complejidad/
 ---
 
-Una de las funciones menos publicitadas de los estados ---y una de las que, por falta de énfasis y transparencia, menos eficazmente realizan--- es la de liberarnos de un porcentaje sustancial de la complejidad del mundo.
+Una de las funciones menos publicitadas de los estados ---y una de las que, por falta de énfasis y transparencia, menos eficazmente realizan--- es la de liberarnos de una parte sustancial de la complejidad del mundo.
 
-El mundo es complejo y cada individuo tiene una capacidad limitada para evaluarla, procesarla y tomar las decisiones adecuadas. ¿Es pan realmente esto que contiene una barra? ¿Estará hueco por dentro este multímetro que me ofrecen? ¿Tendrá realmente 256 GB de memoria este pincho? ¿Es adecuado el programa lectivo de esta escuela para mis críos? ¿Contiene metales pesados la pintura de este juguete?
+El mundo es complejo y cada individuo tiene una capacidad limitada para evaluarlo, procesarlo y tomar las decisiones adecuadas. ¿Es pan realmente esto que contiene una barra? ¿Estará hueco por dentro este multímetro que me ofrecen? ¿Tendrá realmente 256 GB de memoria este pincho? ¿Es adecuado el programa lectivo de esta escuela para mis críos? ¿Contiene metales pesados la pintura de este juguete?
 
-Es imposible resolver por nosotros mismos estas cuestiones. Necesitamos una institución con tanques que dicte y haga cumplir determinadas normas. [Por mucho que les duela a los enemigos más empedernidos de ese tipo de organizaciones armadas](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/).
+Es imposible resolver todas estas cuestiones por nosotros mismos. No porque sean particularmente difíciles, sino porque son muchísimas. Necesitamos una institución con tanques que dicte y haga cumplir determinadas normas [por mucho que les duela a los enemigos más empedernidos de ese tipo de organizaciones armadas](https://slatestarcodex.com/2017/02/22/repost-the-non-libertarian-faq/).
 
-Eso sí, hay que distinguir casas y casos y hay que evaluar las normas dirigidas a reducir la complejidad del mundo por, precisamente, su eficacia al respecto.
+Eso sí, hay que distinguir casas y casos y hay que evaluar las normas dirigidas a reducir la complejidad del mundo por, precisamente, su eficacia.
 
 Existen sectores en los que, en este sentido, la intervención del estado es prácticamente innecesaria. Por ejemplo, una institución privada, el
 [_Bluetooth Special Interest Group_](https://es.wikipedia.org/wiki/Bluetooth_Special_Interest_Group),
@@ -35,4 +35,4 @@ Por otro lado, existen marcas con una visibilidad y sometidas a un escrutinio ta
 
 Pero, de nuevo, aunque la lista pudiera ser sustancial, quedaría demasiado corta en términos de la potencial cuota de mercado de sus integrantes dentro del universo de bienes consumidos. Sería conveniente para todos que ciertas organizaciones pudieran optar a quedarse fuera de las regulaciones habituales, pero contraproducente aspirar a eliminarlas todas.
 
-Eso sí, allí donde el estado actuase para reducir la complejidad de lo que existe, debería pedírsele cuentas en términos de su eficacia en dicho sentido. Y no, simplemente, echar mano del argumento de la complejidad para justificar una simple extensión del poder coercitivo del estado.
+Eso sí, allí donde el estado actuase para reducir la complejidad de lo que existe, debería pedírsele cuentas en términos de su eficacia en dicha materia. Y no, simplemente, echar mano del argumento de la complejidad para justificar una simple extensión del poder coercitivo del estado.

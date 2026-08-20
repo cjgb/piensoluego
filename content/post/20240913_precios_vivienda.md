@@ -2,7 +2,8 @@
 categories:
 - economía
 date: 2024-09-13
-lastmod: '2025-04-06T01:37:55.921183'
+description: Los sobrecostes de la vivienda impulsan la construcción de viviendas caras y deprimen el de las baratas.
+lastmod: '2026-08-20'
 related:
 - 20230728_inflacion.md
 - 20250129_cortos.md
@@ -32,14 +33,14 @@ Pero creo que tal vez el teorema de Alchian-Allen pueda arrojar cierta luz sobre
 > - Efecto: Esto conduce a un aumento en la demanda del bien de mayor calidad en relación con el de menor calidad en los mercados donde se aplica el costo fijo.
 > - Ejemplo: Consideremos dos tipos de manzanas - de alta calidad y de baja calidad. Si hay un costo fijo de transporte para enviarlas a un mercado distante:
 >   - Mercado local:
->       - Manzanas de alta calidad: 2€
->       - Manzanas de baja calidad: 1€
->       - Relación de precios: 2:1
+>     - Manzanas de alta calidad: 2€
+>     - Manzanas de baja calidad: 1€
+>     - Relación de precios: 2:1
 >
 >   - Mercado distante (con 0,50€ de costo de envío):
->       - Manzanas de alta calidad: 2,50€
->       - Manzanas de baja calidad: 1,50€
->       - Relación de precios: 1,67:1
+>     - Manzanas de alta calidad: 2,50€
+>     - Manzanas de baja calidad: 1,50€
+>     - Relación de precios: 1,67:1
 >
 >   El precio relativo de las manzanas de alta calidad disminuye en el mercado distante, potencialmente aumentando su demanda.
 >

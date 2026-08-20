@@ -2,7 +2,8 @@
 categories:
 - otros
 date: 2023-11-10
-lastmod: '2025-04-06T01:38:34.431709'
+description: Una sugerencia de nuevas "festividades" asociadas a las actividades económicas de hoy en día.
+lastmod: '2026-08-20'
 related:
 - 20221209_cambios_tecnologicos.md
 - 20230331_estado_backups.md
@@ -16,9 +17,9 @@ title: ¿El día del cambio de proveedor de servicios?
 url: /2023/dia-cambio-proveedor-servicios/
 ---
 
-Antaño, el calendario marcaba algunos festivos asociados a celebraciones diversas en los que proponían determinadas liturgias. Muchos de esos festivos estaban asociados a fenómenos relativos al ciclo de las cosechas, a la vida económica de entonces. En ocasiones se revestían de significado religioso; en otras no ---o no tanto---.
+Antaño, el calendario marcaba algunos festivos asociados a celebraciones diversas en los que se proponían determinadas liturgias. Muchos de esos festivos estaban asociados a fenómenos relativos al ciclo de las cosechas, a la vida económica de entonces. En ocasiones se revestían de significado religioso; en otras no (o no tanto).
 
-Aún se celebran hoy, aunque la vida moderna haya convertido en irrelevante su intención última: cosechas, vendimias, solsticios,... ¡tanto da!
+Aún se celebran hoy, aunque la vida moderna haya convertido en irrelevante su intención primera: cosechas, vendimias, solsticios,... ¡tanto da!
 
 Pero la vida económica no ha desaparecido: solo se ha transformado. Ya no importan las vendimias tanto como, por ejemplo, mantener los _backups_ de nuestra información funcionando adecuadamente. Para fomentar la observancia de tal precepto se ha instituido ---siempre me he preguntado por quién y bajo qué autoridad--- el [día internacional de la copia de seguridad](https://www.datanalytics.com/2023/03/30/dia-internacional-copia-seguridad/).
 

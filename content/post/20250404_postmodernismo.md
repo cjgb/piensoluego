@@ -2,7 +2,8 @@
 categories:
 - filosofía
 date: 2025-04-04
-lastmod: '2025-05-11T17:44:51.518991'
+description: En tanto que valora más lo que se predica de las cosas que lo que ellas son realmente.
+lastmod: '2026-08-20'
 related:
 - 20210123_sokal_latour.md
 - 20201228_sobre_la_supervivencia.md
@@ -26,7 +27,7 @@ Así las cosas, me habría convertido en otro crítico más del movimiento posmo
 
 ¿Cómo entiendo yo el posmodernismo? Como la filosofía del funcionario (podría haber elegido la palabra _burócrata_, pero usaré funcionario en lo que sigue). Para el funcionario lo que el mundo sea realmente es irrelevante. Él ve normas y reglamentos, discursos. En su día a día de la covachuela, ve circular discursos en todas direcciones: solicitudes, resoluciones, circulares, etc. totalmente autorreferenciales y con una muy problemática vinculación con la realidad del mundo. Esos discursos, además, no fluyen de manera independiente del _poder_: la dirección de su flujo y su relevancia vienen determinados por este.
 
-Mucha gente solo opera, ciertamente, en un mundo en el que los elementos fundamentales son esos: discursos y fuentes de poder. Esa gente puede ignorar ---o dejar en un segundo plano; o, incluso, _negar_--- el mundo real. ¿Pertenece a este, por ejemplo, la gripe? Efectivamente, pero esta solo es relevante en tanto que si la contraes, alguien tiene que tratarte; pero el que alguien te trate o no depende exclusivamente de discursos y relaciones de poder. Unos podrán acceder a esos remedios y otros no: el criterio depende de papeles que circulan en oficinas donde alguien tiene la autoridad para dar un visto bueno a algo. Las cosas del mundo real ---como los remedios para la gripe--- existen o no existen, pero no tienen una importancia secundaria.
+Mucha gente solo opera, ciertamente, en un mundo en el que los elementos fundamentales son esos: discursos y fuentes de poder. Esa gente puede ignorar ---o dejar en un segundo plano; o, incluso, _negar_--- el mundo real. ¿Pertenece a este, por ejemplo, la gripe? Efectivamente, pero esta solo es relevante en tanto que si la contraes, alguien tiene que tratarte; pero el que alguien te trate o no depende exclusivamente de discursos y relaciones de poder. Unos podrán acceder a esos remedios y otros no: el criterio depende de papeles que circulan en oficinas donde alguien tiene la autoridad para dar un visto bueno a algo. Las cosas del mundo real ---como los remedios para la gripe--- existen o no existen, pero tienen una importancia secundaria.
 
 Bajo cierto punto de vista, no se le puede negar diversidad humana al grupo de las principales figuras del pensamiento posmo. Pero no sé si habrá habido alguna vez alguno que no fuese funcionario de carrera. Una lectura en diagonal de la biografía de Foucault muestra cómo desde niño, desde que comenzó a realizar exitosamente sus exámenes de reválida, toda su carrera consistió en escribir cosas ---p.e., esos exámenes--- que leía gente que tenía la potestad de hacer que otras cosas ocurriesen. El posmodernismo habría sido otra cosa de tratarse de un movimiento intelectual de granjeros, oftalmólogos, o gentes de algún gremio en el que se opera directamente sobre las cosas que pueblan el mundo.
 

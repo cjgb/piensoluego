@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-01-05
-lastmod: '2025-04-06T01:37:22.318936'
+lastmod: '2026-08-20'
 related:
 - 20220916_ciencias_empiricas.md
 - 20230602_evaluacion_reincidencia.md
@@ -14,16 +14,15 @@ tags:
 - expertos
 - goodhart
 - leo strauss
-title: ¿Podemos fiarnos de la opinión de los "expertos"? Una generalización del principio
-  de Goodhart
+title: ¿Podemos fiarnos de la opinión de los "expertos"? Una generalización del principio de Goodhart
 url: /2024/confianza-opinion-expertos/
 ---
 
-Trajo Scott Alexander una entrada en su blog,
+Tiene Scott Alexander una entrada en su blog,
 [_WebMD, And The Tragedy Of Legible Expertise_](https://www.astralcodexten.com/p/webmd-and-the-tragedy-of-legible)
-que resumo y reinterpreto hoy y que, de paso, invito a consultar por lo relevantes que son los ejemplos y casos de aplicación que discute pero que aquí omito.
+que hoy resumiré y reinterpretaré. Además, de paso, invito mis lectores a consultarla por lo relevantes que son los ejemplos y aplicaciones que discute pero que aquí omito.
 
-En el fondo, trata sobre el grado de fiabilidad de la opinión de los expertos y, en particular, los expertos oficialmente designados como tales (p.e., las _autoridades sanitarias_ como Fernando Simón en su día). Viene a describir una variación de la llamada
+Trata sobre la fiabilidad de la opinión de los expertos y, en particular, la de los expertos oficialmente designados como tales (p.e., las _autoridades sanitarias_, como Fernando Simón en su día). Viene a describir una variación de la llamada
 [ley de Goodhart](https://es.wikipedia.org/wiki/Ley_de_Goodhart),
 cuya formulación original,
 

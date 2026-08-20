@@ -2,8 +2,7 @@
 categories:
 - epistemología
 date: 2024-04-19
-description: Descubre cómo entender conceptos técnicos complejos explorando su historia.
-  Claridad absoluta en el aprendizaje.
+description: ¿Puede la historia de los conceptos ser pedagógicamente más clara que su puro encadenamiento lógico?
 lastmod: '2025-04-06T01:37:51.438522'
 related:
 - 20231215_conceptos_agrupaciones_correlaciones.md
@@ -24,3 +23,5 @@ url: /2024/aprender-historia/
 * A partir de entonces, ¡claridad absoluta!
 
 (Por si a alguien le sirve de algo.)
+
+Y sí, parece que existe una pequeña literatura (véase por ejemplo, [esto](https://link.springer.com/article/10.1023/A:1014455918130)) que diríase que refrenda la tesis que se deriva de mi experiencia anecdótica.
