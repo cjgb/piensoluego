@@ -14,6 +14,7 @@ related:
 tags:
 - principio de precaución
 - cambio climático
+- incertidumbre
 title: Sobre la extraña e interesada desaparición de la incertidumbre climática
 url: /2026/incertidumbre-climática-certeza-climática/
 ---
