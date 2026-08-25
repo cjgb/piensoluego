@@ -1,5 +1,4 @@
 title = "Pienso, luego he sobrevivido"
-description = "Un blog sobre política, economía, filosofía y ciencia en el que el criterio de verdad es la supervivencia del sujeto."
 baseurl = "https://piensoluegohesobrevivido.es/"
 languageCode = "es"
 DefaultContentLanguage = "es"
@@ -19,6 +18,7 @@ rssLimit = 20        # Only the last 20 posts
 
 [params]
   author = "bgjc"
+  description = "Un blog sobre política, economía, filosofía y ciencia en el que el criterio de verdad es la supervivencia del sujeto."
 
   # toggle LaTeX rendering (see layouts/partials/extend_head.html)
   math = true
@@ -55,7 +55,7 @@ Un blog sobre política, economía, filosofía y ciencia en el que el criterio d
 
   [[params.socialIcons]]
     name = "rss"
-    url = "/index.xml"
+    url = "https://piensoluegohesobrevivido.es/index.xml"
 
   # Cover image settings
   [params.cover]
