@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2024-04-19
 description: ¿Puede la historia de los conceptos ser pedagógicamente más clara que su puro encadenamiento lógico?
-lastmod: '2025-04-06T01:37:51.438522'
+lastmod: '2026-08-31'
 related:
 - 20231215_conceptos_agrupaciones_correlaciones.md
 - 20231208_miseria_filosofia.md
@@ -24,4 +24,4 @@ url: /2024/aprender-historia/
 
 (Por si a alguien le sirve de algo.)
 
-Y sí, parece que existe una pequeña literatura (véase por ejemplo, [esto](https://link.springer.com/article/10.1023/A:1014455918130)) que diríase que refrenda la tesis que se deriva de mi experiencia anecdótica.
+Y sí, parece que existe una pequeña literatura (véase, por ejemplo, [esto](https://link.springer.com/article/10.1023/A:1014455918130)) que diríase que refrenda la tesis que se deriva de mi experiencia anecdótica.

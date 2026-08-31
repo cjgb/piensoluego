@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2022-02-04
-description: Se ve que los nematodos maximizan la utilidad esperada
+description: «Sería gracioso si descubriésemos que la economía funciona para todas las especies menos la nuestra.»
 lastmod: '2025-04-06T01:38:17.368337'
 related:
 - 20220909_homo_economicus.md
@@ -19,7 +19,7 @@ title: Se ve que los nematodos maximizan la utilidad esperada
 url: /2022/nematodos-utilidad-esperada/
 ---
 
-La economía clásica supone que los agentes son racionales. Por algún motivo, se ha dado a entender que dichos agentes son seres humanos y de ahí el _mito_ del _homo economicus_, etc. aunque bien sabemos que pueden ser empresas u otro tipo de organismos no sujetos (directamente) a la tiranía de la endocrinología.
+La economía clásica supone que los agentes son racionales. Por algún motivo, se ha dado a entender que dichos agentes son seres humanos y de ahí el _mito_ del _homo economicus_, etc., aunque bien sabemos que pueden ser empresas u otro tipo de organismos no sujetos (directamente) a la tiranía de la endocrinología.
 
 Uno de los _descubrimientos_ de la economía (o de sus _críticos_, finalmente cooptados) es el de que los seres humanos no actúan necesariamente de acuerdo con los principios axiomáticos sobre los que se basa la economía clásica. Concedido.
 

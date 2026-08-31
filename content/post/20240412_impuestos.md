@@ -2,7 +2,8 @@
 categories:
 - ética
 date: 2024-04-12
-lastmod: '2025-04-06T01:37:48.814324'
+lastmod: '2026-08-31'
+description: Se ve que el pago de impuestos, multas y sanciones se efectúa «de común acuerdo», ya que el deudor es un ciudadano sujeto a la legislación del país.
 related:
 - 20240416_cortos.md
 - 20250129_cortos.md
@@ -28,8 +29,9 @@ Leo (da igual el motivo) acerca de los fundamentos y principios de la llamada co
 ### II
 
 El texto podía haber dicho que los impuestos son operaciones _por conveniencia_:
+
 1. Al fin y al cabo, se trata de la contabilidad nacional: ¿cómo no reflejar los impuestos?
-2. Sin embargo, el resto de los robos son mucho más dífíciles de contabilizar: de hecho, al ser delito, los perpetradores tratan de ocultarlos y, obviamente, no comunicárselos a las autoridades rellenando algún formulario trimestral.
+2. Sin embargo, el resto de los robos son mucho más difíciles de contabilizar: de hecho, al ser delito, los perpetradores tratan de ocultarlos y, obviamente, no comunicárselos a las autoridades rellenando algún formulario trimestral.
 3. Porque, piénsese en un ladrón aplicadito que llevase su propia contabilidad por partida doble. ¿Dejaría de reflejar sus ingresos ("una bici azul") por el mero hecho de que no procedan de "operaciones" según la anterior definición?
 
 El autor del texto, sin embargo, prefiere apoyarse en argumentos ideológicos a la hora de formular la definición.

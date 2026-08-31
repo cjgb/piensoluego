@@ -2,7 +2,8 @@
 categories:
 - política
 date: 2023-04-28
-lastmod: '2025-04-06T01:38:48.708185'
+description: La regulación siempre beneficia al «incumbente», como cabe esperar desde primeros principios.
+lastmod: '2026-08-31'
 related:
 - 20241211_cortos.md
 - 20210403_kill_zones_administracion.md
@@ -17,7 +18,7 @@ title: ¿A quién beneficia realmente la regulación de la IA?
 url: /2023/beneficiarios-regulacion-ia/
 ---
 
-No merece la pena abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando ya sea por su regulación. Además, en muchos casos, exigiendo una de esas regulaciones asimilables a la estrangulación.
+No merece la pena abundar en la importancia actual y futura de la IA. No merece tampoco la pena hacer mención a la evidencia de que muchos dicen estar asustados por ella y que existen amplios movimientos abogando por su regulación. En muchos casos, además, exigiendo una de esas regulaciones tan frecuentes que son enteramente asimilables a la estrangulación.
 
 Pero, ¿quiénes serían los máximos beneficiarios de un tal estado de las cosas? Evidentemente, los grandes actores: Google, Amazon, Microsoft y unos pocos más.
 

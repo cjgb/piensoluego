@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-04-07
-lastmod: '2025-04-06T01:37:19.615397'
+lastmod: '2026-08-31'
 related:
 - 20230217_liberanos_complejidad.md
 - 20250101_cortos.md
@@ -16,7 +16,7 @@ title: Sobre los límites de la acción del estado
 url: /2023/limites-accion-estado/
 ---
 
-[Ayer](/2024/estado-backups/) hablaba sobre la conveniencia de ampliar la acción del estado a ámbitos que parecen no importar demasiado. Hoy, tras leer [esta noticia](https://www.elconfidencial.com/empresas/2023-05-07/grietas-modelo-aena-ministerio-cotizado_3624092/), presto atención a la otra frontera, la que el estado huella ---argumentaré--- indebidamente.
+[Ayer](/2023/estado-backups/) hablaba sobre la conveniencia de ampliar la acción del estado a ámbitos que parecen no importar demasiado. Hoy, tras leer [esta noticia](https://www.elconfidencial.com/empresas/2023-05-07/grietas-modelo-aena-ministerio-cotizado_3624092/), presto atención a la otra frontera, la que el estado huella ---argumentaré--- indebidamente.
 
 El artículo es una anécdota que ejemplifica una categoría entera. Trata de cómo AENA, una empresa pública _semicotizada_, ha fracasado en una serie de licitaciones por, precisamente, estar sujeta a la norma estatal ---mucho más exigente que la _mercantil_--- a la hora de subcontratar. No está claro ahora quién operará los _duty-free_.
 

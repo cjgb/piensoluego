@@ -2,8 +2,8 @@
 categories:
 - economía
 date: 2022-11-11
-description: ¿Toda inmigración tiene efectos positivos sobre la economía?
-lastmod: '2025-04-06T01:38:36.951345'
+description: Una crítica a resultados habitualmente publicados que parten de la falsa premisa de la intercambialilidad de los sujetos.
+lastmod: '2026-08-31'
 related:
 - 20240521_cortos.md
 - 20250326_cortos.md
@@ -13,6 +13,7 @@ related:
 tags:
 - economía
 - inmigración
+- intercambiabilidad
 title: ¿Toda inmigración tiene efectos positivos sobre la economía?
 url: /2022/inmigracion-positiva-economia/
 ---
@@ -24,7 +25,7 @@ Existe una encomiable corriente dentro de la economía y la ciencia política mo
 En El retorno de los chamanes, Víctor Lapuente contrapone los chamanes a los exploradores. Los exploradores, los defensores de esa nueva forma de implementar políticas públicas, tienen su némesis en los chamanes, los políticos de la vieja escuela, que afrontan los problemas desde posiciones ideológicas a priori, inasequibles a la evidencia de su fracaso (cuando este sucede).
 El _zeitgeist_ sopla en favor de los exploradores. Sobre todo por las exigencias de las sociedades modernas: las grandes ideas están ya en marcha, las instituciones fundamentales del estado funcionan y la fruta madura que cuelga de las ramas más bajas del árbol está toda ya recogida. Pero no faltan oportunidades para introducir ajustes aquí o allá en pro de la eficacia en las que los posicionamientos ideológicos tienen poco que aportar. No obstante, los chamanes están lejos de extinguirse; de hecho, Lapuente advierte del peligro de que estén de vuelta.
 
-Efectivamente, lo hacen; y lo hacen, con frecuencia, disfrazados de exploradores. Precisamente porque los datos y su análisis cuantitativo no dejan de ser otro mecanismo discursivo que puede torcerse y retorcerse, como la antigua casuísitica de los jesuitas, tanto para probar como refutar cualquier cosa. Aunque considerada mala práctica, torturar los datos hasta que canten no deja de ser la rutina de ciertos estadísticos, económetras y otros profesionales de lo cuantitativo. Además, con cierta habilidad se los puede hacer no solo cantar, sino cantar lo que a uno le parezca más conveniente.
+Efectivamente, lo hacen; y lo hacen, con frecuencia, disfrazados de exploradores. Precisamente porque los datos y su análisis cuantitativo no dejan de ser otro mecanismo discursivo que puede torcerse y retorcerse, como la antigua casuística de los jesuitas, tanto para probar como refutar cualquier cosa. Aunque considerada mala práctica, torturar los datos hasta que canten no deja de ser la rutina de ciertos estadísticos, económetras y otros profesionales de lo cuantitativo. Además, con cierta habilidad se los puede hacer no solo cantar, sino cantar lo que a uno le parezca más conveniente.
 
 Respecto al asunto de la inmigración, se ha escrito desde infinidad de puntos de vista. Voy a aparcar la mayor parte de ellos (los étnicos, los religiosos, los morales, etc.) y centrarme en los que se refieren a la conveniencia (o no) de la sociedad de acogida de recibir inmigrantes desde la óptica del impacto económico. Y lo haré desde la sorpresa que me ha producido la avalancha de noticias acerca de la bondad no solo de la inmigración sino de cualquier tipo de inmigración y cómo, además, el argumento quiere sostenerse en estudios, en evidencias estadísticas. A modo de meme, personas de las que se esperaría una aproximación más crítica no tienen empacho en afirmar que todos los estudios demuestran un impacto económico positivo de la inmigración —de todo tipo de inmigración, recuérdese—, sobre las sociedades de acogida (véase, por ejemplo,
 [esto](https://nadaesgratis.es/jose-luis-ferreira/la-integracion-laboral-de-los-inmigrantes)
@@ -39,7 +40,7 @@ Además, el inmigrante y, en particular, el inmigrante económico, elige destino
 
 Se cita por ahí algún estudio más próximo a nuestras latitudes, como el de
 [Carrasco et al. (2008)](https://e-archivo.uc3m.es/bitstream/handle/10016/4687/effect_carrasco_JPE_2008_ps.pdf;jsessionid=B4D8496B53CA097662C5C0C8E0088ED0?sequence=2),
-que analiza el efecto de la inmigración en España en la segunda mitad de los 90. Pero en él, como en tantos otros, se define como inmigrante a quienquiera que posea nacionalidad extranjera. Es curioso que este artículo replica métodos de otro anterior realizado en EE.UU. que estudiaba el efecto de los inmigrantes en la economía y el mercado de trabajo de dicho país en una época precisamente en la que yo figuraba como tal. Allí estábamos el impacto de mi trabajo y yo siendo promediado con millones de otros, cada uno con sus peculiaridades, para redundar en un efecto global no malo. En el caso español, por supuesto, se promedia el impacto económico de los futbolistas extracomunitarios o los ingenieros noruegos aquí asentados con el de otros cuyas actividades fueron muy del interés de la Guardia Civil primero y de Instituciones Penitenciarias después. Si el promedio resultó positivo o no muy negativo lo fue por la particular proporción de unos y otros y no del presunto beneficio de todo tipo de inmigración.
+que analiza el efecto de la inmigración en España en la segunda mitad de los 90. Pero en él, como en tantos otros, se define como inmigrante a quienquiera que posea nacionalidad extranjera. Es curioso que este artículo replica los métodos de otro anterior realizado en EE.UU. que estudiaba el efecto de los inmigrantes en la economía y el mercado de trabajo de dicho país en una época precisamente en la que yo figuraba como tal. Allí estábamos el impacto de mi trabajo y yo siendo promediado con millones de otros, cada uno con sus peculiaridades, para redundar en un efecto global no malo. En el caso español, por supuesto, se promedia el impacto económico de los futbolistas extracomunitarios o los ingenieros noruegos aquí asentados con el de otros cuyas actividades fueron muy del interés de la Guardia Civil primero y de Instituciones Penitenciarias después. Si el promedio resultó positivo o no muy negativo lo fue por la particular proporción de unos y otros y no del presunto beneficio de todo tipo de inmigración.
 
 Circula un chiste según el cual, un estadístico, en presencia de un hombre que se ha comido un pollo y otro que no se ha comido ninguno, afirma que, en promedio, ambos se han comido medio. Quienes en presencia de cierta inmigración que aporta y cierta inmigración que detrae van y dicen que, en promedio, la inmigración es ligeramente positiva, incurren en el mismo error. John Wanamaker, pionero del márketing, dijo una vez: la mitad del dinero que gasto en publicidad no vale para nada; el problema es que no sé qué mitad. Sobre la inmigración podría decirse algo parecido. Con la diferencia de que no estamos faltos de indicios sobre cuál es la mitad que menos aporta.
 
