@@ -20,7 +20,7 @@ url: /2024/confianza-opinion-expertos/
 
 Tiene Scott Alexander una entrada en su blog,
 [_WebMD, And The Tragedy Of Legible Expertise_](https://www.astralcodexten.com/p/webmd-and-the-tragedy-of-legible)
-que hoy resumiré y reinterpretaré. Además, de paso, invito mis lectores a consultarla por lo relevantes que son los ejemplos y aplicaciones que discute pero que aquí omito.
+que hoy resumiré y reinterpretaré. Además, de paso, invito a mis lectores a consultarla por lo relevantes que son los ejemplos y aplicaciones que discute pero que aquí omito.
 
 Trata sobre la fiabilidad de la opinión de los expertos y, en particular, la de los expertos oficialmente designados como tales (p.e., las _autoridades sanitarias_, como Fernando Simón en su día). Viene a describir una variación de la llamada
 [ley de Goodhart](https://es.wikipedia.org/wiki/Ley_de_Goodhart),

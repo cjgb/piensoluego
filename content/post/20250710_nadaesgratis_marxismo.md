@@ -36,7 +36,7 @@ Pero, ¿es el marxismo equiparable al terraplanismo? Salvando las distancias ---
 Tiene Joseph Heath una entrada en su blog, [_Key stages in the decline of academic Marxism_](https://josephheath.substack.com/p/key-stages-in-the-decline-of-academic) que da cuenta de los motivos por los que hoy en día ya no quedan prácticamente marxistas en la filosofía académica. Los principales son:
 
 - Que la teoría del valor-trabajo fue desacreditada por la economía neoclásica.
-- Que teoría de la crisis fue superada por la teoría keynesiana del ciclo económico.
+- Que la teoría de la crisis fue superada por la teoría keynesiana del ciclo económico.
 - Que la idea de la sociedad post-escasez fue desacreditada por la teoría de la clase ociosa de Thorstein Veblen.
 - Que en lo relativo al debate sobre el cálculo socialista, se demostró que los mercados son más eficientes que la planificación centralizada para determinar los precios.
 - Que el materialismo histórico no pudo explicar la importancia del nacionalismo y la tecnología militar.

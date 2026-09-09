@@ -27,7 +27,7 @@ La taza y la rosquilla son topológicamente indistinguibles en tanto que se trat
 Los siguientes son cuatro problemas morales que encuentro _topológicamente equivalentes_:
 
 - Un niño se ahoga. Un señor lo rescata aunque para eso haya pisado el césped (prohibido) y se haya zambullido en el estanque (también prohibido).
-- El pedófilo está en el cuartelillo. La niña a la que se busca morirá asfixiada en un zulo si no se da con ella pronto. El policía lo tortura para conseguir sonsacarle la ubicación.
+- El pedófilo está en el cuartelillo. La niña a la que se busca morirá asfixiada en un zulo si no se da con ella pronto. El policía lo tortura para sonsacarle la ubicación.
 - El presidente de un país centroamericano, tras un exitoso mandato en que ha conseguido reducir significativamente el crimen, se presenta a una reelección expresamente prohibida por la constitución. Por el camino, ha destituido jueces, etc.
 - El votante de un partido de cierto país está convencido de que su candidato es el que verdaderamente resuelve sus problemas y los de la gente. Pero para que llegue al gobierno y pueda sacar adelante su programa se ve abocado a pactar con prófugos de la justicia y retorcer hasta el extremo los hilos de la casuística legal.
 

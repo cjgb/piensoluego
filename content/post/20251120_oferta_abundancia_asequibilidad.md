@@ -25,7 +25,7 @@ url: /2025/oferta-abundancia-asequibilidad/
 Hay tres términos en boga, todos relativos a un mismo tema, cada uno asociado a un rango del espectro político unidimensional:
 
 - Oferta, favorecido por "la derecha": nuestras angustias económicas son consecuencia de la falta de bienes y servicios y que su producción está constreñida por regulaciones, impuestos y [zarandajas de todo tipo](https://www.siliconcontinent.com/p/what-a-toad-tells-us-about-europes).
-- Abundancia, asociado a posturas _centristas_ y que es lo mismo con algún sutil matiz para hacerlo más fácilmente digerible a gentes situadas más a la izquierda. En el fondo, hay cierta relación entre la diferencia entre oferta y abundancia y entre fraternidad y solidaridad. Solidaridad es un reemplazo que se buscó a fraternidad en cierto momento histórico porque el término original tenía cierto olor a incienso.
+- Abundancia, asociado a posturas _centristas_ y que es lo mismo con algún sutil matiz para hacerlo más fácilmente digerible a gentes situadas más a la izquierda. En el fondo, hay cierta relación entre la diferencia entre oferta y abundancia y entre fraternidad y solidaridad. «Solidaridad» es un reemplazo que se buscó a «fraternidad» en cierto momento histórico porque el término original tenía cierto olor a incienso.
 - Asequibilidad, que es la aportación de la izquierda uniceja al debate. El término describe la pretensión de que todo sea barato de manera más o menos taumatúrgica y con absoluto desprecio hacia los efectos dinámicos de la fijación de precios.
 
 Scott Sumner, al respecto, ha escrito [_Output is abundance is affordability_](https://scottsumner.substack.com/p/output-is-abundance-is-affordability), artículo que ChatGPT resume (con mis arreglos) así:

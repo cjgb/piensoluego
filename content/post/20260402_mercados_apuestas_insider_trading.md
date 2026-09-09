@@ -20,7 +20,7 @@ url: /2026/mercados-apuestas-informacion-privilegiada/
 
 Los mercados financieros cumplen dos funciones distintas:
 
-- Agregar información y crear precios, que contribuye a mejorar la asignación recursos en la economía.
+- Agregar información y crear precios, que contribuye a mejorar la asignación de recursos en la economía.
 - Facilitar la financiación de las empresas.
 
 Estos dos objetivos están usualmente alineados, pero no siempre. Por ejemplo, en lo que se refiere a la información privilegiada: por un lado, mejoraría el proceso de fijación de precios. Puede que la información pública sobre una compañía dada dé una imagen de ella distinta de la que refleje determinada información interna todavía no publicada. Pero si, por otro lado, el mercado premiase a quienes disponen de este tipo de información a expensas del resto de los inversores, estos harían bien en retirarse del mercado, afectando seriamente al volumen y liquidez del mercado y, en última instancia, a la capacidad de financiación de las empresas.

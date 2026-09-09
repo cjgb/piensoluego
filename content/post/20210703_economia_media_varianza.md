@@ -18,11 +18,9 @@ title: Dos metáforas físico-mecánicas de la economía
 url: /2021/economia-media-varianza/
 ---
 
-Esta es una ---conocidísima--- metáfora físico-mecánica (¿físico-hidráulica?) de la economía:
+Esta es una ---conocidísima--- [metáfora físico-mecánica (¿físico-hidráulica?) de la economía](https://en.wikipedia.org/wiki/MONIAC):
 
-![Trolley problem](/images/moniac.png)
-
-[Para saber más acerca de ella, [esto](https://en.wikipedia.org/wiki/MONIAC).]
+![Moniac](/images/moniac.png)
 
 La economía está representada por un sistema de flujos que tratan de modelar su estado estacionario, su natural desarrollo _en equilibrio_.
 

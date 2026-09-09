@@ -20,7 +20,7 @@ url: /2026/explotar-sesgos-economicos/
 
 Si tu evaluación de la probabilidad de un evento es incorrecta, se dice, alguien podría hacerte un [«libro holandés»](https://en.wikipedia.org/wiki/Dutch_book_arguments) y quedarse con tu dinero. Pero eso es más una posibilidad teórica que práctica: el que se equivoca, siempre tiene la opción de negarse tozudamente a apostar.
 
-Eso me hizo pensar una situación que viví el otro día mientras negociaba con alguien que tenía dos opciones encima de la mesa: o ganar cero con certeza o ganar la mitad (u otra fracción razonable) de una cantidad incierta pero positiva.
+Eso me hizo pensar en una situación que viví el otro día mientras negociaba con alguien que tenía dos opciones encima de la mesa: o ganar cero con certeza o ganar la mitad (u otra fracción razonable) de una cantidad incierta pero positiva.
 
 Si alguien se comporta tan como los sujetos de los experimentos de la economía conductual, ¿es posible hacerle el equivalente a un «libro holandés»? Y la respuesta es negativa si, simplemente, no hace nada.
 

@@ -23,7 +23,7 @@ Sé poco del posmodernismo y, además, casi todo lo que conozco sobre el tema (v
 
 > No hay tal cosa como proposiciones científicas. Los llamados conceptos científicos no son otra cosa que constructos sociales, discursos que reflejan relaciones de poder.
 
-son típicamente *posmodernos* y tradicionalmente adscritas a posiciones de izquierda.
+son típicamente *posmodernos* y tradicionalmente adscritos a posiciones de izquierda.
 
 ---
 

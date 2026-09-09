@@ -32,7 +32,7 @@ Estos argumentos se mezclan, como digo, con otros sobre los que me es mucho más
 
 1. Si un arte ideológicamente comprometido es o no propiamente arte (o si se desliza por el terreno de la propaganda).
 2. Relacionado con lo anterior, algo que sí que menciona la autora de pasada en el vídeo aunque no desarrolla como en cierto momento parece dar a entender: ¿entraría dentro de esa categoría anterior el arte religioso?
-3. Si desde las instituciones públicas (españolas) debería desincentivarse el arte de los partidarios de ciertas ideologías trituradoras de la idea nación española ---distáxicas, en la terminología de la escuela del materialismo filosófico--- y sustituirlas por otras más convenientes para su sostenimiento y florecimiento. No quedando claro, de nuevo, si esto entra o no en contradicción con el primero de la segunda serie de puntos.
+3. Si desde las instituciones públicas (españolas) debería desincentivarse el arte de los partidarios de ciertas ideologías trituradoras de la idea de nación española ---distáxicas, en la terminología de la escuela del materialismo filosófico--- y sustituirlas por otras más convenientes para su sostenimiento y florecimiento. No quedando claro, de nuevo, si esto entra o no en contradicción con el primero de la segunda serie de puntos.
 
 El vídeo en cuestión ha sido origen de una serie de réplicas y sus contrarréplicas más o menos afortunadas sobre las que tampoco quiero pronunciarme.
 

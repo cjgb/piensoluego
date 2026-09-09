@@ -36,7 +36,7 @@ A los críos se les enseña que tanto empujar como meter el dedo en el ojo de lo
 
 Por tanto, el estudio del humor y la risa, de aquello sobre lo que se pueden hacer chistes y lo que no, es un instrumento para aprender de otras sociedades y de la nuestra, para entender cómo van actualizándose los preceptos morales a lo largo del tiempo, cuáles ascienden por la jerarquía informal de las normas y cuáles pierden vigencia. Para ejemplos, los que trae el artículo arriba enlazado, siempre que se reinterpreten bajo esta óptica.
 
-Los guardianes de La República de Platón no tenían que ser amantes de la risa. Jorge de Burgos, en El Nombre de la Rosa, llega al asesinato en serie para evitar que saliese a la luz el segundo libro de la Poética de Aristóteles,
+Los guardianes de La República de Platón no tenían que ser amantes de la risa. Jorge de Burgos, en «El Nombre de la Rosa», llega al asesinato en serie para evitar que saliese a la luz el segundo libro de la «Poética» de Aristóteles,
 
 > manuscrito que se supone desaparecido en la Edad Media, y en el que supuestamente el filósofo realizaba una defensa de la comedia y el humor como posibilidad de cuestionar los absolutos establecidos. ([Fuente](https://es.wikipedia.org/wiki/El_nombre_de_la_rosa))
 

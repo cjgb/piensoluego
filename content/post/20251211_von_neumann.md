@@ -25,7 +25,7 @@ Voy a intentar escribir una entrada sobre un tema que me confunde mucho. El asun
 - Su figura, además, está rodeada de un aura mítica: hay numerosas anécdotas en circulación sobre sus extraordinarias habilidades intelectuales.
 - Luego, se ve, existe un debate con ramificaciones políticas entre quienes afirman que rasgos tales como la inteligencia se transmiten hereditariamente y quienes sostienen que son efecto de la crianza.
 - Si entiendo bien y simplificándolo todo, la derecha es afín a la explicación natural y genética de estos sesgos, no tanto porque la evidencia le resulte concluyente, sino porque reforzaría el carácter necesario de las estructuras sociales existentes.
-- Mientras que la izquierda prefiere una explicación en términos de los condicionantes sociales de nuevo no por motivos empíricos sino porque considera que si convence a muchos de tener razón en eso, le será más fácil subvertir el orden tradicional. O algo así.
+- Mientras que la izquierda prefiere una explicación en términos de los condicionantes sociales; pero, de nuevo, no por motivos empíricos sino porque considera que si convence a muchos de tener razón en eso, le será más fácil subvertir el orden tradicional. O algo así.
 - Resulta que el pobre y difunto von Neumann ocupa cierto rol de relevancia en la refriega:
   - Por un lado, parece que los _naturalistas_ de derechas lo usan como ejemplo por antonomasia de destilación de inteligencia por vía genética. Vendría a representar la culminación de años de selección entre los mejores dentro de una serie de familias judías centroeuropeas.
   - Cosa que no alcanzaría a comprender enteramente (de ser cierta): ¿qué peso que no sea mero aliño retórico añade una anécdota a un argumento alrededor de una categoría?

@@ -53,7 +53,7 @@ Reproduzco, traducido, un hilo sobre la moral de Olivier S. Curry aparecido
 1. Mientras que, por otro lado, incluye dos categorías, altruismo genérico y alejamiento de los patógenos, que no tienen que ver con la cooperación o la evolución.
 1. La MFT también tiene problemas empíricos. El principal es que los cinco factores del MFQ no han encontrado refrendo empírico.
 1. Algunos de los estudios originales, así como las replicaciones realizadas en Italia, Nueva Zelanda, Suecia y Turquía, y un estudio de 27 países (usando la versión corta del MFQ) han revelado que los cinco factores del modelo del MFT no alcanzan el nivel convencional para la aceptación del ajuste (CFIs < .9).
-1. Además, a pesar de postular cinco factores, el MFQ solo identifica dos: cuidado-equidad por una parte y lealtad-autoridad-puridad por la otra. Este es el dominio en dos factores que se usa frecuentemente en la investigación.
+1. Además, a pesar de postular cinco factores, el MFQ solo identifica dos: cuidado-equidad por una parte y lealtad-autoridad-pureza por la otra. Este es el dominio en dos factores que se usa frecuentemente en la investigación.
 1. Algunos investigadores han estudiado algunos factores específicos, especialmente la pureza. Pero ese es un tema para otro hilo.
 1. Los proponentes del MFT han tenido en cuenta estos resultados aceptando, por ejemplo, que la lista original de factores era _arbitraria_, basada en el análisis de solo _cinco libros y artículos_ y que nunca quiso ser exhaustiva.
 1. Además, han promovido la investigación que pudiera "demostrar la existencia de otro principio o que los existentes debieran ser agrupados o descartados" (véase [esto](https://t.co/M5VguZjMNI)).
