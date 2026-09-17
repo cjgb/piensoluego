@@ -18,7 +18,7 @@ title: La ley y sus condiciones iniciales
 url: /2022/demora-publicacion-ley/
 ---
 
-Dos echan algo a suertes, a cara o cruz. Uno toma una moneda, la deposita sobre la palma de la mano, la empuja suavemente hacia arriba, la moneda asciende apenas dos centímetros y, sin llegar a rotar, cae otra vez sobre la palma en la misma posición de partida. Difícilmente podría aceptarse el resultado.
+Dos echan algo a suertes, a cara o cruz. Uno de ellos toma una moneda, la deposita sobre la palma de la mano y la empuja suavemente hacia arriba. Entonces, la moneda asciende apenas dos centímetros y, sin llegar a rotar, cae otra vez sobre la palma en la misma posición de partida. Difícilmente podría aceptarse el resultado.
 
 Uno querría ver la moneda trazar un arco _suficiente_ y constatar que rota cierto número de veces en el aire. En definitiva, uno querría asegurarse de que se rompe la influencia de las condiciones iniciales en las que fue lanzada en la moneda sobre el resultado final.
 

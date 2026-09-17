@@ -21,6 +21,6 @@ url: /2024/ciencia-confianza-verificada/
 
 > Parece existir una enorme confusión acerca del papel de la confianza en la ciencia y la academia. Ingenieros como Bill Nye y propagandistas políticos no dejan de decirnos "¡Confiad en la ciencia!". Pero, por otra parte, los racionalistas [...] blanden el lema de la Real Academia, _nullius in verba_ (_No confíes en la palabra de nadie_) como una espada. Creo que ambos bandos entienden incorrectamente el funcionamiento de la ciencia y la academia.
 
-Y luego continúa explicando cómo se transita por la calle de en medio.
+Luego continúa explicando cómo se transita por la calle de en medio.
 
 **Coda:** Este es un buen momento para repasar la entrada [_Un marco para entender caritativamente el terraplanismo y otras anomalías epistemológicas_](/2023/entendiendo-terraplanistas/).

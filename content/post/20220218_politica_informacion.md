@@ -18,7 +18,7 @@ title: Orientación política vs flujos de información
 url: /2022/orientacion-politica-flujo-informacion/
 ---
 
-Mucho se ha discutido sobre las causas subyacentes de las orientaciones políticas. Frecuentemente se buscan en el ámbito de los valores. Esta entrada, sin embargo, quiere abundar en una dimensión alternativa del debate: el que relaciona las opciones políticas con las intuiciones acerca de la efectividad de los dos sentidos potenciales de los flujos de información.
+Mucho se ha discutido sobre las causas subyacentes de las orientaciones políticas. Frecuentemente se buscan en el ámbito de los valores. Esta entrada, sin embargo, quiere incidir en una dimensión alternativa del debate: el que relaciona las opciones políticas con las intuiciones acerca de la efectividad de los dos sentidos potenciales de los flujos de información.
 
 Muy esquemáticamente, la información puede fluir _hacia arriba_ o _hacia abajo_. Un ejemplo de información que fluye _hacia arriba_: dos ciudadanos acuerdan hacer algo conjuntamente y firman un contrato a tal efecto. El estado, desde arriba, _observa_ ese contrato y deja hacer. Es, de alguna manera, consciente de que esos ciudadanos, conocedores de sus circunstancias particulares, han llegado a un acuerdo si no óptimo, al menos, adecuado a ellas. El estado, pues, se limita a hacer valer ese contrato en caso de posterior disputa.
 

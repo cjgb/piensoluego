@@ -20,7 +20,7 @@ title: Principios de moral
 url: /2021/principios-de-moral/
 ---
 
-En esta entrada voy a establecer primero y discutir mínimamente después unos _principios de la moral_. Más que como verdades ontológicas ---sobre lo que no me pronunciaré--- lo haré como una _perspectiva_ ---que estimo muy fructífera--- que nos permite entender y razonar sobre los problemas morales.
+En esta entrada voy a establecer primero y discutir mínimamente después unos _principios de la moral_. Más que como verdades ontológicas ---sobre lo que no me pronunciaré--- lo haré desde una _perspectiva_ ---que estimo muy fructífera--- que nos permite entender y razonar sobre los problemas morales.
 
 **Los tres principios de la moral**
 
