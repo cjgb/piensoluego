@@ -2,7 +2,6 @@
 categories:
 - política
 - sociología
-- fútbol
 date: 2026-07-22
 description: Una justificación de por qué prefiero la victoria de la selección argentina
   sobre la española en la próxima final del mundial de fútbol de 2026.
@@ -15,6 +14,7 @@ related:
 - 20210313_democracia_ergodica.md
 tags:
 - naciones
+- fútbol
 title: Patria, nación y selecciones nacionales
 url: /2026/selecciones-nacionales/
 ---
