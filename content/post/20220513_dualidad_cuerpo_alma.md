@@ -26,7 +26,7 @@ Simplificando mucho, hubo una época en que cierta gente entendió que existían
 
 Lo que hemos aprendido desde entonces es que las relaciones entre cuerpo y conciencia son importantes y complejas. Fuera del mundo del pensamiento _puro_, esta interrelación se aprecia agudamente en el mundo de la robótica: allí hay que _interconectar_ explícitamente _hardware_ y _software_ y uno de los problemas más complejos que se plantean es el de la delimitación de los propios límites físicos (p.e., para que el robot no choque con otros objetos). Se dice que el _software_, que en cierto modo es pensamiento puro, _no tiene alma_; sin embargo, el verdadero problema es que _no tiene cuerpo_.
 
-El binomio sexo-género, por lo que me cuentan, parece que rescata aquella antigua dualidad equiparando primero el _género_ al alma y el _sexo_ al cuerpo y repostulando después la irreductibilidad de los términos. De lo que se sigue después toda suerte de corolarios de lo más variopinto.
+El binomio sexo-género, por lo que me cuentan, parece que reedita aquella antigua dualidad equiparando primero el _género_ al alma y el _sexo_ al cuerpo y repostulando después la irreductibilidad de los términos. De lo que se sigue después toda suerte de corolarios de lo más variopinto.
 
 Llegado a este punto y por no dilapidar más el tiempo del lector, déjeseme citar a Marx:
 
