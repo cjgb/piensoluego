@@ -15,7 +15,7 @@ tags:
 - filosofía
 - libre albedrío
 title: El libre albedrío como domesticación evolutiva de la aleatoriedad
-url: /2026/falacia-no-me-gustan-las-lentejas/
+url: /2026/libre-albedrio-aleatoriedad/
 ---
 
 En esta entrada quiero dejar constancia escrita de cuál es mi actual posición con respecto al libre albedrío, el determinismo, el compatibilismo, etc. Se resume en que:

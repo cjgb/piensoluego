@@ -26,7 +26,7 @@ title: 'Inversión "en valor" vs "indexada": una generalización'
 url: /2022/value-investment-generalizacion/
 ---
 
-Esta entrada tiene dos partes. Una, la primera, dedicada a la tensión entre las llamadas inversión en valor e indexada en finanzas. Se presenta como motivación a otra, posterior, que la utiliza como analogía para extenderla a otros ámbitos.
+Esta entrada tiene dos partes. La primera trata la tensión entre las llamadas inversión en valor e indexada en finanzas. Sirve de motivación para la segunda, que la extiende analógicamente a otros ámbitos.
 
 Existen dos grandes estrategias de inversión: la inversión en valor y la indexada. La primera consiste en estudiar minuciosamente un pequeño grupo de compañías e invertir ---o desinvertir--- en ellas de acuerdo con su desempeño. Se trata de una estrategia trabajosa, tediosa y que solo los grandes especialistas pueden desempeñar correctamente.
 
