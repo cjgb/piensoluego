@@ -17,7 +17,7 @@ title: Todo está en los libros, pero algunos quieren que solo esté en ellos
 url: /2024/todo-en-libros/
 ---
 
-Japón se desarrolló muy rápidamente a partir de 1870. Alex Tabarrok estudia [aquí](https://marginalrevolution.com/marginalrevolution/2024/07/not-lost-in-translation-how-barbarian-books-laid-the-foundation-for-japans-industrial-revoluton.html) una cuestión que bien pudo ayudar a tal desarrollo: el increíble esfuerzo de traducción (al japonés) de libros técnicos en ese periodo, ilustrado en el siguiente gráfico:
+Japón se desarrolló muy rápidamente a partir de 1870. Alex Tabarrok estudia [aquí](https://marginalrevolution.com/marginalrevolution/2024/07/not-lost-in-translation-how-barbarian-books-laid-the-foundation-for-japans-industrial-revoluton.html) un fenómeno que bien pudo contribuir a ello: el increíble esfuerzo de traducción (al japonés) de libros técnicos en ese periodo:
 
 ![Gráfico de traducciones de libros técnicos al japonés](/images/libros-japon.png#center)
 
@@ -28,6 +28,7 @@ El problema es que los LLMs no _saben_ todos los libros. Un experto conoce mucho
 La industria editorial ha pasado de ser un vehículo para que la información fluya a uno que la dosifica con avaricia para generar rentas. Tendría que justificar su utilidad social.
 
 **Coda:** Mientras escribía esto, se me ha ocurrido una solución:
+
 - Las empresas que entrenan LLMs compran una copia de cada libro (o reciben libros donados).
 - Se registran como bibliotecas.
 - Cuando alguien hace una pregunta relativa a un libro, se lo _prestan_ durante unos microsegundos.

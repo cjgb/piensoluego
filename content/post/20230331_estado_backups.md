@@ -32,3 +32,5 @@ Uno de ellos ---y del que se habla demasiado poco--- tiene que ver con las copia
 Como consecuencia de todo lo anterior, estas páginas son de la opinión de que el estado debería actuar de oficio para fomentar el uso de las copias de seguridad y para mejorar la infraestructura necesaria para realizarlas. Sería dinero bien invertido.
 
 **Nota:** _Mejorar la infraestructura_ puede tener muchas interpretaciones, la mayor parte de las cuales no serían aprobadas por el autor. Este tiene en mente, más bien, cosas como [esta](https://relays.syncthing.net/).
+
+**Nota 2:** En puridad, no se trata de un «bien público» sino, más bien, de un «bien _club_» (en tanto que es fácil excluir a alguien concreto de su uso).

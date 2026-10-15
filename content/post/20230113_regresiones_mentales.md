@@ -18,7 +18,7 @@ title: Regresiones mentales
 url: /2023/regresiones-mentales/
 ---
 
-Dice Tyler Cowen [aquí](https://marginalrevolution.com/marginalrevolution/2022/11/how-defective-a-thinker-are-you.html) (a cuenta de algo que no viene al caso):
+Dice Tyler Cowen [aquí](https://marginalrevolution.com/marginalrevolution/2022/11/how-defective-a-thinker-are-you.html) (a propósito de algo que no viene al caso):
 
 > Es mejor archivar el dato después de actualizar tus regresiones mentales y no volverse inmediatamente demasiado emocional o severo al respecto.
 

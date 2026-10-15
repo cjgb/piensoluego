@@ -18,7 +18,7 @@ title: Riesgos y vacunas
 url: /2021/riesgo-vacunas/
 ---
 
-Aunque planteada con toda la crudeza, la pregunta sobre si es lícito poner en peligro (incluso de muerte) a otros parece suscitar en nosotros una respuesta moral negativa, la realidad es que es algo que ocurre rutinariamente. Por ejemplo, sucede así con el tráfico rodado: los conductores ponen en peligro tanto a peatones y ciclistas como a otros conductores ---por no hablar de a sí mismos---; no obstante, está permitido conducir todo tipo de vehículos.
+Planteada con toda la crudeza, la pregunta sobre si es lícito poner en peligro (incluso de muerte) a otros tiende suscitar una respuesta moral negativa. La realidad es que es algo que ocurre rutinariamente. Por ejemplo, sucede así con el tráfico rodado: los conductores ponen en peligro tanto a peatones y ciclistas como a otros conductores ---por no hablar de a sí mismos---; no obstante, está permitido conducir todo tipo de vehículos.
 
 Frente al problema planteado por las actividades que pueden poner en peligro a terceros, las distintas sociedades han tomado medidas de diversa índole. Por ejemplo, la prohibición: está prohibido poseer material radioactivo, explosivos, cepas de la viruela, etc.
 
