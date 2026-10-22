@@ -19,7 +19,7 @@ title: Más sobre la educación universitaria como industria exportadora
 url: /2024/exportacion-educacion-universitaria/
 ---
 
-### I.
+### I
 
 El otro día [escribí](/2024/cortos-21):
 
@@ -27,11 +27,11 @@ El otro día [escribí](/2024/cortos-21):
 
 El artículo de Heath no dice nada extravagante ni que no se pueda extrapolar fácilmente del título: la educación en Canadá tiene buena reputación y muchos estudiantes de todo el mundo estarían dispuestos a pagar por formarse allí.
 
-### II.
+### II
 
-Hace años impartí clases en un centro de estudios que acabó convirtiéndose con el tiempo en una universidad privada. Este centro tenía oficinas de representación en muchos países sudamericanos y realizaba campañas publicitarias de captación de alumnos en aquella región. Como consecuencia, un porcentaje significativo de mis alumnos durante aquellos años procedían de aquellas regiones hermanas del otro hemisferio.
+Hace años impartí clases en un centro de estudios que devino en una universidad privada. Este centro tenía oficinas de representación en muchos países sudamericanos a través de las que canalizaba campañas publicitarias de captación de alumnos en aquella región. Como consecuencia, un porcentaje significativo de mis alumnos durante aquellos años procedía de aquellos países hermanas del otro hemisferio.
 
-### III.
+### III
 
 Cuando nuestros _expertos_ hablan de la educación universitaria y mencionan las universidades no públicas, suelen parir textos no muy distintos de
 [este](https://nadaesgratis.es/antonia-diaz/universidades-publicas-universidades-privadas-el-caso-de-ciencias-de-la-salud)

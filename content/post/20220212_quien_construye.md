@@ -34,10 +34,10 @@ Y sigue poco después:
 
 > Sin embargo, el rey Gustavo Adolfo había exigido un barco que fuera un 30 % más largo que los anteriores, con una cubierta adicional que portara una artillería mucho más pesada de lo habitual. Con exigencias tan radicales, un pequeño fallo de diseño ya no daría lugar a un error menor en el rendimiento. Un barco de este tamaño es una estructura compleja y su dinámica, especialmente en lo que respecta a su estabilidad, es inherentemente no lineal. Un pequeño error de diseño podía dar lugar ---y de hecho dio--- a errores macroscópicos en el rendimiento, lo que tuvo consecuencias catastróficas. Por desgracia, los constructores navales no poseían los conocimientos científicos para saber cómo escalar correctamente un barco a semejante magnitud. De hecho, tampoco tenían los conocimientos científicos para saber cómo escalarlo a pequeña escala, pero eso apenas importaba. Como consecuencia, el barco acabó siendo demasiado estrecho y con un centro de gravedad demasiado alto (cargado de arriba), de modo que bastó una ligera brisa para hacerlo zozobrar... y así ocurrió, incluso antes de que saliera del puerto de Estocolmo en su viaje inaugural, cobrándose la vida de muchas personas.
 
-Como estos, podrían extraerse muchos más textos que nos ayudasen a responder a la pregunta: ¿quién construye los barcos?
+Podrían obtenerse muchos más textos como estos que nos ayudasen a responder la pregunta: ¿quién construye los barcos?
 
 Los barcos no los diseñan los ingenieros, como parecería, sino el mar. Es el mar el que informa a los ingenieros acerca de cómo construir sus barcos y el que en última instancia evalúa sus diseños. Estos se limitan a copiar lo que funciona, a copiar lo que regresa del mar.
 
-Obviamente, en estas páginas no estamos particularmente interesados en la ingeniería naval. En estas páginas nos referimos a lo anterior como alegoría extrapolable a otros ámbitos: la economía, la política, el derecho, etc.
+Obviamente, en estas páginas no estamos particularmente interesados en la ingeniería naval. La historia de hoy puede extrapolarse a otros ámbitos: la economía, la política, el derecho, etc.
 
 Así que reformulamos la pregunta: ¿quién y cómo construye las cosas?
