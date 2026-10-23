@@ -21,10 +21,11 @@ url: /2025/tasa-basuras/
 ---
 
 El posmodernismo, descrito brevemente, consiste en lo siguiente:
+
 - La realidad del mundo es irrelevante.
 - Lo relevante son los discursos que genera el poder.
 
-El poder está en Bruselas, _Bruselas_ redacta muchas _directivas_; pero a las directivas y a sus autores les suda mucho cómo sea el mundo realmente: mandan y cobran igual.
+El poder está en Bruselas. _Bruselas_ redacta muchas _directivas_, Pero a las directivas y a sus autores les suda mucho cómo sea el mundo realmente: mandan y cobran igual.
 
 Ahora _Bruselas_ quiere que en toda la UE, el servicio de recogida de basuras se orqueste como se indica debajo.
 
@@ -45,10 +46,12 @@ _Bruselas_ alucina a lo ChatGPT con que la basura es como el pan de Magerit. Sab
 De hecho, no es _cobrar por uso_ porque _Bruselas_ ni recoge basura ni cobra por ello. _Bruselas_, más bien, redacta una directiva para obligar a todo ayuntamiento sobre la faz de la UE a financiar la recogida de basura no como mejor entiendan sus responsables democráticamente elegidos, sino como a ellos se les ocurre.
 
 Para los ayuntamientos, la medida es agridulce:
+
 - Por un lado, los obliga a diseñar un sistema en el que parezca que la basura se cobra al kilo, como las lentejas en la tienda. Lo cual, como es tarea imposible, los obliga a parecer tarados mentales, implementen lo que implementen.
 - Por el otro, les proporciona una fuente adicional de ingresos. Porque ni hartos de vino van a modificar el IBI a la baja, como sería lo suyo, para compensar.
 
 Pero en el mundo:
+
 - Para el común de la ciudadanía, la generación de basura es inelástica al precio de retirada.
 - Pero es que, además, los mecanismos de estimación de la tarifa orquestados por los ayuntamientos, destruyen totalmente la potencial relación entre su cuantía y cualquier cambio de comportamiento en la ciudadanía. En un mundo perfecto, si yo quisiese minorar la tasa de gestión de la basura, tendría que intentar generar menos basura; en Madrid, sin embargo, para hacerlo tendría que mudarme a una casa más pequeña.
 
