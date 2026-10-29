@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-07-21
-lastmod: '2025-04-06T01:38:23.428080'
+lastmod: '2026-10-29'
 related:
 - 20241211_cortos.md
 - 20230728_inflacion.md
@@ -18,7 +18,7 @@ title: Sobre la "greedflation"
 url: /2023/greedflation/
 ---
 
-La "greedflation" es una seudoexplicación causal de la inflación: a las empresas, de repente, les da por subir precios más o menos simultáneamente y eso desemboca en una espiral inflacionista. Se trata de una teoría muy arraigada en ciertos sectores ideológicos.
+La "greedflation" es una seudoexplicación causal de la inflación: a las empresas, de repente, les da por subir precios casi simultáneamente, desencadenando una espiral inflacionista. Se trata de una teoría muy arraigada en ciertos sectores ideológicos.
 
 Así, por ejemplo,
 [resume la prensa](https://www.elconfidencial.com/economia/2023-06-28/economia-banco-espana-observatorio-beneficios_3673620/)

@@ -20,7 +20,7 @@ title: Inteligencia vs sabiduría, según John Vervaeke
 url: /2026/epistemologia-vervaeke-sabiduria/
 ---
 
-Me he entretenido estos días, tal vez demasiado, en familiarizarme con el modelo de la teoría del conocimiento de John Vervaeke.
+Me he entretenido estos días, tal vez demasiado, familiarizándome con el modelo de la teoría del conocimiento de John Vervaeke.
 
 No es este lugar para una exposición extensa. Además, pondría al límite la capacidad de comprensión y síntesis del autor.
 
