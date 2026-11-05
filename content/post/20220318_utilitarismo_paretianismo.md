@@ -27,7 +27,7 @@ Utilitarismo y _paretianismo_ (no volveré a marcarlo en lo sucesivo) son dos cr
 
 Creo que lo dice todo. Pero para que no haya lugar a dudas, lo que sigue.
 
-El cuadrante que muestra la figura muestra _potenciales estados del mundo_. Sus coordenadas en los ejes X e Y muestran la _utilidad_ de dicho estado para los _jugadores_ 1 y 2. La situación actual está representada por el punto grueso (llámese $x_0$), que determina utilidades $U_1(x_0)$ y $U_2(x_0)$ para los jugadores 1 y 2.
+El cuadrante que muestra la figura representa _potenciales estados del mundo_. Sus coordenadas en los ejes X e Y muestran la _utilidad_ de dicho estado para los _jugadores_ 1 y 2. La situación actual está representada por el punto grueso (llámese $x_0$), que determina utilidades $U_1(x_0)$ y $U_2(x_0)$ para los jugadores 1 y 2.
 
 La línea oblicua es aquella que mantiene constante la suma $U_1(x) + U_2(x)$ (e igual a $U_1(x_0) + U_2(x_0) = U_0$). Desde una perspectiva utilitarista, cualquier $x$ a la derecha de dicha línea sería aceptable porque en tal caso
 

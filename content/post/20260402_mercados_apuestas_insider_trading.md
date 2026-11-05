@@ -31,4 +31,4 @@ Pero los mercados de predicciones son distintos y el objetivo de la agregación 
 
 ### Coda
 
-Dicho lo cual, podrían discutirse excepciones en mercados que afectasen a cosas que algunos valoran mucho, como la _seguridad nacional_ y merecerían una discusión particular esos casos concretos en los que los mercados de predicciones y los financieros se intersecan (es decir, mercados de predicciones que atañen a eventos que podrían guardar cierta correlación con el desempeño de empresas cotizadas).
+Podrían discutirse excepciones en mercados que afectasen a cosas que algunos valoran mucho, como la _seguridad nacional_ y merecerían una discusión particular esos casos concretos en los que los mercados de predicciones y los financieros se intersecan (es decir, mercados de predicciones que atañen a eventos que podrían guardar cierta correlación con el desempeño de empresas cotizadas).
