@@ -20,12 +20,12 @@ url: /2022/cambio-climatico-tomadura-pelo/
 
 Vaya por delante que el autor de estas páginas no es lo que ha venido a denominarse un _negacionista del cambio climático_ sino, más bien, un observador con cierto interés en lo que ocurre. Pero este observador tiene motivos para _descontar_ el potencial efecto de eso en lo que, efectivamente, _cree_ ---aunque con diferencias de grado con respecto a muchos ortodoxos---.
 
-Cuando hay una guerra o una hambruna, todos los recursos se dirigen de la manera más eficientemente posible a solucionar ese _gran_, casi _único_ problema. Si el del cambio climático fuese un problema comparable, _todos_ nuestros recursos irían dirigidos a mitigar sus causas y efectos.
+Cuando hay una guerra o una hambruna, todos los recursos se dirigen de la manera más eficiente posible a solucionar ese _gran_, casi _único_ problema. Si el del cambio climático fuese un problema comparable, _todos_ nuestros recursos irían dirigidos a mitigar sus causas y efectos.
 
 ---Claro, ¿pero no es eso lo que ya hacemos?
 
 Sí y no.
-[Se gasta mucho dinero](https://theobjective.com/elsubjetivo/opinion/2022-07-28/energias-renovables-timo/)
+[Se gasta mucho dinero](https://theobjective.com/elsubjetivo/opinion/2022-07-28/energias-renovables-timo/),
 pero la forma dista mucho de ser la que se entendería por más eficiente.
 
 Si las emisiones de CO2 son un problema global, habría que usar cada euro disponible para reducirlas allí donde más dé de sí.

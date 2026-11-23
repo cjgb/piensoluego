@@ -22,7 +22,7 @@ Si tu evaluación de la probabilidad de un evento es incorrecta, se dice, alguie
 
 Eso me hizo pensar en una situación que viví el otro día mientras negociaba con alguien que tenía dos opciones encima de la mesa: o ganar cero con certeza o ganar la mitad (u otra fracción razonable) de una cantidad incierta pero positiva.
 
-Si alguien se comporta tan como los sujetos de los experimentos de la economía conductual, ¿es posible hacerle el equivalente a un «libro holandés»? Y la respuesta es negativa si, simplemente, no hace nada.
+Si alguien se comporta como los sujetos de los experimentos de la economía conductual, ¿es posible hacerle el equivalente a un «libro holandés»? Y la respuesta es negativa si, simplemente, no hace nada.
 
 Lo cual me hizo pensar en esa [cita de Péguy que recogí en estas páginas hace unas semanas](/2026/quien-no-juega/):
 

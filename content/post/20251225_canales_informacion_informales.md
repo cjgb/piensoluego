@@ -20,11 +20,11 @@ title: Sobre la relevancia de los canales informales de comunicación, particula
 url: /2025/relevancia-canales-informacion-informales/
 ---
 
-La gente colabora para desarrollar proyectos de cierto alcance necesarios para el florecimiento social. Para la colaboración es necesaria la comunicación. En estructuras de colaboración formales existen canales de comunicación formales e informales.
+La gente colabora para desarrollar proyectos de cierto alcance necesarios para el florecimiento social. Para la colaboración es necesaria la comunicación. En toda estructura de colaboración coexisten canales de comunicación formales e informales.
 
 Se presta mucha atención a los primeros: dejan traza, son auditables (y auditados), tienen consecuencias tangibles.
 
-Por su carácter etéreo, se atiende mucho menos a los segundos. Salvo cuando los canta una tal Jane Jacobs, claro. Pero que no sean asequibles a un análisis formal, no significa que no existan y que no sean relevantes.
+Por su carácter etéreo ---y, en ocasiones, subrepticio---, se atiende mucho menos a los segundos. Salvo cuando los canta una tal Jane Jacobs, claro. Pero que no sean asequibles a un análisis formal no significa que no existan y que no sean relevantes.
 
 Existen actas detalladas de todas las intervenciones en el Congreso de los Diputados (de España), supongo que desde el principio de los tiempos. Pero no consta registro alguno de las discusiones y negociaciones _discretas_ ---que, con el paso del tiempo, han acabado envueltas en un aura de leyenda--- que mantenían en su cafetería figuras clave de la Transición como Manuel Fraga, Santiago Carrillo, Adolfo Suárez, Felipe González, Jordi Solé Turá, Gregorio Peces-Barba y otras figuras de la época. De hecho, podría decirse que los discursos formales eran un epifenómeno de una realidad que se labraba en otra parte y de otra manera.
 

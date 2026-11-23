@@ -13,11 +13,11 @@ tags:
 - política
 - bce
 - cambio climático
-title: Sobre la "maquinaria del gobierno"
+title: Sobre la «maquinaria del gobierno»
 url: /2024/maquinaria-gobierno/
 ---
 
-Llevo leído como el 20% de uno de los peores libros de Joseph Heath que ha caído en mis manos: _The Machinery of Government_. El libro argumenta que una parte significativa de la actividad del poder ejecutivo no es exógena ---impuesta sobre él por los representantes democráticos (ministros, etc.) que la dirigen nominalmente--- sino endógena, producto de la iniciativa de la propia administración y, en última instancia, de funcionarios de carrera no electos. A partir de esa premisa ---que no es obvia hasta que se le presta atención al asunto--- comienza a construir una teoría moral y política de ese estado que es democrático en la cúspide pero tecnocrático en el resto de los escalafones. Una de las cuestiones centrales en la discusión es, precisamente, la de los límites del poder de tal sistema burocrático.
+Llevo leído alredecor del 20% de uno de los peores libros de Joseph Heath que ha caído en mis manos: _The Machinery of Government_. El libro argumenta que una parte significativa de la actividad del poder ejecutivo no es exógena ---impuesta sobre él por los representantes democráticos (ministros, etc.) que la dirigen nominalmente--- sino endógena, producto de la iniciativa de la propia administración y, en última instancia, de funcionarios de carrera no electos. A partir de esa premisa ---que no es obvia hasta que se le presta atención al asunto--- comienza a construir una teoría moral y política de ese estado que es democrático en la cúspide pero tecnocrático en el resto de los escalafones. Una de las cuestiones centrales en la discusión es, precisamente, la de los límites del poder de tal sistema burocrático.
 
 Un caso que no pudo incluir Heath en su libro ---por ser posterior en el tiempo--- es el que presenta John H. Cochrane en su artículo [_Central bankers can be too independent_](https://www.grumpy-economist.com/p/central-bankers-can-be-too-independent). Una de las características de los estados burocráticos modernos es que delegan algunas de sus funciones en instituciones independientes que operan dentro de un ámbito concreto con amplios márgenes de discrecionalidad y sin un control directo por parte de los órganos electos, como sucede con los bancos centrales.
 

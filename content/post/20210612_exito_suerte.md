@@ -22,9 +22,7 @@ title: Sobre "Éxito y suerte. El mito de la meritocracia."
 url: /2021/exito-suerte/
 ---
 
-Acabo de terminar el libro de Robert Frank que da nombre a esta entrada y me ha apetecido dejar escritas unas líneas sobre él.
-
-En primer lugar, hay que indicar que el título que usa lo merece solo su primera mitad: la segunda trata de otro asunto. No creo que las palabras _éxito_ o _suerte_, muy frecuentes en la primera parte, aparezcan en más de dos o tres ocasiones en la segunda.
+Acabo de terminar el libro de Robert Frank que da nombre a esta entrada y me ha apetecido dejar escritas unas líneas sobre él. Solo su primera mitad merece el título que gasta. La segunda trata de otro asunto. No creo que las palabras _éxito_ o _suerte_, muy frecuentes en la primera parte, aparezcan en más de dos o tres ocasiones en la segunda.
 
 El asunto de esta segunda parte es su propuesta ---no original, por otra parte--- de un tipo de impuesto que no queda claro si el autor propone añadir a los ya existentes en EEUU o si serviría para reemplazar a alguno (¿el de la renta? ¿el _sales tax_ de algunos estados?). Se trata de un impuesto progresivo sobre el consumo que, en la práctica, sería algo así como un impuesto sobre la renta del que quedarían excluidas las cantidades ahorradas: la diferencia entre ingresos brutos y ahorro se consideraría consumo y sobre él se aplicaría un impuesto progresivo con un tipo del 0% en un generoso primer tramo para no gravar el consumo de productos básicos.
 

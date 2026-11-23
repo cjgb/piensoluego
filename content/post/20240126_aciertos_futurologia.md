@@ -21,7 +21,7 @@ Existe un debate sobre cuánto y cómo acertaron las predicciones que se hiciero
 [_The Track Record of Futurists Seems ... Fine_](https://www.cold-takes.com/the-track-record-of-futurists-seems-fine/),
 donde se defiende su éxito relativo. J. Storrs Hall tiene un libro,
 [_Where Is My Flying Car?: A Memoir of Future Past_](https://www.goodreads.com/es/book/show/42036377),
-que llega a una conclusión similar tras examinar la cuestión más extensa y sistemáticamente. Además, encuentra un patrón que ayuda a distinguir las predicciones que llegaron a materializarse de las que no ---así como las que quedaron muy cortas---: su dependencia del uso de energía.
+que llega a una conclusión similar tras examinar la cuestión extensa y sistemáticamente. Además, encuentra un patrón que ayuda a distinguir las predicciones que llegaron a materializarse de las que no ---así como las que quedaron muy cortas---: su dependencia del uso de energía.
 
 Hemos logrado materializar las ensoñaciones de nuestros predecesores en aquellas tecnologías que apenas requieren energía: telecomunicaciones, acceso a información, generación de lenguaje automático, etc. Pero nos hemos quedado muy cortos en todo aquello que consume mucha energía: viajes espaciales, coches voladores, etc.
 
