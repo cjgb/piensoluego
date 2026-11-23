@@ -4,7 +4,7 @@ categories:
 - política
 date: 2021-05-08
 description: Una visión subjetiva sobre sobre educación y políticas públicas al respecto
-lastmod: '2025-04-06T01:38:40.518565'
+lastmod: '2025-11-22'
 related:
 - 20210501_libertad_eleccion_educacion.md
 - 20240716_cortos.md

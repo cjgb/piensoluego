@@ -4,7 +4,7 @@ categories:
 date: 2025-07-10
 description: “De la excelencia al dogma por qué dejé de leer NadaEsGratis cuando dio
   tribuna al marxismo académico.”
-lastmod: '2025-09-14T01:33:54.690155'
+lastmod: '2026-09-09'
 related:
 - 20250328_microfundamentos.md
 - 20220916_ciencias_empiricas.md

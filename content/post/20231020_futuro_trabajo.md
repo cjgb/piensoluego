@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-10-20
-lastmod: '2025-04-06T01:38:42.991759'
+lastmod: '2026-01-30'
 related:
 - 20210710_inmigracion_pensiones.md
 - 20230310_colapso_demografico.md

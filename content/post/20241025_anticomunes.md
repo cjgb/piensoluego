@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-10-25
-lastmod: '2025-04-06T01:38:15.613934'
+lastmod: '2025-11-26'
 description: "La tragedia de los anticomunes, un concepto clave menos conocido que el de la tragedia de los comunes, esencial para entender la crisis de vivienda, los derechos de propiedad y su impacto en la economía actual."
 related:
 - 20241204_cortos.md

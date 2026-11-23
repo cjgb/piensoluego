@@ -4,7 +4,7 @@ categories:
 date: 2021-01-30
 description: Explora la diferencia entre ciencia y tecnología, y cómo muchos profesionales
   son técnicos, no científicos. Reflexión sobre el uso del término científico.
-lastmod: '2025-04-06T01:39:02.021142'
+lastmod: '2025-11-22'
 related:
 - 20220916_ciencias_empiricas.md
 - 20240510_confianza_ciencia.md

@@ -4,7 +4,7 @@ categories:
 date: 2025-04-11
 description: Circula información en TikTok y las redes sociales sobre cómo explotar
   al máximo los beneficios del estado del bienestar hasta el punto de ponerlo en peligro.
-lastmod: '2025-04-23T17:46:32.321347'
+lastmod: '2026-02-13'
 related:
 - 20240723_cortos.md
 - 20250226_cortos.md

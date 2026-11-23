@@ -4,7 +4,7 @@ categories:
 - política
 date: 2021-05-15
 description: El progreso, visto por un niño
-lastmod: '2025-04-06T01:38:56.306035'
+lastmod: '2026-07-11'
 related:
 - 20240723_cortos.md
 - 20210508_parabola_ventana_no_rota.md

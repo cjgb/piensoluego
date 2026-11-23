@@ -3,7 +3,7 @@ categories:
 - ciencia
 date: 2021-05-21
 description: Cómo nos contaron que iba a ser el futuro
-lastmod: '2025-04-06T01:38:21.433908'
+lastmod: '2026-07-11'
 related:
 - 20240126_aciertos_futurologia.md
 - 20250108_cortos.md

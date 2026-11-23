@@ -3,6 +3,7 @@ categories:
 - epistemología
 date: 2026-10-21
 description: "«Buenas intenciones, malos resultados» es un principio epistemológico para evaluar críticamente intervenciones biensonantes."
+lastmod: '2026-10-15'
 tags:
 - bimr
 - epieikeia

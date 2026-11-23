@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2020-12-28
 description: Por qué existen estas páginas en lugar de no existir
-lastmod: '2025-04-06T01:37:16.841130'
+lastmod: '2025-11-22'
 menu:
   main:
     weight: 10

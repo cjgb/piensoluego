@@ -3,6 +3,7 @@ categories:
 - epistemología
 date: 2026-11-04
 description: "Una puntualización a una entrada clásica de Scott Alexander sobre las categorías y su función y utilidad."
+lastmod: '2026-10-29'
 tags:
 - epistemología
 - categorías

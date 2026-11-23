@@ -4,7 +4,7 @@ categories:
 date: 2022-02-18
 description: ¿Influyen las intuiciones sobre los flujos de información sobre las opciones
   políticas?
-lastmod: '2025-04-06T01:37:35.951972'
+lastmod: '2026-09-17'
 related:
 - 20210627_derecho_punto_focal.md
 - 20221007_expertos_no_bayesianos.md

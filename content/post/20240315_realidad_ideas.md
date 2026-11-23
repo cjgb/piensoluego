@@ -2,7 +2,7 @@
 categories:
 - filosofía
 date: 2024-03-15
-lastmod: '2025-04-06T01:38:00.948359'
+lastmod: '2026-07-02'
 noindex: true
 related:
 - 20220422_rawls_ortega.md

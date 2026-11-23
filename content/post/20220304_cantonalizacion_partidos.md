@@ -5,7 +5,7 @@ categories:
 date: 2022-03-04
 description: Reflexiones sobre la necesidad de escindir cantonalmente los partidos
   políticos
-lastmod: '2025-04-06T01:38:58.941656'
+lastmod: '2025-12-14'
 related:
 - 20210327_ciudadanos_no_supervivencia.md
 - 20240503_infraestructuras.md

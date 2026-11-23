@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2022-10-21
 description: Sobre las heurísticas que aplicamos día a día
-lastmod: '2025-04-06T01:37:27.849689'
+lastmod: '2026-09-09'
 related:
 - 20221028_evaluacion_heuristicas.md
 - 20210104_bioetica.md

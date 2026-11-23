@@ -4,7 +4,7 @@ categories:
 date: 2026-06-24
 description: La tesis es que lo que llamamos libre albedrío es el resultado de la
   dommesticación evolutiva de la aleatoriedad inherente a los sistemas complejos.
-lastmod: '2026-07-21'
+lastmod: '2026-11-23'
 related:
 - 20220108_disidencia.md
 - 20220429_demora_publicacion_ley.md

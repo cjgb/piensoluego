@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-07-26
-lastmod: '2025-04-06T01:37:36.469553'
+lastmod: '2026-01-03'
 related:
 - 20230707_mas_sobre_terraplanismo.md
 - 20240621_medios_antilombriz.md

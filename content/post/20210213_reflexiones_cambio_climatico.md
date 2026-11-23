@@ -3,7 +3,7 @@ categories:
 - ciencia
 date: 2021-02-13
 description: Reflexiones sobre el cambio climático
-lastmod: '2025-04-06T01:38:31.601116'
+lastmod: '2026-11-23'
 related:
 - 20220923_indicios_cambio_climatico_tomadura_pelo.md
 - 20210104_bioetica.md

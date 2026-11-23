@@ -4,7 +4,7 @@ categories:
 date: 2026-02-19
 description: ¿Es posible un derecho legal contra la manipulación? Analizamos la propuesta
   de Cass Sunstein y cómo el engaño ha moldeado la inteligencia humana.
-lastmod: '2026-02-13T13:25:09.103472'
+lastmod: '2026-02-20'
 related:
 - 20210627_derecho_punto_focal.md
 - 20221230_dark_patterns.md

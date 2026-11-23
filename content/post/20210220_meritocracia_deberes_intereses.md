@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-02-20
 description: Reflexiones al hilo de un artículo de Gregorio Luri
-lastmod: '2025-04-06T01:38:02.868379'
+lastmod: '2026-03-19'
 related:
 - 20220708_meritocracia.md
 - 20220701_merito.md

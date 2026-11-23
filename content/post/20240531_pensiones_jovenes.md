@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-05-31
-lastmod: '2025-04-06T01:37:52.357619'
+lastmod: '2026-04-24'
 related:
 - 20210710_inmigracion_pensiones.md
 - 20210903_pensiones_balanzas.md

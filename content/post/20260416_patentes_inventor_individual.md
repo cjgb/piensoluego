@@ -4,7 +4,7 @@ categories:
 date: 2026-04-16
 description: ¿Es el desarrollo tecnológico fruto de genios aislados? ¿O es más bien
   un proceso social e incremental?
-lastmod: '2026-04-10T13:07:16.284673'
+lastmod: '2026-09-09'
 related:
 - 20230324_diversidad_tecnologia.md
 - 20250418_medicamentos.md

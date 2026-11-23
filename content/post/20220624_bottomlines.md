@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2022-06-24
 description: Sobre los potenciales efectos perniciosos de la ESG
-lastmod: '2025-04-06T01:38:14.734437'
+lastmod: '2026-05-01'
 related:
 - 20211030_supervivencia_etica_corporativa.md
 - 20241225_cortos.md

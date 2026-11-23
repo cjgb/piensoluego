@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2025-01-17
-lastmod: '2025-04-06T01:39:05.079578'
+lastmod: '2025-09-03'
 related:
 - 20230407_limites_accion_estado.md
 - 20240416_cortos.md

@@ -4,7 +4,7 @@ categories:
 date: 2022-06-10
 description: Cosas que podemos aprender sobre los valores humanos a través del estudio
   de la inteligencia artificial
-lastmod: '2025-04-06T01:37:35.426924'
+lastmod: '2026-07-02'
 related:
 - 20210104_bioetica.md
 - 20220513_dualidad_cuerpo_alma.md

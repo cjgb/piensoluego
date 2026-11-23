@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-02-09
-lastmod: '2025-04-06T01:38:08.686010'
+lastmod: '2025-09-03'
 related:
 - 20230915_totalitarismo.md
 - 20240514_cortos.md

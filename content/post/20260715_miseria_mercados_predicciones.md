@@ -4,7 +4,7 @@ categories:
 date: 2026-07-15
 description: «Los mercados de predicciones son máquinas de la verdad y la verdad es
   que a la gente le gustan las apuestas deportivas.»
-lastmod: '2026-07-16T11:26:02.271503'
+lastmod: '2026-07-16'
 related:
 - 20240607_mercados_predicciones.md
 - 20260402_mercados_apuestas_insider_trading.md

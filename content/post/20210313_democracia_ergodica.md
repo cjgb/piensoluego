@@ -3,7 +3,7 @@ categories:
 - política
 date: 2021-03-13
 description: Reflexiones sobre la democracia
-lastmod: '2025-04-06T01:38:55.873586'
+lastmod: '2026-10-15'
 related:
 - 20250314_promesas_electorales.md
 - 20220916_ciencias_empiricas.md

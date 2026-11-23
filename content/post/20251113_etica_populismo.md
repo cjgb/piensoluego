@@ -5,7 +5,7 @@ categories:
 date: 2025-11-13
 description: Ética y populismo a partir de una metáfora informática y un escrito de
   Joseph Heath
-lastmod: '2025-11-17T00:19:27.356956'
+lastmod: '2025-12-07'
 related:
 - 20251106_disonancias_cognitivas.md
 - 20240521_cortos.md

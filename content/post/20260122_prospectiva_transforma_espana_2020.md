@@ -4,7 +4,7 @@ categories:
 date: 2026-01-22
 description: Un análisis a posteriori de una obra de prospectiva, Transforma España,
   de 2010.
-lastmod: '2026-01-17T07:59:56.771034'
+lastmod: '2026-01-17'
 related:
 - 20210521_colapso_expectativas_ciencia.md
 - 20240126_aciertos_futurologia.md

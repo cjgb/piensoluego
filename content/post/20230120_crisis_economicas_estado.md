@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-01-20
-lastmod: '2025-04-06T01:37:36.979309'
+lastmod: '2026-01-21'
 related:
 - 20230728_inflacion.md
 - 20220916_ciencias_empiricas.md

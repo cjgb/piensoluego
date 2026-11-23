@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2022-12-02
-lastmod: '2025-04-06T01:38:24.783257'
+lastmod: '2026-09-09'
 related:
 - 20211210_principios_moral.md
 - 20210109_moralizacion_amoralizacion.md

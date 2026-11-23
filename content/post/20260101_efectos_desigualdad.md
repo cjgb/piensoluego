@@ -6,7 +6,7 @@ categories:
 - economía
 date: 2026-01-01
 description: "Analizamos el reciente metaanálisis sobre la relación entre desigualdad económica y bienestar mental, y reflexionamos sobre la validez de cierta literatura sociológica actual."
-lastmod: '2026-01-05T12:26:45.338089'
+lastmod: '2026-01-05'
 related:
 - 20251216_cortos.md
 - 20210612_exito_suerte.md

@@ -4,7 +4,7 @@ categories:
 date: 2025-10-09
 description: Sobre cómo el declive de la religión y la trascendencia ha dado paso
   a nuevas creencias centradas en el bienestar y la inmanencia.
-lastmod: '2025-10-13T19:26:27.423693'
+lastmod: '2026-04-04'
 related:
 - 20210104_bioetica.md
 - 20231208_miseria_filosofia.md

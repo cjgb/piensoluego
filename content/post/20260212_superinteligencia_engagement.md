@@ -4,7 +4,7 @@ categories:
 date: 2026-02-12
 description: ¿Está OpenAI sacrificando la superinteligencia por el clic? Analizamos
   el "momento Google" de OpenAI y su apuesta por el «engagement».
-lastmod: '2026-02-06T16:54:51.845235'
+lastmod: '2026-02-13'
 related:
 - 20230428_regulacion_ai.md
 - 20250307_llms_intelectualismo_moral.md

@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-11-15
-lastmod: '2025-04-06T01:38:29.668314'
+lastmod: '2025-12-16'
 related:
 - 20221021_se_puede_ser_racional.md
 - 20210213_reflexiones_cambio_climatico.md

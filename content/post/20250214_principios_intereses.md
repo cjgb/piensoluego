@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2025-02-14
-lastmod: '2025-04-06T01:38:39.467344'
+lastmod: '2025-09-03'
 related:
 - 20210327_ciudadanos_no_supervivencia.md
 - 20240514_cortos.md

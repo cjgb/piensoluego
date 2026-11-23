@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-03-08
-lastmod: '2025-04-06T01:37:32.326993'
+lastmod: '2025-12-16'
 related:
 - 20230602_evaluacion_reincidencia.md
 - 20220304_cantonalizacion_partidos.md

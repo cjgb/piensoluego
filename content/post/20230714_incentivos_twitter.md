@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-07-14
-lastmod: '2025-04-06T01:38:31.126825'
+lastmod: '2026-06-03'
 related:
 - 20230630_trust_me_im_lying.md
 - 20240716_cortos.md

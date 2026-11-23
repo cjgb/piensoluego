@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2021-10-01
 description: Sobre el estado como guardián contra las "races to the bottom"
-lastmod: '2025-04-06T01:37:26.340279'
+lastmod: '2025-11-26'
 related:
 - 20250101_cortos.md
 - 20210703_economia_media_varianza.md

@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-04-05
-lastmod: '2025-04-06T01:38:50.483515'
+lastmod: '2025-12-16'
 related:
 - 20210104_bioetica.md
 - 20231208_miseria_filosofia.md

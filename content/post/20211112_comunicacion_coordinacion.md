@@ -4,7 +4,7 @@ categories:
 - economía
 date: 2021-11-12
 description: Sobre la comunicación, puntos focales (o de Schelling), etc.
-lastmod: '2025-04-06T01:37:43.083799'
+lastmod: '2026-07-30'
 related:
 - 20220617_metadiscusiones.md
 - 20240716_cortos.md

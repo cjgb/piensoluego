@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2022-07-08
 description: Tres perspectivas sobre el asunto de la meritocracia
-lastmod: '2025-04-06T01:38:01.930181'
+lastmod: '2025-12-16'
 related:
 - 20220701_merito.md
 - 20210220_meritocracia_deberes_intereses.md

@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-01-26
-lastmod: '2025-04-06T01:37:59.599276'
+lastmod: '2026-11-23'
 related:
 - 20210521_colapso_expectativas_ciencia.md
 - 20221209_cambios_tecnologicos.md

@@ -3,7 +3,7 @@ categories:
 - economía
 - política
 date: 2023-05-19
-lastmod: '2025-04-06T01:37:57.401769'
+lastmod: '2025-11-26'
 related:
 - 20231117_subvenciones_empresariales.md
 - 20230721_greedflation.md

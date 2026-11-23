@@ -2,7 +2,7 @@
 categories:
 - supervivencia
 date: 2022-12-16
-lastmod: '2025-04-06T01:39:01.590659'
+lastmod: '2025-10-31'
 related:
 - 20250305_cortos.md
 - 20211030_supervivencia_etica_corporativa.md

@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2022-07-22
 description: Un paralelismo entre mitos en filosofía y modelos en estadística
-lastmod: '2025-04-06T01:37:58.721887'
+lastmod: '2026-06-03'
 related:
 - 20240405_modelos_mentales.md
 - 20221007_expertos_no_bayesianos.md

@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-12-25
-lastmod: '2025-04-06T01:38:47.384413'
+lastmod: '2025-12-16'
 related:
 - 20240514_cortos.md
 - 20210501_libertad_eleccion_educacion.md

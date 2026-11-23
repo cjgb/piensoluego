@@ -4,7 +4,7 @@ categories:
 date: 2025-03-14
 description: Sobre la paradoja de cómo los políticos sorprenden al electorado una
   vez ganadas las elecciones.
-lastmod: '2025-04-06T01:38:25.287713'
+lastmod: '2025-12-16'
 related:
 - 20240308_insaculacion.md
 - 20210327_ciudadanos_no_supervivencia.md

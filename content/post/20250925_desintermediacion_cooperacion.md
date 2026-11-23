@@ -6,7 +6,7 @@ date: 2025-09-25
 description: 'Reflexión sobre los mecanismos de cooperación humana y la tendencia
   moderna a la desintermediación: menos jerarquías, más acción directa y autónoma
   gracias a la tecnología.'
-lastmod: '2025-10-11T19:25:21.729048'
+lastmod: '2025-11-22'
 related:
 - 20220506_cooperacion_arma_doble_filo.md
 - 20240716_cortos.md

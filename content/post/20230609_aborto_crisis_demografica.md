@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2023-06-09
-lastmod: '2025-04-06T01:37:54.436790'
+lastmod: '2026-02-08'
 related:
 - 20231027_aborto_en_2222.md
 - 20230623_aborto_para_matematicos.md

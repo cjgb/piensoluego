@@ -2,7 +2,7 @@
 categories:
 - derecho
 date: 2023-06-02
-lastmod: '2025-04-06T01:38:43.500786'
+lastmod: '2025-08-03'
 related:
 - 20220916_ciencias_empiricas.md
 - 20231201_indultos.md

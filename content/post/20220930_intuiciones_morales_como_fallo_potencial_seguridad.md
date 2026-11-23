@@ -4,7 +4,7 @@ categories:
 date: 2022-09-30
 description: Una advertencia sobre las intuiciones morales basada en una metáfora
   informática
-lastmod: '2025-04-06T01:37:56.926096'
+lastmod: '2026-05-01'
 related:
 - 20210104_bioetica.md
 - 20211210_principios_moral.md

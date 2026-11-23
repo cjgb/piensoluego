@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2022-01-08
 description: Sobre los escépticos de la vacuna, desde una perspectiva evolucionista
-lastmod: '2025-04-06T01:39:07.256235'
+lastmod: '2026-06-09'
 related:
 - 20201228_sobre_la_supervivencia.md
 - 20220408_peligros_moralidad_non_sequitur.md

@@ -5,7 +5,7 @@ categories:
 date: 2025-05-09
 description: 'Sobre dos cosas que el sector público hace mal: recibir feedbak y clausurar
   proyectos'
-lastmod: '2025-06-29T16:58:35.851368'
+lastmod: '2025-12-16'
 related:
 - 20210403_kill_zones_administracion.md
 - 20240716_cortos.md

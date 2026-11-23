@@ -4,7 +4,7 @@ categories:
 date: 2024-10-04
 description: Sobre la posibilidad de exportar servicios de formación universitaria
   en España y el papel de las universidades privadas en ese mercado.
-lastmod: '2025-04-06T01:38:53.551649'
+lastmod: '2026-10-22'
 related:
 - 20241001_cortos.md
 - 20241126_cortos.md

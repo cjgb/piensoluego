@@ -5,7 +5,7 @@ categories:
 date: 2021-06-12
 description: Crítica del libro "Éxito y suerte, el mito de la meritocracia" de Robert
   Frank
-lastmod: '2025-04-06T01:37:59.165094'
+lastmod: '2026-11-23'
 related:
 - 20220708_meritocracia.md
 - 20250129_cortos.md

@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-11-08
-lastmod: '2025-04-06T01:37:33.858299'
+lastmod: '2025-12-16'
 related:
 - 20220121_justo_eficiente.md
 - 20240716_cortos.md

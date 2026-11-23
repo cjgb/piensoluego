@@ -5,7 +5,7 @@ date: 2026-01-08
 description: ¿Puede la movilidad de los mayores aliviar los alquileres tensionados?
   Analizamos cómo reducir la fricción en las mudanzas podría liberar vivienda en las
   ciudades.
-lastmod: '2026-01-06T23:06:29.172840'
+lastmod: '2026-01-06'
 related:
 - 20240723_cortos.md
 - 20250129_cortos.md

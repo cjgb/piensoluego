@@ -4,7 +4,7 @@ categories:
 date: 2025-12-18
 description: “Reflexión crítica sobre el rechazo social a las matemáticas, el analfabetismo
   numérico y su impacto educativo, a partir de una experiencia cotidiana.”
-lastmod: '2025-12-15T14:00:24.347244'
+lastmod: '2026-09-09'
 related:
 - 20210501_libertad_eleccion_educacion.md
 - 20250701_cortos.md

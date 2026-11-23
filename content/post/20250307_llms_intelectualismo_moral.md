@@ -4,7 +4,7 @@ categories:
 date: 2025-03-07
 description: Explorando cómo el post-entrenamiento con código deficiente genera desalineación
   moral en LLMs, y su paralelismo con el intelectualismo moral
-lastmod: '2025-04-06T01:38:57.624156'
+lastmod: '2026-10-01'
 related:
 - 20220610_valores_humanos.md
 - 20210104_bioetica.md

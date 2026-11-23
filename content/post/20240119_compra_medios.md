@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-01-19
-lastmod: '2025-04-06T01:37:38.629882'
+lastmod: '2026-01-25'
 related:
 - 20240621_medios_antilombriz.md
 - 20230630_trust_me_im_lying.md

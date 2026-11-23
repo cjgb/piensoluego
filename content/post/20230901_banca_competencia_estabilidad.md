@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-09-01
-lastmod: '2025-04-06T01:38:33.494103'
+lastmod: '2026-10-23'
 related:
 - 20211002_races_bottom.md
 - 20211030_supervivencia_etica_corporativa.md

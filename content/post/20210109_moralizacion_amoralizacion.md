@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-01-09
 description: Sobre los procesos de moralización y amoralización
-lastmod: '2025-04-06T01:38:30.145448'
+lastmod: '2026-10-29'
 related:
 - 20210104_bioetica.md
 - 20211210_principios_moral.md

@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2022-11-25
-lastmod: '2025-04-06T01:37:21.305066'
+lastmod: '2026-10-29'
 related:
 - 20210612_exito_suerte.md
 - 20250312_cortos.md

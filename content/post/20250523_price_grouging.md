@@ -4,7 +4,7 @@ categories:
 date: 2025-05-23
 description: Una discusión sobre el price gouging desde una pespectiva económica
   y el lastimoso estado de la ciencia económica en España.
-lastmod: '2025-07-15T12:10:57.596689'
+lastmod: '2026-05-15'
 related:
 - 20241211_cortos.md
 - 20240723_cortos.md

@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2021-06-19
 description: ¿Y si se hubiese descentralizado la gestión de las vacunas?
-lastmod: '2025-04-06T01:37:52.899034'
+lastmod: '2026-01-03'
 related:
 - 20211212_riesgo_vacunas.md
 - 20210417_vacuna_dilema_tranvia.md

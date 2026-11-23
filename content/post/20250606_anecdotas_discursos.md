@@ -4,7 +4,7 @@ categories:
 date: 2025-06-06
 description: Sobre la resolución de disonancias cognitivas entre la experiencia vivida
   y las normas y conocimientos generalmente aceptados.
-lastmod: '2025-08-01T19:58:44.074777'
+lastmod: '2026-05-15'
 related:
 - 20220617_metadiscusiones.md
 - 20210104_bioetica.md

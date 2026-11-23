@@ -4,7 +4,7 @@ categories:
 date: 2022-05-20
 description: El llamado proceso de moralización implica la proliferación de disputas
   irresolubles; pero Hobbes ya nos advirtió sobre ellas siglos atrás
-lastmod: '2025-04-06T01:38:58.057941'
+lastmod: '2026-10-22'
 related:
 - 20210109_moralizacion_amoralizacion.md
 - 20211210_principios_moral.md

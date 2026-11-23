@@ -4,7 +4,7 @@ categories:
 date: 2025-11-06
 description: Reflexión sobre la contradicción aparente, la moderación y el pensamiento
   crítico a partir de una conferencia de Víctor Lapuente y un texto de Joseph Heath.
-lastmod: '2025-11-13T20:21:57.263498'
+lastmod: '2025-11-22'
 related:
 - 20220617_metadiscusiones.md
 - 20250606_anecdotas_discursos.md

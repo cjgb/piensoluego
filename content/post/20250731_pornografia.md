@@ -4,7 +4,7 @@ categories:
 date: 2025-07-31
 description: La evolución de la percepción de la pornografía a través el histórico
   de artículos publicados en El País sobre el asunto desde su fundación
-lastmod: '2025-09-22T19:16:42.796621'
+lastmod: '2026-08-20'
 related:
 - 20250724_eta_pornografia.md
 - 20240209_porno_autoritarismo.md

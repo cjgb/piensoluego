@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2025-06-13
 description: Sobre cómo los LLMs mitigan el problema de la comunicación asíncrona
-lastmod: '2025-09-01T19:24:47.962373'
+lastmod: '2026-06-09'
 related:
 - 20250606_anecdotas_discursos.md
 - 20250611_cortos.md

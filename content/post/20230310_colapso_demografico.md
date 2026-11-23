@@ -2,7 +2,7 @@
 categories:
 - supervivencia
 date: 2023-03-10
-lastmod: '2025-04-06T01:38:49.159398'
+lastmod: '2026-07-24'
 related:
 - 20241101_valencia.md
 - 20231020_futuro_trabajo.md

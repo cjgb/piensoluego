@@ -4,7 +4,7 @@ categories:
 date: 2025-12-11
 description: Un artículo sobre la naturaleza, la crianza, el IQ y la meritocracia
   a través de la visión exagerada o no de la figura de John von Neumann
-lastmod: '2025-12-15T13:51:11.673685'
+lastmod: '2026-09-09'
 related:
 - 20220708_meritocracia.md
 - 20240514_cortos.md

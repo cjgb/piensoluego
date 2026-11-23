@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2022-05-13
 description: La dualidad sexo-género como reedición del viejo debate cuerpo-alma.
-lastmod: '2025-12-08'
+lastmod: '2026-10-01'
 related:
 - 20220610_valores_humanos.md
 - 20240405_modelos_mentales.md

@@ -4,7 +4,7 @@ categories:
 date: 2025-05-16
 description: Antaño se pensaba que las ciencias sociales habrían de cambiar el mundo
   (a mejor); hoy existen para no ser reemplazadas por malas ciencias sociales
-lastmod: '2025-07-01T22:03:44.510618'
+lastmod: '2025-09-03'
 related:
 - 20231208_miseria_filosofia.md
 - 20210213_reflexiones_cambio_climatico.md

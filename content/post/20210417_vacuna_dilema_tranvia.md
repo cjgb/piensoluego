@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-04-17
 description: La vacuna de AstraZeneca como aplicación práctica del dilema del tranvía
-lastmod: '2025-04-06T01:38:44.451023'
+lastmod: '2025-11-22'
 related:
 - 20211212_riesgo_vacunas.md
 - 20210104_bioetica.md

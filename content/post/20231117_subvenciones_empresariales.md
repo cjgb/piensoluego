@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-11-17
-lastmod: '2025-04-06T01:37:54.906986'
+lastmod: '2026-09-09'
 related:
 - 20241211_cortos.md
 - 20230519_incentivos_periodismo.md

@@ -3,6 +3,7 @@ categories:
 - política
 date: 2026-11-18
 description: "¿Existe el concepto de «huelga general» en otros países? ¿Son corrientes? ¿Correlaciona su popularidad con otros indicadores?"
+lastmod: '2026-11-15'
 tags:
 - epistemología
 - democracia

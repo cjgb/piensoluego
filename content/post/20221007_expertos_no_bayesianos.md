@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2022-10-07
 description: Otro contraejemplo al teorema de Berstein-von Mises
-lastmod: '2025-04-06T01:38:50.048286'
+lastmod: '2025-12-16'
 related:
 - 20220218_politica_informacion.md
 - 20220916_ciencias_empiricas.md

@@ -5,7 +5,7 @@ date: 2025-03-28
 description: Los microfundamnetos son esenciales paa entender el funcionamiento de
   la economía, pero es tentador ignorarlos y asumir posturas 'funcionalistas' alejadas
   de la realidad.
-lastmod: '2025-04-06T01:38:16.494334'
+lastmod: '2025-12-16'
 related:
 - 20241225_cortos.md
 - 20241105_cortos.md

@@ -4,7 +4,7 @@ categories:
 date: 2025-09-11
 description: Paralelismos entre la electrificación rural en EE.UU. mediante cooperativas
   y los retos actuales de la vivienda en España.
-lastmod: '2025-09-30T19:34:00.837891'
+lastmod: '2026-01-03'
 related:
 - 20241018_cooperativas_vivienda.md
 - 20221209_cambios_tecnologicos.md

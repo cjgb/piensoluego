@@ -4,7 +4,7 @@ categories:
 date: 2022-04-29
 description: Demasiado frecuentemente, la ley es dependiente de las condiciones iniciales
   en las que se gestó. Esta entrada elabora una propuesta para romper dicha dependencia.
-lastmod: '2025-04-06T01:38:03.897008'
+lastmod: '2026-09-17'
 related:
 - 20240416_cortos.md
 - 20231201_indultos.md

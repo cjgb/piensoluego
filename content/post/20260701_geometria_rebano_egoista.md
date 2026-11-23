@@ -4,7 +4,7 @@ categories:
 date: 2026-07-01
 description: Los animales no se agrupan por solidaridad, sino para usar a sus compañeros
   como "escudos vivos" y reducir su propia probabilidad individual de ser devorados.
-lastmod: '2026-06-25T14:06:50.845714'
+lastmod: '2026-06-25'
 related:
 - 20220108_disidencia.md
 - 20201228_sobre_la_supervivencia.md

@@ -5,7 +5,7 @@ date: 2026-03-19
 description: ¿En qué se parecen la educación de los hijos fuera como el altruismo
   efectivo? ¿Es posible maximizar el impacto en la crianza evitando el agotamiento
   y las medidas inútiles?
-lastmod: '2026-03-16T16:21:55.079612'
+lastmod: '2026-03-19'
 related:
 - 20251009_moviles.md
 - 20210501_libertad_eleccion_educacion.md

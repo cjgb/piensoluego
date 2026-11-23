@@ -4,7 +4,7 @@ categories:
 date: 2022-05-27
 description: Matizando una declaración de Spiegelhalter sobre la comparación de los
   riesgos de beber vs los de conducir
-lastmod: '2025-04-06T01:38:51.795352'
+lastmod: '2026-07-24'
 related:
 - 20211212_riesgo_vacunas.md
 - 20201228_sobre_la_supervivencia.md

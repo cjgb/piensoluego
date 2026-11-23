@@ -2,7 +2,7 @@
 categories:
 - filosofía
 date: 2023-12-29
-lastmod: '2025-04-06T01:37:50.555936'
+lastmod: '2026-09-24'
 related:
 - 20240119_compra_medios.md
 - 20240409_cortos.md

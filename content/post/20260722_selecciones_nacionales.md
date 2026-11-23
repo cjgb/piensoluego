@@ -5,7 +5,7 @@ categories:
 date: 2026-07-22
 description: Una justificación de por qué prefiero la victoria de la selección argentina
   sobre la española en la próxima final del mundial de fútbol de 2026.
-lastmod: '2026-07-17T12:46:23.179281'
+lastmod: '2026-09-18'
 related:
 - 20231013_futbol.md
 - 20220325_repliegue_globalizacion.md

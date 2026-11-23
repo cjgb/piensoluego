@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2021-02-06
 description: Sobre una expresión que necesita urgentemente el idioma español
-lastmod: '2025-04-06T01:38:59.382901'
+lastmod: '2026-09-09'
 related:
 - 20220429_demora_publicacion_ley.md
 - 20220916_ciencias_empiricas.md

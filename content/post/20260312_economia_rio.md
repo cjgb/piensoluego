@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2026-03-12
 description: ¿Es la economía una ciencia descriptiva o una especie de ingeniería?
-lastmod: '2026-03-05T16:20:16.157665'
+lastmod: '2026-08-20'
 related:
 - 20220916_ciencias_empiricas.md
 - 20250425_ecologia_economia.md

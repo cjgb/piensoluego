@@ -4,7 +4,7 @@ categories:
 date: 2025-04-18
 description: Una reflexión sobre los medicamentos, el impacto cultural de la talidomida
   y unas reflexiones sobre la futilidad de la investigación científica.
-lastmod: '2025-06-01T18:34:13.196064'
+lastmod: '2025-12-01'
 related:
 - 20250305_cortos.md
 - 20210521_colapso_expectativas_ciencia.md

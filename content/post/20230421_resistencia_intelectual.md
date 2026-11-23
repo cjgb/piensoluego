@@ -2,7 +2,7 @@
 categories:
 - educación
 date: 2023-04-21
-lastmod: '2025-12-08'
+lastmod: '2025-12-16'
 related:
 - 20250115_cortos.md
 - 20241126_cortos.md

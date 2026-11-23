@@ -5,7 +5,7 @@ categories:
 date: 2025-11-20
 description: 'Oferta, Abundancia y Asequibilidad: el debate político sobre la producción
   de bienes y servicios. ¿Son lo mismo o hay matices clave?'
-lastmod: '2025-11-22T18:02:21.528511'
+lastmod: '2026-09-09'
 related:
 - 20250507_cortos.md
 - 20240913_precios_vivienda.md

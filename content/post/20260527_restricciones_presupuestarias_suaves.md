@@ -4,7 +4,7 @@ categories:
 date: 2026-05-27
 description: 'Incentivos rotos: Los vicios económicos que el capitalismo comparte
   con la vieja URSS'
-lastmod: '2026-05-22T00:55:40.945330'
+lastmod: '2026-05-22'
 related:
 - 20260507_urss.md
 - 20240626_cortos.md

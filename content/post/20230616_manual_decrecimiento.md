@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-06-16
-lastmod: '2025-04-06T01:37:40.003128'
+lastmod: '2026-05-01'
 related:
 - 20230310_colapso_demografico.md
 - 20240705_construccion.md

@@ -4,7 +4,7 @@ categories:
 date: 2026-07-29
 description: Reflexiones tras una negociación fallida con un magnífico espécimen de
   sujeto de muy acotada racionalidad.
-lastmod: '2026-07-24T01:50:48.190482'
+lastmod: '2026-11-23'
 related:
 - 20260708_homo_iuridico-economicus.md
 - 20220204_nematodos.md

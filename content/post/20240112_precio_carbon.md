@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-01-12
-lastmod: '2025-04-06T01:39:07.692406'
+lastmod: '2025-12-14'
 related:
 - 20211119_emergencia_climatica.md
 - 20220902_cambio_climatico_diferente_esta_vez.md

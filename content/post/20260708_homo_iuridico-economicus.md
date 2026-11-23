@@ -4,7 +4,7 @@ categories:
 date: 2026-07-08
 description: Sobre cómo las organizaciones, y no solo el homo economicus, operan también
   en condiciones de racionalidad acotada.
-lastmod: '2026-07-02T15:42:23.125147'
+lastmod: '2026-07-02'
 related:
 - 20220909_homo_economicus.md
 - 20220204_nematodos.md

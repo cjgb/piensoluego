@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-02-27
 description: Reflexiones al hilo de un artículo de Esteban Hernández
-lastmod: '2025-04-06T01:39:06.823885'
+lastmod: '2026-09-09'
 related:
 - 20210425_corrupcion_arte_contemporaneo.md
 - 20210104_bioetica.md

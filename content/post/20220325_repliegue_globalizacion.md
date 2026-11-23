@@ -4,7 +4,7 @@ categories:
 - economía
 date: 2022-03-25
 description: La globalización tocó techo y ahora está en repliegue
-lastmod: '2025-04-06T01:37:47.933384'
+lastmod: '2026-11-23'
 related:
 - 20250312_cortos.md
 - 20221209_cambios_tecnologicos.md

@@ -2,7 +2,7 @@
 categories:
 - supervivencia
 date: 2023-02-24
-lastmod: '2025-04-06T01:38:05.942211'
+lastmod: '2025-04-06'
 related:
 - 20250129_cortos.md
 - 20240329_por_cuanto_te_retirarias.md

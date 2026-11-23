@@ -5,7 +5,7 @@ categories:
 date: 2025-09-18
 description: Qué es una escalada de privilegios y cómo este concepto informático revela
   los 'bugs' de nuestras constituciones y sistemas políticos.
-lastmod: '2025-10-06T17:47:58.776139'
+lastmod: '2025-10-06'
 related:
 - 20240308_insaculacion.md
 - 20231201_indultos.md

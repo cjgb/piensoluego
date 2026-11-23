@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2023-06-30
-lastmod: '2025-04-06T01:37:38.093465'
+lastmod: '2026-11-23'
 related:
 - 20240119_compra_medios.md
 - 20240621_medios_antilombriz.md

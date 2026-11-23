@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2025-07-03
 description: Sobre los efectos beneficiosos del cártel de sobres que existió en España
-lastmod: '2025-09-10T19:03:36.159607'
+lastmod: '2025-09-10'
 related:
 - 20240626_cortos.md
 - 20211030_supervivencia_etica_corporativa.md

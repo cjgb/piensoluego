@@ -2,7 +2,7 @@
 categories:
 - tecnología
 date: 2024-02-23
-lastmod: '2025-04-06T01:38:15.175254'
+lastmod: '2026-06-03'
 related:
 - 20240716_cortos.md
 - 20240607_mercados_predicciones.md

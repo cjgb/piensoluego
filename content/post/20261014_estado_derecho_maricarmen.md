@@ -3,6 +3,7 @@ categories:
 - política
 date: 2026-10-14
 description: "Los adultos que dan por bueno el estado de derecho están moralmente obligados a asumir también como tales sus consecuencias indeseadas."
+lastmod: '2026-10-15'
 tags:
 - política
 - derecho

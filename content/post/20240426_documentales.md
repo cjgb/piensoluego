@@ -2,7 +2,7 @@
 categories:
 - otros
 date: 2024-04-26
-lastmod: '2025-04-06T01:37:39.569116'
+lastmod: '2025-09-03'
 related:
 - 20240514_cortos.md
 - 20210123_sokal_latour.md

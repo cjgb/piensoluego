@@ -4,7 +4,7 @@ categories:
 date: 2026-09-16
 description: Una evaluación del coste relativo del reciclaje con respecto al enterramiento
   de los residuos en vertederos, aplicada al caso de Madrid.
-lastmod: '2026-09-11T11:23:43.102603'
+lastmod: '2026-09-11'
 related:
 - 20250904_tasa_basuras.md
 - 20240112_precio_carbon.md

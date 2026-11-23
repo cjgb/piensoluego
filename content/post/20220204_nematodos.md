@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2022-02-04
 description: «Sería gracioso si descubriésemos que la economía funciona para todas las especies menos la nuestra.»
-lastmod: '2025-04-06T01:38:17.368337'
+lastmod: '2026-08-31'
 related:
 - 20220909_homo_economicus.md
 - 20240322_caricaturas_antropologicas.md

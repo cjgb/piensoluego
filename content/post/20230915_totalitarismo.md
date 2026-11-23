@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2023-09-15
-lastmod: '2025-04-06T01:38:11.628297'
+lastmod: '2025-09-03'
 related:
 - 20240209_porno_autoritarismo.md
 - 20210313_democracia_ergodica.md

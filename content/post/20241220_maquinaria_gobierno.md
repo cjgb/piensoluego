@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-12-20
-lastmod: '2025-04-06T01:37:27.309604'
+lastmod: '2026-11-23'
 related:
 - 20211119_emergencia_climatica.md
 - 20230721_greedflation.md

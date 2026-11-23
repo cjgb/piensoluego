@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2022-04-01
 description: Sobre la imposibilidad de crear una ética a prueba del paso del tiempo
-lastmod: '2025-04-06T01:38:19.175343'
+lastmod: '2026-09-24'
 related:
 - 20211210_principios_moral.md
 - 20210104_bioetica.md

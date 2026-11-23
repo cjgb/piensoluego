@@ -4,7 +4,7 @@ categories:
 - economía
 date: 2022-03-18
 description: Una gráfica que describe las diferencias entre el utilitarismo y el paretianismo
-lastmod: '2025-04-06T01:38:58.503541'
+lastmod: '2026-11-05'
 related:
 - 20230203_moral_nominal_vs_real.md
 - 20230127_otra_conclusion_repugnante.md

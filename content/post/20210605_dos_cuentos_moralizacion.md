@@ -5,7 +5,7 @@ categories:
 date: 2021-06-05
 description: Apuntes para dos cuentos sin pretensiones sobre la moralización de la
   sociedad
-lastmod: '2025-04-06T01:38:18.253210'
+lastmod: '2025-11-22'
 related:
 - 20231027_aborto_en_2222.md
 - 20210612_exito_suerte.md

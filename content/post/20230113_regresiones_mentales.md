@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2023-01-13
-lastmod: '2025-04-06T01:38:55.435299'
+lastmod: '2026-10-15'
 related:
 - 20220916_ciencias_empiricas.md
 - 20221021_se_puede_ser_racional.md

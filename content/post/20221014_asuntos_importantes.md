@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2022-10-14
 description: Consejos para no dejarse llevar por el ruido del día a día
-lastmod: '2025-10-19'
+lastmod: '2026-02-25'
 noindex: true
 related:
 - 20240119_compra_medios.md

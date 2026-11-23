@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2021-07-10
 description: Sobre la sostenibilidad del sistema de pensiones en España
-lastmod: '2025-04-06T01:38:34.972104'
+lastmod: '2025-11-26'
 related:
 - 20210903_pensiones_balanzas.md
 - 20250129_cortos.md

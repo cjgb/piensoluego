@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2023-02-03
-lastmod: '2025-04-06T01:38:33.034602'
+lastmod: '2025-12-16'
 related:
 - 20220318_utilitarismo_paretianismo.md
 - 20210104_bioetica.md

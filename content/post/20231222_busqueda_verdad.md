@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2023-12-22
-lastmod: '2025-04-06T01:38:12.240380'
+lastmod: '2025-12-16'
 related:
 - 20250228_adscripcion_ideologica.md
 - 20221021_se_puede_ser_racional.md

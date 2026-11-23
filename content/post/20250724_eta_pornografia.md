@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2025-07-24
 description: Un artículo de El País de 1980 sobre ETA, la pornografía y su interrelación
-lastmod: '2025-09-18T20:31:13.097655'
+lastmod: '2025-11-22'
 related:
 - 20250617_cortos.md
 - 20240209_porno_autoritarismo.md

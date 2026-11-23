@@ -3,6 +3,7 @@ categories:
 - política
 date: 2026-11-11
 description: "Por proximidad, direccionalmente y «popperianamente»"
+lastmod: '2026-11-05'
 tags:
 - epistemología
 - democracia

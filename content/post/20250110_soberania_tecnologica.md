@@ -3,7 +3,7 @@ categories:
 - economía
 - política
 date: 2025-01-10
-lastmod: '2025-04-06T01:38:00.034618'
+lastmod: '2025-12-16'
 related:
 - 20250108_cortos.md
 - 20240524_cortos.md

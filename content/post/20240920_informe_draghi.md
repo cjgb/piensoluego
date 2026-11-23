@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-09-20
-lastmod: '2025-04-06T01:37:31.881333'
+lastmod: '2026-10-29'
 related:
 - 20250219_cortos.md
 - 20250221_friccion.md

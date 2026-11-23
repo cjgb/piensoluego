@@ -4,7 +4,7 @@ categories:
 - economía
 date: 2025-05-02
 description: Los derechos que no se pueden vender tienen menos valor.
-lastmod: '2025-06-12T23:38:22.547843'
+lastmod: '2025-09-18'
 related:
 - 20240416_cortos.md
 - 20240716_cortos.md

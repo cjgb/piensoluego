@@ -5,7 +5,7 @@ date: 2026-04-02
 description: El uso de la información privilegiada está perseguido en los mercados
   financieros, pero hay argumentos poderosos para fomentar su uso en los mercados
   de predicciones.
-lastmod: '2026-03-27T17:56:33.992435'
+lastmod: '2026-11-05'
 related:
 - 20240607_mercados_predicciones.md
 - 20221118_value_investment.md

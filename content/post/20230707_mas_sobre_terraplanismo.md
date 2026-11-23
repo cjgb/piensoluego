@@ -2,7 +2,7 @@
 categories:
 - ciencia
 date: 2023-07-07
-lastmod: '2025-04-06T01:37:53.954362'
+lastmod: '2026-09-09'
 related:
 - 20230414_entendiendo_terraplanistas.md
 - 20240726_otros_terraplanismos.md

@@ -2,7 +2,7 @@
 categories:
 - filosofía
 date: 2025-01-03
-lastmod: '2025-04-06T01:37:26.863986'
+lastmod: '2025-12-01'
 related:
 - 20221028_evaluacion_heuristicas.md
 - 20221021_se_puede_ser_racional.md

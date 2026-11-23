@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2022-03-11
 description: ¿Merece la pena leer libros de tapa a tapa?
-lastmod: '2025-04-06T01:38:38.520308'
+lastmod: '2025-04-06'
 related:
 - 20230630_trust_me_im_lying.md
 - 20240906_todo_libros.md

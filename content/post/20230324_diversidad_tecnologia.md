@@ -2,7 +2,7 @@
 categories:
 - tecnología
 date: 2023-03-24
-lastmod: '2025-04-06T01:38:28.141457'
+lastmod: '2025-08-18'
 related:
 - 20250328_microfundamentos.md
 - 20210501_libertad_eleccion_educacion.md

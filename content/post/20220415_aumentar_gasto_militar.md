@@ -4,7 +4,7 @@ categories:
 date: 2022-04-15
 description: En pura lógica, a la vista de lo ocurrido tras la invasión de Ucrania,
   habría que reducir el gasto militar, no incrementarlo.
-lastmod: '2025-04-06T01:37:47.047809'
+lastmod: '2025-10-01'
 related:
 - 20240402_cortos.md
 - 20240514_cortos.md

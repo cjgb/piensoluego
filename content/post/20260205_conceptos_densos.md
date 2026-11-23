@@ -5,7 +5,7 @@ categories:
 date: 2026-02-05
 description: 'Explora la distinción entre conceptos finos y densos: desde la filosofía
   de Bernard Williams hasta su aplicación en programación y herramientas de IA.'
-lastmod: '2026-01-30T09:50:22.818279'
+lastmod: '2026-01-30'
 related:
 - 20250307_llms_intelectualismo_moral.md
 - 20251113_etica_populismo.md

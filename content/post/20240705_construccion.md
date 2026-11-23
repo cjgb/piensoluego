@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-07-05
-lastmod: '2025-04-06T01:38:45.432581'
+lastmod: '2026-01-03'
 related:
 - 20241206_vivienda_portugal.md
 - 20241018_cooperativas_vivienda.md

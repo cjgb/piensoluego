@@ -4,7 +4,7 @@ categories:
 date: 2021-03-26
 description: Reflexiones sobre el fin de Ciudadanos y el papel y la supervivencia
   de los partidos bisagra
-lastmod: '2025-04-06T01:38:56.743248'
+lastmod: '2026-11-05'
 related:
 - 20220304_cantonalizacion_partidos.md
 - 20240514_cortos.md

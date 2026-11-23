@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2025-01-31
-lastmod: '2025-04-06T01:38:02.388206'
+lastmod: '2025-09-03'
 related:
 - 20210130_ciencia_tecnologia.md
 - 20240419_aprender_historia.md

@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-12-10
 description: Principios de moral desde la óptica de la supervivencia y la evolución
-lastmod: '2025-04-06T01:38:10.350765'
+lastmod: '2026-09-17'
 related:
 - 20210104_bioetica.md
 - 20210109_moralizacion_amoralizacion.md

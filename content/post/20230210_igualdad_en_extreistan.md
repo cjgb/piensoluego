@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-02-10
-lastmod: '2025-04-06T01:39:00.709798'
+lastmod: '2025-11-26'
 related:
 - 20210220_meritocracia_deberes_intereses.md
 - 20240716_cortos.md

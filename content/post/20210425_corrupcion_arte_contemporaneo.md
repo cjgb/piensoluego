@@ -4,7 +4,7 @@ categories:
 date: 2021-04-24
 description: Acerca de un vídeo de Paloma Pájaro sobre la corrupción del arte contemporáneo
   en España
-lastmod: '2025-04-06T01:38:20.987520'
+lastmod: '2026-09-09'
 related:
 - 20240514_cortos.md
 - 20210227_articulo_esteban_fernandez.md

@@ -2,7 +2,7 @@
 categories:
 - filosofía
 date: 2023-12-15
-lastmod: '2025-04-06T01:38:37.390335'
+lastmod: '2025-12-16'
 related:
 - 20220610_valores_humanos.md
 - 20240419_aprender_historia.md

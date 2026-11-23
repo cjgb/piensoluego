@@ -2,7 +2,7 @@
 categories:
 - ciencia
 date: 2022-12-23
-lastmod: '2025-04-06T01:38:22.497446'
+lastmod: '2026-11-23'
 related:
 - 20210213_reflexiones_cambio_climatico.md
 - 20240105_goodhard_experts.md

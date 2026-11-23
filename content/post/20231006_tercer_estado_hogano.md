@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2023-10-06
-lastmod: '2025-04-06T01:37:20.701839'
+lastmod: '2026-07-24'
 related:
 - 20241108_rol_estado.md
 - 20220304_cantonalizacion_partidos.md

@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-11-24
-lastmod: '2025-04-06T01:39:02.890300'
+lastmod: '2025-09-03'
 related:
 - 20221209_cambios_tecnologicos.md
 - 20220923_indicios_cambio_climatico_tomadura_pelo.md

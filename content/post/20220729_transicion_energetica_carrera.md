@@ -4,7 +4,7 @@ categories:
 date: 2022-07-29
 description: La transición energética es una carrera que ganarán quienes lleguen los
   últimos
-lastmod: '2025-04-06T01:38:18.737618'
+lastmod: '2025-09-13'
 related:
 - 20221209_cambios_tecnologicos.md
 - 20220923_indicios_cambio_climatico_tomadura_pelo.md

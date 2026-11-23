@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2025-01-24
-lastmod: '2025-04-06T01:38:38.002808'
+lastmod: '2025-12-16'
 related:
 - 20240723_cortos.md
 - 20250129_cortos.md

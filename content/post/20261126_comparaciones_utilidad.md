@@ -4,6 +4,7 @@ categories:
 - economía
 date: 2026-11-25
 description: "Una introducción de alto nivel al bienestarismo, el utilitarismo y el paretianismo, así como al problema fundamental de las comparaciones interpersonales de utilidad."
+lastmod: '2026-11-20'
 tags:
 - economía
 - política

@@ -4,7 +4,7 @@ categories:
 - política
 date: 2021-05-01
 description: Una visión subjetiva sobre sobre educación y políticas públicas al respecto
-lastmod: '2025-04-06T01:39:04.203372'
+lastmod: '2025-11-22'
 related:
 - 20240723_cortos.md
 - 20210220_meritocracia_deberes_intereses.md

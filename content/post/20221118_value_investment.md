@@ -4,7 +4,7 @@ categories:
 date: 2022-11-18
 description: Cómo la metáfora de la inversión "en valor" (vs indexada) se aplica a
   más ámbitos
-lastmod: '2025-04-06T01:38:49.611871'
+lastmod: '2026-10-10'
 related:
 - 20230721_greedflation.md
 - 20250328_microfundamentos.md

@@ -4,7 +4,7 @@ categories:
 date: 2026-03-05
 description: Analizamos cómo la crítica posmoderna y la negación de la verdad objetiva
   han pasado de la izquierda académica a la derecha radical. ¿Se agotó la crítica?
-lastmod: '2026-03-02T12:54:25.237782'
+lastmod: '2026-09-09'
 related:
 - 20250404_postmodernismo.md
 - 20210123_sokal_latour.md

@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-10-11
-lastmod: '2025-04-06T01:38:11.059331'
+lastmod: '2025-09-13'
 related:
 - 20250328_microfundamentos.md
 - 20240521_cortos.md

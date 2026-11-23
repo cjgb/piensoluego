@@ -5,7 +5,7 @@ date: 2025-10-30
 description: El caso Eiser revela cómo España quebró su marco renovable y perdió ante
   el CIADI. Reflexión sobre promesas rotas, arbitrajes internacionales y pensiones
   futuras.
-lastmod: '2025-11-12T12:42:25.701905'
+lastmod: '2025-11-22'
 related:
 - 20250930_cortos.md
 - 20250624_cortos.md

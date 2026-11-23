@@ -5,7 +5,7 @@ categories:
 date: 2022-09-09
 description: Una apología sobre el homo economicus basada en un argumento de Jonathan
   Haidt en The Righteous Mind
-lastmod: '2025-04-06T01:37:39.118393'
+lastmod: '2025-12-14'
 related:
 - 20240322_caricaturas_antropologicas.md
 - 20221021_se_puede_ser_racional.md

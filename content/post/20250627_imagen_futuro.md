@@ -4,7 +4,7 @@ categories:
 date: 2025-06-27
 description: Sobre cómo han cambiado nuestras expectativas sobre el futuro y cómo
   la visión actual es totalmente distópica.
-lastmod: '2025-09-06T12:55:55.339064'
+lastmod: '2025-09-06'
 related:
 - 20210521_colapso_expectativas_ciencia.md
 - 20240126_aciertos_futurologia.md

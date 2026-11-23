@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-05-03
-lastmod: '2025-04-06T01:37:40.890866'
+lastmod: '2025-12-12'
 related:
 - 20220304_cantonalizacion_partidos.md
 - 20240524_cortos.md

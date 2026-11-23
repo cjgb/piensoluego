@@ -2,7 +2,7 @@
 categories:
 - tecnología
 date: 2024-09-06
-lastmod: '2025-04-06T01:37:21.875354'
+lastmod: '2026-10-15'
 related:
 - 20250110_soberania_tecnologica.md
 - 20240524_cortos.md

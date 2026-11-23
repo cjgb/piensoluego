@@ -3,7 +3,7 @@ categories:
 - derecho
 date: 2021-06-27
 description: Sobre el derecho como conocimiento común y punto focal
-lastmod: '2025-04-06T01:38:42.011623'
+lastmod: '2026-07-24'
 related:
 - 20240412_impuestos.md
 - 20220218_politica_informacion.md

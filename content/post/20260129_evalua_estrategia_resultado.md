@@ -4,7 +4,7 @@ categories:
 date: 2026-01-29
 description: 'El «metaerror» de Tyler Cowen: por qué debemos juzgar estrategias y
   no resultados.'
-lastmod: '2026-01-23T16:36:29.347174'
+lastmod: '2026-01-23'
 related:
 - 20220701_merito.md
 - 20230113_regresiones_mentales.md

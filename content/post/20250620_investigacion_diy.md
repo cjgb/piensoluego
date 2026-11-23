@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2025-06-20
 description: Sobre los límites de los proyectos de investigación personales
-lastmod: '2025-09-03T11:32:30.747378'
+lastmod: '2025-12-14'
 related:
 - 20230414_entendiendo_terraplanistas.md
 - 20230707_mas_sobre_terraplanismo.md

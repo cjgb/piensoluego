@@ -3,7 +3,7 @@ categories:
 - otros
 date: 2025-10-16
 description: '"La aventura de las plantas", de 1982, parece muy de hoy.'
-lastmod: '2025-10-15T19:44:24.578973'
+lastmod: '2026-11-23'
 related:
 - 20250731_pornografia.md
 - 20240906_todo_libros.md

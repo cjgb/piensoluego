@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2021-01-16
 description: Ocasionalismo laico para las sociedades estatalizadas del s  XXI
-lastmod: '2025-04-06T01:38:12.865387'
+lastmod: '2026-05-22'
 related:
 - 20201228_sobre_la_supervivencia.md
 - 20210104_bioetica.md

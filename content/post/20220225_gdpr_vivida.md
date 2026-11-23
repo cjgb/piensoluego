@@ -4,7 +4,7 @@ categories:
 - derecho
 date: 2022-02-25
 description: Sobre los perniciosos efectos de la GDPR
-lastmod: 2026-02-24
+lastmod: '2026-02-25'
 related:
 - 20250129_cortos.md
 - 20240416_cortos.md

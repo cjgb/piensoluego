@@ -3,7 +3,7 @@ categories:
 - ciencia
 date: 2022-09-16
 description: 'Ciencias empíricas: una potencial deriva peligrosa'
-lastmod: '2025-04-06T01:37:33.329902'
+lastmod: '2025-12-16'
 related:
 - 20231208_miseria_filosofia.md
 - 20210213_reflexiones_cambio_climatico.md

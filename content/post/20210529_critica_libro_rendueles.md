@@ -5,7 +5,7 @@ categories:
 date: 2021-05-29
 description: Una crítica del libro "Contra la igualdad de oportunidades, un panfleto
   igualitarista" de César Rendueles
-lastmod: '2025-04-06T01:37:30.836578'
+lastmod: '2026-07-11'
 related:
 - 20210104_bioetica.md
 - 20210213_reflexiones_cambio_climatico.md

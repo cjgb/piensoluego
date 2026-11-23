@@ -2,7 +2,7 @@
 categories:
 - otros
 date: 2023-11-03
-lastmod: '2025-04-06T01:38:32.526068'
+lastmod: '2026-08-20'
 related:
 - 20240716_cortos.md
 - 20241001_cortos.md

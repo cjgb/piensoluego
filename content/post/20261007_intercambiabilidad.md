@@ -3,6 +3,7 @@ categories:
 - epistemología
 date: 2026-10-07
 description: "Sobre la idea de intercambiabilidad y sus manifestaciones en probabilidad, causalidad, epistemología y la teoría de la argumentación."
+lastmod: '2026-10-10'
 tags:
 - epistemología
 - causalidad

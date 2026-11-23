@@ -4,7 +4,7 @@ categories:
 date: 2026-06-03
 description: Una controversia que ilustra las limitaciones del PIB como indicador
   de lo que quiera que este indique.
-lastmod: '2026-05-29T12:13:17.060328'
+lastmod: '2026-05-29'
 related:
 - 20250717_pib_gasto_militar.md
 - 20250129_cortos.md

@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2021-12-12
 description: 'Las vacunas: ¿es legítimo imponer riesgos sobre los demás?'
-lastmod: '2025-04-06T01:37:34.447384'
+lastmod: '2026-10-15'
 related:
 - 20210417_vacuna_dilema_tranvia.md
 - 20210619_descentralizacion_vacunas.md

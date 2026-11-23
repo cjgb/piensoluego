@@ -5,7 +5,7 @@ categories:
 date: 2021-04-03
 description: Reflexiones el concepto de kill zones y su relación con las administraciones
   públicas
-lastmod: '2025-04-06T01:37:49.689879'
+lastmod: '2026-07-11'
 related:
 - 20240716_cortos.md
 - 20241025_anticomunes.md

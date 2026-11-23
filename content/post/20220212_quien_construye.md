@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2022-02-12
 description: Sobre el verdadero autor de las cosas
-lastmod: '2026-08-31'
+lastmod: '2026-10-22'
 related:
 - 20201228_sobre_la_supervivencia.md
 - 20240524_cortos.md

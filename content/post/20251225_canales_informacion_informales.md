@@ -4,7 +4,7 @@ categories:
 date: 2025-12-25
 description: Sobre la relevancia de los canales informales de comunicación, particularmente
   en contextos de teletrabajo
-lastmod: '2025-12-16T13:53:28.911675'
+lastmod: '2026-11-23'
 related:
 - 20250613_ia_conversaciones_asincronas.md
 - 20211112_comunicacion_coordinacion.md

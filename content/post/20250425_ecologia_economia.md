@@ -4,7 +4,7 @@ categories:
 date: 2025-04-25
 description: Sobre las similitudes y las diferencias entre la ecología y la economía,
   vistas desde el punto de las intervenciones
-lastmod: '2025-06-02T20:28:08.162244'
+lastmod: '2026-10-15'
 related:
 - 20240712_economia_politica.md
 - 20220916_ciencias_empiricas.md

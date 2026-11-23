@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2025-02-07
-lastmod: '2025-04-06T01:37:37.557461'
+lastmod: '2025-12-01'
 related:
 - 20220401_etica_a_prueba_paso_tiempo.md
 - 20211210_principios_moral.md

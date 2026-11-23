@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2023-04-14
-lastmod: '2025-04-06T01:38:24.336538'
+lastmod: '2026-07-11'
 related:
 - 20240510_confianza_ciencia.md
 - 20230707_mas_sobre_terraplanismo.md

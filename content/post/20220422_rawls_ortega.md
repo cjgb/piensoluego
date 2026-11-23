@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2022-04-22
 description: Ortega siempre le gana a Rawls por goleada.
-lastmod: '2025-04-06T01:38:14.256424'
+lastmod: '2025-04-06'
 related:
 - 20240315_realidad_ideas.md
 - 20220429_demora_publicacion_ley.md

@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-03-03
-lastmod: '2025-10-19'
+lastmod: '2025-11-26'
 related:
 - 20241206_vivienda_portugal.md
 - 20240503_infraestructuras.md

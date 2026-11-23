@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2022-11-11
 description: Una crítica a resultados habitualmente publicados que parten de la falsa premisa de la intercambialilidad de los sujetos.
-lastmod: '2026-08-31'
+lastmod: '2026-09-24'
 related:
 - 20240521_cortos.md
 - 20250326_cortos.md

@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-11-29
-lastmod: '2025-04-06T01:38:42.545484'
+lastmod: '2025-09-03'
 related:
 - 20220108_disidencia.md
 - 20210529_critica_libro_rendueles.md

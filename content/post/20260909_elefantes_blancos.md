@@ -5,7 +5,7 @@ categories:
 date: 2026-09-09
 description: Sobre los motivos ideológicos de la desaparición del concepto de incertidumbre
   en la discusión socialmente aceptable del cambio climático.
-lastmod: '2026-09-04T20:41:02.408908'
+lastmod: '2026-09-04'
 related:
 - 20260902_incertidumbre_climatica.md
 - 20210213_reflexiones_cambio_climatico.md

@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-03-22
-lastmod: '2025-04-06T01:38:41.056541'
+lastmod: '2025-11-26'
 related:
 - 20220909_homo_economicus.md
 - 20220603_nudges.md

@@ -2,7 +2,7 @@
 categories:
 - filosofía
 date: 2023-12-08
-lastmod: '2025-04-06T01:37:43.517838'
+lastmod: '2025-12-16'
 related:
 - 20220916_ciencias_empiricas.md
 - 20250205_cortos.md

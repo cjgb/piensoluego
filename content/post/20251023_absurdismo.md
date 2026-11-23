@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2025-10-23
 description: Una apología del absurdismo.
-lastmod: '2025-10-28T19:39:34.096937'
+lastmod: '2025-11-22'
 related:
 - 20210227_articulo_esteban_fernandez.md
 - 20250404_postmodernismo.md

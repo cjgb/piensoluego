@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2023-09-08
-lastmod: '2025-04-06T01:38:07.551885'
+lastmod: '2025-12-14'
 related:
 - 20210213_reflexiones_cambio_climatico.md
 - 20221021_se_puede_ser_racional.md

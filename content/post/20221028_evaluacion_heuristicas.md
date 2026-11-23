@@ -3,7 +3,7 @@ categories:
 - epistemología
 date: 2022-10-28
 description: Sobre las heurísticas que aplicamos día a día
-lastmod: '2025-04-06T01:38:52.237015'
+lastmod: '2025-09-16'
 related:
 - 20221021_se_puede_ser_racional.md
 - 20250103_ganar_sistematicamente.md

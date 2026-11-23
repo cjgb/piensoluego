@@ -2,7 +2,7 @@
 categories:
 - otros
 date: 2024-11-22
-lastmod: '2025-04-06T01:38:54.925198'
+lastmod: '2026-11-23'
 related:
 - 20221021_se_puede_ser_racional.md
 - 20210104_bioetica.md

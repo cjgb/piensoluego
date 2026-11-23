@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2023-06-23
-lastmod: '2025-04-06T01:38:44.004523'
+lastmod: '2025-12-14'
 related:
 - 20210104_bioetica.md
 - 20231027_aborto_en_2222.md

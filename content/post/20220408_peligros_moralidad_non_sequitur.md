@@ -4,7 +4,7 @@ categories:
 date: 2022-04-08
 description: Mis primeras impresiones del libro "Los peligros de la moralidad" de
   Pablo Malo
-lastmod: '2025-04-06T01:38:23.894815'
+lastmod: '2025-12-16'
 related:
 - 20211210_principios_moral.md
 - 20210109_moralizacion_amoralizacion.md

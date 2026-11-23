@@ -3,7 +3,7 @@ categories:
 - economía
 - política
 date: 2023-05-26
-lastmod: '2025-04-06T01:37:48.371412'
+lastmod: '2025-04-06'
 related:
 - 20211002_races_bottom.md
 - 20220603_nudges.md

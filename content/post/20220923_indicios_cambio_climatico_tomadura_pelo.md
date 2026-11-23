@@ -3,7 +3,7 @@ categories:
 - política
 date: 2022-09-23
 description: Indicios de que "lo del cambio climático" es una tomadura de pelo
-lastmod: '2025-04-06T01:37:44.396419'
+lastmod: '2026-11-23'
 related:
 - 20220902_cambio_climatico_diferente_esta_vez.md
 - 20210213_reflexiones_cambio_climatico.md

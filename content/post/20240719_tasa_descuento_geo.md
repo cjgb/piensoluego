@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2024-07-19
-lastmod: '2025-04-06T01:38:39.022835'
+lastmod: '2026-07-11'
 related:
 - 20240402_cortos.md
 - 20240723_cortos.md

@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2024-02-16
-lastmod: '2025-04-06T01:38:04.378778'
+lastmod: '2026-09-09'
 related:
 - 20230623_aborto_para_matematicos.md
 - 20210104_bioetica.md

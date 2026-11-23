@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2021-11-19
 description: No hay emergencia climática sino fiscal
-lastmod: '2025-04-06T01:39:01.151749'
+lastmod: '2025-11-26'
 related:
 - 20220902_cambio_climatico_diferente_esta_vez.md
 - 20220923_indicios_cambio_climatico_tomadura_pelo.md

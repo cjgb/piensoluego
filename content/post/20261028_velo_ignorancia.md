@@ -3,6 +3,7 @@ categories:
 - epistemología
 date: 2026-10-28
 description: "El «velo de la ignorancia» es un experimento mental atribuido a Rawls pero que ya había sido tratado por Harsanyi previamente, con conclusiones diferentes."
+lastmod: '2026-10-23'
 tags:
 - filosofía
 - utilitarismo

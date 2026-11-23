@@ -4,7 +4,7 @@ categories:
 date: 2022-09-02
 description: El cambio climático en comparación con la lluvia ácida o el agujero de
   la capa de ozono
-lastmod: '2025-04-06T01:39:06.385283'
+lastmod: '2025-12-14'
 related:
 - 20220923_indicios_cambio_climatico_tomadura_pelo.md
 - 20211119_emergencia_climatica.md

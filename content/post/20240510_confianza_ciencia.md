@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-05-10
-lastmod: '2025-04-06T01:38:46.941735'
+lastmod: '2026-09-17'
 related:
 - 20230414_entendiendo_terraplanistas.md
 - 20210130_ciencia_tecnologia.md

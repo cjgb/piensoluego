@@ -4,7 +4,7 @@ categories:
 date: 2026-05-13
 description: Un edificio atrapado es uno que, regulación en mano, no puede ni construirse
   ni derribarse.
-lastmod: '2026-05-07T16:31:04.268989'
+lastmod: '2026-05-07'
 related:
 - 20260409_desamortizacion_vivienda.md
 - 20240705_construccion.md

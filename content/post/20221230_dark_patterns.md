@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2022-12-30
-lastmod: '2025-04-06T01:37:22.848438'
+lastmod: '2026-06-09'
 related:
 - 20220603_nudges.md
 - 20240322_caricaturas_antropologicas.md

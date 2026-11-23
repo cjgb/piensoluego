@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2021-07-03
 description: Media y varianza en economía
-lastmod: 2026-10-19
+lastmod: '2026-10-22'
 related:
 - 20211002_races_bottom.md
 - 20220916_ciencias_empiricas.md

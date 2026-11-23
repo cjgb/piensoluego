@@ -4,7 +4,7 @@ categories:
 date: 2025-11-27
 description: 'Reflexión sobre monopolios naturales, economía abierta y tecnologías
   como EUV: ¿cuántos ASML caben en un mercado global ultracostoso y de nicho?'
-lastmod: '2025-12-02T00:04:18.013782'
+lastmod: '2026-03-19'
 related:
 - 20240626_cortos.md
 - 20230217_liberanos_complejidad.md

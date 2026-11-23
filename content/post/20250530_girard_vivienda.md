@@ -4,7 +4,7 @@ categories:
 date: 2025-05-30
 description: Sobre la relación entre el deseo mimético y el chivo expiatorio y el
   mercado de la vivienda
-lastmod: '2025-07-24T19:58:12.400250'
+lastmod: '2025-12-16'
 related:
 - 20210220_meritocracia_deberes_intereses.md
 - 20210627_derecho_punto_focal.md

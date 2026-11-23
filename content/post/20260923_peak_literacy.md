@@ -4,7 +4,7 @@ categories:
 date: 2026-09-23
 description: No es el exterminio premeditado sino la idiotización colateral y sus
   ulteriores consecuencias sobre la economía, la política y la sociedad.
-lastmod: '2026-09-18T12:06:43.552454'
+lastmod: '2026-09-18'
 related:
 - 20230428_regulacion_ai.md
 - 20220610_valores_humanos.md

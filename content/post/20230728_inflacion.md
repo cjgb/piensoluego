@@ -2,7 +2,7 @@
 categories:
 - economía
 date: 2023-07-28
-lastmod: '2025-10-19'
+lastmod: '2025-12-16'
 related:
 - 20240913_precios_vivienda.md
 - 20230721_greedflation.md

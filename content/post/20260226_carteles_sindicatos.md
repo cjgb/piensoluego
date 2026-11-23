@@ -4,7 +4,7 @@ categories:
 date: 2026-02-26
 description: Explora la ambigüedad entre cárteles y sindicatos. ¿Es la coordinación
   de precios una cuestión de forma legal o de ética de mercado?
-lastmod: '2026-02-20T13:15:12.642815'
+lastmod: '2026-10-29'
 related:
 - 20250703_cartel_sobres.md
 - 20210627_derecho_punto_focal.md

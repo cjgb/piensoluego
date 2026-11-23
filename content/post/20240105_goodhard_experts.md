@@ -2,7 +2,7 @@
 categories:
 - epistemología
 date: 2024-01-05
-lastmod: '2026-08-20'
+lastmod: '2026-09-09'
 related:
 - 20220916_ciencias_empiricas.md
 - 20230602_evaluacion_reincidencia.md

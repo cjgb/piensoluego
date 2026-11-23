@@ -4,7 +4,7 @@ categories:
 date: 2026-09-30
 description: En la cúspide de nuestras habilidades intelectuales se encuentra la sabiduría,
   no la inteligencia.
-lastmod: '2026-09-24T15:47:39.931767'
+lastmod: '2026-10-29'
 related:
 - 20250613_ia_conversaciones_asincronas.md
 - 20250307_llms_intelectualismo_moral.md

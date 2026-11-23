@@ -2,7 +2,7 @@
 categories:
 - supervivencia
 date: 2024-03-29
-lastmod: '2025-04-06T01:37:51.885441'
+lastmod: '2026-11-23'
 related:
 - 20210710_inmigracion_pensiones.md
 - 20240531_pensiones_jovenes.md

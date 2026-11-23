@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2023-09-22
-lastmod: '2025-04-06T01:38:25.757781'
+lastmod: '2026-01-25'
 related:
 - 20230512_complejidad_regulatoria.md
 - 20230428_regulacion_ai.md

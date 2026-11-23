@@ -2,7 +2,7 @@
 categories:
 - política
 date: 2024-09-27
-lastmod: '2025-04-06T01:37:58.278921'
+lastmod: '2025-12-15'
 related:
 - 20250328_microfundamentos.md
 - 20240416_cortos.md

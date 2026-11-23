@@ -4,7 +4,7 @@ categories:
 - ciencia
 date: 2021-01-23
 description: Sobre cómo el tiempo reconcilia a Sokal y Latour
-lastmod: '2025-04-06T01:37:47.486387'
+lastmod: '2026-03-02'
 related:
 - 20231208_miseria_filosofia.md
 - 20201228_sobre_la_supervivencia.md

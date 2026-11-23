@@ -3,7 +3,7 @@ categories:
 - supervivencia
 date: 2021-04-11
 description: Sobre la educación de la juventud
-lastmod: '2025-04-06T01:38:03.410491'
+lastmod: '2025-11-22'
 related:
 - 20220401_etica_a_prueba_paso_tiempo.md
 - 20250205_cortos.md

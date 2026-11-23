@@ -4,7 +4,7 @@ categories:
 date: 2022-05-06
 description: De la cooperación suele predicarse en positivo; aquí, un recordatorio
   de que esto no siempre tiene que ser así.
-lastmod: '2025-04-06T01:38:59.819717'
+lastmod: '2025-12-14'
 related:
 - 20220121_justo_eficiente.md
 - 20240716_cortos.md

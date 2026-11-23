@@ -2,7 +2,7 @@
 categories:
 - ciencia
 date: 2023-03-17
-lastmod: '2025-04-06T01:37:46.592546'
+lastmod: '2025-04-06'
 related:
 - 20240430_cortos.md
 - 20220408_peligros_moralidad_non_sequitur.md

@@ -4,7 +4,7 @@ categories:
 date: 2025-02-28
 description: Sobre los problemas que causa la falta de precisión en la caracterización
   de las posiciones políticas de la gente.
-lastmod: '2025-04-06T01:37:43.956987'
+lastmod: '2026-01-17'
 related:
 - 20220304_cantonalizacion_partidos.md
 - 20240503_infraestructuras.md

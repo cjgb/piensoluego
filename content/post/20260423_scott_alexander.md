@@ -3,7 +3,7 @@ categories:
 - economía
 date: 2026-04-23
 description: ¿Es Scott Alexander un pensador brillante o solo un narrador excepcional?
-lastmod: '2026-04-17T12:09:07.307972'
+lastmod: '2026-04-17'
 related:
 - 20240607_mercados_predicciones.md
 - 20240223_soluciones_sin_problema.md

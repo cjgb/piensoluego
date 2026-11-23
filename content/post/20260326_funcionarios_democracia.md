@@ -4,7 +4,7 @@ categories:
 date: 2026-03-26
 description: Los funcionarios tienen más poder del que mucha gente imagina y del que
   las teorías naif sobre la democracia les atribuye.
-lastmod: '2026-03-19T17:43:36.804045'
+lastmod: '2026-03-19'
 related:
 - 20241220_maquinaria_gobierno.md
 - 20250314_promesas_electorales.md

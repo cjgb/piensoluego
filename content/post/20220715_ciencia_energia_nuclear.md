@@ -4,7 +4,7 @@ categories:
 - economía
 date: 2022-07-15
 description: Más apuntes sobre la dimensión económica de la energía nuclear
-lastmod: '2025-04-06T01:37:57.842507'
+lastmod: '2026-07-24'
 related:
 - 20250219_cortos.md
 - 20240402_cortos.md

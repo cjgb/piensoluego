@@ -4,7 +4,7 @@ categories:
 date: 2026-01-15
 description: 'Análisis sobre el sesgo en el periodismo ambiental: ¿Se prioriza la
   fauna sobre las necesidades humanas? Reflexión sobre embalses, ética y transparencia'
-lastmod: '2026-01-10T18:01:18.556928'
+lastmod: '2026-10-01'
 related:
 - 20210213_reflexiones_cambio_climatico.md
 - 20210104_bioetica.md

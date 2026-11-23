@@ -4,7 +4,7 @@ categories:
 date: 2026-06-10
 description: Se conoce que existe una dificultad intrínseca de comunicación entre
   individuos con niveles de inteligencia muy distintos.
-lastmod: '2026-06-03T17:20:53.743992'
+lastmod: '2026-06-03'
 related:
 - 20251211_von_neumann.md
 - 20250122_cortos.md

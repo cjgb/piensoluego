@@ -5,7 +5,7 @@ date: 2026-04-09
 description: ¿Son las viviendas protegidas las nuevas «manos muertas»? El paralelismo
   entre las desamortizaciones decimonónicas y la situación de la vivienda de protección
   oficial.
-lastmod: '2026-04-04T03:32:41.274524'
+lastmod: '2026-04-04'
 related:
 - 20250502_venta_derechos.md
 - 20240705_construccion.md

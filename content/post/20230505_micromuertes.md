@@ -2,7 +2,7 @@
 categories:
 - ética
 date: 2023-05-05
-lastmod: '2025-04-06T01:38:41.499665'
+lastmod: '2025-12-16'
 related:
 - 20220701_merito.md
 - 20220708_meritocracia.md

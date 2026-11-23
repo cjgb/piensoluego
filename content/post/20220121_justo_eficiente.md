@@ -3,7 +3,7 @@ categories:
 - ética
 date: 2022-01-30
 description: Una reflexión sobre la correlación entre lo que es justo y lo que es eficiente.
-lastmod: '2025-04-06T01:39:05.950594'
+lastmod: '2026-10-01'
 related:
 - 20240716_cortos.md
 - 20240416_cortos.md

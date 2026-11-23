@@ -3,7 +3,7 @@ categories:
 - filosofía
 date: 2025-04-04
 description: En tanto que valora más lo que se predica de las cosas que lo que ellas son realmente.
-lastmod: '2026-08-20'
+lastmod: '2026-09-24'
 related:
 - 20210123_sokal_latour.md
 - 20201228_sobre_la_supervivencia.md
